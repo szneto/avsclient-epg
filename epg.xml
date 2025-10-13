@@ -513,6 +513,18 @@
   <channel id="TV CIDADE">
     <display-name lang="pt">TV CIDADE</display-name>
   </channel>
+  <channel id="TV ASA BRANCA ALAGOAS">
+    <display-name lang="pt">TV ASA BRANCA ALAGOAS</display-name>
+  </channel>
+  <channel id="BAND Alagoas">
+    <display-name lang="pt">BAND Alagoas</display-name>
+  </channel>
+  <channel id="TV Ponta Verde">
+    <display-name lang="pt">TV Ponta Verde</display-name>
+  </channel>
+  <channel id="TV Pajuçara">
+    <display-name lang="pt">TV Pajuçara</display-name>
+  </channel>
   <programme start="20251012233500 -0300" stop="20251013002000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Irracional - A Ciência Do Crime</title>
     <desc lang="pt">O cientista de renome mundial Alec Mercer utiliza uma abordagem única e inesperada para compreender o comportamento humano, enquanto resolve uma série de casos de alto risco.</desc>
@@ -3448,7 +3460,11 @@
     <title lang="pt">O Rio Que Deságua Na África - Raízes Vivas: Quilombo Sacopã</title>
     <desc lang="pt">Neste episódio, imergimos na fascinante História do Quilombo Sacopã, o primeiro quilombo urbano do Rio de Janeiro a ser reconhecido pelo Governo Federal.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="FUTURA HD">
+  <programme start="20251014213000 -0300" stop="20251014223000 -0300" channel="FUTURA HD">
+    <title lang="pt">Travessias Desiguais - Infância e Juventude</title>
+    <desc lang="pt">Este episódio aborda a crise climática e o racismo no Brasil, ouvindo jovens ativistas, famílias quilombolas e comunidades periféricas, e discute como proteger as crianças das consequências dessas</desc>
+  </programme>
+  <programme start="20251014223000 -0300" stop="20251016000000 -0300" channel="FUTURA HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251012233500 -0300" stop="20251013000400 -0300" channel="OFF HD">
@@ -5921,11 +5937,7 @@
     <title lang="pt">Gaba Pelo Brasil</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251014220000 -0300" channel="Travel &amp; Food and Drinks HD">
-    <title lang="pt">A Vida e o Lugar</title>
-    <desc lang="pt">Uma jornada sensorial pelos lugares onde a vida acontece com mais presença e conexão. Em "A Vida É o Lugar", Fabi Jung nos guia por destinos que vão além da paisagem.</desc>
-  </programme>
-  <programme start="20251014220000 -0300" stop="20251016000000 -0300" channel="Travel &amp; Food and Drinks HD">
+  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="Travel &amp; Food and Drinks HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251012233000 -0300" stop="20251013003000 -0300" channel="BM&amp;C HD">
@@ -9086,7 +9098,11 @@
     <title lang="pt">Cris Pelo Mundo - Cris Pelo Mundo: Viajar é Divertido</title>
     <desc lang="pt">O quarto episódio começa com a família Cris Pelo Mundo explorando as luxuosas novas suítes do Utopia of The Seas.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="TRAVEL BOX">
+  <programme start="20251014213000 -0300" stop="20251014220000 -0300" channel="TRAVEL BOX">
+    <title lang="pt">Vai Com a Dany</title>
+    <desc lang="pt">Na segunda temporada, Dany segue pelo sudeste Brasileiro e visita algumas das mais lindas cidades de SP e Minas Gerais.</desc>
+  </programme>
+  <programme start="20251014220000 -0300" stop="20251016000000 -0300" channel="TRAVEL BOX">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251013000000 -0300" stop="20251013003000 -0300" channel="FISH TV">
@@ -9365,7 +9381,11 @@
     <title lang="pt">Fish News - Novo livro do Rubinho, o interesse das crianças na pesca esportiva</title>
     <desc lang="pt">No Fish News dessa semana você vai conhecer a nova edição do livro de Rubinho, precursor da pesca esportiva brasileira, e como ele pode impactar no dia a dia do pescador.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="FISH TV">
+  <programme start="20251014213000 -0300" stop="20251014220000 -0300" channel="FISH TV">
+    <title lang="pt">Vida na Água - Pesca de Traíras em Três Marias-MG</title>
+    <desc lang="pt">Em mais um episódio de Vida na Água, Cadu parte para uma pescaria especial emTrês Marias-MG, acompanhado do pai, Mazinho, e do guia Helder, especialista na pesca de traíras.</desc>
+  </programme>
+  <programme start="20251014220000 -0300" stop="20251016000000 -0300" channel="FISH TV">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251013000000 -0300" stop="20251013060000 -0300" channel="DOG TV HD">
@@ -10543,11 +10563,7 @@
     <title lang="pt">Destinos Radicais</title>
     <desc lang="pt">Mergulhe de cabeça nos destinos mais emocionantes do mundo esportivo e radical!</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251014220000 -0300" channel="TRIP BRASIL CHANNEL">
-    <title lang="pt">Viaje Por Aí</title>
-    <desc lang="pt">Encontre os melhores roteiros, dicas práticas e experiências autênticas para planejar suas viagens de forma fácil e inspiradora!</desc>
-  </programme>
-  <programme start="20251014220000 -0300" stop="20251016000000 -0300" channel="TRIP BRASIL CHANNEL">
+  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="TRIP BRASIL CHANNEL">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251013000000 -0300" stop="20251013040000 -0300" channel="WOOHOO HD">
@@ -11884,29 +11900,29 @@
     <title lang="pt">VT - NFL: Buffalo Bills x Atlanta Falcons</title>
     <desc lang="pt">Touchdowns, lançaments e tackles impactantes, jogadas acrobáticas que ficam para a história. A elite do futebol americano compete temporada após temporada em busca do Troféu Vince Lombardi.</desc>
   </programme>
-  <programme start="20251014113000 -0300" stop="20251014141000 -0300" channel="ESPN 2">
+  <programme start="20251014113000 -0300" stop="20251014140000 -0300" channel="ESPN 2">
     <title lang="pt">NBA: Cleveland Cavaliers x Boston Celtics - Ao Vivo</title>
     <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
   </programme>
-  <programme start="20251014141000 -0300" stop="20251014154000 -0300" channel="ESPN 2">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+  <programme start="20251014140000 -0300" stop="20251014143000 -0300" channel="ESPN 2">
+    <title lang="pt">ATP Tour: This Week</title>
+    <desc lang="pt">Apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte em alto nível.</desc>
   </programme>
-  <programme start="20251014154000 -0300" stop="20251014174500 -0300" channel="ESPN 2">
-    <title lang="pt">Arábia Saudita x Iraque - Ao Vivo</title>
-    <desc lang="pt">As seleções de futebol asiáticas correm atrás do sonho da classificação para a Copa do Mundo.</desc>
+  <programme start="20251014143000 -0300" stop="20251014170000 -0300" channel="ESPN 2">
+    <title lang="pt">ATP 250: Bruxelas: João Fonseca x Botic Van de Zandschulp - Ao Vivo</title>
+    <desc lang="pt">ATP 250 Series, é uma série de torneios profissionais de tênis disputados internacionalmente que são parte do circuito da Associação de Tênis Profissional (ATP).</desc>
   </programme>
-  <programme start="20251014174500 -0300" stop="20251014180000 -0300" channel="ESPN 2">
-    <title lang="pt">Momento ESPN</title>
-    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
+  <programme start="20251014170000 -0300" stop="20251014173000 -0300" channel="ESPN 2">
+    <title lang="pt">Clássicos ESPN</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251014180000 -0300" stop="20251014183000 -0300" channel="ESPN 2">
+  <programme start="20251014173000 -0300" stop="20251014180000 -0300" channel="ESPN 2">
     <title lang="pt">Spirit of Yachting: Maxi Yacht Rolex Cup</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251014183000 -0300" stop="20251014190000 -0300" channel="ESPN 2">
-    <title lang="pt">Clássicos ESPN</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20251014180000 -0300" stop="20251014190000 -0300" channel="ESPN 2">
+    <title lang="pt">VT - NFL: Cincinnati Bengals x Green Bay Packers</title>
+    <desc lang="pt">Touchdowns, lançaments e tackles impactantes, jogadas acrobáticas que ficam para a história. A elite do futebol americano compete temporada após temporada em busca do Troféu Vince Lombardi.</desc>
   </programme>
   <programme start="20251014190000 -0300" stop="20251014200000 -0300" channel="ESPN 2">
     <title lang="pt">Pelas Quadras - Ao Vivo</title>
@@ -11980,8 +11996,8 @@
     <desc lang="pt">As melhores jogadas e os destaques do dia. Fique por dentro das Eliminatórias Européias para a Euro 2024.</desc>
   </programme>
   <programme start="20251013210000 -0300" stop="20251014000000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB Play-Offs - Ao Vivo</title>
-    <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
+    <title lang="pt">MLB: Los Angeles Dodgers x Milwaukee Brewers - Ao Vivo</title>
+    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
   </programme>
   <programme start="20251014000000 -0300" stop="20251014001500 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano - Ao Vivo</title>
@@ -12047,17 +12063,25 @@
     <title lang="pt">Catar x Emirados Árabes - Ao Vivo</title>
     <desc lang="pt">As seleções de futebol asiáticas correm atrás do sonho da classificação para a Copa do Mundo.</desc>
   </programme>
-  <programme start="20251014160000 -0300" stop="20251014183000 -0300" channel="ESPN 3">
-    <title lang="pt">VT - NFL: Buffalo Bills x Atlanta Falcons</title>
-    <desc lang="pt">Touchdowns, lançaments e tackles impactantes, jogadas acrobáticas que ficam para a história. A elite do futebol americano compete temporada após temporada em busca do Troféu Vince Lombardi.</desc>
+  <programme start="20251014160000 -0300" stop="20251014174500 -0300" channel="ESPN 3">
+    <title lang="pt">Arábia Saudita x Iraque - Ao Vivo</title>
+    <desc lang="pt">As seleções de futebol asiáticas correm atrás do sonho da classificação para a Copa do Mundo.</desc>
+  </programme>
+  <programme start="20251014174500 -0300" stop="20251014180000 -0300" channel="ESPN 3">
+    <title lang="pt">Momento ESPN</title>
+    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
+  </programme>
+  <programme start="20251014180000 -0300" stop="20251014183000 -0300" channel="ESPN 3">
+    <title lang="pt">Premier League Stories</title>
+    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
   </programme>
   <programme start="20251014183000 -0300" stop="20251014193000 -0300" channel="ESPN 3">
     <title lang="pt">Bola da Vez: Tamara Klink</title>
     <desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
   </programme>
   <programme start="20251014193000 -0300" stop="20251014220000 -0300" channel="ESPN 3">
-    <title lang="pt">Nascar Cup Series: Play-offs: GP de Las Vegas</title>
-    <desc lang="pt">A categoria mais importante e famosa do automobilismo americano é pura adrenalina. Circuitos ovais, stock cars e pilotos que não têm medo de pisar fundo.</desc>
+    <title lang="pt">VT - ATP 250: Bruxelas: João Fonseca x Botic Van de Zandschulp</title>
+    <desc lang="pt">ATP 250 Series, é uma série de torneios profissionais de tênis disputados internacionalmente que são parte do circuito da Associação de Tênis Profissional (ATP).</desc>
   </programme>
   <programme start="20251014220000 -0300" stop="20251016000000 -0300" channel="ESPN 3">
     <title lang="pt">Conteúdo não disponível</title>
@@ -12238,7 +12262,7 @@
     <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
   </programme>
   <programme start="20251013180000 -0300" stop="20251013210000 -0300" channel="ESPN 5">
-    <title lang="pt">MLB Play-Offs - Ao Vivo</title>
+    <title lang="pt">MLB: Seattle Mariners x Toronto Blue Jays - Ao Vivo</title>
     <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
   </programme>
   <programme start="20251013210000 -0300" stop="20251013220000 -0300" channel="ESPN 5">
@@ -12258,7 +12282,7 @@
     <desc lang="pt">A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.</desc>
   </programme>
   <programme start="20251014033000 -0300" stop="20251014060000 -0300" channel="ESPN 5">
-    <title lang="pt">MLB Play-Offs</title>
+    <title lang="pt">VT - MLB: Seattle Mariners x Toronto Blue Jays</title>
     <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
   </programme>
   <programme start="20251014060000 -0300" stop="20251014080000 -0300" channel="ESPN 5">
@@ -19954,7 +19978,11 @@
     <title lang="pt">Patrulha Canina - A Grande Corrida dos Filhotes / Os Filhotes Salvam o Bolo</title>
     <desc lang="pt">É dia de corrida e aventura, e os filhotes vão competir entre si por toda a cidade para ver quem é o cachorro mais rápido! // Mr.Porter entra em uma competição de bolo e precisa da ajuda de Ryder e dos filhotes.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="NICK JR">
+  <programme start="20251014213000 -0300" stop="20251014214000 -0300" channel="NICK JR">
+    <title lang="pt">Rubble e sua Turma - A Turma Constrói uma Clínica Veterinária! / A Turma Constrói uma Festa de Sereia!</title>
+    <desc lang="pt">Os filhotes constroem uma clínica veterinária para ajudar a Dra. Diwa em seus atendimentos. // A festa temática de Lily é cancelada quando começa a chover. Hora de uma solução construtiva!</desc>
+  </programme>
+  <programme start="20251014214000 -0300" stop="20251016000000 -0300" channel="NICK JR">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251012235800 -0300" stop="20251013000600 -0300" channel="CARTOONITO">
@@ -30841,11 +30869,7 @@
     <title lang="pt">Bastidores Prime</title>
     <desc lang="pt">Quando as luzes se voltam para o que acontece além das gravações, é hora de Bastidores Prime!</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251014220000 -0300" channel="PRIME BOX BRAZIL">
-    <title lang="pt">Trago a Pessoa Amada - Episódio 2</title>
-    <desc lang="pt">Odete e Maria Luiza são convidadas para um almoço na casa de Alencar, com a mais fina nata da sociedade.</desc>
-  </programme>
-  <programme start="20251014220000 -0300" stop="20251016000000 -0300" channel="PRIME BOX BRAZIL">
+  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="PRIME BOX BRAZIL">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251012230000 -0300" stop="20251013003000 -0300" channel="STUDIO UNIVERSAL HD">
@@ -35409,11 +35433,7 @@
     <title lang="pt">Prosa de Amigos</title>
     <desc lang="pt">Voltado para o público que aprecia o sertanejo, o programa recebe artistas desse estilo musical para uma prosa espontânea e muita música, com o toque especial de uma boa comida típica e muito mais.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251014223000 -0300" channel="TV APARECIDA HD">
-    <title lang="pt">Aparecida Debate - Transplantes No Brasil</title>
-    <desc lang="pt">O programa aborda temas políticos, econômicos, sociais e comportamentais, com a participação de especialistas.</desc>
-  </programme>
-  <programme start="20251014223000 -0300" stop="20251016000000 -0300" channel="TV APARECIDA HD">
+  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="TV APARECIDA HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251012235000 -0300" stop="20251013001500 -0300" channel="LBV">
@@ -37625,11 +37645,7 @@
     <title lang="pt">TD Internacional 24 Horas</title>
     <desc lang="pt">Programa informativo com as notícias mais importantes em nível nacional e internacional.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251014224500 -0300" channel="TVE INTERNATIONAL">
-    <title lang="pt">La Revuelta</title>
-    <desc lang="pt">Um grupo de grandes comediantes acompanha David Broncano, que entrevista pessoas famosas em um teatro no centro de Madri, de modo que, no final, o protagonista é um dos membros da plateia sentado na terceira fileira.</desc>
-  </programme>
-  <programme start="20251014224500 -0300" stop="20251016000000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251013000000 -0300" stop="20251013003000 -0300" channel="DW-TV">
@@ -39374,11 +39390,7 @@
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
   </programme>
-  <programme start="20251014213000 -0300" stop="20251014214500 -0300" channel="FRANCE 24 HD">
-    <title lang="pt">Esrpl Noticias</title>
-    <desc lang="pt">Notícias de última hora e notícias do mundo da France 24 em Negócios, Esportes, Cultura. Notícias em vídeo. Notícias dos EUA, Europa, Ásia-Pacífico, África, Oriente Médio, América.</desc>
-  </programme>
-  <programme start="20251014214500 -0300" stop="20251016000000 -0300" channel="FRANCE 24 HD">
+  <programme start="20251014213000 -0300" stop="20251016000000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251013000000 -0300" stop="20251013030000 -0300" channel="Paramount+ 1">
@@ -44642,5 +44654,1129 @@
   <programme start="20251015223000 -0300" stop="20251016001500 -0300" channel="TV CIDADE">
     <title lang="pt">A Fazenda</title>
     <desc lang="pt">Mais uma edição recheada de momentos memoráveis, com direito a provas, tensão, superação, emoção, eliminações, tarefas com os animais, adrenalina e muita competição!</desc>
+  </programme>
+  <programme start="20251012233500 -0300" stop="20251013002000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Irracional - A Ciência Do Crime</title>
+    <desc lang="pt">O cientista de renome mundial Alec Mercer utiliza uma abordagem única e inesperada para compreender o comportamento humano, enquanto resolve uma série de casos de alto risco.</desc>
+  </programme>
+  <programme start="20251013002000 -0300" stop="20251013024000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Domingo Maior: A Vilã</title>
+    <desc lang="pt">Sook-hee é uma assassina que ao tentar se vingar da morte de seu pai, acaba capturada pelo Serviço Nacional de Inteligência, que a recruta para missões confidenciais.</desc>
+  </programme>
+  <programme start="20251013024000 -0300" stop="20251013032000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251013032000 -0300" stop="20251013040000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251013040000 -0300" stop="20251013060000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
+  <programme start="20251013060000 -0300" stop="20251013083000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia.</desc>
+  </programme>
+  <programme start="20251013083000 -0300" stop="20251013093000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+  </programme>
+  <programme start="20251013093000 -0300" stop="20251013103500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+  </programme>
+  <programme start="20251013103500 -0300" stop="20251013114500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+  </programme>
+  <programme start="20251013114500 -0300" stop="20251013130000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">AB1</title>
+    <desc lang="pt">O ABTV 1º edição é um telejornal que mostra os principais acontecimentos nos 108 municípios da área de cobertura da Tv Asa Branca.</desc>
+  </programme>
+  <programme start="20251013130000 -0300" stop="20251013132500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.</desc>
+  </programme>
+  <programme start="20251013132500 -0300" stop="20251013144500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+  </programme>
+  <programme start="20251013144500 -0300" stop="20251013154000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+  </programme>
+  <programme start="20251013154000 -0300" stop="20251013172000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Sessão da Tarde: Uma Nova Chance</title>
+    <desc lang="pt">Após perder uma promoção no trabalho para um colega com faculdade, Maya sonha com que sua experiência receba o devido valor.</desc>
+  </programme>
+  <programme start="20251013172000 -0300" stop="20251013182500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
+    <desc lang="pt">Alexandre tenta roubar o cofre do escritório onde trabalha para quitar uma dívida e é preso. Na cadeia, decide tirar a própria vida e passa a atormentar todos aqueles que considera responsáveis por seu destino.</desc>
+  </programme>
+  <programme start="20251013182500 -0300" stop="20251013191000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Dita alerta Candinho sobre seu mau pressentimento. Inês e Sandra planejam roubar as joias de Candinho. Araújo expulsa Olga de sua casa. Estela confessa a Túlio que teme não recuperar sua memória.</desc>
+  </programme>
+  <programme start="20251013191000 -0300" stop="20251013194000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">AB2</title>
+    <desc lang="pt">Os principais acontecimentos nos 108 municípios da área de cobertura da Tv Asa Branca, reportagens investigativas, saúde, educação e segurança.</desc>
+  </programme>
+  <programme start="20251013194000 -0300" stop="20251013203000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Lucas despista Ryan, e Bárbara fecha o contrato de patrocínio com Heidegger, que decide investir na lutadora e em Lucas. Ayla sofre ao saber que Filipa e Jaques estão juntos. Jeff pede Stephany em namoro.</desc>
+  </programme>
+  <programme start="20251013203000 -0300" stop="20251013212000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+  </programme>
+  <programme start="20251013212000 -0300" stop="20251013222500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Raquel é uma mulher batalhadora, típica mãe brasileira, que acredita que é possível ganhar a vida com integridade e de forma honesta. Já Maria de Fátima, sua filha, se dispõe a fazer qualquer coisa para alca...</desc>
+  </programme>
+  <programme start="20251013222500 -0300" stop="20251014001000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Tela Quente: Na Mira Do Perigo</title>
+    <desc lang="pt">Jim é um ex-combatente que mora num rancho na fronteira com o México. Quando o cartel mata a mãe de um garoto na sua frente, ele se arrisca para proteger o menino.</desc>
+  </programme>
+  <programme start="20251014001000 -0300" stop="20251014010000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+  </programme>
+  <programme start="20251014010000 -0300" stop="20251014014000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+  </programme>
+  <programme start="20251014014000 -0300" stop="20251014022500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Lucas despista Ryan, e Bárbara fecha o contrato de patrocínio com Heidegger, que decide investir na lutadora e em Lucas. Ayla sofre ao saber que Filipa e Jaques estão juntos. Jeff pede Stephany em namoro.</desc>
+  </programme>
+  <programme start="20251014022500 -0300" stop="20251014031000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251014031000 -0300" stop="20251014040000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251014040000 -0300" stop="20251014060000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
+  <programme start="20251014060000 -0300" stop="20251014072000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia.</desc>
+  </programme>
+  <programme start="20251014072000 -0300" stop="20251014093000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Japão x Brasil - Ao Vivo</title>
+    <desc lang="pt">Japão e Brasil jogam um Amistoso Internacional, no Ajinomoto Stadium, em Chofu, Japão.</desc>
+  </programme>
+  <programme start="20251014093000 -0300" stop="20251014100000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+  </programme>
+  <programme start="20251014100000 -0300" stop="20251014104500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+  </programme>
+  <programme start="20251014104500 -0300" stop="20251014114500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+  </programme>
+  <programme start="20251014114500 -0300" stop="20251014130000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">AB1</title>
+    <desc lang="pt">O ABTV 1º edição é um telejornal que mostra os principais acontecimentos nos 108 municípios da área de cobertura da Tv Asa Branca.</desc>
+  </programme>
+  <programme start="20251014130000 -0300" stop="20251014132500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.</desc>
+  </programme>
+  <programme start="20251014132500 -0300" stop="20251014144500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+  </programme>
+  <programme start="20251014144500 -0300" stop="20251014153500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+  </programme>
+  <programme start="20251014153500 -0300" stop="20251014172500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Sessão da Tarde: O Ódio Que Você Semeia</title>
+    <desc lang="pt">Starr é uma adolescente negra que vê o amigo de infância ser assassinado por policiais brancos. Única testemunha, a garota recebe pressão de todos os lados para se posicionar diante do caso.</desc>
+  </programme>
+  <programme start="20251014172500 -0300" stop="20251014182500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
+    <desc lang="pt">Alexandre tenta roubar o cofre do escritório onde trabalha para quitar uma dívida e é preso. Na cadeia, decide tirar a própria vida e passa a atormentar todos aqueles que considera responsáveis por seu destino.</desc>
+  </programme>
+  <programme start="20251014182500 -0300" stop="20251014191000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Sandra dispara, e Candinho se desespera. Quitéria chama a polícia, mas Sandra e Inês conseguem fugir. Túlio conta a Estela que foi abandonado por Irene. Lauro cuida de Dita. Mirtes se apresenta a Paixão como noiva de Ernesto.</desc>
+  </programme>
+  <programme start="20251014191000 -0300" stop="20251014194000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">AB2</title>
+    <desc lang="pt">Os principais acontecimentos nos 108 municípios da área de cobertura da Tv Asa Branca, reportagens investigativas, saúde, educação e segurança.</desc>
+  </programme>
+  <programme start="20251014194000 -0300" stop="20251014203000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Samuel decide não vender as peças de Mianmar pela Boaz. Leo apoia Samuel e Sofia, que sentem falta de Abel. Rosa sugere uma ideia para Samuel se livrar da dívida da fábrica sem vender as novas peças.</desc>
+  </programme>
+  <programme start="20251014203000 -0300" stop="20251014212000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+  </programme>
+  <programme start="20251014212000 -0300" stop="20251014222500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Raquel é uma mulher batalhadora, típica mãe brasileira, que acredita que é possível ganhar a vida com integridade e de forma honesta. Já Maria de Fátima, sua filha, se dispõe a fazer qualquer coisa para alca...</desc>
+  </programme>
+  <programme start="20251014222500 -0300" stop="20251014230000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Vida de Rodeio</title>
+    <desc lang="pt">Das arenas do Brasil para os olhos do mundo, série documental acompanha a jornada dos peões de rodeio que sonham em vencer.</desc>
+  </programme>
+  <programme start="20251014230000 -0300" stop="20251014233500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Aberto Ao Público</title>
+    <desc lang="pt">Programa inédito gravado em um teatro de São Paulo em que a plateia aparece como protagonista, participando ativamente de esquetes e desafios.</desc>
+  </programme>
+  <programme start="20251014233500 -0300" stop="20251015001500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.</desc>
+  </programme>
+  <programme start="20251015001500 -0300" stop="20251015010500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+  </programme>
+  <programme start="20251015010500 -0300" stop="20251015014500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+  </programme>
+  <programme start="20251015014500 -0300" stop="20251015023000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Samuel decide não vender as peças de Mianmar pela Boaz. Leo apoia Samuel e Sofia, que sentem falta de Abel. Rosa sugere uma ideia para Samuel se livrar da dívida da fábrica sem vender as novas peças.</desc>
+  </programme>
+  <programme start="20251015023000 -0300" stop="20251015031500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251015031500 -0300" stop="20251015040000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251015040000 -0300" stop="20251015060000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
+  <programme start="20251015060000 -0300" stop="20251015083000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia.</desc>
+  </programme>
+  <programme start="20251015083000 -0300" stop="20251015093000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+  </programme>
+  <programme start="20251015093000 -0300" stop="20251015103500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+  </programme>
+  <programme start="20251015103500 -0300" stop="20251015114500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+  </programme>
+  <programme start="20251015114500 -0300" stop="20251015130000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">AB1</title>
+    <desc lang="pt">O ABTV 1º edição é um telejornal que mostra os principais acontecimentos nos 108 municípios da área de cobertura da Tv Asa Branca.</desc>
+  </programme>
+  <programme start="20251015130000 -0300" stop="20251015132500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.</desc>
+  </programme>
+  <programme start="20251015132500 -0300" stop="20251015144500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+  </programme>
+  <programme start="20251015144500 -0300" stop="20251015153500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+  </programme>
+  <programme start="20251015153500 -0300" stop="20251015170500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Sessão da Tarde: Professor Peso Pesado</title>
+    <desc lang="pt">Scott é um professor que tenta impedir que sua escola, para conter gastos, deixe de oferecer aulas extracurriculares. Ele decide se tornar um lutador de artes marciais mistas para arrecadar fundos.</desc>
+  </programme>
+  <programme start="20251015170500 -0300" stop="20251015180500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
+    <desc lang="pt">Alexandre tenta roubar o cofre do escritório onde trabalha para quitar uma dívida e é preso. Na cadeia, decide tirar a própria vida e passa a atormentar todos aqueles que considera responsáveis por seu destino.</desc>
+  </programme>
+  <programme start="20251015180500 -0300" stop="20251015184500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">A polícia anuncia a Celso que Sandra está morta. Estela tem uma vaga lembrança de sua identidade, e agradece a Túlio. Francine ensina Maria Divina a dançar. Inês diz a Ernesto que Sandra morreu.</desc>
+  </programme>
+  <programme start="20251015184500 -0300" stop="20251015191500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">AB2</title>
+    <desc lang="pt">Os principais acontecimentos nos 108 municípios da área de cobertura da Tv Asa Branca, reportagens investigativas, saúde, educação e segurança.</desc>
+  </programme>
+  <programme start="20251015191500 -0300" stop="20251015200000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Leo e Samuel discutem pela guarda de Sofia. Ryan acompanha Kami ao podcast de Jonathan e Silvana, e a moça pede que Ryan respeite o seu tempo.</desc>
+  </programme>
+  <programme start="20251015200000 -0300" stop="20251015204000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+  </programme>
+  <programme start="20251015204000 -0300" stop="20251015212000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Raquel é uma mulher batalhadora, típica mãe brasileira, que acredita que é possível ganhar a vida com integridade e de forma honesta. Já Maria de Fátima, sua filha, se dispõe a fazer qualquer coisa para alca...</desc>
+  </programme>
+  <programme start="20251015212000 -0300" stop="20251015233000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Futebol 2025</title>
+    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
+  </programme>
+  <programme start="20251015233000 -0300" stop="20251015234500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais.</desc>
+  </programme>
+  <programme start="20251015234500 -0300" stop="20251016003000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Que História é Essa Porchat?</title>
+    <desc lang="pt">Programa apresentado por Fábio Porchat, sucesso no GNT, reúne anônimos e famosos com o objetivo de revelar suas histórias mais inusitadas.</desc>
+  </programme>
+  <programme start="20251013000000 -0300" stop="20251013003000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Estilo Arte 1</title>
+    <desc lang="pt">Estilo Arte 1 apresenta as principais tendências em arquitetura, design, moda e alta gastronomia no Brasil e no mundo.</desc>
+  </programme>
+  <programme start="20251013003000 -0300" stop="20251013010000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Economia Pra Você</title>
+    <desc lang="pt">O programa visa explicar de forma simples assuntos econômicos que afetam o país e o bolso do brasileiro.</desc>
+  </programme>
+  <programme start="20251013010000 -0300" stop="20251013013000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Entrevista - Reprise</title>
+    <desc lang="pt">Band Entrevista, voltado para o telespectador que busca reflexões sobre os mais diversos assuntos. Em um processo contínuo de interação, entrevistador e entrevistado promovem um diálogo repleto de boas ideias.</desc>
+  </programme>
+  <programme start="20251013013000 -0300" stop="20251013020000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Linha de Combate - Reapresentação</title>
+    <desc lang="pt">O programa que acompanha a rotina dos homens e mulheres que dedicam suas vidas para defender a população.</desc>
+  </programme>
+  <programme start="20251013020000 -0300" stop="20251013040000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251013040000 -0300" stop="20251013054500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251013054500 -0300" stop="20251013060000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Oração do Dia com Profeta Vinícius Iracet</title>
+    <desc lang="pt">O Profeta Vinícius busca impactar pessoas através de conteúdos que trazem ensinamento do ouvir a voz de Deus e a orar.</desc>
+  </programme>
+  <programme start="20251013060000 -0300" stop="20251013064500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Cristo para as Nações</title>
+    <desc lang="pt">Informação aos fiéis.</desc>
+  </programme>
+  <programme start="20251013064500 -0300" stop="20251013070000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal Bandnews - Giro de Notícias</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251013070000 -0300" stop="20251013080000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Carolina diz a Becas que vai sair de casa e Becas a convida para ficar na sua e conta que fez as pazes com Cláudia. Jesus entra e diz a Camilla que Artur vai com Aisha para o Líbano.</desc>
+  </programme>
+  <programme start="20251013080000 -0300" stop="20251013081500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.</desc>
+  </programme>
+  <programme start="20251013081500 -0300" stop="20251013083000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Entrevista Coletiva</title>
+    <desc lang="pt">O programa conta com a participação de jornalistas convidados de diversos veículos de comunicação da capital. O Entrevista Coletiva é uma ótima opção para quem quer saber o que pensam as pessoas que dec...</desc>
+  </programme>
+  <programme start="20251013083000 -0300" stop="20251013110000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+  </programme>
+  <programme start="20251013110000 -0300" stop="20251013120000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251013120000 -0300" stop="20251013123000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jogo Aberto - Local</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251013123000 -0300" stop="20251013133000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Boa Tarde RN</title>
+    <desc lang="pt">As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
+  </programme>
+  <programme start="20251013133000 -0300" stop="20251013135000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Nordeste Acontece</title>
+    <desc lang="pt">Programa jornalístico com foco na política, economia e desenvolvimento do Nordeste.</desc>
+  </programme>
+  <programme start="20251013135000 -0300" stop="20251013143000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Mulher</title>
+    <desc lang="pt">O programa traz tudo sobre os principais assuntos do universo feminino, como saúde, família, carreira profissional, moda, beleza e bem-estar.</desc>
+  </programme>
+  <programme start="20251013143000 -0300" stop="20251013160000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Melhor Da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+  </programme>
+  <programme start="20251013160000 -0300" stop="20251013173000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251013173000 -0300" stop="20251013184500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Brasil Urgente RN</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251013184500 -0300" stop="20251013185000 -0300" channel="BAND Alagoas">
+    <title lang="pt">#INFORMEI</title>
+    <desc lang="pt">Boletins diários sobre política, comportamento, esporte, cultura e as principais notícias nacionais e internacionais.</desc>
+  </programme>
+  <programme start="20251013185000 -0300" stop="20251013192000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">O programa mostra as mais variadas informações sobre saúde, política, educação, denúncias e acontecimentos, que fazem parte do dia-a-dia da região.</desc>
+  </programme>
+  <programme start="20251013192000 -0300" stop="20251013203000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+  </programme>
+  <programme start="20251013203000 -0300" stop="20251013212500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Cruel Istambul</title>
+    <desc lang="pt">Seher implora que Ceren não faça nada com Nedim. Civan confronta Seher sobre as atitudes da irmã. Cemre discute com Agah e tenta alertá-lo sobre Ceren, mas ela o manipula com sucesso.</desc>
+  </programme>
+  <programme start="20251013212500 -0300" stop="20251013222000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.</desc>
+  </programme>
+  <programme start="20251013222000 -0300" stop="20251014000000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Galvão e Amigos</title>
+    <desc lang="pt">O programa traz um debate de alto nível sobre os principais acontecimentos esportivos, proporcionando uma análise envolvente e detalhada para o público.</desc>
+  </programme>
+  <programme start="20251014000000 -0300" stop="20251014005500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20251014005500 -0300" stop="20251014015000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251014015000 -0300" stop="20251014020000 -0300" channel="BAND Alagoas">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.</desc>
+  </programme>
+  <programme start="20251014020000 -0300" stop="20251014040000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251014040000 -0300" stop="20251014054500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251014054500 -0300" stop="20251014060000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Oração do Dia com Profeta Vinícius Iracet</title>
+    <desc lang="pt">O Profeta Vinícius busca impactar pessoas através de conteúdos que trazem ensinamento do ouvir a voz de Deus e a orar.</desc>
+  </programme>
+  <programme start="20251014060000 -0300" stop="20251014064500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Cristo para as Nações</title>
+    <desc lang="pt">Informação aos fiéis.</desc>
+  </programme>
+  <programme start="20251014064500 -0300" stop="20251014070000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal Bandnews - Giro de Notícias</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251014070000 -0300" stop="20251014080000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Rita chega a casa e pergunta por Diana. Maria do Céu diz que Sara não quer diana com Rita, pois está convencida que foi ela que levou a bebé.</desc>
+  </programme>
+  <programme start="20251014080000 -0300" stop="20251014081500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.</desc>
+  </programme>
+  <programme start="20251014081500 -0300" stop="20251014083000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Entrevista Coletiva</title>
+    <desc lang="pt">O programa conta com a participação de jornalistas convidados de diversos veículos de comunicação da capital. O Entrevista Coletiva é uma ótima opção para quem quer saber o que pensam as pessoas que dec...</desc>
+  </programme>
+  <programme start="20251014083000 -0300" stop="20251014110000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+  </programme>
+  <programme start="20251014110000 -0300" stop="20251014120000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251014120000 -0300" stop="20251014123000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jogo Aberto - Local</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251014123000 -0300" stop="20251014133000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Boa Tarde RN</title>
+    <desc lang="pt">As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
+  </programme>
+  <programme start="20251014133000 -0300" stop="20251014135000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Nordeste Acontece</title>
+    <desc lang="pt">Programa jornalístico com foco na política, economia e desenvolvimento do Nordeste.</desc>
+  </programme>
+  <programme start="20251014135000 -0300" stop="20251014143000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Mulher</title>
+    <desc lang="pt">O programa traz tudo sobre os principais assuntos do universo feminino, como saúde, família, carreira profissional, moda, beleza e bem-estar.</desc>
+  </programme>
+  <programme start="20251014143000 -0300" stop="20251014160000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Melhor Da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+  </programme>
+  <programme start="20251014160000 -0300" stop="20251014173000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251014173000 -0300" stop="20251014184500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Brasil Urgente RN</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251014184500 -0300" stop="20251014185000 -0300" channel="BAND Alagoas">
+    <title lang="pt">#INFORMEI</title>
+    <desc lang="pt">Boletins diários sobre política, comportamento, esporte, cultura e as principais notícias nacionais e internacionais.</desc>
+  </programme>
+  <programme start="20251014185000 -0300" stop="20251014192000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">O programa mostra as mais variadas informações sobre saúde, política, educação, denúncias e acontecimentos, que fazem parte do dia-a-dia da região.</desc>
+  </programme>
+  <programme start="20251014192000 -0300" stop="20251014203000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+  </programme>
+  <programme start="20251014203000 -0300" stop="20251014212500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Cruel Istambul</title>
+    <desc lang="pt">Ceren humilha a mãe ao obrigá-la a chamá-la de "senhora Ceren". Cemre confronta a irmã e espalha suas roupas pelo chão em meio à briga. Cenk tenta conversar com Ceren, mas é ameaçado por ela.</desc>
+  </programme>
+  <programme start="20251014212500 -0300" stop="20251014222000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.</desc>
+  </programme>
+  <programme start="20251014222000 -0300" stop="20251015002000 -0300" channel="BAND Alagoas">
+    <title lang="pt">MasterChef Confeitaria</title>
+    <desc lang="pt">No MasterChef Confeitaria, 12 participantes criam sobremesas que refletem suas raízes e, na eliminação, encaram o desafio de uma torre de pavlova.</desc>
+  </programme>
+  <programme start="20251015002000 -0300" stop="20251015011000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20251015011000 -0300" stop="20251015020000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251015020000 -0300" stop="20251015040000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251015040000 -0300" stop="20251015054500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251015054500 -0300" stop="20251015060000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Oração do Dia com Profeta Vinícius Iracet</title>
+    <desc lang="pt">O Profeta Vinícius busca impactar pessoas através de conteúdos que trazem ensinamento do ouvir a voz de Deus e a orar.</desc>
+  </programme>
+  <programme start="20251015060000 -0300" stop="20251015064500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja Cristo para as Nações</title>
+    <desc lang="pt">Informação aos fiéis.</desc>
+  </programme>
+  <programme start="20251015064500 -0300" stop="20251015070000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal Bandnews - Giro de Notícias</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251015070000 -0300" stop="20251015080000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Dalva chega em casa com o irmão e lhe diz que os dias de tráfico acabaram e têm de sair dali. Cláudia aconselha Marta e Alexandre a repetirem o teste e Alexandre quer encontrar com o pai, onde ele estiver.</desc>
+  </programme>
+  <programme start="20251015080000 -0300" stop="20251015081500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.</desc>
+  </programme>
+  <programme start="20251015081500 -0300" stop="20251015083000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Entrevista Coletiva</title>
+    <desc lang="pt">O programa conta com a participação de jornalistas convidados de diversos veículos de comunicação da capital. O Entrevista Coletiva é uma ótima opção para quem quer saber o que pensam as pessoas que dec...</desc>
+  </programme>
+  <programme start="20251015083000 -0300" stop="20251015110000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+  </programme>
+  <programme start="20251015110000 -0300" stop="20251015120000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251015120000 -0300" stop="20251015123000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jogo Aberto - Local</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251015123000 -0300" stop="20251015133000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Boa Tarde RN</title>
+    <desc lang="pt">As principais notícias do estado e capital de uma forma dinâmica e interativa.</desc>
+  </programme>
+  <programme start="20251015133000 -0300" stop="20251015135000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Nordeste Acontece</title>
+    <desc lang="pt">Programa jornalístico com foco na política, economia e desenvolvimento do Nordeste.</desc>
+  </programme>
+  <programme start="20251015135000 -0300" stop="20251015143000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Mulher</title>
+    <desc lang="pt">O programa traz tudo sobre os principais assuntos do universo feminino, como saúde, família, carreira profissional, moda, beleza e bem-estar.</desc>
+  </programme>
+  <programme start="20251015143000 -0300" stop="20251015160000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Melhor Da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+  </programme>
+  <programme start="20251015160000 -0300" stop="20251015173000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251015173000 -0300" stop="20251015184500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Brasil Urgente RN</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251015184500 -0300" stop="20251015185000 -0300" channel="BAND Alagoas">
+    <title lang="pt">#INFORMEI</title>
+    <desc lang="pt">Boletins diários sobre política, comportamento, esporte, cultura e as principais notícias nacionais e internacionais.</desc>
+  </programme>
+  <programme start="20251015185000 -0300" stop="20251015192000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">O programa mostra as mais variadas informações sobre saúde, política, educação, denúncias e acontecimentos, que fazem parte do dia-a-dia da região.</desc>
+  </programme>
+  <programme start="20251015192000 -0300" stop="20251015203000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+  </programme>
+  <programme start="20251015203000 -0300" stop="20251015212500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Cruel Istambul</title>
+    <desc lang="pt">Cemre tenta ajudar Ceren, mas ela reage com um escândalo. Cenk, pressionado por Seniz, não consegue assumir o bebê. Ceren enfrenta Seher e cobra um comportamento diferente dela como mãe.</desc>
+  </programme>
+  <programme start="20251015212500 -0300" stop="20251015222000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.</desc>
+  </programme>
+  <programme start="20251015222000 -0300" stop="20251015224500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Perrengue do Dia</title>
+    <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.</desc>
+  </programme>
+  <programme start="20251015224500 -0300" stop="20251016001500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Melhor da Noite</title>
+    <desc lang="pt">Programa de entretenimento que uni informação e diversão em um só lugar.</desc>
+  </programme>
+  <programme start="20251013000000 -0300" stop="20251013010000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">The Chosen - Os Escolhidos</title>
+    <desc lang="pt">Dois irmãos sofrem pelos impostos que devem a Roma enquanto uma mulher luta contra seus demônios.</desc>
+  </programme>
+  <programme start="20251013010000 -0300" stop="20251013044500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+  </programme>
+  <programme start="20251013044500 -0300" stop="20251013073000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251013073000 -0300" stop="20251013083000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251013083000 -0300" stop="20251013093000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
+  </programme>
+  <programme start="20251013093000 -0300" stop="20251013110000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251013110000 -0300" stop="20251013132500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Plantão Alagoas</title>
+    <desc lang="pt">O Plantão Alagoas mostra os acontecimentos da segurança pública em Alagoas. a ação da polícia, a luta contra a insegurança e os crimes que acontecem diariamente na capital e no interior do estado.</desc>
+  </programme>
+  <programme start="20251013132500 -0300" stop="20251013140000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Iapois</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251013140000 -0300" stop="20251013144500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt">Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+  </programme>
+  <programme start="20251013144500 -0300" stop="20251013153000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+  </programme>
+  <programme start="20251013153000 -0300" stop="20251013164500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+  </programme>
+  <programme start="20251013164500 -0300" stop="20251013173000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+  </programme>
+  <programme start="20251013173000 -0300" stop="20251013183000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Aqui Agora</title>
+    <desc lang="pt">Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
+  </programme>
+  <programme start="20251013183000 -0300" stop="20251013194500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+  </programme>
+  <programme start="20251013194500 -0300" stop="20251013210000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+  </programme>
+  <programme start="20251013210000 -0300" stop="20251013221500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt">Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+  </programme>
+  <programme start="20251013221500 -0300" stop="20251013231500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+  </programme>
+  <programme start="20251013231500 -0300" stop="20251014001500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">No Alvo</title>
+    <desc lang="pt">Os entrevistados têm a chance de se confrontar com as narrativas, verdadeiras ou não, que tratam sobre eles no mundo digital, extraídas de uma forma isenta e sem julgamentos.</desc>
+  </programme>
+  <programme start="20251014001500 -0300" stop="20251014011500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+  </programme>
+  <programme start="20251014011500 -0300" stop="20251014014500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
+  </programme>
+  <programme start="20251014014500 -0300" stop="20251014023000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
+  </programme>
+  <programme start="20251014023000 -0300" stop="20251014044500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+  </programme>
+  <programme start="20251014044500 -0300" stop="20251014073000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251014073000 -0300" stop="20251014083000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251014083000 -0300" stop="20251014093000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
+  </programme>
+  <programme start="20251014093000 -0300" stop="20251014110000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251014110000 -0300" stop="20251014132500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Plantão Alagoas</title>
+    <desc lang="pt">O Plantão Alagoas mostra os acontecimentos da segurança pública em Alagoas. a ação da polícia, a luta contra a insegurança e os crimes que acontecem diariamente na capital e no interior do estado.</desc>
+  </programme>
+  <programme start="20251014132500 -0300" stop="20251014140000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Iapois</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251014140000 -0300" stop="20251014144500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt">Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+  </programme>
+  <programme start="20251014144500 -0300" stop="20251014154500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+  </programme>
+  <programme start="20251014154500 -0300" stop="20251014180000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+  </programme>
+  <programme start="20251014180000 -0300" stop="20251014183000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Aqui Agora</title>
+    <desc lang="pt">Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
+  </programme>
+  <programme start="20251014183000 -0300" stop="20251014194500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+  </programme>
+  <programme start="20251014194500 -0300" stop="20251014210000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+  </programme>
+  <programme start="20251014210000 -0300" stop="20251014221500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt">Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+  </programme>
+  <programme start="20251014221500 -0300" stop="20251014231500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+  </programme>
+  <programme start="20251014231500 -0300" stop="20251015001500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Repórter</title>
+    <desc lang="pt">O "SBT Repórter" é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
+  </programme>
+  <programme start="20251015001500 -0300" stop="20251015011500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+  </programme>
+  <programme start="20251015011500 -0300" stop="20251015014500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
+  </programme>
+  <programme start="20251015014500 -0300" stop="20251015023000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
+  </programme>
+  <programme start="20251015023000 -0300" stop="20251015044500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+  </programme>
+  <programme start="20251015044500 -0300" stop="20251015073000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251015073000 -0300" stop="20251015083000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251015083000 -0300" stop="20251015093000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
+  </programme>
+  <programme start="20251015093000 -0300" stop="20251015110000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251015110000 -0300" stop="20251015132500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Plantão Alagoas</title>
+    <desc lang="pt">O Plantão Alagoas mostra os acontecimentos da segurança pública em Alagoas. a ação da polícia, a luta contra a insegurança e os crimes que acontecem diariamente na capital e no interior do estado.</desc>
+  </programme>
+  <programme start="20251015132500 -0300" stop="20251015140000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Iapois</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251015140000 -0300" stop="20251015144500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Maria do Bairro</title>
+    <desc lang="pt">Maria é uma jovem humilde, que vive com a madrinha Cacilda em um bairro pobre da cidade e trabalha como catadora de lixo para ajudar nas despesas em casa.</desc>
+  </programme>
+  <programme start="20251015144500 -0300" stop="20251015153000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+  </programme>
+  <programme start="20251015153000 -0300" stop="20251015164500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+  </programme>
+  <programme start="20251015164500 -0300" stop="20251015173000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+  </programme>
+  <programme start="20251015173000 -0300" stop="20251015183000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Aqui Agora</title>
+    <desc lang="pt">Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
+  </programme>
+  <programme start="20251015183000 -0300" stop="20251015194500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+  </programme>
+  <programme start="20251015194500 -0300" stop="20251015210000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+  </programme>
+  <programme start="20251015210000 -0300" stop="20251015223000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">As Filhas da Senhora Garcia</title>
+    <desc lang="pt">Ofelia García é uma mulher que sonha com luxo e riqueza, e para realizar seus sonhos ela usa sua filha mais nova Mar. Ela a leva para testes para que ela possa se tornar famosa e, embora Mar seja uma mulher bonita.</desc>
+  </programme>
+  <programme start="20251015223000 -0300" stop="20251015233000 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+  </programme>
+  <programme start="20251015233000 -0300" stop="20251016004500 -0300" channel="TV Ponta Verde">
+    <title lang="pt">Arena SBT</title>
+    <desc lang="pt">Apresentado por Benjamin Back, o programa será palco de debates sobre a paixão do brasileiro, o futebol. Para endossar as discussões e troca de ideias, o programa conta com um time de peso.</desc>
+  </programme>
+  <programme start="20251012230000 -0300" stop="20251013001500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Esporte Record</title>
+    <desc lang="pt">Paixão e Emoção não importa a Modadlidade, a cada jogada o Esporte proporciona uma vibração inigualável. O Esporte Record  nasce com o propósito de ser um elo entre os atletas profissionais e os de final de ...</desc>
+  </programme>
+  <programme start="20251013001500 -0300" stop="20251013010000 -0300" channel="TV Pajuçara">
+    <title lang="pt">O Residente</title>
+    <desc lang="pt">Um grupo de médicos do Hospital Chastain Memorial enfrentam desafios personais e profissionais os dias todos.</desc>
+  </programme>
+  <programme start="20251013010000 -0300" stop="20251013063000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251013063000 -0300" stop="20251013070000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251013070000 -0300" stop="20251013070500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251013070500 -0300" stop="20251013083500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Balanço Geral Alagoas</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251013083500 -0300" stop="20251013084000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251013084000 -0300" stop="20251013100000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251013100000 -0300" stop="20251013115000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+  </programme>
+  <programme start="20251013115000 -0300" stop="20251013140000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Fique Alerta</title>
+    <desc lang="pt">Fique Alerta tornou-se referência na prestação de serviços, entretenimento e informação. Campeão de audiência, interatividade e promoções, é um programa de informação e diversão...</desc>
+  </programme>
+  <programme start="20251013140000 -0300" stop="20251013150500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Hora do Ventura</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251013150500 -0300" stop="20251013153000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251013153000 -0300" stop="20251013163000 -0300" channel="TV Pajuçara">
+    <title lang="pt">O Rico e Lázaro</title>
+    <desc lang="pt">O Rico e Lázaro é uma novela inspirada em uma parábola bíblica, contada por Jesus aos seus discípulos.</desc>
+  </programme>
+  <programme start="20251013163000 -0300" stop="20251013171000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251013171000 -0300" stop="20251013171500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251013171500 -0300" stop="20251013174000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251013174000 -0300" stop="20251013174500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251013174500 -0300" stop="20251013180000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251013180000 -0300" stop="20251013195500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251013195500 -0300" stop="20251013210000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
+  <programme start="20251013210000 -0300" stop="20251013214500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Força de Mulher</title>
+    <desc lang="pt">Bahar trabalha incansavelmente para dar uma vida melhor para os seus filhos, Nisan e Doruk, apesar de todas as dificuldades que enfrenta sendo uma jovem viúva.</desc>
+  </programme>
+  <programme start="20251013214500 -0300" stop="20251013223000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Gênesis</title>
+    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.</desc>
+  </programme>
+  <programme start="20251013223000 -0300" stop="20251014000000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Reis - A Ingratidão</title>
+    <desc lang="pt">Reis - A Ingratidão narra o início do período monárquico em Israel, com a ascensão de Saul como o primeiro rei da nação, e Samuel, o último juiz.</desc>
+  </programme>
+  <programme start="20251014000000 -0300" stop="20251014004000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Iris: Organização Secreta Coreana</title>
+    <desc lang="pt">Dois amigos são recrutados como agentes do Serviço de Segurança Nacional e se apaixonam pela mesma mulher.</desc>
+  </programme>
+  <programme start="20251014004000 -0300" stop="20251014004500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251014004500 -0300" stop="20251014020000 -0300" channel="TV Pajuçara">
+    <title lang="pt">IURD - Entrelinhas</title>
+    <desc lang="pt">Programa Entrelinhas com Bispo Renato Cardoso.</desc>
+  </programme>
+  <programme start="20251014020000 -0300" stop="20251014023000 -0300" channel="TV Pajuçara">
+    <title lang="pt">IURD - Dicas de Amor</title>
+    <desc lang="pt">Acompanhe a programação da Universal.</desc>
+  </programme>
+  <programme start="20251014023000 -0300" stop="20251014033000 -0300" channel="TV Pajuçara">
+    <title lang="pt">IURD - Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+  </programme>
+  <programme start="20251014033000 -0300" stop="20251014063000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251014063000 -0300" stop="20251014070000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251014070000 -0300" stop="20251014070500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251014070500 -0300" stop="20251014083500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Balanço Geral Alagoas</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251014083500 -0300" stop="20251014084000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251014084000 -0300" stop="20251014100000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251014100000 -0300" stop="20251014115000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+  </programme>
+  <programme start="20251014115000 -0300" stop="20251014140000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Fique Alerta</title>
+    <desc lang="pt">Fique Alerta tornou-se referência na prestação de serviços, entretenimento e informação. Campeão de audiência, interatividade e promoções, é um programa de informação e diversão...</desc>
+  </programme>
+  <programme start="20251014140000 -0300" stop="20251014150500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Hora do Ventura</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251014150500 -0300" stop="20251014153000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251014153000 -0300" stop="20251014163000 -0300" channel="TV Pajuçara">
+    <title lang="pt">O Rico e Lázaro</title>
+    <desc lang="pt">O Rico e Lázaro é uma novela inspirada em uma parábola bíblica, contada por Jesus aos seus discípulos.</desc>
+  </programme>
+  <programme start="20251014163000 -0300" stop="20251014171000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251014171000 -0300" stop="20251014171500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251014171500 -0300" stop="20251014174000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251014174000 -0300" stop="20251014174500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251014174500 -0300" stop="20251014180000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251014180000 -0300" stop="20251014195500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251014195500 -0300" stop="20251014210000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
+  <programme start="20251014210000 -0300" stop="20251014214500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Força de Mulher</title>
+    <desc lang="pt">Bahar trabalha incansavelmente para dar uma vida melhor para os seus filhos, Nisan e Doruk, apesar de todas as dificuldades que enfrenta sendo uma jovem viúva.</desc>
+  </programme>
+  <programme start="20251014214500 -0300" stop="20251014223000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Gênesis</title>
+    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.</desc>
+  </programme>
+  <programme start="20251014223000 -0300" stop="20251015000000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Reis - A Ingratidão</title>
+    <desc lang="pt">Reis - A Ingratidão narra o início do período monárquico em Israel, com a ascensão de Saul como o primeiro rei da nação, e Samuel, o último juiz.</desc>
+  </programme>
+  <programme start="20251015000000 -0300" stop="20251015004000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Iris: Organização Secreta Coreana</title>
+    <desc lang="pt">Dois amigos são recrutados como agentes do Serviço de Segurança Nacional e se apaixonam pela mesma mulher.</desc>
+  </programme>
+  <programme start="20251015004000 -0300" stop="20251015004500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251015004500 -0300" stop="20251015020000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).</desc>
+  </programme>
+  <programme start="20251015020000 -0300" stop="20251015023000 -0300" channel="TV Pajuçara">
+    <title lang="pt">IURD - Dicas de Amor</title>
+    <desc lang="pt">Acompanhe a programação da Universal.</desc>
+  </programme>
+  <programme start="20251015023000 -0300" stop="20251015033000 -0300" channel="TV Pajuçara">
+    <title lang="pt">IURD - Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+  </programme>
+  <programme start="20251015033000 -0300" stop="20251015063000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251015063000 -0300" stop="20251015070000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251015070000 -0300" stop="20251015070500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251015070500 -0300" stop="20251015083500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Balanço Geral Alagoas</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251015083500 -0300" stop="20251015084000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251015084000 -0300" stop="20251015100000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251015100000 -0300" stop="20251015115000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+  </programme>
+  <programme start="20251015115000 -0300" stop="20251015140000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251015140000 -0300" stop="20251015150500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Hora do Ventura</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251015150500 -0300" stop="20251015153000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251015153000 -0300" stop="20251015163000 -0300" channel="TV Pajuçara">
+    <title lang="pt">O Rico e Lázaro</title>
+    <desc lang="pt">O Rico e Lázaro é uma novela inspirada em uma parábola bíblica, contada por Jesus aos seus discípulos.</desc>
+  </programme>
+  <programme start="20251015163000 -0300" stop="20251015171000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251015171000 -0300" stop="20251015171500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251015171500 -0300" stop="20251015174000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251015174000 -0300" stop="20251015174500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251015174500 -0300" stop="20251015180000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251015180000 -0300" stop="20251015194500 -0300" channel="TV Pajuçara">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251015194500 -0300" stop="20251015204000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
+  <programme start="20251015204000 -0300" stop="20251015213000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Força de Mulher</title>
+    <desc lang="pt">Bahar trabalha incansavelmente para dar uma vida melhor para os seus filhos, Nisan e Doruk, apesar de todas as dificuldades que enfrenta sendo uma jovem viúva.</desc>
+  </programme>
+  <programme start="20251015213000 -0300" stop="20251015233000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Campeonato Paulista 2025</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251015233000 -0300" stop="20251016004000 -0300" channel="TV Pajuçara">
+    <title lang="pt">Iris: Organização Secreta Coreana</title>
+    <desc lang="pt">Dois amigos são recrutados como agentes do Serviço de Segurança Nacional e se apaixonam pela mesma mulher.</desc>
   </programme>
 </tv>
