@@ -7,9 +7,11 @@ atualmente temos todo o lineup de canais abertos de São Paulo Capital, todos os
 - Recife-PE (Globo, SBT, Band e Record)
 - Caruaru-PE (Globo)
 - Fortaleza-CE (Globo, SBT e Record)
+- Maceió-AL (Globo, SBT, Record e Band)
 - João Pessoa-PB (Globo)
 - Campina Grande-PB (Globo)
 - Ribeirão Preto-SP (Globo e Band)
+- Porto Alegre-RS (Globo, SBT, Record, Band e TV Pampa)
 
 como nem todos os canais abertos regionais estão disponíveis no clarotv+ app, alguns não estão no nosso xml
 
