@@ -9167,7 +9167,11 @@
     <title lang="pt">Fish News - Novo livro do Rubinho, o interesse das crianças na pesca esportiva</title>
     <desc lang="pt">No Fish News dessa semana você vai conhecer a nova edição do livro de Rubinho, precursor da pesca esportiva brasileira, e como ele pode impactar no dia a dia do pescador.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="FISH TV">
+  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="FISH TV">
+    <title lang="pt">Vida na Água - Pesca de Traíras em Três Marias-MG</title>
+    <desc lang="pt">Em mais um episódio de Vida na Água, Cadu parte para uma pescaria especial emTrês Marias-MG, acompanhado do pai, Mazinho, e do guia Helder, especialista na pesca de traíras.</desc>
+  </programme>
+  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="FISH TV">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018060000 -0300" channel="DOG TV HD">
@@ -12773,7 +12777,11 @@
     <title lang="pt">Thunder Fight</title>
     <desc lang="pt">Acompanhe na Jovem Pan o melhor do MMA, o último passo antes do UFC. No Thunder Fight  você vê alguns dos melhores lutadores de MMA do mundo em ação dentro do octógono.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="JOVEM PAN NEWS">
+  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">JP Internacional</title>
+    <desc lang="pt">Panorama dos principais assuntos do noticiário internacional da semana. Entrevistados que ajudam a entender os desdobramentos dos fatos que se destacaram, no mundo, e como o Brasil é afetado.</desc>
+  </programme>
+  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="JOVEM PAN NEWS">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251017233000 -0300" stop="20251018013000 -0300" channel="CNN BRASIL">
@@ -20205,7 +20213,11 @@
     <title lang="pt">Patrulha Canina - Os Filhotes Salvam o Jake / Os Filhotes Salvam a Parada</title>
     <desc lang="pt">Jake e Chase estão explorando uma caverna quando Jake prende o tornozelo em algumas pedras caídas. Ryder, Rubble e Marshall precisam salvar o colega.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="NICK JR">
+  <programme start="20251019213000 -0300" stop="20251019215500 -0300" channel="NICK JR">
+    <title lang="pt">Rubble e sua Turma - A Turma Constrói um Parque de Inverno! / A Turma Constrói um Super Esquilo Rodopiante Gigante de Neve!</title>
+    <desc lang="pt">Rubble e sua Turma trabalham juntos para transformar o calçadão da praia de Angra do Construtor em um lindo e iluminado parque de inverno!</desc>
+  </programme>
+  <programme start="20251019215500 -0300" stop="20251021000000 -0300" channel="NICK JR">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251017235400 -0300" stop="20251018000100 -0300" channel="CARTOONITO">
@@ -22163,7 +22175,11 @@
     <title lang="pt">Mundo da Lua - O Enigma Do Vaso Chinês</title>
     <desc lang="pt">A série conta as aventuras de Lucas Silva e Silva, um garoto cheio de imaginação, e sua família. As dúvidas, brincadeiras e os problemas das crianças são retratados no mundo imaginário de Lucas, onde tudo po...</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="TV RA TIM BUM">
+  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="TV RA TIM BUM">
+    <title lang="pt">Mundo da Lua - 7 X 8</title>
+    <desc lang="pt">A série conta as aventuras de Lucas Silva e Silva, um garoto cheio de imaginação, e sua família. As dúvidas, brincadeiras e os problemas das crianças são retratados no mundo imaginário de Lucas, onde tudo po...</desc>
+  </programme>
+  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018000700 -0300" channel="DumDum">
@@ -24891,11 +24907,7 @@
     <title lang="pt">Ponto KPop</title>
     <desc lang="pt">A gente tem um programa inteirinho para as novidades, fofocas e estreias da Coreia do Sul. A apresentadora Babi Dewet te conta todas as novidades do mundo do Kpop, todo sábado às 18h!</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="PLAY TV">
-    <title lang="pt">Dados e Danos</title>
-    <desc lang="pt">Acompanhe Bruno Satheler em campanhas de RPG.</desc>
-  </programme>
-  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="PLAY TV">
+  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="PLAY TV">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251017220000 -0300" stop="20251018000100 -0300" channel="MUSIC BOX BRAZIL">
@@ -27604,11 +27616,7 @@
     <title lang="pt">Turma da Escola - Serginho Lacerda</title>
     <desc lang="pt">"Que tipo de aluno você era na escola?" Diogo Almeida, Logo no começo de cada episódio, Diogo vai plantar o desafio que é o terror de todo aluno: será que o convidado vai passar de ano?</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="COMEDY CENTRAL">
-    <title lang="pt">Turma da Escola - Fernando Pedrosa</title>
-    <desc lang="pt">"Que tipo de aluno você era na escola?" Diogo Almeida, Logo no começo de cada episódio, Diogo vai plantar o desafio que é o terror de todo aluno: será que o convidado vai passar de ano?</desc>
-  </programme>
-  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="COMEDY CENTRAL">
+  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="COMEDY CENTRAL">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251017235800 -0300" stop="20251018002000 -0300" channel="A&amp;E">
@@ -32559,11 +32567,7 @@
     <title lang="pt">Twisted Metal</title>
     <desc lang="pt">Enquanto John tenta se reunir com Quiet, ela cria seu próprio plano com Dollface.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251019230000 -0300" channel="HBO+">
-    <title lang="pt">Turno Maldito</title>
-    <desc lang="pt">Enquanto cumpre seu primeiro turno da noite em um motel remoto, uma mulher começa a suspeitar que a propriedade é assombrada.</desc>
-  </programme>
-  <programme start="20251019230000 -0300" stop="20251021000000 -0300" channel="HBO+">
+  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="HBO+">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251017231700 -0300" stop="20251018030800 -0300" channel="HBO Family">
@@ -34084,11 +34088,7 @@
     <title lang="pt">Novena dos Filhos do Pai Eterno</title>
     <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="TV Pai Eterno HD">
-    <title lang="pt">A Redenção</title>
-    <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.</desc>
-  </programme>
-  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="TV Pai Eterno HD">
+  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="TV Pai Eterno HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018004500 -0300" channel="MARKKET HD">
@@ -36895,11 +36895,7 @@
     <title lang="pt">BBC News</title>
     <desc lang="pt">Notícias atualizadas ao longo do dia seguidas de previsões meteorológicas.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="BBC WORLD NEWS">
-    <title lang="pt">TBA</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-  </programme>
-  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="BBC WORLD NEWS">
+  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="BBC WORLD NEWS">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018010000 -0300" channel="RAI INTERNATIONAL">
@@ -37652,7 +37648,11 @@
     <title lang="pt">TD Internacional 24 Horas</title>
     <desc lang="pt">Programa informativo com as notícias mais importantes em nível nacional e internacional.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="TVE INTERNATIONAL">
+  <programme start="20251019213000 -0300" stop="20251019223000 -0300" channel="TVE INTERNATIONAL">
+    <title lang="pt">Imprescindibles</title>
+    <desc lang="pt">Análise se personalidades da cultura espanhola do século 20 a partir de diferentes pontos de vista.</desc>
+  </programme>
+  <programme start="20251019223000 -0300" stop="20251021000000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018003000 -0300" channel="DW-TV">
@@ -38203,11 +38203,7 @@
     <title lang="pt">Transformar la Economía</title>
     <desc lang="pt">Transformar la Economía analisa a difícil relação entre as empresas e o meio ambiente em diferentes setores econômicos, como aeronáutico, automotivo e energético.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="DW-TV">
-    <title lang="pt">Cómo Te Afecta?</title>
-    <desc lang="pt">As novas gerações consomem notícias, sobretudo, nas redes sociais. Como isso te afeta? Vamos mostrar questões atuais que preocupam e afetam os jovens e adolescentes da América Latina.</desc>
-  </programme>
-  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="DW-TV">
+  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="DW-TV">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251017234500 -0300" stop="20251018001500 -0300" channel="SIC INTERNACIONAL">
@@ -39425,7 +39421,11 @@
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="FRANCE 24 HD">
+  <programme start="20251019213000 -0300" stop="20251019214500 -0300" channel="FRANCE 24 HD">
+    <title lang="pt">Esrpl Noticias</title>
+    <desc lang="pt">Notícias de última hora e notícias do mundo da France 24 em Negócios, Esportes, Cultura. Notícias em vídeo. Notícias dos EUA, Europa, Ásia-Pacífico, África, Oriente Médio, América.</desc>
+  </programme>
+  <programme start="20251019214500 -0300" stop="20251021000000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018030000 -0300" channel="Paramount+ 1">
@@ -40069,7 +40069,11 @@
     <title lang="pt">VT - Flamengo x Palmeiras</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20251019213000 -0300" stop="20251019223000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Cruzeiro x Fortaleza</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251019223000 -0300" stop="20251021000000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018020000 -0300" channel="PREMIERE 2 HD">
@@ -40346,11 +40350,7 @@
     <title lang="pt">Internacional x Sport - Ao Vivo</title>
     <desc lang="pt">Internacional e Sport jogam pela 29ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Beira-Rio, em Porto Alegre (RS). Acesse o canal 250 e seja assinante Premiere.</desc>
   </programme>
-  <programme start="20251019213000 -0300" stop="20251019220000 -0300" channel="PREMIERE 4 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
-  </programme>
-  <programme start="20251019220000 -0300" stop="20251021000000 -0300" channel="PREMIERE 4 HD">
+  <programme start="20251019213000 -0300" stop="20251021000000 -0300" channel="PREMIERE 4 HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251018000000 -0300" stop="20251018020000 -0300" channel="PREMIERE 5 HD">
