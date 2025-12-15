@@ -549,6 +549,21 @@
   <channel id="RECORD Guaíba">
     <display-name lang="pt">RECORD Guaíba</display-name>
   </channel>
+  <channel id="REDE AMAZONICA MANAUS">
+    <display-name lang="pt">REDE AMAZONICA MANAUS</display-name>
+  </channel>
+  <channel id="BAND Amazonas">
+    <display-name lang="pt">BAND Amazonas</display-name>
+  </channel>
+  <channel id="INOVA TV">
+    <display-name lang="pt">INOVA TV</display-name>
+  </channel>
+  <channel id="TV NORTE AMAZONAS">
+    <display-name lang="pt">TV NORTE AMAZONAS</display-name>
+  </channel>
+  <channel id="RECORD Manaus">
+    <display-name lang="pt">RECORD Manaus</display-name>
+  </channel>
   <programme start="20251214233500 -0300" stop="20251215002000 -0300" channel="GLOBO SÃO PAULO">
     <title lang="pt">Irracional - A Ciência Do Crime</title>
     <desc lang="pt">O cientista de renome mundial Alec Mercer utiliza uma abordagem única e inesperada para compreender o comportamento humano, enquanto resolve uma série de casos de alto risco.</desc>
@@ -4699,7 +4714,11 @@
     <title lang="pt">Que Seja Doce - Do Antigo ao Moderno</title>
     <desc lang="pt">Modernizar e adaptar receitas é parte do trabalho de qualquer confeiteiro. Hoje as confeiteiras irão preparar deliciosas receitas antigas de suas famílias, mas que hoje vendem profissionalmente.</desc>
   </programme>
-  <programme start="20251216204400 -0300" stop="20251218000000 -0300" channel="GNT HD">
+  <programme start="20251216204400 -0300" stop="20251216214500 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce - Austrália e Nova Zelândia</title>
+    <desc lang="pt">Os confeiteiros fazem uma viagem ao outro lado do mundo e descobrem os sabores da Oceania, preparando a elegante pavlova e uma irresistível caramel slice.</desc>
+  </programme>
+  <programme start="20251216214500 -0300" stop="20251218000000 -0300" channel="GNT HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251214223000 -0300" stop="20251215003900 -0300" channel="MULTISHOW HD">
@@ -13047,21 +13066,13 @@
     <title lang="pt">Conexão Record News</title>
     <desc lang="pt">A informação que estimula o telespectador a formar opinião. De modo analítico e didático o telejornal gera a conexão entre os fatos e a reflexão por meio das notícias e assuntos mais relevantes do cotidiano.</desc>
   </programme>
-  <programme start="20251216153000 -0300" stop="20251216160000 -0300" channel="RECORD NEWS">
+  <programme start="20251216153000 -0300" stop="20251216154500 -0300" channel="RECORD NEWS">
     <title lang="pt">Zapping</title>
     <desc lang="pt">Novidades, curiosidades, dicas e bastidores sobre entretenimento, comportamento e saúde.</desc>
   </programme>
-  <programme start="20251216160000 -0300" stop="20251216180000 -0300" channel="RECORD NEWS">
-    <title lang="pt">Hora News</title>
-    <desc lang="pt">As informações de última hora do Brasil e do mundo.</desc>
-  </programme>
-  <programme start="20251216180000 -0300" stop="20251216184500 -0300" channel="RECORD NEWS">
-    <title lang="pt">Link News</title>
-    <desc lang="pt">Os principais assuntos do dia transformadas em notícia por meio da interatividade com o telespectador.</desc>
-  </programme>
-  <programme start="20251216184500 -0300" stop="20251216190000 -0300" channel="RECORD NEWS">
-    <title lang="pt">Esporte Record News</title>
-    <desc lang="pt">As principais notícias do dia sobre o conteúdo esportivo no Brasil e no mundo</desc>
+  <programme start="20251216154500 -0300" stop="20251216190000 -0300" channel="RECORD NEWS">
+    <title lang="pt">Santos x Grêmio - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251216190000 -0300" stop="20251216194500 -0300" channel="RECORD NEWS">
     <title lang="pt">News 19 Horas</title>
@@ -13660,7 +13671,11 @@
     <title lang="pt">Pesca Mortal - Tudo se Transforma</title>
     <desc lang="pt">A tripulação do Cornelia Marie tenta salvar os equipamentos do gelo marinho. Jake se arrisca para encher os tanques antes do nascimento de seu filho.</desc>
   </programme>
-  <programme start="20251216204400 -0300" stop="20251218000000 -0300" channel="ANIMAL PLANET HD">
+  <programme start="20251216204400 -0300" stop="20251216213900 -0300" channel="ANIMAL PLANET HD">
+    <title lang="pt">O Mistério do Grande Tubarão-Branco</title>
+    <desc lang="pt">Jimi Partington e Brandon McMillan embarcam na primeira expedição tripulada ao fundo do mar na Ilha de Guadalupe. Os dois especialistas em tubarões procuram Deep Blue, um enorme tubarão-branco de seis metros.</desc>
+  </programme>
+  <programme start="20251216213900 -0300" stop="20251218000000 -0300" channel="ANIMAL PLANET HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251214233900 -0300" stop="20251215002600 -0300" channel="HISTORY">
@@ -46819,5 +46834,1289 @@
   <programme start="20251217223000 -0300" stop="20251218001500 -0300" channel="RECORD Guaíba">
     <title lang="pt">A Fazenda</title>
     <desc lang="pt">Mais uma edição recheada de momentos memoráveis, com direito a provas, tensão, superação, emoção, eliminações, tarefas com os animais, adrenalina e muita competição!</desc>
+  </programme>
+  <programme start="20251214232000 -0300" stop="20251215010000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Domingo Maior: Crimes Na Madrugada</title>
+    <desc lang="pt">Vince é um policial corrupto de Las Vegas que rouba um carregamento de cocaína de um poderoso traficante de drogas. Para não levantar suspeitas, ele se oferece para investigar o caso.</desc>
+  </programme>
+  <programme start="20251215010000 -0300" stop="20251215013500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251215013500 -0300" stop="20251215021000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251215021000 -0300" stop="20251215030000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola III</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251215030000 -0300" stop="20251215050000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
+  <programme start="20251215050000 -0300" stop="20251215060000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Amazônia</title>
+    <desc lang="pt">O Bom Dia Amazônia traz as primeiras notícias da manhã na Região e no estado, e as repercussões sobre os fatos mais importantes do dia anterior.</desc>
+  </programme>
+  <programme start="20251215060000 -0300" stop="20251215073000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Amazonas</title>
+    <desc lang="pt">O Bom Dia Amazonas traz as primeiras notícias da manhã no estado, e as repercussões sobre os fatos mais importantes do dia anterior.</desc>
+  </programme>
+  <programme start="20251215073000 -0300" stop="20251215083000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+  </programme>
+  <programme start="20251215083000 -0300" stop="20251215093500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+  </programme>
+  <programme start="20251215093500 -0300" stop="20251215104500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+  </programme>
+  <programme start="20251215104500 -0300" stop="20251215120000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal do Amazonas - 1º Edição</title>
+    <desc lang="pt">O Jornal traz as principais notícias do estado, como economia, segurança pública, educação e previsão do tempo, além de diversos serviços para a população.</desc>
+  </programme>
+  <programme start="20251215120000 -0300" stop="20251215122500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+  </programme>
+  <programme start="20251215122500 -0300" stop="20251215134500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+  </programme>
+  <programme start="20251215134500 -0300" stop="20251215143000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+  </programme>
+  <programme start="20251215143000 -0300" stop="20251215160500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Sessão da Tarde: Roubo nas Alturas</title>
+    <desc lang="pt">A vida dos funcionários de um importante prédio de Nova York vira de cabeça para baixo quando o bilionário ocupante da cobertura é preso por fraude.</desc>
+  </programme>
+  <programme start="20251215160500 -0300" stop="20251215172500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Vale a Pena Ver de Novo: Rainha da Sucata</title>
+    <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo e a socialite falida Laurinha Figueroa.</desc>
+  </programme>
+  <programme start="20251215172500 -0300" stop="20251215181000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Túlio garante a Celso que não desistirá de Estela, e os dois acabam brigando. Quincas afirma a Sônia que mudará de vida e cuidará de seu filho com ela.</desc>
+  </programme>
+  <programme start="20251215181000 -0300" stop="20251215184000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal do Amazonas - 2º Edição</title>
+    <desc lang="pt">O Jornal traz as principais notícias do estado, como economia, segurança pública, educação e previsão do tempo, além de diversos serviços para a população.</desc>
+  </programme>
+  <programme start="20251215184000 -0300" stop="20251215193000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Hudson descobre que foi roubado por Demétrio, e Ellen se preocupa. Hudson e Ellen pedem que Igor mantenha a história de ser filho de Hudson. Rosa se emociona ao conhecer os bisnetos.</desc>
+  </programme>
+  <programme start="20251215193000 -0300" stop="20251215202000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+  </programme>
+  <programme start="20251215202000 -0300" stop="20251215212500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Três Graças</title>
+    <desc lang="pt">Paulinho avisa para Juquinha e Jairo que houve um assalto na casa onde Gerluce trabalha. Raul reage ao ser acusado por Ferette e Arminda de ter comentado com alguém sobre a estátua.</desc>
+  </programme>
+  <programme start="20251215212500 -0300" stop="20251215230500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Tela Quente</title>
+    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV.</desc>
+  </programme>
+  <programme start="20251215230500 -0300" stop="20251215235500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+  </programme>
+  <programme start="20251215235500 -0300" stop="20251216004000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Hudson descobre que foi roubado por Demétrio, e Ellen se preocupa. Hudson e Ellen pedem que Igor mantenha a história de ser filho de Hudson. Rosa se emociona ao conhecer os bisnetos.</desc>
+  </programme>
+  <programme start="20251216004000 -0300" stop="20251216013500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251216013500 -0300" stop="20251216022000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251216022000 -0300" stop="20251216030000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola III</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251216030000 -0300" stop="20251216050000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
+  <programme start="20251216050000 -0300" stop="20251216060000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Amazônia</title>
+    <desc lang="pt">O Bom Dia Amazônia traz as primeiras notícias da manhã na Região e no estado, e as repercussões sobre os fatos mais importantes do dia anterior.</desc>
+  </programme>
+  <programme start="20251216060000 -0300" stop="20251216073000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Amazonas</title>
+    <desc lang="pt">O Bom Dia Amazonas traz as primeiras notícias da manhã no estado, e as repercussões sobre os fatos mais importantes do dia anterior.</desc>
+  </programme>
+  <programme start="20251216073000 -0300" stop="20251216083000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+  </programme>
+  <programme start="20251216083000 -0300" stop="20251216093500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+  </programme>
+  <programme start="20251216093500 -0300" stop="20251216104500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+  </programme>
+  <programme start="20251216104500 -0300" stop="20251216120000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal do Amazonas - 1º Edição</title>
+    <desc lang="pt">O Jornal traz as principais notícias do estado, como economia, segurança pública, educação e previsão do tempo, além de diversos serviços para a população.</desc>
+  </programme>
+  <programme start="20251216120000 -0300" stop="20251216122500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+  </programme>
+  <programme start="20251216122500 -0300" stop="20251216134500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+  </programme>
+  <programme start="20251216134500 -0300" stop="20251216143500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+  </programme>
+  <programme start="20251216143500 -0300" stop="20251216162000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Sessão da Tarde: O Caçador e a Rainha do Gelo</title>
+    <desc lang="pt">Freya é a irmã boa da toda poderosa Rainha Ravenna. Depois de passar por um trauma, no entanto, ela desperta para os poderes mágicos e se isola.</desc>
+  </programme>
+  <programme start="20251216162000 -0300" stop="20251216172500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Vale a Pena Ver de Novo: Rainha da Sucata</title>
+    <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo e a socialite falida Laurinha Figueroa.</desc>
+  </programme>
+  <programme start="20251216172500 -0300" stop="20251216181000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Lúcio afirma a Araújo que não é pai de Haydée. Cunegundes apresenta Quincas como o primeiro dançarino de seu estabelecimento. Jocasta e Francine preparam sua simpatia para atrair Quinzinho e Zé dos Porcos.</desc>
+  </programme>
+  <programme start="20251216181000 -0300" stop="20251216184000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal do Amazonas - 2º Edição</title>
+    <desc lang="pt">O Jornal traz as principais notícias do estado, como economia, segurança pública, educação e previsão do tempo, além de diversos serviços para a população.</desc>
+  </programme>
+  <programme start="20251216184000 -0300" stop="20251216193000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Ellen e Sofia se emocionam com o reencontro. Leo e Samuel exigem explicações de Ellen. Todos se surpreendem com a notícia de que Ellen está viva. Ellen se confessa com Padre Paulo, e afirma amar Sofia.</desc>
+  </programme>
+  <programme start="20251216193000 -0300" stop="20251216202000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+  </programme>
+  <programme start="20251216202000 -0300" stop="20251216212500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Três Graças</title>
+    <desc lang="pt">Zenilda diz a Ferette que sente orgulho do marido. Paulinho pergunta ao delegado Jairo se ele está com receio de abrir uma investigação por causa de Ferette.</desc>
+  </programme>
+  <programme start="20251216212500 -0300" stop="20251216230500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Caetano e Bethânia Ao Vivo</title>
+    <desc lang="pt">O projeto marca o primeiro reencontro dos irmãos no palco em um show completo após 46 anos, que reuniu milhares de fãs de norte a sul do país e deu origem ao álbum homônimo, indicado ao Grammy 2026.</desc>
+  </programme>
+  <programme start="20251216230500 -0300" stop="20251216235500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+  </programme>
+  <programme start="20251216235500 -0300" stop="20251217004000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Ellen e Sofia se emocionam com o reencontro. Leo e Samuel exigem explicações de Ellen. Todos se surpreendem com a notícia de que Ellen está viva. Ellen se confessa com Padre Paulo, e afirma amar Sofia.</desc>
+  </programme>
+  <programme start="20251217004000 -0300" stop="20251217011000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251217011000 -0300" stop="20251217014000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+  </programme>
+  <programme start="20251217014000 -0300" stop="20251217030000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Corujão: O Avental Rosa</title>
+    <desc lang="pt">Alice trabalha como acompanhante em um hospital de luxo, onde ganha seu dinheiro, e como voluntária em hospitais pobres, onde dedica seu amor e compaixão.</desc>
+  </programme>
+  <programme start="20251217030000 -0300" stop="20251217050000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
+  <programme start="20251217050000 -0300" stop="20251217060000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Amazônia</title>
+    <desc lang="pt">O Bom Dia Amazônia traz as primeiras notícias da manhã na Região e no estado, e as repercussões sobre os fatos mais importantes do dia anterior.</desc>
+  </programme>
+  <programme start="20251217060000 -0300" stop="20251217073000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Amazonas</title>
+    <desc lang="pt">O Bom Dia Amazonas traz as primeiras notícias da manhã no estado, e as repercussões sobre os fatos mais importantes do dia anterior.</desc>
+  </programme>
+  <programme start="20251217073000 -0300" stop="20251217083000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+  </programme>
+  <programme start="20251217083000 -0300" stop="20251217093500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+  </programme>
+  <programme start="20251217093500 -0300" stop="20251217104500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+  </programme>
+  <programme start="20251217104500 -0300" stop="20251217113500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal do Amazonas - 1º Edição</title>
+    <desc lang="pt">O Jornal traz as principais notícias do estado, como economia, segurança pública, educação e previsão do tempo, além de diversos serviços para a população.</desc>
+  </programme>
+  <programme start="20251217113500 -0300" stop="20251217120000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+  </programme>
+  <programme start="20251217120000 -0300" stop="20251217124500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.</desc>
+  </programme>
+  <programme start="20251217124500 -0300" stop="20251217151000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Futebol 2025</title>
+    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
+  </programme>
+  <programme start="20251217151000 -0300" stop="20251217155500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+  </programme>
+  <programme start="20251217155500 -0300" stop="20251217170500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Vale a Pena Ver de Novo: Rainha da Sucata</title>
+    <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo e a socialite falida Laurinha Figueroa.</desc>
+  </programme>
+  <programme start="20251217170500 -0300" stop="20251217174500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Zulma explica a Flora por que deseja adotar Samir. Candinho acredita na bondade da Baronesa/Sandra. Ernesto se afeiçoa a Adamo, sem saber que se trata de Margarida.</desc>
+  </programme>
+  <programme start="20251217174500 -0300" stop="20251217181500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal do Amazonas - 2º Edição</title>
+    <desc lang="pt">O Jornal traz as principais notícias do estado, como economia, segurança pública, educação e previsão do tempo, além de diversos serviços para a população.</desc>
+  </programme>
+  <programme start="20251217181500 -0300" stop="20251217190000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Dona de Mim</title>
+    <desc lang="pt">Leo questiona Ellen sobre a suposta ida para Portugal. Ayla comenta com Samuel que Leo está com ciúmes de Ellen. Bárbara tenta convencer Davi a treinar com ela e Rosa.</desc>
+  </programme>
+  <programme start="20251217190000 -0300" stop="20251217194000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+  </programme>
+  <programme start="20251217194000 -0300" stop="20251217201500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Três Graças</title>
+    <desc lang="pt">Arminda acha curioso que o namorado de Gerluce seja o policial que foi interrogá-la sobre o suposto assalto que sofreu em casa.</desc>
+  </programme>
+  <programme start="20251217201500 -0300" stop="20251217223000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Futebol 2025</title>
+    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.</desc>
+  </programme>
+  <programme start="20251217223000 -0300" stop="20251217225000 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais.</desc>
+  </programme>
+  <programme start="20251217225000 -0300" stop="20251217233500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Que História é Essa Porchat?</title>
+    <desc lang="pt">Programa apresentado por Fábio Porchat, sucesso no GNT, reúne anônimos e famosos com o objetivo de revelar suas histórias mais inusitadas.</desc>
+  </programme>
+  <programme start="20251217233500 -0300" stop="20251218002500 -0300" channel="REDE AMAZONICA MANAUS">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+  </programme>
+  <programme start="20251215000000 -0300" stop="20251215003000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Linha de Combate - Reapresentação</title>
+    <desc lang="pt">O programa que acompanha a rotina dos homens e mulheres que dedicam suas vidas para defender a população.</desc>
+  </programme>
+  <programme start="20251215003000 -0300" stop="20251215010000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Linha de Combate - Reapresentação</title>
+    <desc lang="pt">O programa que acompanha a rotina dos homens e mulheres que dedicam suas vidas para defender a população.</desc>
+  </programme>
+  <programme start="20251215010000 -0300" stop="20251215030000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251215030000 -0300" stop="20251215060000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251215060000 -0300" stop="20251215070000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Eugénio e Ana Clara contam que a loja tem estado cheia desde que abriu e Artur quer celebrar. Jesus estranha que a gravidez de Camilla se mantenha e conclui que o filho não é de Artur.</desc>
+  </programme>
+  <programme start="20251215070000 -0300" stop="20251215071500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.</desc>
+  </programme>
+  <programme start="20251215071500 -0300" stop="20251215080000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Bora Amazonas</title>
+    <desc lang="pt">Acompanhe o jornalístico interativo, com prestação de serviço e que valoriza as notícias locais.</desc>
+  </programme>
+  <programme start="20251215080000 -0300" stop="20251215100000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+  </programme>
+  <programme start="20251215100000 -0300" stop="20251215110000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251215110000 -0300" stop="20251215111000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jogo Aberto Local</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
+  </programme>
+  <programme start="20251215111000 -0300" stop="20251215123000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Amazonas Urgente</title>
+    <desc lang="pt">Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
+  </programme>
+  <programme start="20251215123000 -0300" stop="20251215133000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Sinal Livre</title>
+    <desc lang="pt">Sinal Livre é um programa jornalístico brasileiro com o formato policialesco transmitido pela TV Bandeirantes Amazonas.</desc>
+  </programme>
+  <programme start="20251215133000 -0300" stop="20251215150000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Melhor Da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+  </programme>
+  <programme start="20251215150000 -0300" stop="20251215163000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251215163000 -0300" stop="20251215175000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Brasil Urgente Regional</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão.</desc>
+  </programme>
+  <programme start="20251215175000 -0300" stop="20251215182000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">O programa mostra as mais variadas informações sobre saúde, política, educação, denúncias e acontecimentos, que fazem parte do dia-a-dia da região.</desc>
+  </programme>
+  <programme start="20251215182000 -0300" stop="20251215193000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+  </programme>
+  <programme start="20251215193000 -0300" stop="20251215202500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Cruel Istambul</title>
+    <desc lang="pt">Nedim conversa com o tumulo do pai sobre Seniz e todos os seus planos. Ceren se encontra com Agah escondido de Seniz. Damla leva Nedim para fazer compras. Seniz procura Seher. Damla, Nedim, Ceren e Civan vão as compras.</desc>
+  </programme>
+  <programme start="20251215202500 -0300" stop="20251215212000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.</desc>
+  </programme>
+  <programme start="20251215212000 -0300" stop="20251215230000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Galvão e Amigos</title>
+    <desc lang="pt">O programa traz um debate de alto nível sobre os principais acontecimentos esportivos, proporcionando uma análise envolvente e detalhada para o público.</desc>
+  </programme>
+  <programme start="20251215230000 -0300" stop="20251215235500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20251215235500 -0300" stop="20251216005000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251216005000 -0300" stop="20251216010000 -0300" channel="BAND Amazonas">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.</desc>
+  </programme>
+  <programme start="20251216010000 -0300" stop="20251216030000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251216030000 -0300" stop="20251216060000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251216060000 -0300" stop="20251216070000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Artur perdeu a boa disposição e diz que em teoria, ele iria ficar com a criança, mas como está doente e possível que a criança nem venha a conhecer o pai.</desc>
+  </programme>
+  <programme start="20251216070000 -0300" stop="20251216071500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.</desc>
+  </programme>
+  <programme start="20251216071500 -0300" stop="20251216080000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Bora Amazonas</title>
+    <desc lang="pt">Acompanhe o jornalístico interativo, com prestação de serviço e que valoriza as notícias locais.</desc>
+  </programme>
+  <programme start="20251216080000 -0300" stop="20251216100000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+  </programme>
+  <programme start="20251216100000 -0300" stop="20251216110000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251216110000 -0300" stop="20251216111000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jogo Aberto Local</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
+  </programme>
+  <programme start="20251216111000 -0300" stop="20251216123000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Amazonas Urgente</title>
+    <desc lang="pt">Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
+  </programme>
+  <programme start="20251216123000 -0300" stop="20251216133000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Sinal Livre</title>
+    <desc lang="pt">Sinal Livre é um programa jornalístico brasileiro com o formato policialesco transmitido pela TV Bandeirantes Amazonas.</desc>
+  </programme>
+  <programme start="20251216133000 -0300" stop="20251216150000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Melhor Da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+  </programme>
+  <programme start="20251216150000 -0300" stop="20251216163000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251216163000 -0300" stop="20251216175000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Brasil Urgente Regional</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão.</desc>
+  </programme>
+  <programme start="20251216175000 -0300" stop="20251216182000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">O programa mostra as mais variadas informações sobre saúde, política, educação, denúncias e acontecimentos, que fazem parte do dia-a-dia da região.</desc>
+  </programme>
+  <programme start="20251216182000 -0300" stop="20251216193000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+  </programme>
+  <programme start="20251216193000 -0300" stop="20251216202500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Cruel Istambul</title>
+    <desc lang="pt">Seniz começa a ajudar Agah contra Ceren. Neriman adverte Ceren sobre seus planos falhos. Cenk vai buscar Cemre nas compras com Damla e Nedim. Seniz quer que Cenk siga os seus planos.</desc>
+  </programme>
+  <programme start="20251216202500 -0300" stop="20251216212000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.</desc>
+  </programme>
+  <programme start="20251216212000 -0300" stop="20251216232000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Masterchef Celebridades</title>
+    <desc lang="pt">Edição especial reúne celebridades apaixonadas por culinária em busca do avental de MasterChef.</desc>
+  </programme>
+  <programme start="20251216232000 -0300" stop="20251217001000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20251217001000 -0300" stop="20251217010000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251217010000 -0300" stop="20251217030000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251217030000 -0300" stop="20251217060000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">A Igreja Universal do Reino de Deus é uma denominação cristã evangélica pentecostal fundada em 1977. Se caracteriza pela ênfaze em práticas de cura, libertação espiritual e teologia da prosperidade.</desc>
+  </programme>
+  <programme start="20251217060000 -0300" stop="20251217070000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Bruno já não tem dores e Horácio guarda o frasco, pois não quer que Bruno tome mais. Diz a Leo para resolver a asneira que fez, Isabel entra e fica assustada ao ver Bruno tombado.</desc>
+  </programme>
+  <programme start="20251217070000 -0300" stop="20251217071500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.</desc>
+  </programme>
+  <programme start="20251217071500 -0300" stop="20251217080000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Bora Amazonas</title>
+    <desc lang="pt">Acompanhe o jornalístico interativo, com prestação de serviço e que valoriza as notícias locais.</desc>
+  </programme>
+  <programme start="20251217080000 -0300" stop="20251217100000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
+  </programme>
+  <programme start="20251217100000 -0300" stop="20251217110000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
+  </programme>
+  <programme start="20251217110000 -0300" stop="20251217111000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jogo Aberto Local</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.</desc>
+  </programme>
+  <programme start="20251217111000 -0300" stop="20251217123000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Amazonas Urgente</title>
+    <desc lang="pt">Informativo com linguagem coloquial e opinativa, com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
+  </programme>
+  <programme start="20251217123000 -0300" stop="20251217133000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Sinal Livre</title>
+    <desc lang="pt">Sinal Livre é um programa jornalístico brasileiro com o formato policialesco transmitido pela TV Bandeirantes Amazonas.</desc>
+  </programme>
+  <programme start="20251217133000 -0300" stop="20251217150000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Melhor Da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
+  </programme>
+  <programme start="20251217150000 -0300" stop="20251217163000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
+  </programme>
+  <programme start="20251217163000 -0300" stop="20251217175000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Brasil Urgente Regional</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão.</desc>
+  </programme>
+  <programme start="20251217175000 -0300" stop="20251217182000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Band Cidade</title>
+    <desc lang="pt">O programa mostra as mais variadas informações sobre saúde, política, educação, denúncias e acontecimentos, que fazem parte do dia-a-dia da região.</desc>
+  </programme>
+  <programme start="20251217182000 -0300" stop="20251217193000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
+  </programme>
+  <programme start="20251217193000 -0300" stop="20251217202500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Cruel Istambul</title>
+    <desc lang="pt">Nedim informa para a família que começara a trabalhar na empresa. Cemre conversa com Civan sobre Damla. Seniz vai tomar um café com Seher em nome dos seus filhos. Agah, Nedim e Cenk vão juntos para a empresa.</desc>
+  </programme>
+  <programme start="20251217202500 -0300" stop="20251217212000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.</desc>
+  </programme>
+  <programme start="20251217212000 -0300" stop="20251217214500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Perrengue do Dia</title>
+    <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.</desc>
+  </programme>
+  <programme start="20251217214500 -0300" stop="20251217230000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Melhor da Noite</title>
+    <desc lang="pt">Programa de entretenimento que uni informação e diversão em um só lugar.</desc>
+  </programme>
+  <programme start="20251217230000 -0300" stop="20251218000000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20251215000000 -0300" stop="20251215010000 -0300" channel="INOVA TV">
+    <title lang="pt">Mega Sonho</title>
+    <desc lang="pt">O programa MEGA SONHO será um game show em três fases. Seis participantes, divididos em dois grupos, disputam para chegar a eliminatória.</desc>
+  </programme>
+  <programme start="20251215010000 -0300" stop="20251215030000 -0300" channel="INOVA TV">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
+  </programme>
+  <programme start="20251215030000 -0300" stop="20251215053000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251215053000 -0300" stop="20251215073000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251215073000 -0300" stop="20251215083000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251215083000 -0300" stop="20251215090000 -0300" channel="INOVA TV">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+  </programme>
+  <programme start="20251215090000 -0300" stop="20251215094500 -0300" channel="INOVA TV">
+    <title lang="pt">Manhã com Você</title>
+    <desc lang="pt">MANHÃ COM VOCÊ é um programa com prestação de serviço, informação, entrevistas sobre saúde e direito do consumidor. Sua revista eletrônica diária.</desc>
+  </programme>
+  <programme start="20251215094500 -0300" stop="20251215110000 -0300" channel="INOVA TV">
+    <title lang="pt">Fica Com a Gente</title>
+    <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.</desc>
+  </programme>
+  <programme start="20251215110000 -0300" stop="20251215115000 -0300" channel="INOVA TV">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O jornalista Marcio Spimpolo comanda uma equipe que não tem medo de entrar nos assuntos mais quentes do esporte. Guilherme Pallesi, Marcos Assunção, Iara Oliveira e Fernando Fontana deixam o torcedor antenado com tudo que rola.</desc>
+  </programme>
+  <programme start="20251215115000 -0300" stop="20251215120000 -0300" channel="INOVA TV">
+    <title lang="pt">Elas Em Jogo</title>
+    <desc lang="pt">O Brasil é o país do futebol, também para elas. As craques dos grandes clubes do futebol brasileiro já fazem bater forte o coração do torcedor e das torcedoras. Por isso, a RedeTV! tem um programa exclusivo sobre fute...</desc>
+  </programme>
+  <programme start="20251215120000 -0300" stop="20251215140000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251215140000 -0300" stop="20251215160000 -0300" channel="INOVA TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.</desc>
+  </programme>
+  <programme start="20251215160000 -0300" stop="20251215170000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251215170000 -0300" stop="20251215185500 -0300" channel="INOVA TV">
+    <title lang="pt">Brasil Do Povo</title>
+    <desc lang="pt">O programa BRASIL DO POVO abordará notícias do Brasil e do mundo, com foco na segurança pública e prestação de serviço.</desc>
+  </programme>
+  <programme start="20251215185500 -0300" stop="20251215193000 -0300" channel="INOVA TV">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251215193000 -0300" stop="20251215203000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251215203000 -0300" stop="20251215204000 -0300" channel="INOVA TV">
+    <title lang="pt">Rapidinhas da Fama</title>
+    <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
+  </programme>
+  <programme start="20251215204000 -0300" stop="20251215224500 -0300" channel="INOVA TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Seu acesso às festas mais badaladas, aos bastidores dos eventos exclusivos e às casas dos mais ricos e famosos. O que acontece no mundo da moda, beleza, estilo e comportamento de um jeito único.</desc>
+  </programme>
+  <programme start="20251215224500 -0300" stop="20251215233000 -0300" channel="INOVA TV">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">OPERAÇÃO DE RISCO é o reality policial pioneiro da TV brasileira que te coloca dentro das viaturas que atendem ocorrências em todo o país. Perseguições, ações policiais e muita ação, sem corte...</desc>
+  </programme>
+  <programme start="20251215233000 -0300" stop="20251216000000 -0300" channel="INOVA TV">
+    <title lang="pt">Notícias de Agora</title>
+    <desc lang="pt">Programa voltado para as ultimas noticias na internet, novos métodos de cozinha e métodos de decoração.</desc>
+  </programme>
+  <programme start="20251216000000 -0300" stop="20251216003000 -0300" channel="INOVA TV">
+    <title lang="pt">Companhia Certa</title>
+    <desc lang="pt">O programa COMPANHIA CERTA destaca o talento inigualável de Ronnie Von em conduzir conversas inteligentes e descontraídas, sempre acompanhadas por bebidas sofisticadas e conteúdo de alta qualidade.</desc>
+  </programme>
+  <programme start="20251216003000 -0300" stop="20251216010000 -0300" channel="INOVA TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.</desc>
+  </programme>
+  <programme start="20251216010000 -0300" stop="20251216030000 -0300" channel="INOVA TV">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
+  </programme>
+  <programme start="20251216030000 -0300" stop="20251216053000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251216053000 -0300" stop="20251216073000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251216073000 -0300" stop="20251216083000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251216083000 -0300" stop="20251216090000 -0300" channel="INOVA TV">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+  </programme>
+  <programme start="20251216090000 -0300" stop="20251216094500 -0300" channel="INOVA TV">
+    <title lang="pt">Manhã com Você</title>
+    <desc lang="pt">MANHÃ COM VOCÊ é um programa com prestação de serviço, informação, entrevistas sobre saúde e direito do consumidor. Sua revista eletrônica diária.</desc>
+  </programme>
+  <programme start="20251216094500 -0300" stop="20251216110000 -0300" channel="INOVA TV">
+    <title lang="pt">Fica Com a Gente</title>
+    <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.</desc>
+  </programme>
+  <programme start="20251216110000 -0300" stop="20251216115000 -0300" channel="INOVA TV">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O jornalista Marcio Spimpolo comanda uma equipe que não tem medo de entrar nos assuntos mais quentes do esporte. Guilherme Pallesi, Marcos Assunção, Iara Oliveira e Fernando Fontana deixam o torcedor antenado com tudo que rola.</desc>
+  </programme>
+  <programme start="20251216115000 -0300" stop="20251216120000 -0300" channel="INOVA TV">
+    <title lang="pt">Elas Em Jogo</title>
+    <desc lang="pt">O Brasil é o país do futebol, também para elas. As craques dos grandes clubes do futebol brasileiro já fazem bater forte o coração do torcedor e das torcedoras. Por isso, a RedeTV! tem um programa exclusivo sobre fute...</desc>
+  </programme>
+  <programme start="20251216120000 -0300" stop="20251216140000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251216140000 -0300" stop="20251216160000 -0300" channel="INOVA TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.</desc>
+  </programme>
+  <programme start="20251216160000 -0300" stop="20251216170000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251216170000 -0300" stop="20251216185000 -0300" channel="INOVA TV">
+    <title lang="pt">Brasil Do Povo</title>
+    <desc lang="pt">O programa BRASIL DO POVO abordará notícias do Brasil e do mundo, com foco na segurança pública e prestação de serviço.</desc>
+  </programme>
+  <programme start="20251216185000 -0300" stop="20251216193000 -0300" channel="INOVA TV">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251216193000 -0300" stop="20251216203000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251216203000 -0300" stop="20251216204000 -0300" channel="INOVA TV">
+    <title lang="pt">Rapidinhas da Fama</title>
+    <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
+  </programme>
+  <programme start="20251216204000 -0300" stop="20251216220000 -0300" channel="INOVA TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Seu acesso às festas mais badaladas, aos bastidores dos eventos exclusivos e às casas dos mais ricos e famosos. O que acontece no mundo da moda, beleza, estilo e comportamento de um jeito único.</desc>
+  </programme>
+  <programme start="20251216220000 -0300" stop="20251216233000 -0300" channel="INOVA TV">
+    <title lang="pt">Operação de Risco</title>
+    <desc lang="pt">OPERAÇÃO DE RISCO é o reality policial pioneiro da TV brasileira que te coloca dentro das viaturas que atendem ocorrências em todo o país. Perseguições, ações policiais e muita ação, sem corte...</desc>
+  </programme>
+  <programme start="20251216233000 -0300" stop="20251217000000 -0300" channel="INOVA TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.</desc>
+  </programme>
+  <programme start="20251217000000 -0300" stop="20251217020000 -0300" channel="INOVA TV">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
+  </programme>
+  <programme start="20251217020000 -0300" stop="20251217053000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251217053000 -0300" stop="20251217073000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251217073000 -0300" stop="20251217083000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251217083000 -0300" stop="20251217090000 -0300" channel="INOVA TV">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+  </programme>
+  <programme start="20251217090000 -0300" stop="20251217094500 -0300" channel="INOVA TV">
+    <title lang="pt">Manhã com Você</title>
+    <desc lang="pt">MANHÃ COM VOCÊ é um programa com prestação de serviço, informação, entrevistas sobre saúde e direito do consumidor. Sua revista eletrônica diária.</desc>
+  </programme>
+  <programme start="20251217094500 -0300" stop="20251217110000 -0300" channel="INOVA TV">
+    <title lang="pt">Fica Com a Gente</title>
+    <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.</desc>
+  </programme>
+  <programme start="20251217110000 -0300" stop="20251217115000 -0300" channel="INOVA TV">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O jornalista Marcio Spimpolo comanda uma equipe que não tem medo de entrar nos assuntos mais quentes do esporte. Guilherme Pallesi, Marcos Assunção, Iara Oliveira e Fernando Fontana deixam o torcedor antenado com tudo que rola.</desc>
+  </programme>
+  <programme start="20251217115000 -0300" stop="20251217120000 -0300" channel="INOVA TV">
+    <title lang="pt">Elas Em Jogo</title>
+    <desc lang="pt">O Brasil é o país do futebol, também para elas. As craques dos grandes clubes do futebol brasileiro já fazem bater forte o coração do torcedor e das torcedoras. Por isso, a RedeTV! tem um programa exclusivo sobre fute...</desc>
+  </programme>
+  <programme start="20251217120000 -0300" stop="20251217140000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251217140000 -0300" stop="20251217160000 -0300" channel="INOVA TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.</desc>
+  </programme>
+  <programme start="20251217160000 -0300" stop="20251217170000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251217170000 -0300" stop="20251217185000 -0300" channel="INOVA TV">
+    <title lang="pt">Brasil Do Povo</title>
+    <desc lang="pt">O programa BRASIL DO POVO abordará notícias do Brasil e do mundo, com foco na segurança pública e prestação de serviço.</desc>
+  </programme>
+  <programme start="20251217185000 -0300" stop="20251217193000 -0300" channel="INOVA TV">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251217193000 -0300" stop="20251217203000 -0300" channel="INOVA TV">
+    <title lang="pt">Igreja Internacional da Graça</title>
+    <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20251217203000 -0300" stop="20251217214500 -0300" channel="INOVA TV">
+    <title lang="pt">Hipercap Brasil</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251217214500 -0300" stop="20251217230000 -0300" channel="INOVA TV">
+    <title lang="pt">SuperPop</title>
+    <desc lang="pt">Luciana Gimenez traz ao palco os personagens  da vida real com suas histórias autênticas e reveladoras. Com humor peculiar, o Superpop apresenta uma mistura única de entrevistas e quadros.</desc>
+  </programme>
+  <programme start="20251217230000 -0300" stop="20251218000000 -0300" channel="INOVA TV">
+    <title lang="pt">En Circuito</title>
+    <desc lang="pt">Muita diversão, humor, emoção, desafios, jornalismo e quadros de sucesso.</desc>
+  </programme>
+  <programme start="20251215000000 -0300" stop="20251215010000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">The Chosen - Os Escolhidos</title>
+    <desc lang="pt">Dois irmãos sofrem pelos impostos que devem a Roma enquanto uma mulher luta contra seus demônios.</desc>
+  </programme>
+  <programme start="20251215010000 -0300" stop="20251215044500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+  </programme>
+  <programme start="20251215044500 -0300" stop="20251215070000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251215070000 -0300" stop="20251215073000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Super Manhã</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251215073000 -0300" stop="20251215083000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251215083000 -0300" stop="20251215093000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
+  </programme>
+  <programme start="20251215093000 -0300" stop="20251215110000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251215110000 -0300" stop="20251215113000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Alô Você</title>
+    <desc lang="pt">O programa terá um formato de jornalismo policial local, com foco em notícias da região.</desc>
+  </programme>
+  <programme start="20251215113000 -0300" stop="20251215134500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">O Povo na TV</title>
+    <desc lang="pt">A cobrança por soluções e a constante fiscalização das ações do poder público fazem parte do programa O Povo Na TV.</desc>
+  </programme>
+  <programme start="20251215134500 -0300" stop="20251215143000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt">José Armando entrega a flor a Esmeralda e a beija. Esmeralda diz a Rosário que está grávida, mas José Armando pode não ser o pai.</desc>
+  </programme>
+  <programme start="20251215143000 -0300" stop="20251215153000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt">Rubi preocupa-se com o broche por que sabe que se Alessandro o ver vai acusar a ela de envolvimento na morte de Sônia.</desc>
+  </programme>
+  <programme start="20251215153000 -0300" stop="20251215164500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+  </programme>
+  <programme start="20251215164500 -0300" stop="20251215174500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+  </programme>
+  <programme start="20251215174500 -0300" stop="20251215183000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Raiza dá a Miguel uma nota promissória para que ele assine.</desc>
+  </programme>
+  <programme start="20251215183000 -0300" stop="20251215194500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Tá Na Hora Amazonas</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251215194500 -0300" stop="20251215210000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+  </programme>
+  <programme start="20251215210000 -0300" stop="20251215213000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">A.Mar</title>
+    <desc lang="pt">Sérgio fica irritado com Azul ao ver que ela tentou boicotá-lo ao publicar um vídeo nas redes sociais dizendo que não concorda com a empresa pesqueira.</desc>
+  </programme>
+  <programme start="20251215213000 -0300" stop="20251215223000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+  </programme>
+  <programme start="20251215223000 -0300" stop="20251216000000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">The Voice Brasil 2025</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251216000000 -0300" stop="20251216010000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+  </programme>
+  <programme start="20251216010000 -0300" stop="20251216013000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
+  </programme>
+  <programme start="20251216013000 -0300" stop="20251216021500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
+    <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
+  </programme>
+  <programme start="20251216021500 -0300" stop="20251216044500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+  </programme>
+  <programme start="20251216044500 -0300" stop="20251216070000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251216070000 -0300" stop="20251216073000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Super Manhã</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251216073000 -0300" stop="20251216083000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251216083000 -0300" stop="20251216093000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
+  </programme>
+  <programme start="20251216093000 -0300" stop="20251216110000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251216110000 -0300" stop="20251216113000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Alô Você</title>
+    <desc lang="pt">O programa terá um formato de jornalismo policial local, com foco em notícias da região.</desc>
+  </programme>
+  <programme start="20251216113000 -0300" stop="20251216134500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">O Povo na TV</title>
+    <desc lang="pt">A cobrança por soluções e a constante fiscalização das ações do poder público fazem parte do programa O Povo Na TV.</desc>
+  </programme>
+  <programme start="20251216134500 -0300" stop="20251216143000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt">Esmeralda viaja com Rosário para a capital. Esmeralda vai até o hospital falar com Lúcio. A sós, ela lhe diz que tem uma pergunta muito importante para fazer.</desc>
+  </programme>
+  <programme start="20251216143000 -0300" stop="20251216153000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt">Rubi fala para Lúcio que Thiago humilhou ela e a violentou, porém isso não significa que o queira ver morto.</desc>
+  </programme>
+  <programme start="20251216153000 -0300" stop="20251216164500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+  </programme>
+  <programme start="20251216164500 -0300" stop="20251216183000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+  </programme>
+  <programme start="20251216183000 -0300" stop="20251216194500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Tá Na Hora Amazonas</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251216194500 -0300" stop="20251216210000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+  </programme>
+  <programme start="20251216210000 -0300" stop="20251216221500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">A.Mar</title>
+    <desc lang="pt">Adriana faz Gabriel saber que é momento de ele ir embora de La Peñita, já que está prestes a perder Marina e ela, Nicolás.</desc>
+  </programme>
+  <programme start="20251216221500 -0300" stop="20251216231500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+  </programme>
+  <programme start="20251216231500 -0300" stop="20251217001500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Repórter</title>
+    <desc lang="pt">O "SBT Repórter" é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
+  </programme>
+  <programme start="20251217001500 -0300" stop="20251217011500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+  </programme>
+  <programme start="20251217011500 -0300" stop="20251217014500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
+  </programme>
+  <programme start="20251217014500 -0300" stop="20251217023000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
+  </programme>
+  <programme start="20251217023000 -0300" stop="20251217044500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+  </programme>
+  <programme start="20251217044500 -0300" stop="20251217070000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251217070000 -0300" stop="20251217073000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Super Manhã</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251217073000 -0300" stop="20251217083000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Manhã</title>
+    <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
+  </programme>
+  <programme start="20251217083000 -0300" stop="20251217093000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
+  </programme>
+  <programme start="20251217093000 -0300" stop="20251217110000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251217110000 -0300" stop="20251217113000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Alô Você</title>
+    <desc lang="pt">O programa terá um formato de jornalismo policial local, com foco em notícias da região.</desc>
+  </programme>
+  <programme start="20251217113000 -0300" stop="20251217134500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">O Povo na TV</title>
+    <desc lang="pt">A cobrança por soluções e a constante fiscalização das ações do poder público fazem parte do programa O Povo Na TV.</desc>
+  </programme>
+  <programme start="20251217134500 -0300" stop="20251217143000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Esmeralda</title>
+    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+  </programme>
+  <programme start="20251217143000 -0300" stop="20251217153000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Rubi</title>
+    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+  </programme>
+  <programme start="20251217153000 -0300" stop="20251217164500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
+  </programme>
+  <programme start="20251217164500 -0300" stop="20251217174500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+  </programme>
+  <programme start="20251217174500 -0300" stop="20251217183000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+  </programme>
+  <programme start="20251217183000 -0300" stop="20251217194500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Tá Na Hora Amazonas</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251217194500 -0300" stop="20251217210000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
+  </programme>
+  <programme start="20251217210000 -0300" stop="20251217224500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">A.Mar</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251217224500 -0300" stop="20251217233000 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+  </programme>
+  <programme start="20251217233000 -0300" stop="20251218004500 -0300" channel="TV NORTE AMAZONAS">
+    <title lang="pt">Arena SBT</title>
+    <desc lang="pt">Apresentado por Benjamin Back, o programa será palco de debates sobre a paixão do brasileiro, o futebol. Para endossar as discussões e troca de ideias, o programa conta com um time de peso.</desc>
+  </programme>
+  <programme start="20251214224500 -0300" stop="20251215040000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Câmera Record</title>
+    <desc lang="pt">Reportagens especiais que abordam assuntos de interesse dos brasileiros e movimentam o país.</desc>
+  </programme>
+  <programme start="20251215040000 -0300" stop="20251215050000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251215050000 -0300" stop="20251215063000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral Manhã - SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251215063000 -0300" stop="20251215074000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Amazonas no Ar</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251215074000 -0300" stop="20251215090000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251215090000 -0300" stop="20251215105000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+  </programme>
+  <programme start="20251215105000 -0300" stop="20251215132500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral Manaus - Ao Vivo</title>
+    <desc lang="pt">Ficar bem-informado também pode ser sinônimo de diversão! O Balanço Geral Manaus traz as notícias mais importantes do dia em uma linguagem descontraída que faz toda a diferença!</desc>
+  </programme>
+  <programme start="20251215132500 -0300" stop="20251215143000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251215143000 -0300" stop="20251215153000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos.</desc>
+  </programme>
+  <programme start="20251215153000 -0300" stop="20251215161000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251215161000 -0300" stop="20251215161500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251215161500 -0300" stop="20251215164000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251215164000 -0300" stop="20251215164500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251215164500 -0300" stop="20251215175000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251215175000 -0300" stop="20251215185500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Amazonas Record - Ao Vivo</title>
+    <desc lang="pt">Um telejornal para a população de Manaus ficar por dentro das notícias mais importantes da região. O Amazonas Record apresenta os fatos mais importantes da cidade em links ao vivo e em séries de reportagens.</desc>
+  </programme>
+  <programme start="20251215185500 -0300" stop="20251215200000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
+  <programme start="20251215200000 -0300" stop="20251215204500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Força de Mulher</title>
+    <desc lang="pt">Bahar trabalha incansavelmente para dar uma vida melhor para os seus filhos, Nisan e Doruk, apesar de todas as dificuldades que enfrenta sendo uma jovem viúva.</desc>
+  </programme>
+  <programme start="20251215204500 -0300" stop="20251215214500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Gênesis</title>
+    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.</desc>
+  </programme>
+  <programme start="20251215214500 -0300" stop="20251215224500 -0300" channel="RECORD Manaus">
+    <title lang="pt">A Grande Conquista</title>
+    <desc lang="pt">A Grande Conquista mistura famosos e anônimos em uma competição na busca por um grande prêmio. O diferencial é que, desde antes da estreia até o final, o público participará ativamente do programa, tomando d...</desc>
+  </programme>
+  <programme start="20251215224500 -0300" stop="20251215233000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Drama de um médico em um ambiente bastante inusitado: o corpo de bombeiros. A trama acompanhará os homens e mulheres que trabalham no departamento de bombeiros.</desc>
+  </programme>
+  <programme start="20251215233000 -0300" stop="20251215234500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251215234500 -0300" stop="20251216010000 -0300" channel="RECORD Manaus">
+    <title lang="pt">IURD - Entrelinhas</title>
+    <desc lang="pt">Programa Entrelinhas com Bispo Renato Cardoso.</desc>
+  </programme>
+  <programme start="20251216010000 -0300" stop="20251216013000 -0300" channel="RECORD Manaus">
+    <title lang="pt">IURD - Dicas de Amor</title>
+    <desc lang="pt">Acompanhe a programação da Universal.</desc>
+  </programme>
+  <programme start="20251216013000 -0300" stop="20251216023000 -0300" channel="RECORD Manaus">
+    <title lang="pt">IURD - Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+  </programme>
+  <programme start="20251216023000 -0300" stop="20251216040000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251216040000 -0300" stop="20251216050000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251216050000 -0300" stop="20251216063000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral Manhã - SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251216063000 -0300" stop="20251216074000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Amazonas no Ar</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251216074000 -0300" stop="20251216090000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251216090000 -0300" stop="20251216105000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+  </programme>
+  <programme start="20251216105000 -0300" stop="20251216132500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral Manaus - Ao Vivo</title>
+    <desc lang="pt">Ficar bem-informado também pode ser sinônimo de diversão! O Balanço Geral Manaus traz as notícias mais importantes do dia em uma linguagem descontraída que faz toda a diferença!</desc>
+  </programme>
+  <programme start="20251216132500 -0300" stop="20251216143000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251216143000 -0300" stop="20251216153000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos.</desc>
+  </programme>
+  <programme start="20251216153000 -0300" stop="20251216161000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251216161000 -0300" stop="20251216161500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251216161500 -0300" stop="20251216164000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251216164000 -0300" stop="20251216164500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251216164500 -0300" stop="20251216175000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251216175000 -0300" stop="20251216185500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Amazonas Record - Ao Vivo</title>
+    <desc lang="pt">Um telejornal para a população de Manaus ficar por dentro das notícias mais importantes da região. O Amazonas Record apresenta os fatos mais importantes da cidade em links ao vivo e em séries de reportagens.</desc>
+  </programme>
+  <programme start="20251216185500 -0300" stop="20251216200000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
+  <programme start="20251216200000 -0300" stop="20251216204500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Força de Mulher</title>
+    <desc lang="pt">Bahar trabalha incansavelmente para dar uma vida melhor para os seus filhos, Nisan e Doruk, apesar de todas as dificuldades que enfrenta sendo uma jovem viúva.</desc>
+  </programme>
+  <programme start="20251216204500 -0300" stop="20251216214500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Gênesis</title>
+    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.</desc>
+  </programme>
+  <programme start="20251216214500 -0300" stop="20251216230000 -0300" channel="RECORD Manaus">
+    <title lang="pt">A Grande Conquista</title>
+    <desc lang="pt">A Grande Conquista mistura famosos e anônimos em uma competição na busca por um grande prêmio. O diferencial é que, desde antes da estreia até o final, o público participará ativamente do programa, tomando d...</desc>
+  </programme>
+  <programme start="20251216230000 -0300" stop="20251216234500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251216234500 -0300" stop="20251217010000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).</desc>
+  </programme>
+  <programme start="20251217010000 -0300" stop="20251217013000 -0300" channel="RECORD Manaus">
+    <title lang="pt">IURD - Dicas de Amor</title>
+    <desc lang="pt">Acompanhe a programação da Universal.</desc>
+  </programme>
+  <programme start="20251217013000 -0300" stop="20251217023000 -0300" channel="RECORD Manaus">
+    <title lang="pt">IURD - Palavra Amiga</title>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+  </programme>
+  <programme start="20251217023000 -0300" stop="20251217040000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251217040000 -0300" stop="20251217050000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20251217050000 -0300" stop="20251217063000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral Manhã - SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251217063000 -0300" stop="20251217074000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Amazonas no Ar</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251217074000 -0300" stop="20251217090000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20251217090000 -0300" stop="20251217105000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+  </programme>
+  <programme start="20251217105000 -0300" stop="20251217132500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral Manaus - Ao Vivo</title>
+    <desc lang="pt">Ficar bem-informado também pode ser sinônimo de diversão! O Balanço Geral Manaus traz as notícias mais importantes do dia em uma linguagem descontraída que faz toda a diferença!</desc>
+  </programme>
+  <programme start="20251217132500 -0300" stop="20251217143000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+  </programme>
+  <programme start="20251217143000 -0300" stop="20251217153000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos.</desc>
+  </programme>
+  <programme start="20251217153000 -0300" stop="20251217161000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251217161000 -0300" stop="20251217161500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251217161500 -0300" stop="20251217164000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251217164000 -0300" stop="20251217164500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251217164500 -0300" stop="20251217175000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20251217175000 -0300" stop="20251217185500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Amazonas Record - Ao Vivo</title>
+    <desc lang="pt">Um telejornal para a população de Manaus ficar por dentro das notícias mais importantes da região. O Amazonas Record apresenta os fatos mais importantes da cidade em links ao vivo e em séries de reportagens.</desc>
+  </programme>
+  <programme start="20251217185500 -0300" stop="20251217200000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
+  <programme start="20251217200000 -0300" stop="20251217204500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Força de Mulher</title>
+    <desc lang="pt">Bahar trabalha incansavelmente para dar uma vida melhor para os seus filhos, Nisan e Doruk, apesar de todas as dificuldades que enfrenta sendo uma jovem viúva.</desc>
+  </programme>
+  <programme start="20251217204500 -0300" stop="20251217214500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Gênesis</title>
+    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.</desc>
+  </programme>
+  <programme start="20251217214500 -0300" stop="20251217230000 -0300" channel="RECORD Manaus">
+    <title lang="pt">A Grande Conquista</title>
+    <desc lang="pt">A Grande Conquista mistura famosos e anônimos em uma competição na busca por um grande prêmio. O diferencial é que, desde antes da estreia até o final, o público participará ativamente do programa, tomando d...</desc>
+  </programme>
+  <programme start="20251217230000 -0300" stop="20251217234500 -0300" channel="RECORD Manaus">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20251217234500 -0300" stop="20251218010000 -0300" channel="RECORD Manaus">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).</desc>
   </programme>
 </tv>
