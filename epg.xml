@@ -1014,11 +1014,7 @@
     <title lang="pt">SBT Manhã</title>
     <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
   </programme>
-  <programme start="20251215083000 -0300" stop="20251215093000 -0300" channel="SBT São Paulo">
-    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
-    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
-  </programme>
-  <programme start="20251215093000 -0300" stop="20251215110000 -0300" channel="SBT São Paulo">
+  <programme start="20251215083000 -0300" stop="20251215110000 -0300" channel="SBT São Paulo">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
   </programme>
@@ -1028,11 +1024,11 @@
   </programme>
   <programme start="20251215134500 -0300" stop="20251215143000 -0300" channel="SBT São Paulo">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">José Armando entrega a flor a Esmeralda e a beija. Esmeralda diz a Rosário que está grávida, mas José Armando pode não ser o pai.</desc>
   </programme>
   <programme start="20251215143000 -0300" stop="20251215153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi preocupa-se com o broche por que sabe que se Alessandro o ver vai acusar a ela de envolvimento na morte de Sônia.</desc>
   </programme>
   <programme start="20251215153000 -0300" stop="20251215164500 -0300" channel="SBT São Paulo">
     <title lang="pt">Fofocalizando</title>
@@ -1044,7 +1040,7 @@
   </programme>
   <programme start="20251215174500 -0300" stop="20251215183000 -0300" channel="SBT São Paulo">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">Raiza dá a Miguel uma nota promissória para que ele assine.</desc>
   </programme>
   <programme start="20251215183000 -0300" stop="20251215194500 -0300" channel="SBT São Paulo">
     <title lang="pt">Aqui Agora</title>
@@ -1056,14 +1052,14 @@
   </programme>
   <programme start="20251215210000 -0300" stop="20251215213000 -0300" channel="SBT São Paulo">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Sérgio fica irritado com Azul ao ver que ela tentou boicotá-lo ao publicar um vídeo nas redes sociais dizendo que não concorda com a empresa pesqueira.</desc>
   </programme>
   <programme start="20251215213000 -0300" stop="20251215223000 -0300" channel="SBT São Paulo">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
   </programme>
   <programme start="20251215223000 -0300" stop="20251216000000 -0300" channel="SBT São Paulo">
-    <title lang="pt">The Voice Brasil 2025</title>
+    <title lang="pt">The Voice Brasil 2025 - Semifinal - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251216000000 -0300" stop="20251216010000 -0300" channel="SBT São Paulo">
@@ -1075,7 +1071,7 @@
     <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
   </programme>
   <programme start="20251216013000 -0300" stop="20251216021500 -0300" channel="SBT São Paulo">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
     <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
   </programme>
   <programme start="20251216021500 -0300" stop="20251216060000 -0300" channel="SBT São Paulo">
@@ -1086,11 +1082,7 @@
     <title lang="pt">SBT Manhã</title>
     <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
   </programme>
-  <programme start="20251216083000 -0300" stop="20251216093000 -0300" channel="SBT São Paulo">
-    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
-    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
-  </programme>
-  <programme start="20251216093000 -0300" stop="20251216110000 -0300" channel="SBT São Paulo">
+  <programme start="20251216083000 -0300" stop="20251216110000 -0300" channel="SBT São Paulo">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
   </programme>
@@ -1100,21 +1092,25 @@
   </programme>
   <programme start="20251216134500 -0300" stop="20251216143000 -0300" channel="SBT São Paulo">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">Esmeralda viaja com Rosário para a capital. Esmeralda vai até o hospital falar com Lúcio. A sós, ela lhe diz que tem uma pergunta muito importante para fazer.</desc>
   </programme>
   <programme start="20251216143000 -0300" stop="20251216153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi fala para Lúcio que Thiago humilhou ela e a violentou, porém isso não significa que o queira ver morto.</desc>
   </programme>
   <programme start="20251216153000 -0300" stop="20251216164500 -0300" channel="SBT São Paulo">
     <title lang="pt">Fofocalizando</title>
     <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
   </programme>
-  <programme start="20251216164500 -0300" stop="20251216190000 -0300" channel="SBT São Paulo">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+  <programme start="20251216164500 -0300" stop="20251216174500 -0300" channel="SBT São Paulo">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
   </programme>
-  <programme start="20251216190000 -0300" stop="20251216194500 -0300" channel="SBT São Paulo">
+  <programme start="20251216174500 -0300" stop="20251216183000 -0300" channel="SBT São Paulo">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Karim diz a Mohammed que está seguro que Maria Alessandra acabará por vender o cassino para ele.</desc>
+  </programme>
+  <programme start="20251216183000 -0300" stop="20251216194500 -0300" channel="SBT São Paulo">
     <title lang="pt">Aqui Agora</title>
     <desc lang="pt">Reportagens movimentadas e vibrantes contam histórias humanas, documentam o cotidiano e revelam fatos inéditos que ajudam o telespectador a enfrentar o dia-a-dia.</desc>
   </programme>
@@ -2983,7 +2979,7 @@
     <desc lang="pt">O programa traça um perfil do microempresário brasileiro, mostra como funcionam pequenos empreendimentos e apresenta soluções criativas para problemas.</desc>
   </programme>
   <programme start="20251215031500 -0300" stop="20251215034500 -0300" channel="FUTURA HD">
-    <title lang="pt">Futurando</title>
+    <title lang="pt">Futurando - Futurando 573</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251215034500 -0300" stop="20251215040000 -0300" channel="FUTURA HD">
@@ -3095,8 +3091,8 @@
     <desc lang="pt">Qual o papel da produção de alimentos na crise climática? A partir das religiões de terreiro,este episódio aborda outras formas de produzir e consumir alimentos em um contexto demudanças no meio</desc>
   </programme>
   <programme start="20251215103500 -0300" stop="20251215110000 -0300" channel="FUTURA HD">
-    <title lang="pt">Hora De Agir - Hora De Agir</title>
-    <desc lang="pt">O Hora de Agir é um programa que procura soluções, bons exemplos e inspiração para o muito que a humanidade ainda tem que fazer para vencer a Crise Climática.</desc>
+    <title lang="pt">Hora De Agir - A preservação dos oceanos e dos recifes de coral</title>
+    <desc lang="pt">O Hora de Agir dessa semana explora a preservação dos oceanos e dos recifes de coral, mostrando como poluição e exploração ameaçam a vida marinha e por que a conservação e práticas sustentávei...</desc>
   </programme>
   <programme start="20251215110000 -0300" stop="20251215111500 -0300" channel="FUTURA HD">
     <title lang="pt">Boas Práticas Da Rede - Escola Municipal Rodrigo Otávio</title>
@@ -3123,8 +3119,8 @@
     <desc lang="pt">Apresentação do barco Gaia na Amazônia com falas de ribeirinhos dos rios Paru e Arapiuns, e presenças de Marina Silva e Drauzio Varella.</desc>
   </programme>
   <programme start="20251215130500 -0300" stop="20251215131500 -0300" channel="FUTURA HD">
-    <title lang="pt">Gaia Amazônia - Ep. 08 - A Floresta Canta</title>
-    <desc lang="pt">Benedito canta e conta a vida no rio Paru, entre trabalho e floresta. Suas vivências viram canções da memória, na musicalidade cabocla do Paru.</desc>
+    <title lang="pt">Gaia Amazônia - Ep. 02 - Nós, amazônidas</title>
+    <desc lang="pt">Maria Odila relata mudanças no Arapiuns, ameaças à Resex por madeireiros e sojeiros, e lembra os encantos do rio.</desc>
   </programme>
   <programme start="20251215131500 -0300" stop="20251215133000 -0300" channel="FUTURA HD">
     <title lang="pt">Caça Joia - MEIO AMARGO</title>
@@ -3203,8 +3199,8 @@
     <desc lang="pt">Esta edição fala sobre os musicoterapeutas. Profissionais que utilizam a música para o tratamento de reabilitação.</desc>
   </programme>
   <programme start="20251215200000 -0300" stop="20251215203000 -0300" channel="FUTURA HD">
-    <title lang="pt">Conexão - Instituto Reação/Refaunação</title>
-    <desc lang="pt">Entrevistas, depoimentos e participações trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada.</desc>
+    <title lang="pt">Conexão - Hqs Nacionais</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251215203000 -0300" stop="20251215204500 -0300" channel="FUTURA HD">
     <title lang="pt">Ciência Para Todos - A Jornada do Hidrogênio</title>
@@ -3247,8 +3243,8 @@
     <desc lang="pt">O Claquete exibe e discute o curta "Do Tanto de Telha no Mundo", em que Leo visita a mãe após anos distantes. Entre conflitos e memórias, ele revela que está ali para se despedir.</desc>
   </programme>
   <programme start="20251216000000 -0300" stop="20251216020000 -0300" channel="FUTURA HD">
-    <title lang="pt">Adeus, Lenin!</title>
-    <desc lang="pt">Em outubro de 1989, a mãe de Alex entra em coma na Alemanha Oriental. Ao despertar, 8 meses depois, Alex cria uma ilusão para protegê-la do choque da queda do Muro de Berlim.</desc>
+    <title lang="pt">Eu, Daniel Blake</title>
+    <desc lang="pt">Depois de ter sofrido um infarto, um carpinteiro de 59 anos precisa enfrentar as forças burocráticas do sistema para receber ajuda.</desc>
   </programme>
   <programme start="20251216020000 -0300" stop="20251216021500 -0300" channel="FUTURA HD">
     <title lang="pt">Entrevista - Educando Meninos</title>
@@ -3271,8 +3267,8 @@
     <desc lang="pt">Apresentação do barco Gaia na Amazônia com falas de ribeirinhos dos rios Paru e Arapiuns, e presenças de Marina Silva e Drauzio Varella.</desc>
   </programme>
   <programme start="20251216032000 -0300" stop="20251216033000 -0300" channel="FUTURA HD">
-    <title lang="pt">Gaia Amazônia - Ep. 08 - A Floresta Canta</title>
-    <desc lang="pt">Benedito canta e conta a vida no rio Paru, entre trabalho e floresta. Suas vivências viram canções da memória, na musicalidade cabocla do Paru.</desc>
+    <title lang="pt">Gaia Amazônia - Ep. 02 - Nós, amazônidas</title>
+    <desc lang="pt">Maria Odila relata mudanças no Arapiuns, ameaças à Resex por madeireiros e sojeiros, e lembra os encantos do rio.</desc>
   </programme>
   <programme start="20251216033000 -0300" stop="20251216040000 -0300" channel="FUTURA HD">
     <title lang="pt">Da Nascente À Foz - Alto Rio Solimões</title>
@@ -4703,11 +4699,7 @@
     <title lang="pt">Que Seja Doce - Do Antigo ao Moderno</title>
     <desc lang="pt">Modernizar e adaptar receitas é parte do trabalho de qualquer confeiteiro. Hoje as confeiteiras irão preparar deliciosas receitas antigas de suas famílias, mas que hoje vendem profissionalmente.</desc>
   </programme>
-  <programme start="20251216204400 -0300" stop="20251216214500 -0300" channel="GNT HD">
-    <title lang="pt">Que Seja Doce - Austrália e Nova Zelândia</title>
-    <desc lang="pt">Os confeiteiros fazem uma viagem ao outro lado do mundo e descobrem os sabores da Oceania, preparando a elegante pavlova e uma irresistível caramel slice.</desc>
-  </programme>
-  <programme start="20251216214500 -0300" stop="20251218000000 -0300" channel="GNT HD">
+  <programme start="20251216204400 -0300" stop="20251218000000 -0300" channel="GNT HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251214223000 -0300" stop="20251215003900 -0300" channel="MULTISHOW HD">
@@ -11681,55 +11673,67 @@
     <title lang="pt">VT - Parma x Lazio</title>
     <desc lang="pt">Parma e Lazio jogam pela 15ª rodada do Primeiro Turno do Campeonato Italiano, Série A, no Ennio Tardini, em Parma, Itália.</desc>
   </programme>
-  <programme start="20251216010000 -0300" stop="20251216035000 -0300" channel="Xsports HD">
-    <title lang="pt">Ultimate Tennis Showdown: Londres - Dia 3 - Sessão da Noite</title>
-    <desc lang="pt">Ultimate Tennis Showdown: torneio inovador com jogos rápidos e emocionantes, reunindo estrelas do tênis em desafios cheios de adrenalina!</desc>
+  <programme start="20251216013000 -0300" stop="20251216032000 -0300" channel="Xsports HD">
+    <title lang="pt">VT - Mundial de Handebol Feminino: França x Holanda</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251216032000 -0300" stop="20251216035000 -0300" channel="Xsports HD">
+    <title lang="pt">Freeride World Tour</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251216035000 -0300" stop="20251216051000 -0300" channel="Xsports HD">
     <title lang="pt">Mundo Em Foco</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251216051000 -0300" stop="20251216070000 -0300" channel="Xsports HD">
-    <title lang="pt">VT - Derby County x Leicester</title>
-    <desc lang="pt">Inglês Derby County e Leicester jogam pela 19ª rodada do Segundo Turno do Campeonato Inglês 2ª Divisão, Série B.</desc>
-  </programme>
-  <programme start="20251216070000 -0300" stop="20251216074500 -0300" channel="Xsports HD">
-    <title lang="pt">VT - Stuttgart x Bayern de Munique</title>
+    <title lang="pt">VT - Brighton &amp; Hove Albion x Chelsea</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251216074500 -0300" stop="20251216090000 -0300" channel="Xsports HD">
-    <title lang="pt">Bola de Prata</title>
-    <desc lang="pt">Os melhores jogadores do Campeonato Brasileiro vão passar pelo Tapete Verde do Bola de Prata. Além das estrelas do futebol, artistas e cantores vão estra no Tapete Verde, programa que mostra a chegada dos premiados.</desc>
+  <programme start="20251216070000 -0300" stop="20251216073000 -0300" channel="Xsports HD">
+    <title lang="pt">Baú Dos Campeões</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251216090000 -0300" stop="20251216110000 -0300" channel="Xsports HD">
-    <title lang="pt">VT - Brighton x West Ham</title>
-    <desc lang="pt">Brighton e West Ham jogam pela 15ª rodada do Primeiro Turno da Campeonato Premier League, Série A, no Falmer Stadium.</desc>
+  <programme start="20251216073000 -0300" stop="20251216080000 -0300" channel="Xsports HD">
+    <title lang="pt">Freeride World Tour</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251216110000 -0300" stop="20251216125000 -0300" channel="Xsports HD">
-    <title lang="pt">VT - Athletic Bilbao x Atlético de Madrid</title>
-    <desc lang="pt">Os melhores clubes e profissionais de destaque mundial. Times como Barcelona, Real Madrid e Atlético de Madrid se enfrentam em duelos imperdíveis na luta pelo título.</desc>
+  <programme start="20251216080000 -0300" stop="20251216093000 -0300" channel="Xsports HD">
+    <title lang="pt">Especial Gols Pelo Mundo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251216125000 -0300" stop="20251216135500 -0300" channel="Xsports HD">
+  <programme start="20251216093000 -0300" stop="20251216111500 -0300" channel="Xsports HD">
+    <title lang="pt">VT - Liga Nacional de Futsal: Jaraguá x Corinthians</title>
+    <desc lang="pt">Jaraguá e Corinthians se enfrentam pela partida de volta da final da Liga Nacional de Futsal. A partida acontece na Arena Jaraguá em Jaraguá do Sul/SC.</desc>
+  </programme>
+  <programme start="20251216111500 -0300" stop="20251216130000 -0300" channel="Xsports HD">
+    <title lang="pt">VT - Atlético de Madrid x Valencia</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251216130000 -0300" stop="20251216140000 -0300" channel="Xsports HD">
     <title lang="pt">Especial Campeonato Alemão</title>
     <desc lang="pt">Especial Bundesliga: gols, rivalidades e bastidores dos grandes clubes da Alemanha em um campeonato cheio de emoção e tradição!</desc>
   </programme>
-  <programme start="20251216135500 -0300" stop="20251216160000 -0300" channel="Xsports HD">
-    <title lang="pt">Liga dos Campeões de Vôlei Masculina: Lublin x Halkba - Ao Vivo</title>
+  <programme start="20251216140000 -0300" stop="20251216155000 -0300" channel="Xsports HD">
+    <title lang="pt">VT - Werder Bremen x Stuttgart</title>
+    <desc lang="pt">Werder Bremen e Stuttgart jogam pela 14ª rodada do Primeiro Turno da Campeonato Bundesliga, Série A, no Weserstadion, em Bremen, Alemanha.</desc>
+  </programme>
+  <programme start="20251216155000 -0300" stop="20251216180500 -0300" channel="Xsports HD">
+    <title lang="pt">Euroliga de Basquete Masculina: Hapoel Tel Aviv x Estrela Vermelha - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251216160000 -0300" stop="20251216165500 -0300" channel="Xsports HD">
-    <title lang="pt">VT - Inter de Milão x Como</title>
-    <desc lang="pt">Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
-  </programme>
-  <programme start="20251216165500 -0300" stop="20251216190000 -0300" channel="Xsports HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-  </programme>
-  <programme start="20251216190000 -0300" stop="20251216210000 -0300" channel="Xsports HD">
-    <title lang="pt">NBB: Rio Claro x Pato Branco - Ao Vivo</title>
+  <programme start="20251216180500 -0300" stop="20251216183000 -0300" channel="Xsports HD">
+    <title lang="pt">Total Combat</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20251216210000 -0300" stop="20251218000000 -0300" channel="Xsports HD">
+  <programme start="20251216183000 -0300" stop="20251216193000 -0300" channel="Xsports HD">
+    <title lang="pt">Especial Campeonato Alemão</title>
+    <desc lang="pt">Especial Bundesliga: gols, rivalidades e bastidores dos grandes clubes da Alemanha em um campeonato cheio de emoção e tradição!</desc>
+  </programme>
+  <programme start="20251216193000 -0300" stop="20251216220000 -0300" channel="Xsports HD">
+    <title lang="pt">Novo Basquete Brasil: Mogi x Brasília - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20251216220000 -0300" stop="20251218000000 -0300" channel="Xsports HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251214223000 -0300" stop="20251215010000 -0300" channel="ESPN 6">
@@ -13656,11 +13660,7 @@
     <title lang="pt">Pesca Mortal - Tudo se Transforma</title>
     <desc lang="pt">A tripulação do Cornelia Marie tenta salvar os equipamentos do gelo marinho. Jake se arrisca para encher os tanques antes do nascimento de seu filho.</desc>
   </programme>
-  <programme start="20251216204400 -0300" stop="20251216213900 -0300" channel="ANIMAL PLANET HD">
-    <title lang="pt">O Mistério do Grande Tubarão-Branco</title>
-    <desc lang="pt">Jimi Partington e Brandon McMillan embarcam na primeira expedição tripulada ao fundo do mar na Ilha de Guadalupe. Os dois especialistas em tubarões procuram Deep Blue, um enorme tubarão-branco de seis metros.</desc>
-  </programme>
-  <programme start="20251216213900 -0300" stop="20251218000000 -0300" channel="ANIMAL PLANET HD">
+  <programme start="20251216204400 -0300" stop="20251218000000 -0300" channel="ANIMAL PLANET HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251214233900 -0300" stop="20251215002600 -0300" channel="HISTORY">
@@ -39447,11 +39447,7 @@
     <title lang="pt">Directo América</title>
     <desc lang="pt">Todas as notícias da América Latina, informações e eventos ao vivo.</desc>
   </programme>
-  <programme start="20251216204500 -0300" stop="20251216205900 -0300" channel="FRANCE 24 HD">
-    <title lang="pt">Corresponsales</title>
-    <desc lang="pt">Um convite para dar a volta ao mundo com as melhores produções da nossa rede global de correspondentes. Não perca este novo programa France 24 todas as terças-feiras.</desc>
-  </programme>
-  <programme start="20251216205900 -0300" stop="20251218000000 -0300" channel="FRANCE 24 HD">
+  <programme start="20251216204500 -0300" stop="20251218000000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Conteúdo não disponível</title>
   </programme>
   <programme start="20251215000000 -0300" stop="20251215030000 -0300" channel="Paramount+ 1">
@@ -39915,181 +39911,185 @@
     <title lang="pt">VT - Corinthians x Juventude</title>
     <desc lang="pt">Corinthians e Juventude jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP).</desc>
   </programme>
-  <programme start="20251215011000 -0300" stop="20251215021000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Ceará x Palmeiras</title>
-    <desc lang="pt">Ceará e Palmeiras jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE).</desc>
+  <programme start="20251215011000 -0300" stop="20251215014000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Fluminense x Vasco</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
-  <programme start="20251215021000 -0300" stop="20251215031000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Sport x Grêmio</title>
-    <desc lang="pt">Acompanhe o campeonato Brasileiro Série A! Acesse o canal 250 e seja assinante Premiere.</desc>
+  <programme start="20251215014000 -0300" stop="20251215024000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Cruzeiro x Corinthians</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
-  <programme start="20251215031000 -0300" stop="20251215041000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Fluminense x Bahia</title>
-    <desc lang="pt">Fluminense e Bahia jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  <programme start="20251215024000 -0300" stop="20251215034000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Vasco x Fluminense</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
   </programme>
-  <programme start="20251215041000 -0300" stop="20251215051000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Vitória x São Paulo</title>
-    <desc lang="pt">Vitória e São Paulo jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Barradão, em Salvador (BA).</desc>
+  <programme start="20251215034000 -0300" stop="20251215044000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
   </programme>
-  <programme start="20251215051000 -0300" stop="20251215060000 -0300" channel="PREMIERE CLUBES HD">
+  <programme start="20251215044000 -0300" stop="20251215054000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Fluminense x Vasco</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251215054000 -0300" stop="20251215060000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Giro da Rodada</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
   </programme>
   <programme start="20251215060000 -0300" stop="20251215070000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Ceará x Palmeiras</title>
-    <desc lang="pt">Ceará e Palmeiras jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE).</desc>
-  </programme>
-  <programme start="20251215070000 -0300" stop="20251215080000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Botafogo x Fortaleza</title>
-    <desc lang="pt">Botafogo e Fortaleza jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Nilton Santos, no Rio de Janeiro (RJ).</desc>
-  </programme>
-  <programme start="20251215080000 -0300" stop="20251215090000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Sport x Grêmio</title>
-    <desc lang="pt">Acompanhe o campeonato Brasileiro Série A! Acesse o canal 250 e seja assinante Premiere.</desc>
-  </programme>
-  <programme start="20251215090000 -0300" stop="20251215100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Vitória x São Paulo</title>
-    <desc lang="pt">Vitória e São Paulo jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Barradão, em Salvador (BA).</desc>
-  </programme>
-  <programme start="20251215100000 -0300" stop="20251215110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Atlético-MG x Vasco</title>
-    <desc lang="pt">Acompanhe o campeonato Brasileiro Série A! Acesse o canal 250 e seja assinante Premiere.</desc>
-  </programme>
-  <programme start="20251215110000 -0300" stop="20251215120000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Santos x Cruzeiro</title>
-    <desc lang="pt">Acompanhe o campeonato Brasileiro Série A! Acesse o canal 250 e seja assinante Premiere.</desc>
-  </programme>
-  <programme start="20251215120000 -0300" stop="20251215130000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Corinthians x Juventude</title>
-    <desc lang="pt">Corinthians e Juventude jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP).</desc>
-  </programme>
-  <programme start="20251215130000 -0300" stop="20251215140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Ceará x Palmeiras</title>
-    <desc lang="pt">Ceará e Palmeiras jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE).</desc>
-  </programme>
-  <programme start="20251215140000 -0300" stop="20251215150000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Fluminense x Bahia</title>
-    <desc lang="pt">Fluminense e Bahia jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Maracanã, no Rio de Janeiro (RJ).</desc>
-  </programme>
-  <programme start="20251215150000 -0300" stop="20251215160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Internacional x Cruzeiro</title>
+    <title lang="pt">VT - Fortaleza x Ceará</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
+  <programme start="20251215070000 -0300" stop="20251215080000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Juventude x Sport</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251215080000 -0300" stop="20251215090000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Bahia x Atlético-MG</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251215090000 -0300" stop="20251215100000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Internacional x Vitória</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251215100000 -0300" stop="20251215110000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Corinthians x Bragantino</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251215110000 -0300" stop="20251215120000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
+  </programme>
+  <programme start="20251215120000 -0300" stop="20251215130000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Flamengo x São Paulo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
+  </programme>
+  <programme start="20251215130000 -0300" stop="20251215140000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Palmeiras x Mirassol</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251215140000 -0300" stop="20251215150000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Bragantino x São Paulo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
+  </programme>
+  <programme start="20251215150000 -0300" stop="20251215160000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Botafogo x Vitória</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
+  </programme>
   <programme start="20251215160000 -0300" stop="20251215170000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Vasco x São Paulo</title>
+    <title lang="pt">VT - Fluminense x Cruzeiro</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251215170000 -0300" stop="20251215180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Vitória x São Paulo</title>
-    <desc lang="pt">Vitória e São Paulo jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Barradão, em Salvador (BA).</desc>
+    <title lang="pt">VT - Botafogo x São Paulo</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
   </programme>
   <programme start="20251215180000 -0300" stop="20251215190000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Botafogo x Fortaleza</title>
-    <desc lang="pt">Botafogo e Fortaleza jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Nilton Santos, no Rio de Janeiro (RJ).</desc>
+    <title lang="pt">VT - Bahia x Vitória</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251215190000 -0300" stop="20251215200000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Sport x Grêmio</title>
-    <desc lang="pt">Acompanhe o campeonato Brasileiro Série A! Acesse o canal 250 e seja assinante Premiere.</desc>
+    <title lang="pt">VT - Palmeiras x Mirassol</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251215200000 -0300" stop="20251215210000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Atlético-MG x Vasco</title>
-    <desc lang="pt">Acompanhe o campeonato Brasileiro Série A! Acesse o canal 250 e seja assinante Premiere.</desc>
+    <title lang="pt">VT - Bragantino x São Paulo</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
   </programme>
   <programme start="20251215210000 -0300" stop="20251215220000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Corinthians x Juventude</title>
-    <desc lang="pt">Corinthians e Juventude jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, na Neo Química Arena, em São Paulo (SP).</desc>
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
   </programme>
   <programme start="20251215220000 -0300" stop="20251215230000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Santos x Cruzeiro</title>
-    <desc lang="pt">Acompanhe o campeonato Brasileiro Série A! Acesse o canal 250 e seja assinante Premiere.</desc>
+    <title lang="pt">VT - São Paulo x Corinthians</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
   </programme>
   <programme start="20251215230000 -0300" stop="20251216000000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Ceará x Palmeiras</title>
-    <desc lang="pt">Ceará e Palmeiras jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Castelão, em Fortaleza (CE).</desc>
+    <title lang="pt">VT - Palmeiras x Atlético-MG</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216000000 -0300" stop="20251216010000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Fluminense x Bahia</title>
-    <desc lang="pt">Fluminense e Bahia jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série A, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <title lang="pt">VT - Flamengo x Fluminense</title>
+    <desc lang="pt">O campeonato Carioca começou assista mais uma partida  emocionante aqui no sportv!</desc>
   </programme>
   <programme start="20251216010000 -0300" stop="20251216020000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Juventude x Vitória</title>
+    <title lang="pt">VT - Fortaleza x Bahia</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216020000 -0300" stop="20251216030000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - São Paulo x Sport</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
+    <title lang="pt">VT - Mirassol x Santos</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216030000 -0300" stop="20251216040000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Grêmio x Atlético-MG</title>
+    <title lang="pt">VT - Internacional x Ceará</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216040000 -0300" stop="20251216050000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Fortaleza x Fluminense</title>
+    <title lang="pt">VT - Cruzeiro x Juventude</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216050000 -0300" stop="20251216060000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Flamengo x Internacional</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <title lang="pt">VT - Vitória x Bragantino</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216060000 -0300" stop="20251216070000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Palmeiras x Botafogo</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
+    <title lang="pt">VT - Sport x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
   </programme>
   <programme start="20251216070000 -0300" stop="20251216080000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Vasco x Santos</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <title lang="pt">VT - Ceará x Mirassol</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216080000 -0300" stop="20251216090000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Bahia x Corinthians</title>
-    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <title lang="pt">VT - Vitória x Sport</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
   </programme>
   <programme start="20251216090000 -0300" stop="20251216100000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Bragantino x Ceará</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
+    <title lang="pt">VT - Santos x Atlético-MG</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
   </programme>
   <programme start="20251216100000 -0300" stop="20251216110000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Ceará x Grêmio</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <title lang="pt">VT - Internacional x São Paulo</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
   </programme>
   <programme start="20251216110000 -0300" stop="20251216120000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Botafogo x Juventude</title>
-    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+    <title lang="pt">VT - Santos x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
   </programme>
   <programme start="20251216120000 -0300" stop="20251216130000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Fluminense x Bragantino</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
   </programme>
   <programme start="20251216130000 -0300" stop="20251216140000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Atlético-MG x São Paulo</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
-  </programme>
-  <programme start="20251216140000 -0300" stop="20251216150000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Sport x Palmeiras</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-  </programme>
-  <programme start="20251216150000 -0300" stop="20251216160000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Internacional x Cruzeiro</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
-  </programme>
-  <programme start="20251216160000 -0300" stop="20251216170000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Mirassol x Fortaleza</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
-  </programme>
-  <programme start="20251216170000 -0300" stop="20251216180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Vitória x Flamengo</title>
+    <title lang="pt">VT - Bragantino x Flamengo</title>
     <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
+  <programme start="20251216140000 -0300" stop="20251216150000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Fluminense x Palmeiras</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251216150000 -0300" stop="20251216160000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Juventude x São Paulo</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
+  </programme>
+  <programme start="20251216160000 -0300" stop="20251216170000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Sport x Santos</title>
+    <desc lang="pt">Confira mais um jogão do Brasileirão Masculino Série B! Tem coisa pra caramba!</desc>
+  </programme>
+  <programme start="20251216170000 -0300" stop="20251216180000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">VT - Fortaleza x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+  </programme>
   <programme start="20251216180000 -0300" stop="20251216190000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Santos x Bahia</title>
-    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos! Tá no Brasileirão, tá no sportv.</desc>
+    <title lang="pt">VT - Mirassol x Vitória</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
   </programme>
   <programme start="20251216190000 -0300" stop="20251216200000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Bragantino x Botafogo</title>
-    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil! A Copa do Brasil, tem que ver no sportv!</desc>
+    <title lang="pt">VT - Internacional x Vasco</title>
+    <desc lang="pt">Aqui o Brasileirão tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário!</desc>
   </programme>
   <programme start="20251216200000 -0300" stop="20251216210000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Palmeiras x Corinthians</title>
-    <desc lang="pt">O ciclo de 2025 iniciou, os jogos com finais inesperados, com toda e emoção que a Copa do Brasil tem, Tem coisas que só acontecem na Copa do Brasil! A Copa do Brasil, tem que ver no sportv!</desc>
+    <title lang="pt">VT - Flamengo x Atlético-MG</title>
+    <desc lang="pt">Brasileirão no sportv tem coisa pra caramba! Tem a melhor qualidade com o 4K, tem o Aquecimento com o melhor pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos no melhor horário! Tá no Brasileirão...</desc>
   </programme>
   <programme start="20251216210000 -0300" stop="20251218000000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Conteúdo não disponível</title>
@@ -41614,11 +41614,11 @@
   </programme>
   <programme start="20251215134500 -0300" stop="20251215143000 -0300" channel="TV JORNAL">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">José Armando entrega a flor a Esmeralda e a beija. Esmeralda diz a Rosário que está grávida, mas José Armando pode não ser o pai.</desc>
   </programme>
   <programme start="20251215143000 -0300" stop="20251215153000 -0300" channel="TV JORNAL">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi preocupa-se com o broche por que sabe que se Alessandro o ver vai acusar a ela de envolvimento na morte de Sônia.</desc>
   </programme>
   <programme start="20251215153000 -0300" stop="20251215164500 -0300" channel="TV JORNAL">
     <title lang="pt">Fofocalizando</title>
@@ -41630,7 +41630,7 @@
   </programme>
   <programme start="20251215174500 -0300" stop="20251215183000 -0300" channel="TV JORNAL">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">Raiza dá a Miguel uma nota promissória para que ele assine.</desc>
   </programme>
   <programme start="20251215183000 -0300" stop="20251215194500 -0300" channel="TV JORNAL">
     <title lang="pt">O Povo na TV</title>
@@ -41642,7 +41642,7 @@
   </programme>
   <programme start="20251215210000 -0300" stop="20251215213000 -0300" channel="TV JORNAL">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Sérgio fica irritado com Azul ao ver que ela tentou boicotá-lo ao publicar um vídeo nas redes sociais dizendo que não concorda com a empresa pesqueira.</desc>
   </programme>
   <programme start="20251215213000 -0300" stop="20251215223000 -0300" channel="TV JORNAL">
     <title lang="pt">Programa do Ratinho</title>
@@ -41661,7 +41661,7 @@
     <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
   </programme>
   <programme start="20251216013000 -0300" stop="20251216021500 -0300" channel="TV JORNAL">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
     <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
   </programme>
   <programme start="20251216021500 -0300" stop="20251216044500 -0300" channel="TV JORNAL">
@@ -41706,11 +41706,11 @@
   </programme>
   <programme start="20251216134500 -0300" stop="20251216143000 -0300" channel="TV JORNAL">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">Esmeralda viaja com Rosário para a capital. Esmeralda vai até o hospital falar com Lúcio. A sós, ela lhe diz que tem uma pergunta muito importante para fazer.</desc>
   </programme>
   <programme start="20251216143000 -0300" stop="20251216153000 -0300" channel="TV JORNAL">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi fala para Lúcio que Thiago humilhou ela e a violentou, porém isso não significa que o queira ver morto.</desc>
   </programme>
   <programme start="20251216153000 -0300" stop="20251216164500 -0300" channel="TV JORNAL">
     <title lang="pt">Fofocalizando</title>
@@ -41730,7 +41730,7 @@
   </programme>
   <programme start="20251216210000 -0300" stop="20251216221500 -0300" channel="TV JORNAL">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Adriana faz Gabriel saber que é momento de ele ir embora de La Peñita, já que está prestes a perder Marina e ela, Nicolás.</desc>
   </programme>
   <programme start="20251216221500 -0300" stop="20251216231500 -0300" channel="TV JORNAL">
     <title lang="pt">Programa do Ratinho</title>
@@ -44002,11 +44002,11 @@
   </programme>
   <programme start="20251215134500 -0300" stop="20251215143000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">José Armando entrega a flor a Esmeralda e a beija. Esmeralda diz a Rosário que está grávida, mas José Armando pode não ser o pai.</desc>
   </programme>
   <programme start="20251215143000 -0300" stop="20251215153000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi preocupa-se com o broche por que sabe que se Alessandro o ver vai acusar a ela de envolvimento na morte de Sônia.</desc>
   </programme>
   <programme start="20251215153000 -0300" stop="20251215164500 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Fofocalizando</title>
@@ -44018,7 +44018,7 @@
   </programme>
   <programme start="20251215174500 -0300" stop="20251215183000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">Raiza dá a Miguel uma nota promissória para que ele assine.</desc>
   </programme>
   <programme start="20251215183000 -0300" stop="20251215194500 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Aqui Agora</title>
@@ -44030,7 +44030,7 @@
   </programme>
   <programme start="20251215210000 -0300" stop="20251215213000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Sérgio fica irritado com Azul ao ver que ela tentou boicotá-lo ao publicar um vídeo nas redes sociais dizendo que não concorda com a empresa pesqueira.</desc>
   </programme>
   <programme start="20251215213000 -0300" stop="20251215223000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Programa do Ratinho</title>
@@ -44049,7 +44049,7 @@
     <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
   </programme>
   <programme start="20251216013000 -0300" stop="20251216021500 -0300" channel="TV JANGADEIRO">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
     <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
   </programme>
   <programme start="20251216021500 -0300" stop="20251216044500 -0300" channel="TV JANGADEIRO">
@@ -44090,11 +44090,11 @@
   </programme>
   <programme start="20251216134500 -0300" stop="20251216143000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">Esmeralda viaja com Rosário para a capital. Esmeralda vai até o hospital falar com Lúcio. A sós, ela lhe diz que tem uma pergunta muito importante para fazer.</desc>
   </programme>
   <programme start="20251216143000 -0300" stop="20251216153000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi fala para Lúcio que Thiago humilhou ela e a violentou, porém isso não significa que o queira ver morto.</desc>
   </programme>
   <programme start="20251216153000 -0300" stop="20251216164500 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Fofocalizando</title>
@@ -44114,7 +44114,7 @@
   </programme>
   <programme start="20251216210000 -0300" stop="20251216221500 -0300" channel="TV JANGADEIRO">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Adriana faz Gabriel saber que é momento de ele ir embora de La Peñita, já que está prestes a perder Marina e ela, Nicolás.</desc>
   </programme>
   <programme start="20251216221500 -0300" stop="20251216231500 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Programa do Ratinho</title>
@@ -45078,11 +45078,11 @@
   </programme>
   <programme start="20251215134500 -0300" stop="20251215143000 -0300" channel="TV Ponta Verde">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">José Armando entrega a flor a Esmeralda e a beija. Esmeralda diz a Rosário que está grávida, mas José Armando pode não ser o pai.</desc>
   </programme>
   <programme start="20251215143000 -0300" stop="20251215153000 -0300" channel="TV Ponta Verde">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi preocupa-se com o broche por que sabe que se Alessandro o ver vai acusar a ela de envolvimento na morte de Sônia.</desc>
   </programme>
   <programme start="20251215153000 -0300" stop="20251215164500 -0300" channel="TV Ponta Verde">
     <title lang="pt">Fofocalizando</title>
@@ -45094,7 +45094,7 @@
   </programme>
   <programme start="20251215174500 -0300" stop="20251215183000 -0300" channel="TV Ponta Verde">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">Raiza dá a Miguel uma nota promissória para que ele assine.</desc>
   </programme>
   <programme start="20251215183000 -0300" stop="20251215194500 -0300" channel="TV Ponta Verde">
     <title lang="pt">Aqui Agora</title>
@@ -45106,7 +45106,7 @@
   </programme>
   <programme start="20251215210000 -0300" stop="20251215213000 -0300" channel="TV Ponta Verde">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Sérgio fica irritado com Azul ao ver que ela tentou boicotá-lo ao publicar um vídeo nas redes sociais dizendo que não concorda com a empresa pesqueira.</desc>
   </programme>
   <programme start="20251215213000 -0300" stop="20251215223000 -0300" channel="TV Ponta Verde">
     <title lang="pt">Programa do Ratinho</title>
@@ -45125,7 +45125,7 @@
     <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
   </programme>
   <programme start="20251216013000 -0300" stop="20251216021500 -0300" channel="TV Ponta Verde">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
     <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
   </programme>
   <programme start="20251216021500 -0300" stop="20251216044500 -0300" channel="TV Ponta Verde">
@@ -45158,11 +45158,11 @@
   </programme>
   <programme start="20251216134500 -0300" stop="20251216143000 -0300" channel="TV Ponta Verde">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">Esmeralda viaja com Rosário para a capital. Esmeralda vai até o hospital falar com Lúcio. A sós, ela lhe diz que tem uma pergunta muito importante para fazer.</desc>
   </programme>
   <programme start="20251216143000 -0300" stop="20251216153000 -0300" channel="TV Ponta Verde">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi fala para Lúcio que Thiago humilhou ela e a violentou, porém isso não significa que o queira ver morto.</desc>
   </programme>
   <programme start="20251216153000 -0300" stop="20251216164500 -0300" channel="TV Ponta Verde">
     <title lang="pt">Fofocalizando</title>
@@ -45182,7 +45182,7 @@
   </programme>
   <programme start="20251216210000 -0300" stop="20251216221500 -0300" channel="TV Ponta Verde">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Adriana faz Gabriel saber que é momento de ele ir embora de La Peñita, já que está prestes a perder Marina e ela, Nicolás.</desc>
   </programme>
   <programme start="20251216221500 -0300" stop="20251216231500 -0300" channel="TV Ponta Verde">
     <title lang="pt">Programa do Ratinho</title>
@@ -46348,11 +46348,7 @@
     <title lang="pt">SBT Manhã</title>
     <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
   </programme>
-  <programme start="20251215083000 -0300" stop="20251215093000 -0300" channel="SBT RS">
-    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
-    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
-  </programme>
-  <programme start="20251215093000 -0300" stop="20251215110000 -0300" channel="SBT RS">
+  <programme start="20251215083000 -0300" stop="20251215110000 -0300" channel="SBT RS">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
   </programme>
@@ -46366,11 +46362,11 @@
   </programme>
   <programme start="20251215134500 -0300" stop="20251215143000 -0300" channel="SBT RS">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">José Armando entrega a flor a Esmeralda e a beija. Esmeralda diz a Rosário que está grávida, mas José Armando pode não ser o pai.</desc>
   </programme>
   <programme start="20251215143000 -0300" stop="20251215153000 -0300" channel="SBT RS">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi preocupa-se com o broche por que sabe que se Alessandro o ver vai acusar a ela de envolvimento na morte de Sônia.</desc>
   </programme>
   <programme start="20251215153000 -0300" stop="20251215164500 -0300" channel="SBT RS">
     <title lang="pt">Fofocalizando</title>
@@ -46382,7 +46378,7 @@
   </programme>
   <programme start="20251215174500 -0300" stop="20251215183000 -0300" channel="SBT RS">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+    <desc lang="pt">Raiza dá a Miguel uma nota promissória para que ele assine.</desc>
   </programme>
   <programme start="20251215183000 -0300" stop="20251215194500 -0300" channel="SBT RS">
     <title lang="pt">SBT Rio Grande - 2º Edição</title>
@@ -46394,14 +46390,14 @@
   </programme>
   <programme start="20251215210000 -0300" stop="20251215213000 -0300" channel="SBT RS">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Sérgio fica irritado com Azul ao ver que ela tentou boicotá-lo ao publicar um vídeo nas redes sociais dizendo que não concorda com a empresa pesqueira.</desc>
   </programme>
   <programme start="20251215213000 -0300" stop="20251215223000 -0300" channel="SBT RS">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
   </programme>
   <programme start="20251215223000 -0300" stop="20251216000000 -0300" channel="SBT RS">
-    <title lang="pt">The Voice Brasil 2025</title>
+    <title lang="pt">The Voice Brasil 2025 - Semifinal - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251216000000 -0300" stop="20251216010000 -0300" channel="SBT RS">
@@ -46413,7 +46409,7 @@
     <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...</desc>
   </programme>
   <programme start="20251216013000 -0300" stop="20251216021500 -0300" channel="SBT RS">
-    <title lang="pt">SBT Podnight</title>
+    <title lang="pt">SBT Podnight - Papagaio Falante</title>
     <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.</desc>
   </programme>
   <programme start="20251216021500 -0300" stop="20251216060000 -0300" channel="SBT RS">
@@ -46424,11 +46420,7 @@
     <title lang="pt">SBT Manhã</title>
     <desc lang="pt">O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos.</desc>
   </programme>
-  <programme start="20251216083000 -0300" stop="20251216093000 -0300" channel="SBT RS">
-    <title lang="pt">Bom Dia &amp; Cia Com Patati Patatá</title>
-    <desc lang="pt">Patati e Patatá receberão diversos convidados, como atores, cantores, gamers e influenciadores, que participarão de brincadeiras e gincanas.</desc>
-  </programme>
-  <programme start="20251216093000 -0300" stop="20251216110000 -0300" channel="SBT RS">
+  <programme start="20251216083000 -0300" stop="20251216110000 -0300" channel="SBT RS">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
   </programme>
@@ -46442,21 +46434,25 @@
   </programme>
   <programme start="20251216134500 -0300" stop="20251216143000 -0300" channel="SBT RS">
     <title lang="pt">Esmeralda</title>
-    <desc lang="pt">Bianca Castanho interpreta a personagem principal Esmeralda, uma moça cega que nasce aparentemente morta numa família rica.</desc>
+    <desc lang="pt">Esmeralda viaja com Rosário para a capital. Esmeralda vai até o hospital falar com Lúcio. A sós, ela lhe diz que tem uma pergunta muito importante para fazer.</desc>
   </programme>
   <programme start="20251216143000 -0300" stop="20251216153000 -0300" channel="SBT RS">
     <title lang="pt">Rubi</title>
-    <desc lang="pt">Rubi é uma mulher linda e capaz de tudo para sair da pobreza. Ambiciosa e perversa, a jovem usa a beleza para tentar conquistar um homem rico.</desc>
+    <desc lang="pt">Rubi fala para Lúcio que Thiago humilhou ela e a violentou, porém isso não significa que o queira ver morto.</desc>
   </programme>
   <programme start="20251216153000 -0300" stop="20251216164500 -0300" channel="SBT RS">
     <title lang="pt">Fofocalizando</title>
     <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
   </programme>
-  <programme start="20251216164500 -0300" stop="20251216190000 -0300" channel="SBT RS">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+  <programme start="20251216164500 -0300" stop="20251216174500 -0300" channel="SBT RS">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
   </programme>
-  <programme start="20251216190000 -0300" stop="20251216194500 -0300" channel="SBT RS">
+  <programme start="20251216174500 -0300" stop="20251216183000 -0300" channel="SBT RS">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Karim diz a Mohammed que está seguro que Maria Alessandra acabará por vender o cassino para ele.</desc>
+  </programme>
+  <programme start="20251216183000 -0300" stop="20251216194500 -0300" channel="SBT RS">
     <title lang="pt">SBT Rio Grande - 2º Edição</title>
     <desc lang="pt">O SBT Rio Grande 2ª Edição é o programa jornalístico noturno do SBT, sob o comando de Marcelo Chemale.</desc>
   </programme>
@@ -46464,17 +46460,17 @@
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
   </programme>
-  <programme start="20251216210000 -0300" stop="20251216221500 -0300" channel="SBT RS">
+  <programme start="20251216210000 -0300" stop="20251216220000 -0300" channel="SBT RS">
     <title lang="pt">A.Mar</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">Adriana faz Gabriel saber que é momento de ele ir embora de La Peñita, já que está prestes a perder Marina e ela, Nicolás.</desc>
   </programme>
-  <programme start="20251216221500 -0300" stop="20251216231500 -0300" channel="SBT RS">
+  <programme start="20251216220000 -0300" stop="20251216230000 -0300" channel="SBT RS">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
   </programme>
-  <programme start="20251216231500 -0300" stop="20251217001500 -0300" channel="SBT RS">
-    <title lang="pt">SBT Repórter</title>
-    <desc lang="pt">O "SBT Repórter" é um programa jornalístico que discute determinado assunto por meio de investigação detalhada. O programa tem como objetivo mostrar fatos históricos, descobertas científicas e assuntos ...</desc>
+  <programme start="20251216230000 -0300" stop="20251217003000 -0300" channel="SBT RS">
+    <title lang="pt">Natal da Boiadeira com Ana Castela</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20251217001500 -0300" stop="20251217011500 -0300" channel="SBT RS">
     <title lang="pt">The Noite com Danilo Gentili</title>
