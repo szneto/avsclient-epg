@@ -2289,7 +2289,23 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Programa do João</title>
     <desc lang="pt">O Programa do João mistura passado e presente, trazendo boas conversas e histórias inesquecíveis com o carisma de João Silva. O programa aposta em entrevistas reveladoras.</desc>
   </programme>
+  <programme start="20260830001500 -0300" stop="20260830014500 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Supercine: Águas Profundas</title>
+    <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
+  </programme>
   <programme start="20260830001500 -0300" stop="20260830014500 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">Supercine: Águas Profundas</title>
+    <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
+  </programme>
+  <programme start="20260830001500 -0300" stop="20260830014500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Supercine: Águas Profundas</title>
+    <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
+  </programme>
+  <programme start="20260830001500 -0300" stop="20260830014500 -0300" channel="TV PARAIBA">
+    <title lang="pt">Supercine: Águas Profundas</title>
+    <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
+  </programme>
+  <programme start="20260830001500 -0300" stop="20260830014500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Supercine: Águas Profundas</title>
     <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
   </programme>
@@ -2301,9 +2317,17 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Supercine: Águas Profundas</title>
     <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
   </programme>
+  <programme start="20260830001500 -0300" stop="20260830014500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Supercine: Águas Profundas</title>
+    <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
+  </programme>
   <programme start="20260830001500 -0300" stop="20260830011500 -0300" channel="TH+ SBT Tambaú">
     <title lang="pt">Programa do João</title>
     <desc lang="pt">O Programa do João mistura passado e presente, trazendo boas conversas e histórias inesquecíveis com o carisma de João Silva. O programa aposta em entrevistas reveladoras.</desc>
+  </programme>
+  <programme start="20260830001500 -0300" stop="20260830014500 -0300" channel="RBS TV PORTO ALEGRE">
+    <title lang="pt">Supercine: Águas Profundas</title>
+    <desc lang="pt">Vic e Melinda passam por uma crise no casamento e, por isso, decidem abrir o relacionamento. Quando os amantes de Melinda começam a ser assassinados, Vic se torna o principal suspeito.</desc>
   </programme>
   <programme start="20260830001500 -0300" stop="20260830011500 -0300" channel="SBT RS">
     <title lang="pt">Programa do João</title>
@@ -3609,30 +3633,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Vida de Merendeira</title>
     <desc lang="pt">Valorizar as características culturais e culinárias de todas as regiões do Brasil priorizando os alimentos in natura da agricultura familiar.</desc>
   </programme>
-  <programme start="20260830013000 -0300" stop="20260830021500 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
-  </programme>
-  <programme start="20260830013000 -0300" stop="20260830021500 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
-  </programme>
-  <programme start="20260830013000 -0300" stop="20260830021500 -0300" channel="TV PARAIBA">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
-  </programme>
-  <programme start="20260830013000 -0300" stop="20260830021500 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
-  </programme>
-  <programme start="20260830013000 -0300" stop="20260830021500 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
-  </programme>
-  <programme start="20260830013000 -0300" stop="20260830021500 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
-  </programme>
   <programme start="20260830013013 -0300" stop="20260830013712 -0300" channel="DumDum">
     <title lang="pt">Flash, O Aventureiro - Jacaré</title>
     <desc lang="pt">Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
@@ -3813,11 +3813,27 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">A Nobreza do Amor</title>
     <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
   </programme>
+  <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
+  </programme>
   <programme start="20260830014500 -0300" stop="20260830060000 -0300" channel="TV JORNAL">
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
   </programme>
   <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
+  </programme>
+  <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
+  </programme>
+  <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="TV PARAIBA">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
+  </programme>
+  <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">A Nobreza do Amor</title>
     <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
   </programme>
@@ -3836,6 +3852,14 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260830014500 -0300" stop="20260830060000 -0300" channel="TV Ponta Verde">
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
+  </programme>
+  <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
+  </programme>
+  <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="RBS TV PORTO ALEGRE">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Virgínia pede um novo favor a Sebastião. Belmira registra quando Salma  fala sobre seu desinteresse no casamento com Fuad. Mirinho descobre que Tonho e Lúcia/Alika marcaram a data de seu casamento.</desc>
   </programme>
   <programme start="20260830014500 -0300" stop="20260830023000 -0300" channel="RPC CURITIBA">
     <title lang="pt">A Nobreza do Amor</title>
@@ -4487,25 +4511,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
   </programme>
-  <programme start="20260830021500 -0300" stop="20260830030000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
-  </programme>
   <programme start="20260830021500 -0300" stop="20260830031500 -0300" channel="TV Tribuna - PE">
     <title lang="pt">Cine Privé: Prazer de Outro Mundo</title>
     <desc lang="pt">Dois alienígenas vêm à Terra em busca do seu companheiro desaparecido, Kara, e descobrem que ela tem um intenso interesse no comportamento sexual humano.</desc>
-  </programme>
-  <programme start="20260830021500 -0300" stop="20260830030000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
-  </programme>
-  <programme start="20260830021500 -0300" stop="20260830030000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
-  </programme>
-  <programme start="20260830021500 -0300" stop="20260830030000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
   </programme>
   <programme start="20260830021500 -0300" stop="20260830031500 -0300" channel="TV Clube">
     <title lang="pt">Cine Privé: Prazer de Outro Mundo</title>
@@ -4515,10 +4523,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Cine Privé: Prazer de Outro Mundo</title>
     <desc lang="pt">Dois alienígenas vêm à Terra em busca do seu companheiro desaparecido, Kara, e descobrem que ela tem um intenso interesse no comportamento sexual humano.</desc>
   </programme>
-  <programme start="20260830021500 -0300" stop="20260830030000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
-  </programme>
   <programme start="20260830021500 -0300" stop="20260830031500 -0300" channel="TV Arapuan">
     <title lang="pt">Cine Privé: Prazer de Outro Mundo</title>
     <desc lang="pt">Dois alienígenas vêm à Terra em busca do seu companheiro desaparecido, Kara, e descobrem que ela tem um intenso interesse no comportamento sexual humano.</desc>
@@ -4526,10 +4530,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260830021500 -0300" stop="20260830050000 -0300" channel="TH+ SBT Tambaú">
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
-  </programme>
-  <programme start="20260830021500 -0300" stop="20260830030000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
   </programme>
   <programme start="20260830021500 -0300" stop="20260830031500 -0300" channel="BAND RS">
     <title lang="pt">Cine Privé: Prazer de Outro Mundo</title>
@@ -4815,7 +4815,23 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Por Você</title>
     <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
   </programme>
+  <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
+  </programme>
   <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
+  </programme>
+  <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
+  </programme>
+  <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="TV PARAIBA">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
+  </programme>
+  <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Por Você</title>
     <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
   </programme>
@@ -4824,6 +4840,14 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
   </programme>
   <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
+  </programme>
+  <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
+  </programme>
+  <programme start="20260830023000 -0300" stop="20260830031500 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Por Você</title>
     <desc lang="pt">Peixe e seus irmãos conseguem distrair Vera e fugir da casa de acolhimento. Juarez sofre um acidente e se culpa ao lembrar de Juli.</desc>
   </programme>
@@ -5363,10 +5387,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">IURD</title>
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
   </programme>
-  <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-  </programme>
   <programme start="20260830030000 -0300" stop="20260830050500 -0300" channel="REDE TV! Recife">
     <title lang="pt">Igreja da Graça No Seu Lar</title>
     <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
@@ -5374,18 +5394,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="TV GUARARAPES">
     <title lang="pt">IURD</title>
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
-  </programme>
-  <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-  </programme>
-  <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-  </programme>
-  <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
   </programme>
   <programme start="20260830030000 -0300" stop="20260830060000 -0300" channel="TV CIDADE">
     <title lang="pt">IURD</title>
@@ -5395,10 +5403,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">IURD</title>
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
   </programme>
-  <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
-  </programme>
   <programme start="20260830030000 -0300" stop="20260830050500 -0300" channel="TV NORTE PARAÍBA">
     <title lang="pt">Igreja da Graça No Seu Lar</title>
     <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
@@ -5406,10 +5410,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260830030000 -0300" stop="20260830060000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Programação IURD</title>
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
-  </programme>
-  <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
-    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
   </programme>
   <programme start="20260830030000 -0300" stop="20260830050000 -0300" channel="TV PAMPA - PORTO ALEGRE">
     <title lang="pt">Show da Fé</title>
@@ -5620,11 +5620,27 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
   </programme>
+  <programme start="20260830031500 -0300" stop="20260830043500 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Corujão: L.O.C.A.</title>
+    <desc lang="pt">Três mulheres participando das reuniões da LOCA, a Liga das Obsessivas Compulsivas por Amor, acabam se conhecendo e percebem que possuem mais em comum do que pensam.</desc>
+  </programme>
   <programme start="20260830031500 -0300" stop="20260830040000 -0300" channel="TV Tribuna - PE">
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
   </programme>
   <programme start="20260830031500 -0300" stop="20260830043500 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">Corujão: L.O.C.A.</title>
+    <desc lang="pt">Três mulheres participando das reuniões da LOCA, a Liga das Obsessivas Compulsivas por Amor, acabam se conhecendo e percebem que possuem mais em comum do que pensam.</desc>
+  </programme>
+  <programme start="20260830031500 -0300" stop="20260830043500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Corujão: L.O.C.A.</title>
+    <desc lang="pt">Três mulheres participando das reuniões da LOCA, a Liga das Obsessivas Compulsivas por Amor, acabam se conhecendo e percebem que possuem mais em comum do que pensam.</desc>
+  </programme>
+  <programme start="20260830031500 -0300" stop="20260830043500 -0300" channel="TV PARAIBA">
+    <title lang="pt">Corujão: L.O.C.A.</title>
+    <desc lang="pt">Três mulheres participando das reuniões da LOCA, a Liga das Obsessivas Compulsivas por Amor, acabam se conhecendo e percebem que possuem mais em comum do que pensam.</desc>
+  </programme>
+  <programme start="20260830031500 -0300" stop="20260830043500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Corujão: L.O.C.A.</title>
     <desc lang="pt">Três mulheres participando das reuniões da LOCA, a Liga das Obsessivas Compulsivas por Amor, acabam se conhecendo e percebem que possuem mais em comum do que pensam.</desc>
   </programme>
@@ -5644,9 +5660,17 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
   </programme>
+  <programme start="20260830031500 -0300" stop="20260830043500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Corujão: L.O.C.A.</title>
+    <desc lang="pt">Três mulheres participando das reuniões da LOCA, a Liga das Obsessivas Compulsivas por Amor, acabam se conhecendo e percebem que possuem mais em comum do que pensam.</desc>
+  </programme>
   <programme start="20260830031500 -0300" stop="20260830040000 -0300" channel="TV Arapuan">
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
+  </programme>
+  <programme start="20260830031500 -0300" stop="20260830043500 -0300" channel="RBS TV PORTO ALEGRE">
+    <title lang="pt">Corujão: L.O.C.A.</title>
+    <desc lang="pt">Três mulheres participando das reuniões da LOCA, a Liga das Obsessivas Compulsivas por Amor, acabam se conhecendo e percebem que possuem mais em comum do que pensam.</desc>
   </programme>
   <programme start="20260830031500 -0300" stop="20260830040000 -0300" channel="BAND RS">
     <title lang="pt">Chama no Privé</title>
@@ -6565,10 +6589,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Cinema na Madrugada: Charlie, um Grande Garoto</title>
     <desc lang="pt">Charlie Bartlett é um aluno brilhante, acostumado a usar seu charme para conseguir o que deseja.</desc>
   </programme>
-  <programme start="20260830040000 -0300" stop="20260830055000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Corujão: Perlimps</title>
-    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
-  </programme>
   <programme start="20260830040000 -0300" stop="20260830053000 -0300" channel="TV Tribuna - PE">
     <title lang="pt">Cinema na Madrugada: Charlie, um Grande Garoto</title>
     <desc lang="pt">Charlie Bartlett é um aluno brilhante, acostumado a usar seu charme para conseguir o que deseja.</desc>
@@ -6576,18 +6596,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260830040000 -0300" stop="20260830050000 -0300" channel="TV GUARARAPES">
     <title lang="pt">IURD</title>
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
-  </programme>
-  <programme start="20260830040000 -0300" stop="20260830055000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Corujão: Perlimps</title>
-    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
-  </programme>
-  <programme start="20260830040000 -0300" stop="20260830055000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Corujão: Perlimps</title>
-    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
-  </programme>
-  <programme start="20260830040000 -0300" stop="20260830055000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Corujão: Perlimps</title>
-    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
   </programme>
   <programme start="20260830040000 -0300" stop="20260830053000 -0300" channel="TV Clube">
     <title lang="pt">Cinema na Madrugada: Charlie, um Grande Garoto</title>
@@ -6597,17 +6605,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Cinema na Madrugada: Charlie, um Grande Garoto</title>
     <desc lang="pt">Charlie Bartlett é um aluno brilhante, acostumado a usar seu charme para conseguir o que deseja.</desc>
   </programme>
-  <programme start="20260830040000 -0300" stop="20260830055000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Corujão: Perlimps</title>
-    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
-  </programme>
   <programme start="20260830040000 -0300" stop="20260830053000 -0300" channel="TV Arapuan">
     <title lang="pt">Cinema na Madrugada: Charlie, um Grande Garoto</title>
     <desc lang="pt">Charlie Bartlett é um aluno brilhante, acostumado a usar seu charme para conseguir o que deseja.</desc>
-  </programme>
-  <programme start="20260830040000 -0300" stop="20260830055000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Corujão: Perlimps</title>
-    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
   </programme>
   <programme start="20260830040000 -0300" stop="20260830053000 -0300" channel="BAND RS">
     <title lang="pt">Cinema na Madrugada: Charlie, um Grande Garoto</title>
@@ -7187,7 +7187,23 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Corujão II: Perlimps</title>
     <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
   </programme>
+  <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Corujão II: Perlimps</title>
+    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
+  </programme>
   <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">Corujão II: Perlimps</title>
+    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
+  </programme>
+  <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Corujão II: Perlimps</title>
+    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
+  </programme>
+  <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="TV PARAIBA">
+    <title lang="pt">Corujão II: Perlimps</title>
+    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
+  </programme>
+  <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Corujão II: Perlimps</title>
     <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
   </programme>
@@ -7196,6 +7212,14 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
   </programme>
   <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Corujão II: Perlimps</title>
+    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
+  </programme>
+  <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Corujão II: Perlimps</title>
+    <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
+  </programme>
+  <programme start="20260830043500 -0300" stop="20260830055000 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Corujão II: Perlimps</title>
     <desc lang="pt">Claé e Bruô são de reinos rivais, mas para salvar a floresta são enviados atrás dos Perlimps. Eles precisam deixar suas diferenças de lado para acharem as únicas criaturas capazes de trazer a paz.</desc>
   </programme>
@@ -16334,9 +16358,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Behind The Crown - A Jornada em Busca da Coroa</title>
     <desc lang="pt">Cinco misses chegam ao confinamento, determinadas a superar desafios e conquistar o título de Miss Universo Brasil 2022.</desc>
   </programme>
-  <programme start="20260830120500 -0300" stop="20260830153000 -0300" channel="REDE TV! HD">
-    <title lang="pt">A Hora Do Zap</title>
-    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+  <programme start="20260830120500 -0300" stop="20260830131000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
   </programme>
   <programme start="20260830120500 -0300" stop="20260830131000 -0300" channel="REDE TV! São Paulo">
     <title lang="pt">Ultrafarma</title>
@@ -16706,7 +16730,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
-  <programme start="20260830123000 -0300" stop="20260830143000 -0300" channel="GLOBO RECIFE">
+  <programme start="20260830123000 -0300" stop="20260830142500 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
@@ -16714,15 +16738,15 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
-  <programme start="20260830123000 -0300" stop="20260830143000 -0300" channel="TV CABO BRANCO">
+  <programme start="20260830123000 -0300" stop="20260830142500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
-  <programme start="20260830123000 -0300" stop="20260830143000 -0300" channel="TV PARAIBA">
+  <programme start="20260830123000 -0300" stop="20260830142500 -0300" channel="TV PARAIBA">
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
-  <programme start="20260830123000 -0300" stop="20260830143000 -0300" channel="EPTV RIBEIRAO">
+  <programme start="20260830123000 -0300" stop="20260830142500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
@@ -16734,11 +16758,11 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
-  <programme start="20260830123000 -0300" stop="20260830143000 -0300" channel="TV CABO BRANCO">
+  <programme start="20260830123000 -0300" stop="20260830142500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
-  <programme start="20260830123000 -0300" stop="20260830143000 -0300" channel="RBS TV PORTO ALEGRE">
+  <programme start="20260830123000 -0300" stop="20260830142500 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Temperatura Máxima: King's Man - A Origem</title>
     <desc lang="pt">Descubra as origens da primeira agência de inteligência independente. Um grupo dos piores mentores do crime se reúne para planejar uma guerra mercenária que eliminará milhões de pessoas inocentes em todo o mundo.</desc>
   </programme>
@@ -17315,6 +17339,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Um Mundo Animal - A Águia Real E O México</title>
     <desc lang="pt">Théo e nico vão viajar pelo mundo animal para conhecer o touro e seu país, a espanha.</desc>
   </programme>
+  <programme start="20260830131000 -0300" stop="20260830140000 -0300" channel="REDE TV! HD">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+  </programme>
   <programme start="20260830131000 -0300" stop="20260830135500 -0300" channel="Globoplay Novelas">
     <title lang="pt">Rock Story - Rock Story</title>
     <desc lang="pt">Yasmin ajuda a banda 4.4. Léo Régis fica revoltado com Yasmin. Lorena/Júlia coloca em prática plano para ser coreógrafa de clipe. Léo Regis faz proposta a Diana pela gravadora.</desc>
@@ -17867,6 +17895,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Fórmula Indy: GP Milwaukee 2 - Ao Vivo</title>
     <desc lang="pt">As emoções da Fórmula Indy, uma das categorias mais eletrizantes do automobilismo mundial, na tela da Band.</desc>
   </programme>
+  <programme start="20260830140000 -0300" stop="20260830150000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+  </programme>
   <programme start="20260830140000 -0300" stop="20260830141500 -0300" channel="CULTURA HD">
     <title lang="pt">Irmão do Jorel</title>
     <desc lang="pt">Chegou a vez da Vovó Juju levar Irmão do Jorel pra escola, mas eles se perdem no caminho. Na hora de saltar do ônibus, ela se distrai com Seu Venceslau e os dois andam pela cidade atravessando avenidas movimentadas.</desc>
@@ -18397,7 +18429,23 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Em Família com Eliana</title>
     <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
   </programme>
+  <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Em Família com Eliana</title>
+    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
+  </programme>
   <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">Em Família com Eliana</title>
+    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
+  </programme>
+  <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Em Família com Eliana</title>
+    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
+  </programme>
+  <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="TV PARAIBA">
+    <title lang="pt">Em Família com Eliana</title>
+    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
+  </programme>
+  <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Em Família com Eliana</title>
     <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
   </programme>
@@ -18406,6 +18454,14 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
   </programme>
   <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Em Família com Eliana</title>
+    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
+  </programme>
+  <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Em Família com Eliana</title>
+    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
+  </programme>
+  <programme start="20260830142500 -0300" stop="20260830153000 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Em Família com Eliana</title>
     <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
   </programme>
@@ -18588,30 +18644,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260830143000 -0300" stop="20260830150000 -0300" channel="TV Senado">
     <title lang="pt">Leituras - Valter Hugo Mãe</title>
     <desc lang="pt">O século dos imbecis é o início de uma tetralogia do Valter Hugo Mãe. É uma obra inquieta onde ele busca o poder da mulher como consciência da universalidade.</desc>
-  </programme>
-  <programme start="20260830143000 -0300" stop="20260830153000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Em Família com Eliana</title>
-    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
-  </programme>
-  <programme start="20260830143000 -0300" stop="20260830153000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Em Família com Eliana</title>
-    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
-  </programme>
-  <programme start="20260830143000 -0300" stop="20260830153000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Em Família com Eliana</title>
-    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
-  </programme>
-  <programme start="20260830143000 -0300" stop="20260830153000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Em Família com Eliana</title>
-    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
-  </programme>
-  <programme start="20260830143000 -0300" stop="20260830153000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Em Família com Eliana</title>
-    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
-  </programme>
-  <programme start="20260830143000 -0300" stop="20260830153000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Em Família com Eliana</title>
-    <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
   </programme>
   <programme start="20260830143000 -0300" stop="20260830150000 -0300" channel="REDE AMAZONICA MANAUS">
     <title lang="pt">Bora Pro Jogo</title>
@@ -18884,6 +18916,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260830145900 -0300" stop="20260830150000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
+  </programme>
+  <programme start="20260830150000 -0300" stop="20260830153000 -0300" channel="REDE TV! HD">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
   </programme>
   <programme start="20260830150000 -0300" stop="20260830160000 -0300" channel="CULTURA HD">
     <title lang="pt">Cultura.doc - Automação e Inteligência Artificial no Brasil</title>
@@ -19469,7 +19505,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Mega Sonho</title>
     <desc lang="pt">O programa MEGA SONHO será um game show em três fases. Seis participantes, divididos em dois grupos, disputam para chegar a eliminatória.</desc>
   </programme>
-  <programme start="20260830153000 -0300" stop="20260830160000 -0300" channel="GLOBO RECIFE">
+  <programme start="20260830153000 -0300" stop="20260830154500 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
@@ -19481,15 +19517,15 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
-  <programme start="20260830153000 -0300" stop="20260830160000 -0300" channel="TV CABO BRANCO">
+  <programme start="20260830153000 -0300" stop="20260830154500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
-  <programme start="20260830153000 -0300" stop="20260830160000 -0300" channel="TV PARAIBA">
+  <programme start="20260830153000 -0300" stop="20260830154500 -0300" channel="TV PARAIBA">
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
-  <programme start="20260830153000 -0300" stop="20260830160000 -0300" channel="EPTV RIBEIRAO">
+  <programme start="20260830153000 -0300" stop="20260830154500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
@@ -19505,7 +19541,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
-  <programme start="20260830153000 -0300" stop="20260830160000 -0300" channel="TV CABO BRANCO">
+  <programme start="20260830153000 -0300" stop="20260830154500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
@@ -19513,7 +19549,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Mega Sonho</title>
     <desc lang="pt">O programa MEGA SONHO será um game show em três fases. Seis participantes, divididos em dois grupos, disputam para chegar a eliminatória.</desc>
   </programme>
-  <programme start="20260830153000 -0300" stop="20260830160000 -0300" channel="RBS TV PORTO ALEGRE">
+  <programme start="20260830153000 -0300" stop="20260830154500 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Bora Pro Jogo</title>
     <desc lang="pt">No Bora pro Jogo, Tiago Medeiros abre a transmissão na beira do campo e convida o torcedor para curtir as novidades do Futebol na Globo com muita interatividade.</desc>
   </programme>
@@ -19673,15 +19709,39 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
     <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
   </programme>
+  <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
+    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  </programme>
   <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="TV ASA BRANCA">
     <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
     <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  </programme>
+  <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
+    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  </programme>
+  <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="TV PARAIBA">
+    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
+    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  </programme>
+  <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Corinthians x Santos - Ao Vivo</title>
+    <desc lang="pt">Corinthians e Santos jogam pela 25ª rodada do Segundo Turno do Brasileirão, na Neo Química Arena, em São Paulo (SP).</desc>
   </programme>
   <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Corinthians x Santos - Ao Vivo</title>
     <desc lang="pt">Corinthians e Santos jogam pela 25ª rodada do Segundo Turno do Brasileirão, na Neo Química Arena, em São Paulo (SP).</desc>
   </programme>
   <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
+    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  </programme>
+  <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
+    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  </programme>
+  <programme start="20260830154500 -0300" stop="20260830181000 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
     <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
   </programme>
@@ -20017,41 +20077,17 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Acerte ou Caia</title>
     <desc lang="pt">A cada semana, entre 8 e 11 famosos se encontrarão para uma competição, na qual o campeão pode ganhar um prêmio de até 300 mil reais.</desc>
   </programme>
-  <programme start="20260830160000 -0300" stop="20260830181000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
-    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
-  </programme>
   <programme start="20260830160000 -0300" stop="20260830183000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Acerte ou Caia</title>
     <desc lang="pt">A cada semana, entre 8 e 11 famosos se encontrarão para uma competição, na qual o campeão pode ganhar um prêmio de até 300 mil reais.</desc>
-  </programme>
-  <programme start="20260830160000 -0300" stop="20260830181000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
-    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
-  </programme>
-  <programme start="20260830160000 -0300" stop="20260830181000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
-    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
-  </programme>
-  <programme start="20260830160000 -0300" stop="20260830181000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Corinthians x Santos - Ao Vivo</title>
-    <desc lang="pt">Corinthians e Santos jogam pela 25ª rodada do Segundo Turno do Brasileirão, na Neo Química Arena, em São Paulo (SP).</desc>
   </programme>
   <programme start="20260830160000 -0300" stop="20260830183000 -0300" channel="TV Pajuçara">
     <title lang="pt">Acerte ou Caia</title>
     <desc lang="pt">A cada semana, entre 8 e 11 famosos se encontrarão para uma competição, na qual o campeão pode ganhar um prêmio de até 300 mil reais.</desc>
   </programme>
-  <programme start="20260830160000 -0300" stop="20260830181000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
-    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
-  </programme>
   <programme start="20260830160000 -0300" stop="20260830181500 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Acerte ou Caia</title>
     <desc lang="pt">A cada semana, entre 8 e 11 famosos se encontrarão para uma competição, na qual o campeão pode ganhar um prêmio de até 300 mil reais.</desc>
-  </programme>
-  <programme start="20260830160000 -0300" stop="20260830181000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Flamengo x Botafogo - Ao Vivo</title>
-    <desc lang="pt">Flamengo e Botafogo jogam pela 25ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
   </programme>
   <programme start="20260830160000 -0300" stop="20260830183000 -0300" channel="RECORD Guaíba">
     <title lang="pt">Acerte ou Caia</title>
@@ -24065,7 +24101,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
-  <programme start="20260830203000 -0300" stop="20260830232500 -0300" channel="GLOBO RECIFE">
+  <programme start="20260830203000 -0300" stop="20260830233000 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
@@ -24073,15 +24109,15 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
-  <programme start="20260830203000 -0300" stop="20260830232500 -0300" channel="TV CABO BRANCO">
+  <programme start="20260830203000 -0300" stop="20260830233000 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
-  <programme start="20260830203000 -0300" stop="20260830232500 -0300" channel="TV PARAIBA">
+  <programme start="20260830203000 -0300" stop="20260830233000 -0300" channel="TV PARAIBA">
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
-  <programme start="20260830203000 -0300" stop="20260830232500 -0300" channel="EPTV RIBEIRAO">
+  <programme start="20260830203000 -0300" stop="20260830233000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
@@ -24097,11 +24133,11 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
-  <programme start="20260830203000 -0300" stop="20260830232500 -0300" channel="TV CABO BRANCO">
+  <programme start="20260830203000 -0300" stop="20260830233000 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
-  <programme start="20260830203000 -0300" stop="20260830232500 -0300" channel="RBS TV PORTO ALEGRE">
+  <programme start="20260830203000 -0300" stop="20260830233000 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
@@ -26585,30 +26621,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Video Consejos</title>
     <desc lang="pt">Dicas rápidas dos convidados do programa "Captcha - Não sou um robô" sobre como melhorar nosso comportamento no ambiente digital</desc>
   </programme>
-  <programme start="20260830232500 -0300" stop="20260831001500 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
-  </programme>
-  <programme start="20260830232500 -0300" stop="20260831001500 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
-  </programme>
-  <programme start="20260830232500 -0300" stop="20260831001500 -0300" channel="TV PARAIBA">
-    <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
-  </programme>
-  <programme start="20260830232500 -0300" stop="20260831001500 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
-  </programme>
-  <programme start="20260830232500 -0300" stop="20260831001500 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
-  </programme>
-  <programme start="20260830232500 -0300" stop="20260831001500 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Estrela da Casa</title>
-    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
-  </programme>
   <programme start="20260830232700 -0300" stop="20260831002900 -0300" channel="TNT NOVELAS">
     <title lang="pt">A Promessa</title>
     <desc lang="pt">Cruz insiste que Manuel se case com Jimena, mesmo que já não seja necessário. Petra ameaça Simona e Candela para que deixem Camilo em paz.</desc>
@@ -26773,6 +26785,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Chicago Med</title>
     <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
   </programme>
+  <programme start="20260830233000 -0300" stop="20260830233500 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+  </programme>
   <programme start="20260830233000 -0300" stop="20260831001500 -0300" channel="REDE TV! Recife">
     <title lang="pt">O Melhor de Tudo</title>
     <desc lang="pt">A gerente de quartos de hotel, Shen Xi Fan, é uma workaholic. Ela sofre de insônia e enxaquecas devido ao seu trabalho de alta intensidade, então ela vai ver um médico de medicina chinesa.</desc>
@@ -26782,6 +26798,18 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
   </programme>
   <programme start="20260830233000 -0300" stop="20260830233500 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+  </programme>
+  <programme start="20260830233000 -0300" stop="20260830233500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+  </programme>
+  <programme start="20260830233000 -0300" stop="20260830233500 -0300" channel="TV PARAIBA">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+  </programme>
+  <programme start="20260830233000 -0300" stop="20260830233500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Estrela da Casa</title>
     <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
   </programme>
@@ -26797,9 +26825,17 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Chicago Med</title>
     <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
   </programme>
+  <programme start="20260830233000 -0300" stop="20260830233500 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+  </programme>
   <programme start="20260830233000 -0300" stop="20260831001500 -0300" channel="TV NORTE PARAÍBA">
     <title lang="pt">O Melhor de Tudo</title>
     <desc lang="pt">A gerente de quartos de hotel, Shen Xi Fan, é uma workaholic. Ela sofre de insônia e enxaquecas devido ao seu trabalho de alta intensidade, então ela vai ver um médico de medicina chinesa.</desc>
+  </programme>
+  <programme start="20260830233000 -0300" stop="20260830233500 -0300" channel="RBS TV PORTO ALEGRE">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
   </programme>
   <programme start="20260830233000 -0300" stop="20260831001500 -0300" channel="RECORD Guaíba">
     <title lang="pt">Chicago Med</title>
@@ -26873,7 +26909,23 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
     <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
   </programme>
+  <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
+    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
+  </programme>
   <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="TV ASA BRANCA">
+    <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
+    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
+  </programme>
+  <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
+    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
+  </programme>
+  <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="TV PARAIBA">
+    <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
+    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
+  </programme>
+  <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
     <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
   </programme>
@@ -26882,6 +26934,14 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
   </programme>
   <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="TV ASA BRANCA ALAGOAS">
+    <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
+    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
+  </programme>
+  <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
+    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
+  </programme>
+  <programme start="20260830233500 -0300" stop="20260831002000 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Circuito Sertanejo: Barretos - Melhores Momentos</title>
     <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
   </programme>
@@ -27685,33 +27745,13 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Madrugada Animada</title>
     <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
   </programme>
-  <programme start="20260831001500 -0300" stop="20260831005500 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Circuito Sertanejo - Melhores Momentos</title>
-    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
-  </programme>
   <programme start="20260831001500 -0300" stop="20260831030000 -0300" channel="REDE TV! Recife">
     <title lang="pt">Madrugada Animada</title>
     <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
   </programme>
-  <programme start="20260831001500 -0300" stop="20260831005500 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Circuito Sertanejo - Melhores Momentos</title>
-    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
-  </programme>
-  <programme start="20260831001500 -0300" stop="20260831005500 -0300" channel="TV PARAIBA">
-    <title lang="pt">Circuito Sertanejo - Melhores Momentos</title>
-    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
-  </programme>
-  <programme start="20260831001500 -0300" stop="20260831005500 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Circuito Sertanejo - Melhores Momentos</title>
-    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
-  </programme>
   <programme start="20260831001500 -0300" stop="20260831011500 -0300" channel="TV CIDADE">
     <title lang="pt">Chicago Med</title>
     <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
-  </programme>
-  <programme start="20260831001500 -0300" stop="20260831005500 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Circuito Sertanejo - Melhores Momentos</title>
-    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
   </programme>
   <programme start="20260831001500 -0300" stop="20260831030000 -0300" channel="TV NORTE PARAÍBA">
     <title lang="pt">Madrugada Animada</title>
@@ -27720,10 +27760,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831001500 -0300" stop="20260831010000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Integrantes do corpo de bombeiros de Chicago se culpam pela morte de um companheiro e enfrentam problemas pessoais, mas, apesar das tensões, na hora de enfrentar os desafios, deixam as diferenças de lado e arriscam suas vidas.</desc>
-  </programme>
-  <programme start="20260831001500 -0300" stop="20260831005500 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Circuito Sertanejo - Melhores Momentos</title>
-    <desc lang="pt">Melhores Momentos do Circuito Sertanejo.</desc>
   </programme>
   <programme start="20260831001500 -0300" stop="20260831010000 -0300" channel="RECORD Guaíba">
     <title lang="pt">Chicago Med</title>
@@ -27793,17 +27829,43 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Repórter Eco</title>
     <desc lang="pt">O Repórter Eco é um programa especializado em meio ambiente e sustentabilidade, que debate sobre os desafios da emergência climática e apresenta caminhos e soluções para um futuro mais sustentável.</desc>
   </programme>
-  <programme start="20260831002000 -0300" stop="20260831002500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
+  </programme>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
   </programme>
   <programme start="20260831002000 -0300" stop="20260831002500 -0300" channel="TV ASA BRANCA">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260831002000 -0300" stop="20260831002500 -0300" channel="TV VERDES MARES FORTALEZA">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
+  </programme>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="TV PARAIBA">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
+  </programme>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
+  </programme>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="TV VERDES MARES FORTALEZA">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
   </programme>
   <programme start="20260831002000 -0300" stop="20260831002500 -0300" channel="TV ASA BRANCA ALAGOAS">
     <title lang="pt">Programação indisponível</title>
+  </programme>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
+  </programme>
+  <programme start="20260831002000 -0300" stop="20260831022000 -0300" channel="RBS TV PORTO ALEGRE">
+    <title lang="pt">Domingo Maior: O Último Duelo</title>
+    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
   </programme>
   <programme start="20260831002000 -0300" stop="20260831002500 -0300" channel="RPC CURITIBA">
     <title lang="pt">Programação indisponível</title>
@@ -27863,15 +27925,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Love Island All Stars</title>
     <desc lang="pt">Enquanto os participantes enfrentam uma eliminação, opiniões e acusações voam por todos os lados. Ainda assim, há boas notícias para dois pombinhos. E será que aquela porta se abre com um rosto novo?</desc>
   </programme>
-  <programme start="20260831002500 -0300" stop="20260831022000 -0300" channel="GLOBO RJ">
-    <title lang="pt">Domingo Maior: Ambulância - Um Dia de Crime</title>
-    <desc lang="pt">Para pagar o tratamento da esposa, Will se une a seu irmão Danny num assalto. Quando o plano dá errado, eles sequestram uma ambulância para fugirem da polícia.</desc>
-  </programme>
   <programme start="20260831002500 -0300" stop="20260831022000 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">Domingo Maior: Ambulância - Um Dia de Crime</title>
-    <desc lang="pt">Para pagar o tratamento da esposa, Will se une a seu irmão Danny num assalto. Quando o plano dá errado, eles sequestram uma ambulância para fugirem da polícia.</desc>
-  </programme>
-  <programme start="20260831002500 -0300" stop="20260831022000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Domingo Maior: Ambulância - Um Dia de Crime</title>
     <desc lang="pt">Para pagar o tratamento da esposa, Will se une a seu irmão Danny num assalto. Quando o plano dá errado, eles sequestram uma ambulância para fugirem da polícia.</desc>
   </programme>
@@ -28330,30 +28384,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831005500 -0300" stop="20260831011800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">The Big Bang Theory - The Jerusalem Duality</title>
     <desc lang="pt">Sheldon desiste desistir de seu trabalho e focar em outras atividades quando um garoto prodígio de apenas 15 anos entra na universidade, então os outros caras decidem bolar um plano para se livrar do garoto.</desc>
-  </programme>
-  <programme start="20260831005500 -0300" stop="20260831024000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Domingo Maior: O Último Duelo</title>
-    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
-  </programme>
-  <programme start="20260831005500 -0300" stop="20260831024000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Domingo Maior: O Último Duelo</title>
-    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
-  </programme>
-  <programme start="20260831005500 -0300" stop="20260831024000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Domingo Maior: O Último Duelo</title>
-    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
-  </programme>
-  <programme start="20260831005500 -0300" stop="20260831024000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Domingo Maior: O Último Duelo</title>
-    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
-  </programme>
-  <programme start="20260831005500 -0300" stop="20260831024000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Domingo Maior: O Último Duelo</title>
-    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
-  </programme>
-  <programme start="20260831005500 -0300" stop="20260831024000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Domingo Maior: O Último Duelo</title>
-    <desc lang="pt">Baseado em fatos reais, este filme ambientado na França do século 14 desvenda suposições arraigadas sobre o último duelo legalmente sancionado na França entre dois amigos que se tornaram rivais amargos.</desc>
   </programme>
   <programme start="20260831005600 -0300" stop="20260831005700 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Performances Do Music - Performances Do Music - Tche Gomes - Festival Recomeço - Não Sei</title>
@@ -29856,20 +29886,44 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">A crença de Joyce de que a vida pessoal deve ficar fora do local de trabalho é testada por notícias inesperadas. Ron acha que um paciente tem uma queda por ele.</desc>
   </programme>
   <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="GLOBO RJ">
-    <title lang="pt">Cinemaço: Onze Homens e um Segredo</title>
-    <desc lang="pt">Danny Ocean está de volta à ativa após uma estada na Penitenciária. Em condicional, planeja um ambicioso roubo, e vai precisar do melhor time.</desc>
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
+  </programme>
+  <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="GLOBO RECIFE">
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
   </programme>
   <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="TV ASA BRANCA">
     <title lang="pt">Cinemaço: Onze Homens e um Segredo</title>
     <desc lang="pt">Danny Ocean está de volta à ativa após uma estada na Penitenciária. Em condicional, planeja um ambicioso roubo, e vai precisar do melhor time.</desc>
   </programme>
+  <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
+  </programme>
+  <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="TV PARAIBA">
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
+  </programme>
+  <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
+  </programme>
   <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="TV VERDES MARES FORTALEZA">
-    <title lang="pt">Cinemaço: Onze Homens e um Segredo</title>
-    <desc lang="pt">Danny Ocean está de volta à ativa após uma estada na Penitenciária. Em condicional, planeja um ambicioso roubo, e vai precisar do melhor time.</desc>
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
   </programme>
   <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="TV ASA BRANCA ALAGOAS">
     <title lang="pt">Cinemaço: Onze Homens e um Segredo</title>
     <desc lang="pt">Danny Ocean está de volta à ativa após uma estada na Penitenciária. Em condicional, planeja um ambicioso roubo, e vai precisar do melhor time.</desc>
+  </programme>
+  <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="TV CABO BRANCO">
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
+  </programme>
+  <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="RBS TV PORTO ALEGRE">
+    <title lang="pt">Cinemaço: Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista.</desc>
   </programme>
   <programme start="20260831022000 -0300" stop="20260831040000 -0300" channel="RPC CURITIBA">
     <title lang="pt">Cinemaço: Onze Homens e um Segredo</title>
@@ -30162,30 +30216,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831024000 -0300" stop="20260831031500 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">Prosperidade com Deus</title>
     <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
-  </programme>
-  <programme start="20260831024000 -0300" stop="20260831040000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Cinemaço: Carga Explosiva</title>
-    <desc lang="pt">Frank, um ex-soldado do exército, agora trabalha transportando cargas. Um dia, ele descobre uma bela garota presa no seu porta-malas e precisa fugir com ela de um poderoso chefão do crime.</desc>
-  </programme>
-  <programme start="20260831024000 -0300" stop="20260831040000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Cinemaço: Carga Explosiva</title>
-    <desc lang="pt">Frank, um ex-soldado do exército, agora trabalha transportando cargas. Um dia, ele descobre uma bela garota presa no seu porta-malas e precisa fugir com ela de um poderoso chefão do crime.</desc>
-  </programme>
-  <programme start="20260831024000 -0300" stop="20260831040000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Cinemaço: Carga Explosiva</title>
-    <desc lang="pt">Frank, um ex-soldado do exército, agora trabalha transportando cargas. Um dia, ele descobre uma bela garota presa no seu porta-malas e precisa fugir com ela de um poderoso chefão do crime.</desc>
-  </programme>
-  <programme start="20260831024000 -0300" stop="20260831040000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Cinemaço: Carga Explosiva</title>
-    <desc lang="pt">Frank, um ex-soldado do exército, agora trabalha transportando cargas. Um dia, ele descobre uma bela garota presa no seu porta-malas e precisa fugir com ela de um poderoso chefão do crime.</desc>
-  </programme>
-  <programme start="20260831024000 -0300" stop="20260831040000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Cinemaço: Carga Explosiva</title>
-    <desc lang="pt">Frank, um ex-soldado do exército, agora trabalha transportando cargas. Um dia, ele descobre uma bela garota presa no seu porta-malas e precisa fugir com ela de um poderoso chefão do crime.</desc>
-  </programme>
-  <programme start="20260831024000 -0300" stop="20260831040000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Cinemaço: Carga Explosiva</title>
-    <desc lang="pt">Frank, um ex-soldado do exército, agora trabalha transportando cargas. Um dia, ele descobre uma bela garota presa no seu porta-malas e precisa fugir com ela de um poderoso chefão do crime.</desc>
   </programme>
   <programme start="20260831024300 -0300" stop="20260831032900 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Na Rota do Sabor - Hora do Rango, o Jantar é Frango</title>
@@ -32535,7 +32565,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Ponto de Luz</title>
     <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
   </programme>
-  <programme start="20260831050000 -0300" stop="20260831083000 -0300" channel="REDE TV! HD">
+  <programme start="20260831050000 -0300" stop="20260831084000 -0300" channel="REDE TV! HD">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
     <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
   </programme>
@@ -36595,10 +36625,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Bandsports News</title>
     <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo só aqui no BandSports.</desc>
   </programme>
-  <programme start="20260831083000 -0300" stop="20260831093000 -0300" channel="REDE TV! HD">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
-  </programme>
   <programme start="20260831083000 -0300" stop="20260831124500 -0300" channel="SBT">
     <title lang="pt">Primeiro Impacto</title>
     <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
@@ -36942,6 +36968,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831083900 -0300" stop="20260831085600 -0300" channel="SportyNet HD">
     <title lang="pt">Filler</title>
     <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20260831084000 -0300" stop="20260831094500 -0300" channel="REDE TV! HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
   </programme>
   <programme start="20260831084000 -0300" stop="20260831084500 -0300" channel="CULTURA HD">
     <title lang="pt">Paramigos Imparáveis</title>
@@ -37603,7 +37633,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Pocoyo - Show de talentos</title>
     <desc lang="pt">É dia do show de talentos! Todos se apresentam, menos Sonequita, que é muito tímida. Os amigos a encorajam a mostrar seu talento! Sua palestra sobre o hipopótamo é um sucesso.</desc>
   </programme>
-  <programme start="20260831091200 -0300" stop="20260831091500 -0300" channel="BIS HD">
+  <programme start="20260831091200 -0300" stop="20260831092100 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">1kilo (Junior Lord) - Melanina (Luau 1kilo) (1Kilo)</desc>
   </programme>
@@ -37647,10 +37677,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Apenas um Show: As Fitas Perdidas - Pernaltas</title>
     <desc lang="pt">Rigby quer tirar essa foto, falando sério.</desc>
   </programme>
-  <programme start="20260831091500 -0300" stop="20260831091800 -0300" channel="BIS HD">
-    <title lang="pt">Setlist</title>
-    <desc lang="pt">RAYNARA - MULHER (INDEPENDENTE)</desc>
-  </programme>
   <programme start="20260831091500 -0300" stop="20260831093000 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">TG Sport Giorno</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -37682,10 +37708,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831091800 -0300" stop="20260831101400 -0300" channel="HISTORY 2">
     <title lang="pt">Mistérios Bíblicos - O Poder do Rei Salomão</title>
     <desc lang="pt">O Rei Salomão é uma importante figura mítica do Antigo Testamento. No entanto, será que ele realmente existiu?</desc>
-  </programme>
-  <programme start="20260831091800 -0300" stop="20260831092100 -0300" channel="BIS HD">
-    <title lang="pt">Setlist</title>
-    <desc lang="pt">Tuyo - Saudade Impura (Independente)</desc>
   </programme>
   <programme start="20260831091826 -0300" stop="20260831092141 -0300" channel="DumDum">
     <title lang="pt">Tina Curiosa - O Que Acontece Quando Comemos?</title>
@@ -37802,10 +37824,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831093000 -0300" stop="20260831103500 -0300" channel="GLOBO SP">
     <title lang="pt">Encontro com Patrícia Poeta</title>
     <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
-  </programme>
-  <programme start="20260831093000 -0300" stop="20260831100000 -0300" channel="REDE TV! HD">
-    <title lang="pt">Bola na Rede</title>
-    <desc lang="pt">O jornalista Marcio Spimpolo comanda uma equipe que não tem medo de entrar nos assuntos mais quentes do esporte. Guilherme Pallesi, Marcos Assunção, Iara Oliveira e Fernando Fontana deixam o torcedor antenado com tudo que rola.</desc>
   </programme>
   <programme start="20260831093000 -0300" stop="20260831095000 -0300" channel="REDE GOSPEL">
     <title lang="pt">Palavra Do Dia Com Apóstolo Estevam</title>
@@ -38179,6 +38197,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Na Rota do Sabor - Lanchinho da Madrugada</title>
     <desc lang="pt">A comida de bar evoluiu muito nos últimos tempos, então o "Food Paradise" vai ficar acordado até tarde para encontrar os 8 melhores restaurantes para fazer o "lanchinho da madrugada".</desc>
   </programme>
+  <programme start="20260831094500 -0300" stop="20260831101500 -0300" channel="REDE TV! HD">
+    <title lang="pt">RedeTV! Notícias - 1ª Edição</title>
+    <desc lang="pt">Com apresentação de Marcela Marcos, o jornalístico traz de uma forma bem dinâmica e analítica um resumo das principais notícias do dia do Brasil e do mundo.</desc>
+  </programme>
   <programme start="20260831094500 -0300" stop="20260831095500 -0300" channel="TRAVEL BOX">
     <title lang="pt">Travel Shots - Travel Shot - Rocke Feller Ny</title>
     <desc lang="pt">Luigi Silvestri visita o icônico Rockefeller Center, um dos cartões-postais mais famosos de Nova York. Entre história, arquitetura e curiosidades, descubra por que este complexo é parada obrigatória para quem visita a cidade.</desc>
@@ -38354,10 +38376,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831095900 -0300" stop="20260831100000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
-  </programme>
-  <programme start="20260831100000 -0300" stop="20260831103000 -0300" channel="REDE TV! HD">
-    <title lang="pt">RedeTV! Notícias - 1ª Edição</title>
-    <desc lang="pt">Com apresentação de Marcela Marcos, o jornalístico traz de uma forma bem dinâmica e analítica um resumo das principais notícias do dia do Brasil e do mundo.</desc>
   </programme>
   <programme start="20260831100000 -0300" stop="20260831100200 -0300" channel="CBI">
     <title lang="pt">Vigília da Alma</title>
@@ -38715,6 +38733,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Amizade Sem Diferença - NATAL</title>
     <desc lang="pt">O quarto de gabu está uma bagunça, e vovô panda tem sugere uma brincadeira para arrumá-lo: basquete de brinquedos.</desc>
   </programme>
+  <programme start="20260831101500 -0300" stop="20260831104500 -0300" channel="REDE TV! HD">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">O jornalista Marcio Spimpolo comanda uma equipe que não tem medo de entrar nos assuntos mais quentes do esporte. Guilherme Pallesi, Marcos Assunção, Iara Oliveira e Fernando Fontana deixam o torcedor antenado com tudo que rola.</desc>
+  </programme>
   <programme start="20260831101500 -0300" stop="20260831103000 -0300" channel="CULTURA HD">
     <title lang="pt">O Show da Luna!</title>
     <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.</desc>
@@ -38862,10 +38884,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831102900 -0300" stop="20260831104000 -0300" channel="DISCOVERY KIDS HD">
     <title lang="pt">Hello Kitty Super Style - As Regras do Jogo</title>
     <desc lang="pt">Rio cria um jogo superelaborado para os amigos. Mas quando Pinky começa a inventar regras novas, Artista Kitty entra em cena para que todos continuem se divertindo.</desc>
-  </programme>
-  <programme start="20260831103000 -0300" stop="20260831114000 -0300" channel="REDE TV! HD">
-    <title lang="pt">Fica Com a Gente</title>
-    <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.</desc>
   </programme>
   <programme start="20260831103000 -0300" stop="20260831104000 -0300" channel="CULTURA HD">
     <title lang="pt">Bino e Fino</title>
@@ -39190,6 +39208,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831104200 -0300" stop="20260831112900 -0300" channel="TNT SERIES HD">
     <title lang="pt">Cold Case - Hitchhiker</title>
     <desc lang="pt">A única integrante mulher da equipe de homicídios da polícia da Filadélfia tem a sua vez, quando é chamada para resolver os "Cold Cases", os casos de crimes antigos que nunca foram resolvidos.</desc>
+  </programme>
+  <programme start="20260831104500 -0300" stop="20260831114000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Fica Com a Gente</title>
+    <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.</desc>
   </programme>
   <programme start="20260831104500 -0300" stop="20260831110000 -0300" channel="CULTURA HD">
     <title lang="pt">Iuri &amp; Udi</title>
@@ -41503,9 +41525,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Os Donos da Bola</title>
     <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
   </programme>
-  <programme start="20260831130000 -0300" stop="20260831150000 -0300" channel="REDE TV! HD">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  <programme start="20260831130000 -0300" stop="20260831133000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+    <desc lang="pt">Horário Eleitoral Gratuito</desc>
   </programme>
   <programme start="20260831130000 -0300" stop="20260831132500 -0300" channel="CULTURA HD">
     <title lang="pt">Horário Político</title>
@@ -41736,8 +41758,8 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Horário Político.</desc>
   </programme>
   <programme start="20260831130000 -0300" stop="20260831132500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Globo Esporte</title>
-    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
   <programme start="20260831130000 -0300" stop="20260831150000 -0300" channel="REDE TV! Rio de Janeiro">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
@@ -41784,8 +41806,8 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Programa Igor Oliveira apresentador de Rádio e TV.</desc>
   </programme>
   <programme start="20260831130000 -0300" stop="20260831132500 -0300" channel="TV VERDES MARES FORTALEZA">
-    <title lang="pt">Globo Esporte</title>
-    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Ceará, do Brasil e do mundo.</desc>
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
   <programme start="20260831130000 -0300" stop="20260831132500 -0300" channel="TV ASA BRANCA ALAGOAS">
     <title lang="pt">Globo Esporte</title>
@@ -42087,9 +42109,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Balanço Geral - SP</title>
     <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
   </programme>
-  <programme start="20260831132500 -0300" stop="20260831144500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
+  <programme start="20260831132500 -0300" stop="20260831133500 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.</desc>
   </programme>
   <programme start="20260831132500 -0300" stop="20260831133000 -0300" channel="BAND Rio">
     <title lang="pt">Notícias da Redação</title>
@@ -42119,9 +42141,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Jornal da EPTV - 1ª Edição</title>
     <desc lang="pt">Tudo o que de mais importante acontece na região com a participação do público.</desc>
   </programme>
-  <programme start="20260831132500 -0300" stop="20260831144500 -0300" channel="TV VERDES MARES FORTALEZA">
-    <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
+  <programme start="20260831132500 -0300" stop="20260831133500 -0300" channel="TV VERDES MARES FORTALEZA">
+    <title lang="pt">CETV - 1ª Edição</title>
+    <desc lang="pt">Leal Mota Filho e Taís Lopes mostram o que está acontecendo durante o dia na Região Metropolitana de Fortaleza e informações relevantes do Ceará.</desc>
   </programme>
   <programme start="20260831132500 -0300" stop="20260831144500 -0300" channel="TV ASA BRANCA ALAGOAS">
     <title lang="pt">Jornal Hoje</title>
@@ -42178,6 +42200,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831132900 -0300" stop="20260831133000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
+  </programme>
+  <programme start="20260831133000 -0300" stop="20260831153000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
   </programme>
   <programme start="20260831133000 -0300" stop="20260831134000 -0300" channel="CULTURA HD">
     <title lang="pt">Planeta Palavra</title>
@@ -42423,6 +42449,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">House - Controle</title>
     <desc lang="pt">Um bilionário toma conta do hospital e quer eliminar os gastos feitos por Dr. House. Enquanto isso, Dr. House diagnostica uma mulher que fica paralisada.</desc>
   </programme>
+  <programme start="20260831133500 -0300" stop="20260831135000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+  </programme>
   <programme start="20260831133500 -0300" stop="20260831135000 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">O esporte que está no coração dos brasileiros é o motor do Globo Esporte, que traz notícias fresquinhas sobre o desempenho dos times pernambucanos, tanto no campeonato estadual quanto no Brasileirão.</desc>
@@ -42438,6 +42468,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831133500 -0300" stop="20260831135000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+  </programme>
+  <programme start="20260831133500 -0300" stop="20260831135000 -0300" channel="TV VERDES MARES FORTALEZA">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Ceará, do Brasil e do mundo.</desc>
   </programme>
   <programme start="20260831133500 -0300" stop="20260831135000 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Globo Esporte Paraíba</title>
@@ -42655,6 +42689,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Terralmo Negócios Rurais</title>
     <desc lang="pt">A Terralmo Negócios Rurais conecta investidores às melhores propriedades rurais do mercado, com curadoria especializada, descrições detalhadas e negociações transparentes.</desc>
   </programme>
+  <programme start="20260831135000 -0300" stop="20260831150000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
   <programme start="20260831135000 -0300" stop="20260831150000 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
@@ -42668,6 +42706,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
   </programme>
   <programme start="20260831135000 -0300" stop="20260831150000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
+  </programme>
+  <programme start="20260831135000 -0300" stop="20260831150000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
   </programme>
@@ -43695,19 +43737,11 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Minha Casa, Nosso Mundo</title>
     <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos e a cultura umas das outras.</desc>
   </programme>
-  <programme start="20260831144500 -0300" stop="20260831154000 -0300" channel="GLOBO RJ">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-  </programme>
   <programme start="20260831144500 -0300" stop="20260831170000 -0300" channel="TV Tribuna - PE">
     <title lang="pt">Al-Ahli x Abha - Ao Vivo</title>
     <desc lang="pt">Torneio da principal liga de futebol profissional da Arábia Saudita.</desc>
   </programme>
   <programme start="20260831144500 -0300" stop="20260831154000 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">Além do Tempo</title>
-    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-  </programme>
-  <programme start="20260831144500 -0300" stop="20260831154000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Além do Tempo</title>
     <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
   </programme>
@@ -43854,10 +43888,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831150000 -0300" stop="20260831154000 -0300" channel="GLOBO SP">
     <title lang="pt">Além do Tempo</title>
     <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
-  </programme>
-  <programme start="20260831150000 -0300" stop="20260831170000 -0300" channel="REDE TV! HD">
-    <title lang="pt">A Tarde é Sua</title>
-    <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.</desc>
   </programme>
   <programme start="20260831150000 -0300" stop="20260831151500 -0300" channel="CULTURA HD">
     <title lang="pt">Gildo</title>
@@ -44055,6 +44085,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">O Teco Teco</title>
     <desc lang="pt">Apresentando histórias, jogos e desafios, O Teco Teco estimula a participação ativa de seu público e se propõe a colaborar de forma lúdica no processo de construção do conhecimento.</desc>
   </programme>
+  <programme start="20260831150000 -0300" stop="20260831154000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Além do Tempo</title>
+    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
+  </programme>
   <programme start="20260831150000 -0300" stop="20260831170000 -0300" channel="REDE TV! Rio de Janeiro">
     <title lang="pt">A Tarde é Sua</title>
     <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.</desc>
@@ -44072,6 +44106,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
   </programme>
   <programme start="20260831150000 -0300" stop="20260831154000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Além do Tempo</title>
+    <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
+  </programme>
+  <programme start="20260831150000 -0300" stop="20260831154000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Além do Tempo</title>
     <desc lang="pt">Lívia (Alinne Moraes) e Felipe (Rafael Cardoso) nasceram um para outro e há muitas passagens por aqui vêm tentando descobrir juntos o verdadeiro sentido da felicidade, de amar e de ser amado.</desc>
   </programme>
@@ -44386,6 +44424,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831152900 -0300" stop="20260831153000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
+  </programme>
+  <programme start="20260831153000 -0300" stop="20260831173000 -0300" channel="REDE TV! HD">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.</desc>
   </programme>
   <programme start="20260831153000 -0300" stop="20260831170000 -0300" channel="SBT">
     <title lang="pt">Fofocalizando</title>
@@ -44707,45 +44749,45 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Santa Receita</title>
     <desc lang="pt">Entretenimento com destaque para a culinária, além de entrevistas sobre temas atuais, saúde e comportamento.</desc>
   </programme>
-  <programme start="20260831154000 -0300" stop="20260831172500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Sessão da Tarde: Até que a Sorte Nos Separe 3</title>
-    <desc lang="pt">Após perder a herança da família em Las Vegas, Tino procura emprego, mas sem sucesso. Um dia, é atropelado pelo filho do homem mais rico do país.</desc>
+  <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="GLOBO RECIFE">
-    <title lang="pt">Sessão da Tarde: Pés de Peixe</title>
-    <desc lang="pt">O filme conta a história de Guilherme, um jovem ribeirinho, que se vê obrigado a participar de uma corrida local para ajudar a sua comunidade a melhorar de vida, com a compra de um gerador para suprir a falta de energia.</desc>
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831172500 -0300" channel="TV ASA BRANCA">
     <title lang="pt">Sessão da Tarde: Até que a Sorte Nos Separe 3</title>
     <desc lang="pt">Após perder a herança da família em Las Vegas, Tino procura emprego, mas sem sucesso. Um dia, é atropelado pelo filho do homem mais rico do país.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Sessão da Tarde: Pés de Peixe</title>
-    <desc lang="pt">O filme conta a história de Guilherme, um jovem ribeirinho, que se vê obrigado a participar de uma corrida local para ajudar a sua comunidade a melhorar de vida, com a compra de um gerador para suprir a falta de energia.</desc>
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="TV PARAIBA">
-    <title lang="pt">Sessão da Tarde: Pés de Peixe</title>
-    <desc lang="pt">O filme conta a história de Guilherme, um jovem ribeirinho, que se vê obrigado a participar de uma corrida local para ajudar a sua comunidade a melhorar de vida, com a compra de um gerador para suprir a falta de energia.</desc>
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="EPTV RIBEIRAO">
-    <title lang="pt">Sessão da Tarde: Pés de Peixe</title>
-    <desc lang="pt">O filme conta a história de Guilherme, um jovem ribeirinho, que se vê obrigado a participar de uma corrida local para ajudar a sua comunidade a melhorar de vida, com a compra de um gerador para suprir a falta de energia.</desc>
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
-  <programme start="20260831154000 -0300" stop="20260831172500 -0300" channel="TV VERDES MARES FORTALEZA">
-    <title lang="pt">Sessão da Tarde: Até que a Sorte Nos Separe 3</title>
-    <desc lang="pt">Após perder a herança da família em Las Vegas, Tino procura emprego, mas sem sucesso. Um dia, é atropelado pelo filho do homem mais rico do país.</desc>
+  <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="TV VERDES MARES FORTALEZA">
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831172500 -0300" channel="TV ASA BRANCA ALAGOAS">
     <title lang="pt">Sessão da Tarde: Até que a Sorte Nos Separe 3</title>
     <desc lang="pt">Após perder a herança da família em Las Vegas, Tino procura emprego, mas sem sucesso. Um dia, é atropelado pelo filho do homem mais rico do país.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="TV CABO BRANCO">
-    <title lang="pt">Sessão da Tarde: Pés de Peixe</title>
-    <desc lang="pt">O filme conta a história de Guilherme, um jovem ribeirinho, que se vê obrigado a participar de uma corrida local para ajudar a sua comunidade a melhorar de vida, com a compra de um gerador para suprir a falta de energia.</desc>
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831171000 -0300" channel="RBS TV PORTO ALEGRE">
-    <title lang="pt">Sessão da Tarde: Pés de Peixe</title>
-    <desc lang="pt">O filme conta a história de Guilherme, um jovem ribeirinho, que se vê obrigado a participar de uma corrida local para ajudar a sua comunidade a melhorar de vida, com a compra de um gerador para suprir a falta de energia.</desc>
+    <title lang="pt">Sessão da Tarde: Tire 5 Cartas</title>
+    <desc lang="pt">Fátima é uma taróloga trambiqueira que aplica golpes em seus clientes com a ajuda de seu marido. Sem querer, ela se envolve no roubo de um anel e acaba tendo que fugir para sua cidade natal.</desc>
   </programme>
   <programme start="20260831154000 -0300" stop="20260831172500 -0300" channel="RPC CURITIBA">
     <title lang="pt">Sessão da Tarde: Até que a Sorte Nos Separe 3</title>
@@ -45851,10 +45893,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
   </programme>
-  <programme start="20260831170000 -0300" stop="20260831180000 -0300" channel="REDE TV! HD">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
-  </programme>
   <programme start="20260831170000 -0300" stop="20260831181500 -0300" channel="SBT">
     <title lang="pt">O Que a Vida Me Roubou</title>
     <desc lang="pt">A história se passa em Água Azul, onde vive a bela Monserrat. A jovem sempre foi submissa à sua mãe, Graciela, cuja única preocupação é manter seu elevado status na sociedade.</desc>
@@ -46143,6 +46181,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Uma Batalha Após A Outra</title>
     <desc lang="pt">Um ex-membro de um grupo busca ajuda de outros revolucionários para encontrar sua filha.</desc>
   </programme>
+  <programme start="20260831171000 -0300" stop="20260831182000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
+    <desc lang="pt">Jorginho procura Lucinda. Carminha manda Nina ao mercado.</desc>
+  </programme>
   <programme start="20260831171000 -0300" stop="20260831182000 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
     <desc lang="pt">Jorginho procura Lucinda. Carminha manda Nina ao mercado.</desc>
@@ -46156,6 +46198,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Jorginho procura Lucinda. Carminha manda Nina ao mercado.</desc>
   </programme>
   <programme start="20260831171000 -0300" stop="20260831182000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
+    <desc lang="pt">Jorginho procura Lucinda. Carminha manda Nina ao mercado.</desc>
+  </programme>
+  <programme start="20260831171000 -0300" stop="20260831182000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
     <desc lang="pt">Jorginho procura Lucinda. Carminha manda Nina ao mercado.</desc>
   </programme>
@@ -46307,15 +46353,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Detetive Americano com Joe Kenda - Doze Horas de Terror</title>
     <desc lang="pt">Uma série de homicídios deixa os moradores de uma pequena cidade no deserto em estado de alerta. O investigador Dave Frankel corre contra o tempo para capturar o assassino antes que ele faça mais uma vítima.</desc>
   </programme>
-  <programme start="20260831172500 -0300" stop="20260831182500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-    <desc lang="pt">A obra acompanha a trajetória de Rita, a menina órfã que vê seu mundo desmoronar e tem a infância roubada quando seu pai, Genésio, sofre um grande golpe.</desc>
-  </programme>
   <programme start="20260831172500 -0300" stop="20260831182500 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-    <desc lang="pt">A obra acompanha a trajetória de Rita, a menina órfã que vê seu mundo desmoronar e tem a infância roubada quando seu pai, Genésio, sofre um grande golpe.</desc>
-  </programme>
-  <programme start="20260831172500 -0300" stop="20260831182500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
     <desc lang="pt">A obra acompanha a trajetória de Rita, a menina órfã que vê seu mundo desmoronar e tem a infância roubada quando seu pai, Genésio, sofre um grande golpe.</desc>
   </programme>
@@ -46366,6 +46404,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831172900 -0300" stop="20260831173000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
+  </programme>
+  <programme start="20260831173000 -0300" stop="20260831183000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
   </programme>
   <programme start="20260831173000 -0300" stop="20260831180000 -0300" channel="CULTURA HD">
     <title lang="pt">O Mundo de Beakman</title>
@@ -46854,10 +46896,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831175900 -0300" stop="20260831180000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
-  </programme>
-  <programme start="20260831180000 -0300" stop="20260831183000 -0300" channel="REDE TV! HD">
-    <title lang="pt">RedeTV! Notícias - 2ª Edição</title>
-    <desc lang="pt">Apresentado por Willian Kury, o jornalístico da tarde traz uma análise completa das principais notícias do dia. Com destaque para as movimentações políticas em Brasília.</desc>
   </programme>
   <programme start="20260831180000 -0300" stop="20260831183000 -0300" channel="CULTURA HD">
     <title lang="pt">Shaun, o Carneiro</title>
@@ -47431,6 +47469,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Meu Amigãozão - Fora Do Tom</title>
     <desc lang="pt">Por meio de uma grande amizade, Yuri, Lili, Matt, Golias, Nessa e Bongo deixam a imaginação correr solta e vivem grandes aventuras.</desc>
   </programme>
+  <programme start="20260831182000 -0300" stop="20260831190500 -0300" channel="GLOBO RJ">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Alika comemora a notícia do apoio da rainha Menemi e planeja seu retorno a Batanga, enquanto Tonho se preocupa. Chinua conta a Kênia que Dumi foi encontrado com vida. Tonho revela a Caetana a verdadeira história de Alika.</desc>
+  </programme>
   <programme start="20260831182000 -0300" stop="20260831190500 -0300" channel="GLOBO RECIFE">
     <title lang="pt">A Nobreza do Amor</title>
     <desc lang="pt">Alika comemora a notícia do apoio da rainha Menemi e planeja seu retorno a Batanga, enquanto Tonho se preocupa. Chinua conta a Kênia que Dumi foi encontrado com vida. Tonho revela a Caetana a verdadeira história de Alika.</desc>
@@ -47444,6 +47486,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Alika comemora a notícia do apoio da rainha Menemi e planeja seu retorno a Batanga, enquanto Tonho se preocupa. Chinua conta a Kênia que Dumi foi encontrado com vida. Tonho revela a Caetana a verdadeira história de Alika.</desc>
   </programme>
   <programme start="20260831182000 -0300" stop="20260831190500 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">A Nobreza do Amor</title>
+    <desc lang="pt">Alika comemora a notícia do apoio da rainha Menemi e planeja seu retorno a Batanga, enquanto Tonho se preocupa. Chinua conta a Kênia que Dumi foi encontrado com vida. Tonho revela a Caetana a verdadeira história de Alika.</desc>
+  </programme>
+  <programme start="20260831182000 -0300" stop="20260831190500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">A Nobreza do Amor</title>
     <desc lang="pt">Alika comemora a notícia do apoio da rainha Menemi e planeja seu retorno a Batanga, enquanto Tonho se preocupa. Chinua conta a Kênia que Dumi foi encontrado com vida. Tonho revela a Caetana a verdadeira história de Alika.</desc>
   </programme>
@@ -47515,15 +47561,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Herchcovitch; Exposto</title>
     <desc lang="pt">Documentário conta a vida de Alexandre Herchcovitch por meio de imagens e de vídeos. Estilista tem obras expostas ao redor do mundo e já vestiu artistas como Bjork, Lady Gaga e Gisele Bündchen.</desc>
   </programme>
-  <programme start="20260831182500 -0300" stop="20260831191000 -0300" channel="GLOBO RJ">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Uma superprodução que conecta um reino africano a uma pacata cidade do interior do Nordeste do Brasil e propõe uma união intercontinental através do amor, do desejo de justiça e do encontro com a ancestralidade.</desc>
-  </programme>
   <programme start="20260831182500 -0300" stop="20260831191000 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">A Nobreza do Amor</title>
-    <desc lang="pt">Uma superprodução que conecta um reino africano a uma pacata cidade do interior do Nordeste do Brasil e propõe uma união intercontinental através do amor, do desejo de justiça e do encontro com a ancestralidade.</desc>
-  </programme>
-  <programme start="20260831182500 -0300" stop="20260831191000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">A Nobreza do Amor</title>
     <desc lang="pt">Uma superprodução que conecta um reino africano a uma pacata cidade do interior do Nordeste do Brasil e propõe uma união intercontinental através do amor, do desejo de justiça e do encontro com a ancestralidade.</desc>
   </programme>
@@ -47559,9 +47597,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
   </programme>
-  <programme start="20260831183000 -0300" stop="20260831194500 -0300" channel="REDE TV! HD">
-    <title lang="pt">Brasil Do Povo</title>
-    <desc lang="pt">O programa BRASIL DO POVO oferece uma cobertura abrangente dos principais acontecimentos no Brasil e no mundo, focando em segurança pública, prestação de serviços e temas que impactam diretamente o cotidiano da popula...</desc>
+  <programme start="20260831183000 -0300" stop="20260831185000 -0300" channel="REDE TV! HD">
+    <title lang="pt">RedeTV! Notícias - 2ª Edição</title>
+    <desc lang="pt">Apresentado por Willian Kury, o jornalístico da tarde traz uma análise completa das principais notícias do dia. Com destaque para as movimentações políticas em Brasília.</desc>
   </programme>
   <programme start="20260831183000 -0300" stop="20260831193000 -0300" channel="CULTURA HD">
     <title lang="pt">Antimatéria</title>
@@ -47914,6 +47952,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831184900 -0300" stop="20260831185200 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">MAUI PART. TALEKO, MACHADEZ E ANDERSON NEM - VOLTAR PRA CASA (DECK)</desc>
+  </programme>
+  <programme start="20260831185000 -0300" stop="20260831194500 -0300" channel="REDE TV! HD">
+    <title lang="pt">Brasil Do Povo</title>
+    <desc lang="pt">O programa BRASIL DO POVO oferece uma cobertura abrangente dos principais acontecimentos no Brasil e no mundo, focando em segurança pública, prestação de serviços e temas que impactam diretamente o cotidiano da popula...</desc>
   </programme>
   <programme start="20260831185000 -0300" stop="20260831194500 -0300" channel="RECORD HD">
     <title lang="pt">Cidade Alerta</title>
@@ -48303,6 +48345,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Quem dá Mais? - Amor de Avô</title>
     <desc lang="pt">Lisa retorna a Moreno Valley, onde tudo começou, e fica saudosa com seu contêiner. Ela vai terminar chorando de alegria com seu conteúdo?</desc>
   </programme>
+  <programme start="20260831190500 -0300" stop="20260831193500 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
+  </programme>
   <programme start="20260831190500 -0300" stop="20260831193500 -0300" channel="GLOBO RECIFE">
     <title lang="pt">NE2</title>
     <desc lang="pt">O NE2 traz o que foi notícia no dia em todo o estado. Economia, política e futebol numa linguagem simples para deixar todos bem informados.</desc>
@@ -48318,6 +48364,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831190500 -0300" stop="20260831193500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Jornal da EPTV - 2ª Edição</title>
     <desc lang="pt">O Jornal da EPTV 2ª Edição apresenta nas noites de segunda a sábado um resumo das principais notícias do dia nas regiões de Campinas, Ribeirão Preto, São Carlos e Sul de Minas.</desc>
+  </programme>
+  <programme start="20260831190500 -0300" stop="20260831193500 -0300" channel="TV VERDES MARES FORTALEZA">
+    <title lang="pt">CETV - 2ª Edição</title>
+    <desc lang="pt">Telejornal apresentado por Nádia Barros, que traz o resumo do dia no estado do Ceará.</desc>
   </programme>
   <programme start="20260831190500 -0300" stop="20260831193500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">JPB - 2ª Edição</title>
@@ -48359,10 +48409,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Educação em Debate</title>
     <desc lang="pt">Debates atuais sobre educação com profissionais da área. São apresentadas ainda a Pedagogia do Afeto e a Pedagogia do Cidadão Ecumênico, criadas pelo educador Paiva Netto.</desc>
   </programme>
-  <programme start="20260831191000 -0300" stop="20260831194000 -0300" channel="GLOBO RJ">
-    <title lang="pt">RJ2</title>
-    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
-  </programme>
   <programme start="20260831191000 -0300" stop="20260831194500 -0300" channel="TV GUARARAPES">
     <title lang="pt">Jornal Guararapes</title>
     <desc lang="pt">Acompanhe as principais notícias da cidade e da região.</desc>
@@ -48370,10 +48416,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831191000 -0300" stop="20260831194000 -0300" channel="TV ASA BRANCA">
     <title lang="pt">AB2</title>
     <desc lang="pt">Os principais acontecimentos nos 108 municípios da área de cobertura da Tv Asa Branca, reportagens investigativas, saúde, educação e segurança.</desc>
-  </programme>
-  <programme start="20260831191000 -0300" stop="20260831194000 -0300" channel="TV VERDES MARES FORTALEZA">
-    <title lang="pt">CETV - 2ª Edição</title>
-    <desc lang="pt">Telejornal apresentado por Nádia Barros, que traz o resumo do dia no estado do Ceará.</desc>
   </programme>
   <programme start="20260831191000 -0300" stop="20260831191500 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Loteria dos Sonhos</title>
@@ -48708,9 +48750,8 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Central Xsports - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20260831193000 -0300" stop="20260831200000 -0300" channel="ESPN 4">
-    <title lang="pt">La Vuelta Highlights</title>
-    <desc lang="pt">La Vuelta 26 será composta por 21 etapas e percorrerá uma distância total de 3.275 quilómetros.</desc>
+  <programme start="20260831193000 -0300" stop="20260904000000 -0300" channel="ESPN 4">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260831193000 -0300" stop="20260904000000 -0300" channel="BAND NEWS">
     <title lang="pt">Programação indisponível</title>
@@ -48719,9 +48760,8 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Firsthand - Victoria Vergara</title>
     <desc lang="pt">Acompanhamos o profissional Allan Cooke em Columbus, Ohio, na Carolina do Norte e no Camp Woodward.</desc>
   </programme>
-  <programme start="20260831193000 -0300" stop="20260831194000 -0300" channel="GLOOBINHO HD">
-    <title lang="pt">Alice &amp; Lewis - O Brechó Royal</title>
-    <desc lang="pt">Charlie vende um objeto que encontrou embaixo da cama de sua tia. Charlie se sente mal pelo que fez, então Alice e Lewis tentam ajudar, mas são impedidos pela própria Rainha...</desc>
+  <programme start="20260831193000 -0300" stop="20260904000000 -0300" channel="GLOOBINHO HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260831193000 -0300" stop="20260904000000 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Programação indisponível</title>
@@ -48844,6 +48884,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831193500 -0300" stop="20260904000000 -0300" channel="GLOBO SP">
     <title lang="pt">Programação indisponível</title>
   </programme>
+  <programme start="20260831193500 -0300" stop="20260831203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Vanessa faz um acordo com Junqueira. Iara sugere que Bela se aproxime de Lucas. Peixe convida Suelen para sair, e Dalila sente ciúmes. Ricardo comenta com Bela que acredita que Gabriel ainda tem sentimentos por ela.</desc>
+  </programme>
   <programme start="20260831193500 -0300" stop="20260831203000 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Por Você</title>
     <desc lang="pt">Vanessa faz um acordo com Junqueira. Iara sugere que Bela se aproxime de Lucas. Peixe convida Suelen para sair, e Dalila sente ciúmes. Ricardo comenta com Bela que acredita que Gabriel ainda tem sentimentos por ela.</desc>
@@ -48857,6 +48901,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Vanessa faz um acordo com Junqueira. Iara sugere que Bela se aproxime de Lucas. Peixe convida Suelen para sair, e Dalila sente ciúmes. Ricardo comenta com Bela que acredita que Gabriel ainda tem sentimentos por ela.</desc>
   </programme>
   <programme start="20260831193500 -0300" stop="20260831203000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Por Você</title>
+    <desc lang="pt">Vanessa faz um acordo com Junqueira. Iara sugere que Bela se aproxime de Lucas. Peixe convida Suelen para sair, e Dalila sente ciúmes. Ricardo comenta com Bela que acredita que Gabriel ainda tem sentimentos por ela.</desc>
+  </programme>
+  <programme start="20260831193500 -0300" stop="20260831203000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Por Você</title>
     <desc lang="pt">Vanessa faz um acordo com Junqueira. Iara sugere que Bela se aproxime de Lucas. Peixe convida Suelen para sair, e Dalila sente ciúmes. Ricardo comenta com Bela que acredita que Gabriel ainda tem sentimentos por ela.</desc>
   </programme>
@@ -48892,9 +48940,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831194000 -0300" stop="20260904000000 -0300" channel="HISTORY">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260831194000 -0300" stop="20260904000000 -0300" channel="GLOOBINHO HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260831194000 -0300" stop="20260904000000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -48913,15 +48958,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831194000 -0300" stop="20260904000000 -0300" channel="SportyNet + 3">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260831194000 -0300" stop="20260831203000 -0300" channel="GLOBO RJ">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-  </programme>
   <programme start="20260831194000 -0300" stop="20260831203000 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">Por Você</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-  </programme>
-  <programme start="20260831194000 -0300" stop="20260831203000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Por Você</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
@@ -49164,9 +49201,6 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831200000 -0300" stop="20260904000000 -0300" channel="ESPN 3">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260831200000 -0300" stop="20260904000000 -0300" channel="ESPN 4">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260831200000 -0300" stop="20260904000000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -49342,9 +49376,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário Político.</desc>
   </programme>
-  <programme start="20260831203000 -0300" stop="20260831210500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
+  <programme start="20260831203000 -0300" stop="20260831205500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
   <programme start="20260831203000 -0300" stop="20260831212500 -0300" channel="BAND Rio">
     <title lang="pt">Guerra das Rosas</title>
@@ -49390,9 +49424,9 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Guerra das Rosas</title>
     <desc lang="pt">Gulru esculta Gulfem contando o que fez com Cihan. Cihan chora nos braços de Gulfem. Halide vai para prisão. Mert conta para Duygu que desfilará para Gulru. Çiçek pergunta para Cahide se ela se arrependeu do que fez com o ...</desc>
   </programme>
-  <programme start="20260831203000 -0300" stop="20260831210500 -0300" channel="TV VERDES MARES FORTALEZA">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
+  <programme start="20260831203000 -0300" stop="20260831205500 -0300" channel="TV VERDES MARES FORTALEZA">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
   <programme start="20260831203000 -0300" stop="20260831210500 -0300" channel="TV ASA BRANCA ALAGOAS">
     <title lang="pt">Jornal Nacional</title>
@@ -49541,6 +49575,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Jornal da Record</title>
     <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
   </programme>
+  <programme start="20260831205500 -0300" stop="20260831214500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
+  </programme>
   <programme start="20260831205500 -0300" stop="20260831214500 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
@@ -49558,6 +49596,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
   </programme>
   <programme start="20260831205500 -0300" stop="20260831214500 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
+  </programme>
+  <programme start="20260831205500 -0300" stop="20260831214500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
   </programme>
@@ -49646,15 +49688,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Reis - A Divisão</title>
     <desc lang="pt">Retrata com detalhes a deplorável situação do que se tornou o reino de Israel após a morte do rei Salomão.</desc>
   </programme>
-  <programme start="20260831210500 -0300" stop="20260831215000 -0300" channel="GLOBO RJ">
-    <title lang="pt">Entrevista com os Candidatos à Presidência - Romeu Zema</title>
-    <desc lang="pt">Nesta segunda, Renata Vasconcellos e César Tralli entrevistam Romeu Zema, ao vivo, logo após o 'Jornal Nacional', diretamente dos Estúdios Globo, no Rio de Janeiro</desc>
-  </programme>
   <programme start="20260831210500 -0300" stop="20260831215000 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">Entrevista com os Candidatos à Presidência - Romeu Zema</title>
-    <desc lang="pt">Nesta segunda, Renata Vasconcellos e César Tralli entrevistam Romeu Zema, ao vivo, logo após o 'Jornal Nacional', diretamente dos Estúdios Globo, no Rio de Janeiro</desc>
-  </programme>
-  <programme start="20260831210500 -0300" stop="20260831215000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Entrevista com os Candidatos à Presidência - Romeu Zema</title>
     <desc lang="pt">Nesta segunda, Renata Vasconcellos e César Tralli entrevistam Romeu Zema, ao vivo, logo após o 'Jornal Nacional', diretamente dos Estúdios Globo, no Rio de Janeiro</desc>
   </programme>
@@ -49839,6 +49873,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Sessão +SBT</title>
     <desc lang="pt">A atração comemora os 45 anos da emissora e resgata momentos históricos, quadros marcantes e grandes sucessos do arquivo do canal.</desc>
   </programme>
+  <programme start="20260831214500 -0300" stop="20260831225500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Nancy aceita ajudar Adriana. Carla resolve disponibilizar para Pedro um arquivo que guardou de Dalto. Dora comenta com André que receia que Ademir descubra sobre seu relacionamento.</desc>
+  </programme>
   <programme start="20260831214500 -0300" stop="20260831225500 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Quem Ama Cuida</title>
     <desc lang="pt">Nancy aceita ajudar Adriana. Carla resolve disponibilizar para Pedro um arquivo que guardou de Dalto. Dora comenta com André que receia que Ademir descubra sobre seu relacionamento.</desc>
@@ -49852,6 +49890,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Nancy aceita ajudar Adriana. Carla resolve disponibilizar para Pedro um arquivo que guardou de Dalto. Dora comenta com André que receia que Ademir descubra sobre seu relacionamento.</desc>
   </programme>
   <programme start="20260831214500 -0300" stop="20260831225500 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Nancy aceita ajudar Adriana. Carla resolve disponibilizar para Pedro um arquivo que guardou de Dalto. Dora comenta com André que receia que Ademir descubra sobre seu relacionamento.</desc>
+  </programme>
+  <programme start="20260831214500 -0300" stop="20260831225500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Quem Ama Cuida</title>
     <desc lang="pt">Nancy aceita ajudar Adriana. Carla resolve disponibilizar para Pedro um arquivo que guardou de Dalto. Dora comenta com André que receia que Ademir descubra sobre seu relacionamento.</desc>
   </programme>
@@ -49881,15 +49923,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
   <programme start="20260831215000 -0300" stop="20260904000000 -0300" channel="COMBATE HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260831215000 -0300" stop="20260831223500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Quem Ama Cuida</title>
-    <desc lang="pt">Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.</desc>
-  </programme>
   <programme start="20260831215000 -0300" stop="20260831223500 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">Quem Ama Cuida</title>
-    <desc lang="pt">Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.</desc>
-  </programme>
-  <programme start="20260831215000 -0300" stop="20260831223500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Quem Ama Cuida</title>
     <desc lang="pt">Adriana, após ser demitida, tem sua casa destruída por uma enchente e que também leva seu marido. Ainda sem entender como seguir, vai parar em um abrigo, onde cruza, pela primeira vez, com o caminho de Pedro.</desc>
   </programme>
@@ -50095,15 +50129,7 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Band Eleições</title>
     <desc lang="pt">Entrevistas, reportagens e debates. Uma fonte de informações para ajudar o eleitor a escolher quem é o melhor candidato.</desc>
   </programme>
-  <programme start="20260831223500 -0300" stop="20260901000500 -0300" channel="GLOBO RJ">
-    <title lang="pt">Tela Quente: Assassino sem Rastro</title>
-    <desc lang="pt">Um assassino profissional descobre que se tornou um alvo após se recusar a concluir um trabalho para uma organização criminosa perigosa.</desc>
-  </programme>
   <programme start="20260831223500 -0300" stop="20260901000500 -0300" channel="TV ASA BRANCA">
-    <title lang="pt">Tela Quente: Assassino sem Rastro</title>
-    <desc lang="pt">Um assassino profissional descobre que se tornou um alvo após se recusar a concluir um trabalho para uma organização criminosa perigosa.</desc>
-  </programme>
-  <programme start="20260831223500 -0300" stop="20260901000500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Tela Quente: Assassino sem Rastro</title>
     <desc lang="pt">Um assassino profissional descobre que se tornou um alvo após se recusar a concluir um trabalho para uma organização criminosa perigosa.</desc>
   </programme>
@@ -50143,6 +50169,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Chicago Med</title>
     <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
   </programme>
+  <programme start="20260831225500 -0300" stop="20260831233000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+  </programme>
   <programme start="20260831225500 -0300" stop="20260831233000 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Estrela da Casa</title>
     <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
@@ -50156,6 +50186,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
   </programme>
   <programme start="20260831225500 -0300" stop="20260831233000 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Estrela da Casa</title>
+    <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
+  </programme>
+  <programme start="20260831225500 -0300" stop="20260831233000 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Estrela da Casa</title>
     <desc lang="pt">Na nova temporada do reality show, novamente sob o comando de Ana Clara, os participantes vão disputar o sonho de se tornar uma grande estrela. Nesta edição, o cantor Michel Teló se junta ao time, na função inédi...</desc>
   </programme>
@@ -50251,6 +50285,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <title lang="pt">Apito Final</title>
     <desc lang="pt">Um giro jornalístico da semana para você ficar por dentro de tudo o que acontece no mundo da bola.</desc>
   </programme>
+  <programme start="20260831233000 -0300" stop="20260901010500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Tela Quente: Megatubarão 2</title>
+    <desc lang="pt">A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
+  </programme>
   <programme start="20260831233000 -0300" stop="20260901010500 -0300" channel="GLOBO RECIFE">
     <title lang="pt">Tela Quente: Megatubarão 2</title>
     <desc lang="pt">A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
@@ -50268,6 +50306,10 @@ Nesta entrevista especial do "20 Minutos", Ubiratan vai além dos números e dos
     <desc lang="pt">A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
   </programme>
   <programme start="20260831233000 -0300" stop="20260901010500 -0300" channel="EPTV RIBEIRAO">
+    <title lang="pt">Tela Quente: Megatubarão 2</title>
+    <desc lang="pt">A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
+  </programme>
+  <programme start="20260831233000 -0300" stop="20260901010500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Tela Quente: Megatubarão 2</title>
     <desc lang="pt">A viagem de uma equipe de pesquisa nas profundezas do oceano se transforma em um caos quando uma operação de mineração os força a entrar em uma batalha pela sobrevivência, enfrentando Mega Tubarões e saqueadores ...</desc>
   </programme>
