@@ -663,6 +663,9 @@
   <channel id="radio-cultura">
     <display-name lang="pt">Rádio Cultura</display-name>
   </channel>
+  <channel id="top-tv">
+    <display-name lang="pt">TOP TV</display-name>
+  </channel>
   <programme start="20260907000000 -0300" stop="20260907023000 -0300" channel="tvt">
     <title>TVT NEWS - 1º Edição</title>
     <sub-title>Reprise</sub-title>
@@ -1861,6 +1864,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910000000 -0300" stop="20260910010000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910000000 -0300" stop="20260910010000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910000000 -0300" stop="20260910023000 -0300" channel="tvt">
     <title>TVT NEWS - 1º Edição</title>
     <sub-title>Reprise</sub-title>
@@ -3058,6 +3064,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910010000 -0300" stop="20260910020000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910010000 -0300" stop="20260910020000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910010000 -0300" stop="20260910020000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -4273,6 +4282,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910020000 -0300" stop="20260910030000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910020000 -0300" stop="20260910030000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910020000 -0300" stop="20260910030000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -5562,6 +5574,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910030000 -0300" stop="20260910040000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910030000 -0300" stop="20260910040000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910030000 -0300" stop="20260910040000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -6850,6 +6865,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910040000 -0300" stop="20260910050000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910040000 -0300" stop="20260910050000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910040000 -0300" stop="20260910050000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -7886,6 +7904,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910050000 -0300" stop="20260910060000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910050000 -0300" stop="20260910060000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910050000 -0300" stop="20260910060000 -0300" channel="tvt">
     <title>TVT NEWS - 2º Edição</title>
@@ -9244,6 +9265,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910060000 -0300" stop="20260910070000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910060000 -0300" stop="20260910070000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910060000 -0300" stop="20260910070000 -0300" channel="tvt">
     <title>TVT NEWS - 2º Edição</title>
     <sub-title>Reprise - Bloco 02</sub-title>
@@ -10307,6 +10331,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910070000 -0300" stop="20260910080000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910070000 -0300" stop="20260910080000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910070000 -0300" stop="20260910080000 -0300" channel="tvt">
     <title>DESPERTA ICL</title>
@@ -11489,6 +11516,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910080000 -0300" stop="20260910090000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910080000 -0300" stop="20260910090000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910080000 -0300" stop="20260910100000 -0300" channel="tvt">
     <title>ICL NOTÍCIAS</title>
@@ -12705,6 +12735,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910090000 -0300" stop="20260910100000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910090000 -0300" stop="20260910100000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910090000 -0300" stop="20260910100000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -13879,6 +13912,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910100000 -0300" stop="20260910110000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910100000 -0300" stop="20260910110000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910100000 -0300" stop="20260910103000 -0300" channel="tvt">
     <title>ICL RÁDIO NEWS</title>
     <sub-title>Ao vivo</sub-title>
@@ -14970,6 +15006,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910110000 -0300" stop="20260910120000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910110000 -0300" stop="20260910120000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910110000 -0300" stop="20260910120000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -16214,6 +16253,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910120000 -0300" stop="20260910130000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910120000 -0300" stop="20260910130000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910120000 -0300" stop="20260910130000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -17299,6 +17341,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910130000 -0300" stop="20260910140000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910130000 -0300" stop="20260910140000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910130000 -0300" stop="20260910132500 -0300" channel="tvt">
     <title>PROPAGANDA ELEITORAL</title>
@@ -18667,6 +18712,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910140000 -0300" stop="20260910150000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910140000 -0300" stop="20260910150000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910140000 -0300" stop="20260910160000 -0300" channel="tvt">
     <title>SEM CENSURA</title>
     <desc />
@@ -19712,6 +19760,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910150000 -0300" stop="20260910160000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910150000 -0300" stop="20260910160000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910150000 -0300" stop="20260910160000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -20808,6 +20859,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910160000 -0300" stop="20260910170000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910160000 -0300" stop="20260910170000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910160000 -0300" stop="20260910170000 -0300" channel="tvt">
     <title>TV 247 NA TVT</title>
     <desc />
@@ -21717,6 +21771,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910170000 -0300" stop="20260910180000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910170000 -0300" stop="20260910180000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910170000 -0300" stop="20260910180000 -0300" channel="tvt">
     <title>TVT NEWS - 2º Edição</title>
@@ -22898,6 +22955,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910180000 -0300" stop="20260910190000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910180000 -0300" stop="20260910190000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910180000 -0300" stop="20260910183000 -0300" channel="tvt">
     <title>CAMINHOS DA REPORTAGEM</title>
     <desc />
@@ -24024,6 +24084,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910190000 -0300" stop="20260910200000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910190000 -0300" stop="20260910200000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910190000 -0300" stop="20260910200000 -0300" channel="tvt">
     <title>BDF ENTREVISTA</title>
@@ -25322,6 +25385,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260910200000 -0300" stop="20260910210000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260910200000 -0300" stop="20260910210000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260910200000 -0300" stop="20260910203000 -0300" channel="tvt">
     <title>DEU BOLA</title>
@@ -26622,6 +26688,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910210000 -0300" stop="20260910220000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910210000 -0300" stop="20260910220000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910210000 -0300" stop="20260910220000 -0300" channel="tvt">
     <title>JUCA KFOURI ENTREVISTA</title>
     <desc>Um programa comandado pelo jornalista Juca Kfouri, que traz uma personalidade semanalmente, para discutir temas atuais, de interesse público.  Um espaço para aprofundar as ideias e análises sobre as grandes questões mundiais, nacionais e locais.
@@ -27809,6 +27878,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910220000 -0300" stop="20260910230000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910220000 -0300" stop="20260910230000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910220000 -0300" stop="20260910230000 -0300" channel="tvt">
     <title>SAMBA NA GAMBOA</title>
     <sub-title>Samba na Gamboa recebe Mingo Silva</sub-title>
@@ -28793,6 +28865,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260910230000 -0300" stop="20260911000000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260910230000 -0300" stop="20260911000000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260910230000 -0300" stop="20260911000000 -0300" channel="tvt">
     <title>TV 247 NA TVT</title>
     <desc />
@@ -29640,8 +29715,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
     <desc lang="pt">Drew Pritchard já visitou todo tipo de edifícios para encontrar os melhores objetos e antiguidades do norte de Gales, mas só alguns ele classifica como Lugares Incríveis.</desc>
   </programme>
-  <programme start="20260911000000 -0300" stop="20260911064800 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260911000000 -0300" stop="20260911002400 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Viciados em Viagens - Marrakesh</title>
+    <desc lang="pt">David Arquette e Mike McGuiness visitam Marrakesh, no Marrocos.</desc>
   </programme>
   <programme start="20260911000000 -0300" stop="20260911060000 -0300" channel="DOG TV HD">
     <title lang="pt">Programação Dog TV</title>
@@ -29908,6 +29984,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911000000 -0300" stop="20260911010000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911000000 -0300" stop="20260911010000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911000000 -0300" stop="20260911023000 -0300" channel="tvt">
     <title>TVT NEWS - 1º Edição</title>
     <sub-title>Reprise</sub-title>
@@ -30167,6 +30246,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911002400 -0300" stop="20260911002900 -0300" channel="CARTOONITO">
     <title lang="pt">Numberblocks - Octolígno e a Fracionadora</title>
     <desc lang="pt">Numberblock Três perdeu um dos seus botões. Numberblock Um se transforma em detetive para ajudar Três a encontrá-lo e ver as horas.</desc>
+  </programme>
+  <programme start="20260911002400 -0300" stop="20260911004800 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Paraísos Pelo Mundo: Praias - A Beleza Natural Dos Açores</title>
+    <desc lang="pt">Um casal que já mudou de país algumas vezes por motivos profissionais sempre sonhou em morar em uma ilha. Depois de visitar a ilha de Açores, ela o convence a se mudar para a bela ilha vulcânica.</desc>
   </programme>
   <programme start="20260911002400 -0300" stop="20260911003000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Esto Es Francia</title>
@@ -30724,6 +30807,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Trabalho Sujo: Na Estrada - Cirurgião de Combate e Caçador de Iguanas</title>
     <desc lang="pt">Mike treina como cirurgião de trauma usando cenários hiper-realistas e simulação de condições de campo de batalha. Depois, ele controla uma invasão de iguanas, que podem trazer riscos à saúde humana na ...</desc>
   </programme>
+  <programme start="20260911004800 -0300" stop="20260911011200 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Vende-se Pântano - Pescaria no Quintal</title>
+    <desc lang="pt">Chef Brent e seu pai, Danny, procuram uma área onde possam pescar trutas, uma das iguarias do sul da Louisiana, em seu próprio quintal.</desc>
+  </programme>
   <programme start="20260911004800 -0300" stop="20260911004900 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc Marrom70 - Alcione</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
@@ -31057,6 +31144,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911010000 -0300" stop="20260911020000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911010000 -0300" stop="20260911020000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911010000 -0300" stop="20260911020000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -31167,6 +31257,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911011200 -0300" stop="20260911014400 -0300" channel="BIS HD">
     <title lang="pt">Voz Da Consciência</title>
     <desc lang="pt">Péricles e Teresa Cristina exaltam as contribuições da comunidade negra na construção e na perpetuação do samba com papo descontraído e muita música boa.</desc>
+  </programme>
+  <programme start="20260911011200 -0300" stop="20260911013600 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">O Hotel Ideal - Las Vegas</title>
+    <desc lang="pt">Os Crafts visitam três hotéis completamente diferentes em Las Vegas.</desc>
   </programme>
   <programme start="20260911011200 -0300" stop="20260911015900 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I - Long Road Home</title>
@@ -31563,6 +31657,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911013600 -0300" stop="20260911022400 -0300" channel="DISCOVERY THEATER HD">
     <title lang="pt">Polônia: A Última Fronteira</title>
     <desc lang="pt">Conheça as histórias dos lenhadores, engenheiros florestais e outros habitantes da região mais inóspita e selvagem da Polônia, as Montanhas Bieszczady.</desc>
+  </programme>
+  <programme start="20260911013600 -0300" stop="20260911020000 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Casas de Férias Incríveis - Itália, Washington, Granada e Reino Unido</title>
+    <desc lang="pt">Conheça algumas das casas de férias mais fascinantes do mundo, incluindo uma casa de 50 milhões de dólares na Toscana, um castelo caribenho, uma fortaleza britânica do século 19 e um refúgio high-tech no estado d...</desc>
   </programme>
   <programme start="20260911013600 -0300" stop="20260911015800 -0300" channel="GLOOB HD">
     <title lang="pt">Miraculous - As Aventuras De Ladybug - Marionetista 2</title>
@@ -31972,6 +32070,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Rock in Rio 2026</title>
     <desc lang="pt">Rock in Rio 2026.</desc>
   </programme>
+  <programme start="20260911020000 -0300" stop="20260911022400 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Paraísos Pelo Mundo: Praias - A Beleza Natural Dos Açores</title>
+    <desc lang="pt">Um casal que já mudou de país algumas vezes por motivos profissionais sempre sonhou em morar em uma ilha. Depois de visitar a ilha de Açores, ela o convence a se mudar para a bela ilha vulcânica.</desc>
+  </programme>
   <programme start="20260911020000 -0300" stop="20260911021500 -0300" channel="DW-TV">
     <title lang="pt">Economía</title>
     <desc lang="pt">Uma visão europeia do mundo da economia e dos negócios. Fatos, análises e histórias reais dos principais locais financeiros, dos principais mercados e das empresas líderes.</desc>
@@ -32204,6 +32306,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911020000 -0300" stop="20260911030000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911020000 -0300" stop="20260911030000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911020000 -0300" stop="20260911030000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -32587,6 +32692,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911022400 -0300" stop="20260911031200 -0300" channel="DISCOVERY THEATER HD">
     <title lang="pt">Alasca - Perigo no Ar - Vida ou Morte</title>
     <desc lang="pt">O piloto Luke Hickerson transporta produtos químicos perigosos de Barrow para um vilarejo remoto em Atqasuk. Mas em Unalakleet, o inverno impiedoso faz sua primeira vítima, e Jim precisa organizar o transporte do caixão.</desc>
+  </programme>
+  <programme start="20260911022400 -0300" stop="20260911024800 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Vende-se Pântano - Pescaria no Quintal</title>
+    <desc lang="pt">Chef Brent e seu pai, Danny, procuram uma área onde possam pescar trutas, uma das iguarias do sul da Louisiana, em seu próprio quintal.</desc>
   </programme>
   <programme start="20260911022400 -0300" stop="20260911022500 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Performances Do Music - Performances Do Music - Rafa Machado - Festival Recomeço - Iemanja</title>
@@ -32987,6 +33096,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911024700 -0300" stop="20260911033200 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I. Miami - Deadline</title>
     <desc lang="pt">Um repórter de um jornal testemunha o assassinato de seu velho colega nas ruas mais perigosas de Miami, Horatio, porém não consegue acreditar no testemunho do repórter e resolve investigar mais a fundo o crime.</desc>
+  </programme>
+  <programme start="20260911024800 -0300" stop="20260911033600 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Lugares Secretos para Nadar - Omã</title>
+    <desc lang="pt">Vamos conhecer um oásis em um cânion no deserto de Omã, uma lagoa subterrânea no Havaí, e uma cachoeira de 12 metros escondida na ilha tropical de Samoa.</desc>
   </programme>
   <programme start="20260911024900 -0300" stop="20260911030000 -0300" channel="DISCOVERY KIDS HD">
     <title lang="pt">Topo Gigio - O Aniversário</title>
@@ -33432,6 +33545,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911030000 -0300" stop="20260911040000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911030000 -0300" stop="20260911040000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911030000 -0300" stop="20260911040000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -34072,6 +34188,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Boa Noite, Dumdum</title>
     <desc lang="pt">Encerre o dia com histórias e músicas suaves, cultivando valores como respeito, amizade, companheirismo, vida saudável e consciência ecológica. Um momento de calma e aprendizado para sonhar com um mundo melhor.</desc>
   </programme>
+  <programme start="20260911033600 -0300" stop="20260911042400 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer - África do Sul</title>
+    <desc lang="pt">Os Ulles visitam a África do Sul e suas impressionantes reservas de vida selvagem e belas cidades.</desc>
+  </programme>
   <programme start="20260911033600 -0300" stop="20260911033800 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc Acao Direta - Angelo Hipolito</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
@@ -34673,6 +34793,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911040000 -0300" stop="20260911050000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911040000 -0300" stop="20260911050000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911040000 -0300" stop="20260911050000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -34931,6 +35054,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911042300 -0300" stop="20260911042400 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Performances Do Music - Performances Do Music - Porão Do Rock 2023 - Orquestra Quadrafônica - Thriller</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
+  </programme>
+  <programme start="20260911042400 -0300" stop="20260911051200 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer - França</title>
+    <desc lang="pt">Os Ulles visitam a França, um dos destinos mais românticos do mundo.</desc>
   </programme>
   <programme start="20260911042400 -0300" stop="20260911042600 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Jam Sessions - Vitor Kley - O Sol</title>
@@ -35665,6 +35792,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911050000 -0300" stop="20260911060000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911050000 -0300" stop="20260911060000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911050000 -0300" stop="20260911060000 -0300" channel="tvt">
     <title>TVT NEWS - 2º Edição</title>
     <sub-title>Reprise - Bloco 01</sub-title>
@@ -35796,6 +35926,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911051100 -0300" stop="20260911055400 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU - Clock</title>
     <desc lang="pt">Stabler e Tutuola investigam o caso de dois adolescentes supostamente desaparecidos.</desc>
+  </programme>
+  <programme start="20260911051200 -0300" stop="20260911053600 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">O Poder dos Alimentos - Uma Cidade de Peso</title>
+    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett lançou a campanha "Esta Cidade Vai Fazer Dieta". Ao longo de dois meses, o episódio acompanha duas jornadas de perda de peso e seus desafios.</desc>
   </programme>
   <programme start="20260911051234 -0300" stop="20260911051607 -0300" channel="LMC+HD">
     <title lang="pt">Hora Da Alegria</title>
@@ -36237,6 +36371,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Sobreviventes do Gelo - Jogos de Inverno</title>
     <desc lang="pt">Com o degelo à vista, nossos rebeldes combatem a "febre da cabana" lapidando suas habilidades nos jogos anuais, mas um acidente no gelo os recorda que o lago ainda está no comando.</desc>
   </programme>
+  <programme start="20260911053600 -0300" stop="20260911060000 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Buying Hawaii - De Pearl Harbor ao Paraíso</title>
+    <desc lang="pt">Não é fácil morar em um submarino. Por isso, o oficial da Marinha Jeremy quer sair de Pearl Harbor para morar nas montanhas havaianas. Junte-se a eles para conhecer as melhores vistas de Oahu.</desc>
+  </programme>
   <programme start="20260911053600 -0300" stop="20260911060000 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa do Lago - Um Lar no Lago de Ozarks</title>
     <desc lang="pt">Uma família espera encontrar um novo lar às margens do belo Lago de Ozarks, no Missouri.</desc>
@@ -36604,6 +36742,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911060000 -0300" stop="20260911064800 -0300" channel="DISCOVERY TURBO HD">
     <title lang="pt">Máquinas Muito Loucas - A Supermáquina do Homem de Ferro (Parte 1 de 402)</title>
     <desc lang="pt">Steve e a equipe da WelderUp precisam construir para Tyrone um rat rod temático que sirva como picape de trabalho. Justin comete erros graves e Steve tenta reformar um Coronet 1967 que encontra em um ferro-velho.</desc>
+  </programme>
+  <programme start="20260911060000 -0300" stop="20260911062400 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Paraísos Pelo Mundo: Praias - A Beleza Natural Dos Açores</title>
+    <desc lang="pt">Um casal que já mudou de país algumas vezes por motivos profissionais sempre sonhou em morar em uma ilha. Depois de visitar a ilha de Açores, ela o convence a se mudar para a bela ilha vulcânica.</desc>
   </programme>
   <programme start="20260911060000 -0300" stop="20260911120000 -0300" channel="DOG TV HD">
     <title lang="pt">Programação Dog TV</title>
@@ -37063,6 +37205,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911060000 -0300" stop="20260911070000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911060000 -0300" stop="20260911070000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911060000 -0300" stop="20260911070000 -0300" channel="tvt">
     <title>TVT NEWS - 2º Edição</title>
     <sub-title>Reprise - Bloco 02</sub-title>
@@ -37278,6 +37423,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911062400 -0300" stop="20260911064800 -0300" channel="DISCOVERY THEATER HD">
     <title lang="pt">Living With The Wolfman - Às Cegas</title>
     <desc lang="pt">Viver com um homem-lobo não é fácil e Helen luta para lavar as roupas imundas de Shaun em uma máquina de lavar que não quer ajudar.</desc>
+  </programme>
+  <programme start="20260911062400 -0300" stop="20260911064800 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Paraísos Pelo Mundo: Praias - Família Em Belize</title>
+    <desc lang="pt">Um casal que sempre sentiu uma ligação com o mar se apaixona por Belize depois de passar férias com suas filhas. Eles decidem deixar a Filadélfia e comprar uma casa em Caye Caulker para ter mais tempo com a família.</desc>
   </programme>
   <programme start="20260911062400 -0300" stop="20260911064500 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Duelo Com Bobby Flay - Chegadas e Partidas</title>
@@ -38123,6 +38272,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911070000 -0300" stop="20260911080000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911070000 -0300" stop="20260911080000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911070000 -0300" stop="20260911080000 -0300" channel="tvt">
     <title>DESPERTA ICL</title>
     <sub-title>Ao vivo</sub-title>
@@ -38251,8 +38403,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">No Rastro do Pé-Grande - A Caçada Começa</title>
     <desc lang="pt">Usando uma nova tecnologia de rastreamento, Russell se aproxima cada vez mais de sua presa. Bryce descobre que o pégrande pode ter poderes psíquicos, levando Ronny a usar uma técnica incomum para atrailo.</desc>
   </programme>
-  <programme start="20260911071200 -0300" stop="20260911091200 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260911071200 -0300" stop="20260911073600 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Vende-se Pântano - Pescaria no Quintal</title>
+    <desc lang="pt">Chef Brent e seu pai, Danny, procuram uma área onde possam pescar trutas, uma das iguarias do sul da Louisiana, em seu próprio quintal.</desc>
   </programme>
   <programme start="20260911071200 -0300" stop="20260911072300 -0300" channel="GLOOB HD">
     <title lang="pt">Alvinnn!!! E Os Esquilos - A Intrusa</title>
@@ -38696,6 +38849,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911073600 -0300" stop="20260911082400 -0300" channel="DISCOVERY TURBO HD">
     <title lang="pt">Oficinaço - Van Alcoólica - Parte I</title>
     <desc lang="pt">Um fã confia a Joe a tarefa de encontrar e customizar um veículo para sua empresa de uísque. Mandi e Shag encontram uma van dos anos 70 perfeita para o projeto. A equipe precisa achar um novo capô para uma van Chrysler.</desc>
+  </programme>
+  <programme start="20260911073600 -0300" stop="20260911082400 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer - Havaí</title>
+    <desc lang="pt">Os Ulles descobrem Oahu e a Ilha Grande, no Havaí, explorando seus vulcões e paisagens espetaculares.</desc>
   </programme>
   <programme start="20260911073600 -0300" stop="20260911074200 -0300" channel="GLOOBINHO HD">
     <title lang="pt">As Aventuras De Bob Zoom - Festa No Quintal</title>
@@ -39325,6 +39482,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911080000 -0300" stop="20260911090000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911080000 -0300" stop="20260911090000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911080000 -0300" stop="20260911100000 -0300" channel="tvt">
     <title>ICL NOTÍCIAS</title>
     <sub-title>Ao vivo</sub-title>
@@ -39516,6 +39676,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911082400 -0300" stop="20260911091200 -0300" channel="DISCOVERY TURBO HD">
     <title lang="pt">Oficina do Barulho - Bebida no Capô</title>
     <desc lang="pt">Josh, Klump e Kevin trabalham na  restauração do Moonshine Runner. Mas Klump fica furioso e ameaça abandonar o projeto. Thomas compra um Cadillac '60 de sua namorada da escola.</desc>
+  </programme>
+  <programme start="20260911082400 -0300" stop="20260911091200 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Italianos Made in India</title>
+    <desc lang="pt">Um grupo de jovens italianos de origem indiana embarca em uma jornada cultural de autodescoberta na Índia. A 10.000 quilômetros de casa, eles buscam descobrir uma parte de sua identidade.</desc>
   </programme>
   <programme start="20260911082400 -0300" stop="20260911091300 -0300" channel="ID HD">
     <title lang="pt">Vidas Destruídas - Os Corpos Lá Fora</title>
@@ -40496,6 +40660,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911090000 -0300" stop="20260911100000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911090000 -0300" stop="20260911100000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911090000 -0300" stop="20260911100000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -41119,7 +41286,8 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <desc lang="pt">O futuro de McCarthy está em jogo quando Neil cria uma nova rede elétrica na cidade. Diante do estresse dos moradores, Jeremy convoca uma reunião de emergência para deter os planos de Neil.</desc>
   </programme>
   <programme start="20260911093600 -0300" stop="20260911100000 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+    <title lang="pt">Sabores da América: Bacon - O Turbacon</title>
+    <desc lang="pt">Na Filadélfia, a jornada de Todd inclui tacos, hambúrgueres e até um bloody mary de bacon. Ele ainda visita uma lanchonete em que quase tudo tem um toque de bacon.</desc>
   </programme>
   <programme start="20260911093700 -0300" stop="20260911094600 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
@@ -41657,6 +41825,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911100000 -0300" stop="20260911110000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911100000 -0300" stop="20260911110000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911100000 -0300" stop="20260911103000 -0300" channel="tvt">
     <title>ICL RÁDIO NEWS</title>
     <sub-title>Ao vivo</sub-title>
@@ -41901,8 +42072,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Sobreviventes do Gelo - Jogos de Inverno</title>
     <desc lang="pt">Com o degelo à vista, nossos rebeldes combatem a "febre da cabana" lapidando suas habilidades nos jogos anuais, mas um acidente no gelo os recorda que o lago ainda está no comando.</desc>
   </programme>
-  <programme start="20260911102400 -0300" stop="20260911113600 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260911102400 -0300" stop="20260911104800 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Vende-se Pântano - Um Lugar para Relaxar</title>
+    <desc lang="pt">Mike e Kim procuram um lugar longe de casa, onde possam relaxar e se divertir. E nos melhores lugares, só se chega de barco.</desc>
   </programme>
   <programme start="20260911102500 -0300" stop="20260911104700 -0300" channel="Adult Swim HD">
     <title lang="pt">Rick &amp; Morty</title>
@@ -42408,6 +42580,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Palaloos</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
+  <programme start="20260911104800 -0300" stop="20260911111200 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">O Poder dos Alimentos - Segurança Alimentar</title>
+    <desc lang="pt">A cada ano, milhares de pessoas são hospitalizadas com infecções de origem alimentar. O episódio inclui entrevistas com sobreviventes e com dois especialistas em segurança alimentar, Richard Vergili e Dr. Marion Nestle.</desc>
+  </programme>
   <programme start="20260911104900 -0300" stop="20260911123600 -0300" channel="CINEMAX HD">
     <title lang="pt">Especialista em Crise</title>
     <desc lang="pt">A consultora política Jane Bodine é especialista em conseguir contornar situações adversas. Apesar de estar aposentada, decide trabalhar para o candido a presidência Pedro Castillo.</desc>
@@ -42736,6 +42912,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911110000 -0300" stop="20260911120000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911110000 -0300" stop="20260911120000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911110000 -0300" stop="20260911120000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -42858,6 +43037,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911111200 -0300" stop="20260911113600 -0300" channel="DISCOVERY THEATER HD">
     <title lang="pt">Living With The Wolfman - Às Cegas</title>
     <desc lang="pt">Viver com um homem-lobo não é fácil e Helen luta para lavar as roupas imundas de Shaun em uma máquina de lavar que não quer ajudar.</desc>
+  </programme>
+  <programme start="20260911111200 -0300" stop="20260911113600 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Paraísos Pelo Mundo: Praias - Vida À Beira-Mar Na Tailândia</title>
+    <desc lang="pt">Um jovem casal chinês busca uma rotina mais relaxante e decide se mudar para a tropical Ko Lanta, Tailândia. Eles querem uma casa em um bairro autêntico, com vista para o mar e espaço para um estúdio de música.</desc>
   </programme>
   <programme start="20260911111315 -0300" stop="20260911111626 -0300" channel="DumDum">
     <title lang="pt">Turma do Folclore - Lenda do Boitatá</title>
@@ -43994,6 +44177,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911120000 -0300" stop="20260911130000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911120000 -0300" stop="20260911130000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911120000 -0300" stop="20260911130000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -44186,7 +44372,8 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <desc lang="pt">Shasha e Milo são os recém-ativados Guardiões da Ilha Crescente. Imbuídos do poder de transformação entre humano, gato e uma formidável forma híbrida, Shasha e Milo têm a tarefa de proteger a Ilha Cresc...</desc>
   </programme>
   <programme start="20260911122400 -0300" stop="20260911124800 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+    <title lang="pt">Vende-se Pântano - Toque de Midas</title>
+    <desc lang="pt">Larry e Amber Douglas fundaram um negócio que se tornou uma operação milionária no sul do país.</desc>
   </programme>
   <programme start="20260911122400 -0300" stop="20260911124700 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Sabor na Brasa - Rainhas do Churrasco</title>
@@ -45075,6 +45262,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911130000 -0300" stop="20260911140000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911130000 -0300" stop="20260911140000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911130000 -0300" stop="20260911132500 -0300" channel="tvt">
     <title>PROPAGANDA ELEITORAL</title>
     <desc />
@@ -45183,7 +45373,8 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <desc lang="pt">No Mundo Bita, Pepe está perdendo uma partida do jogo Plotball e Pipa tenta convencê-lo a continuar na brincadeira. No Planeta Terra, Flora toca violão para Dan e Tito.</desc>
   </programme>
   <programme start="20260911131200 -0300" stop="20260911133600 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+    <title lang="pt">O Hotel Ideal - Miami</title>
+    <desc lang="pt">Os Scarpinos escolhem um entre três hotéis para uma estadia de sonhos em Miami.</desc>
   </programme>
   <programme start="20260911131300 -0300" stop="20260911132500 -0300" channel="Adult Swim HD">
     <title lang="pt">Smiling Friends - Especial De Halloween Bobo</title>
@@ -46210,7 +46401,8 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <desc lang="pt">A prestação de serviços de planejamento, estruturação de projetos, engenharia e inovação no setor de transportes estão em pauta no videocast Aqui tem infra, uma iniciativa da empresa pública Infra S.A.</desc>
   </programme>
   <programme start="20260911140000 -0300" stop="20260911142400 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+    <title lang="pt">Fast Food Mania - Hambúrgueres Extremos</title>
+    <desc lang="pt">Às vezes, um cheeseburguer comum não é suficiente para matar a fome. Por isso, muitas redes de fast food oferecem lanches enormes. Prepare o maxilar para abocanhar os sanduíches gigantescos.</desc>
   </programme>
   <programme start="20260911140000 -0300" stop="20260911141500 -0300" channel="DW-TV">
     <title lang="pt">Patrimonio Mundial</title>
@@ -46443,6 +46635,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911140000 -0300" stop="20260911150000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911140000 -0300" stop="20260911150000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911140000 -0300" stop="20260911160000 -0300" channel="tvt">
     <title>SEM CENSURA</title>
@@ -47502,6 +47697,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911150000 -0300" stop="20260911160000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911150000 -0300" stop="20260911160000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911150000 -0300" stop="20260911160000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -47618,7 +47816,8 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <desc lang="pt">A equipe procura por Jeff depois que ele foi atraído por uma misteriosa figura sombria. A caçada frenética os leva a um par de tochas feitas à mão, que ilumina o folclore cherokee em torno do Spearfinger.</desc>
   </programme>
   <programme start="20260911151200 -0300" stop="20260911153600 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+    <title lang="pt">Viciados em Viagens - Israel</title>
+    <desc lang="pt">David Arquette e Mike McGuiness aterrissam em Tel Aviv, Israel.</desc>
   </programme>
   <programme start="20260911151200 -0300" stop="20260911164400 -0300" channel="HBO Family">
     <title lang="pt">A Casa Monstro</title>
@@ -48559,6 +48758,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911160000 -0300" stop="20260911170000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911160000 -0300" stop="20260911170000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911160000 -0300" stop="20260911170000 -0300" channel="tvt">
     <title>JUCA KFOURI ENTREVISTA</title>
     <desc>Um programa comandado pelo jornalista Juca Kfouri, que traz uma personalidade semanalmente, para discutir temas atuais, de interesse público.  Um espaço para aprofundar as ideias e análises sobre as grandes questões mundiais, nacionais e locais.
@@ -48763,8 +48965,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Linha de Produção - Âncoras Gigantes</title>
     <desc lang="pt">A Sheffield Forgemasters precisa fabricar dezesseis âncoras gigantes em dois meses, ou uma plataforma de petróleo do Golfo do México poderá ser destruída por um furacão. Todos lutam para cumprir o prazo.</desc>
   </programme>
-  <programme start="20260911162400 -0300" stop="20260911171200 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260911162400 -0300" stop="20260911164800 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Buying Alaska</title>
+    <desc lang="pt">John e Elise são recém-casados que moram em Juneau, o porto de navios de cruzeiro mais movimentado do Alasca. Eles querem escapar das multidões e comprar uma casa onde possam relaxar.</desc>
   </programme>
   <programme start="20260911162500 -0300" stop="20260911163000 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Pipas - O nó entre nós</title>
@@ -49184,6 +49387,10 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Megacargas</title>
     <desc lang="pt">Em Palma de Majorca, Mark McGrane precisa transportar um superiate de 14 milhões de dólares para a Flórida durante a temporada de furacões.</desc>
   </programme>
+  <programme start="20260911164800 -0300" stop="20260911171200 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">O Poder dos Alimentos - Dietas Radicais</title>
+    <desc lang="pt">Conheça dois praticantes de dietas não convencionais. O artista Marc Dennis organiza jantares onde serve apenas pratos à base de insetos. A designer vegana Stacey Jackson se alimenta apenas de frutas.</desc>
+  </programme>
   <programme start="20260911164800 -0300" stop="20260911171200 -0300" channel="Modo Viagem">
     <title lang="pt">Rotas Cervejeiras - Fazendo cerveja na Breway</title>
     <desc lang="pt">Filipe vai terminar a produção de cerveja na Breway e, no almoço, provar uma sequência de empanadas locais, encerrando o dia com um encontro de amigos para um luau no lago Lolog.</desc>
@@ -49479,6 +49686,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911170000 -0300" stop="20260911180000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911170000 -0300" stop="20260911180000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911170000 -0300" stop="20260911180000 -0300" channel="tvt">
     <title>TVT NEWS - 2º Edição</title>
@@ -49962,8 +50172,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Pesca Mortal - Congelados</title>
     <desc lang="pt">Depois de arriscar a tripulação tentando recuperar os equipamentos de pesca na placa de gelo, Sig muda de tática e lança uma isca experimental da Noruega. No Time Bandit, a frustração aumenta quando Freddy testa Johna...</desc>
   </programme>
-  <programme start="20260911173600 -0300" stop="20260915000000 -0300" channel="DISCOVERY WORLD HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260911173600 -0300" stop="20260911180000 -0300" channel="DISCOVERY WORLD HD">
+    <title lang="pt">Casas de Férias Incríveis - Granadinas, Itália, Florida Keys e Hamptons</title>
+    <desc lang="pt">Conheça algumas das casas de férias mais espetaculares do mundo, incluindo uma vila medieval na Toscana, um refúgio moderno nos Hamptons, uma ilha particular em Florida Keys e uma fortaleza caribenha num oásis tropical.</desc>
   </programme>
   <programme start="20260911173600 -0300" stop="20260911174000 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Cocomelon - Faça uma cara engraçada</title>
@@ -50277,13 +50488,11 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911190000 -0300" channel="ARTE 1 HD">
-    <title lang="pt">Arte 1 Visual: Arte Brasileira Quadro a Quadro: Ambiente, …</title>
-    <desc lang="pt">Um dos frutos da contracultura dos anos 60 foi a renovação do interesse pelo poder transformador da arte. Artistas e críticos se unem pelo experimentalismo e para rever termos da história da arte brasileira.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="ARTE 1 HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911185000 -0300" channel="AXN">
-    <title lang="pt">Hawaii Five-0 - Kupale (Defender)</title>
-    <desc lang="pt">Um homem vestido como um guerreiro havaiano Na Koa é encontrado morto na floresta próximo ao local onde a reencenação da guerra ocorreu.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="AXN">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260911185000 -0300" channel="BAND Maringá">
     <title lang="pt">Brasil Urgente Local</title>
@@ -50292,9 +50501,8 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="BAND NEWS">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="BBC WORLD NEWS">
-    <title lang="pt">BBC World News America</title>
-    <desc lang="pt">Katty Kay apresenta em profundidade comentários sobre as principais notícias internacionais e do dia-a-dia nos EUA .</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="BBC WORLD NEWS">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260911191000 -0300" channel="BIS HD">
     <title lang="pt">Rock In Rio - Ao Vivo: Ananda</title>
@@ -50303,9 +50511,8 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="BLOOMBERG TV">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911190000 -0300" channel="BM&amp;C HD">
-    <title lang="pt">Papo Antagonista</title>
-    <desc lang="pt">O Papo Antagonista é um programa que oferece análises políticas profundas e jornalismo independente, confrontando poderes e desvendando narrativas políticas. Ao vivo de segunda a sexta-feira, às 18h.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="BM&amp;C HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="C3-TV">
     <title lang="pt">Programação indisponível</title>
@@ -50313,34 +50520,31 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CANAL UOL">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911181100 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball - O Esculacho</title>
-    <desc lang="pt">Depois que as provocações de Gumball o envergonham diante da cidade inteira, ele promete controlar sua arrogância.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CARTOON HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911180200 -0300" channel="CBI">
-    <title lang="pt">Oração - Deputado - Rui Alves</title>
-    <desc lang="pt">Um momento de fé e oração.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CBI">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="CGTN">
-    <title lang="pt">Global Business</title>
-    <desc lang="pt">O programa oferece uma análise aprofundada dos dados econômicos mais recentes, tendências de negócios e políticas de movimentação de mercado, mostrando como tudo isso afeta as pessoas comuns.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CGTN">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CNN BRASIL">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="CNN INTERNATIONAL">
-    <title lang="pt">The Lead With Jake Tapper</title>
-    <desc lang="pt">O correspondente Jake Tapper traz as notícias mais importantes do dia ao redor do mundo.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CNN INTERNATIONAL">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="CULTURA HD">
-    <title lang="pt">Shaun, o Carneiro</title>
-    <desc lang="pt">O protagonista da premiada animação britânica é o carneiro Shaun, que exibe toda a sua inteligência típica e muita criatividade. A cada episódio, ele tenta resolver um problema com a ajuda de seus amigos da fazenda.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CULTURA HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911193000 -0300" channel="CURTA">
-    <title lang="pt">Santos Dumont, O Céu na Cabeça</title>
-    <desc lang="pt">Um documentário histórico-poético para revelar o homem Santos-Dumont, além de seus inventos.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="CURTA">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="Canal Educacao">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="DISCOVERY WORLD HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="DOG TV HD">
@@ -50349,27 +50553,23 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="DW-TV">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911191500 -0300" channel="ESPN">
-    <title lang="pt">Equipe F - Ao Vivo</title>
-    <desc lang="pt">Futebol é com a gente. Somos autoridades no assunto. EQUIPE F traz a marca que chancela o olhar ESPN para o futebol. O fã de esporte está escalado para o time.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="ESPN">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="ESPN 4">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="FONTE TV">
-    <title lang="pt">Fé e Oração</title>
-    <desc lang="pt">Programa Fé e Oração na sua Fonte TV.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="FONTE TV">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911181000 -0300" channel="FRANCE 24 HD">
-    <title lang="pt">Esrpl Noticias</title>
-    <desc lang="pt">Notícias de última hora e notícias do mundo da France 24 em Negócios, Esportes, Cultura. Notícias em vídeo. Notícias dos EUA, Europa, Ásia-Pacífico, África, Oriente Médio, América.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="FRANCE 24 HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="FUEL TV HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="FUTURA HD">
-    <title lang="pt">Deu Bola - Rebeldes</title>
-    <desc lang="pt">O programa reúne especialistas no esporte para discutirem as carreiras dos atletas rebeldes ao longo da história e quais eram suas bandeiras.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="FUTURA HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="GAZETA">
     <title lang="pt">Programação indisponível</title>
@@ -50383,17 +50583,14 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="HISTORY 2">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911220000 -0300" channel="LIKE">
-    <title lang="pt">Programe-se com as Dicas do Like</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="LIKE">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911200000 -0300" channel="Like + | Claro tv+ (CANAL DO CLIENTE HD)">
-    <title lang="pt">Aproveite o melhor da TV e do Streaming na sua Claro tv+</title>
-    <desc lang="pt">Fique ligado nas melhores dicas de filmes, séries, documentários, shows, esportes e muito mais! Aproveite com toda a família o melhor da TV e do Streaming na sua Claro tv+</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="Like + | Claro tv+ (CANAL DO CLIENTE HD)">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="PLAY TV">
-    <title lang="pt">Game Over</title>
-    <desc lang="pt">Arthur e Thiago Ribas estão de volta à PlayTV falando sobre games. Isso se o Estressauro deixar.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="PLAY TV">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="PREMIERE 2 HD">
     <title lang="pt">Programação indisponível</title>
@@ -50413,13 +50610,11 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="PREMIERE 7 HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">VT - Remo x Coritiba</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="PREMIERE CLUBES HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911210000 -0300" channel="Paramount+ 1">
-    <title lang="pt">Dia 15/09 - Vasco x Santa Fe</title>
-    <desc lang="pt">Vasco e Santa Fe jogam a rodada de volta da Quartas de Final da Sulamericana, no São Januário, no Rio de Janeiro (RJ).</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="Paramount+ 1">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="Paramount+ 2">
     <title lang="pt">Programação indisponível</title>
@@ -50430,13 +50625,11 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="Paramount+ 4">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260912000000 -0300" channel="Polishop">
-    <title lang="pt">Programação Polishop TV</title>
-    <desc lang="pt">São 24 horas de programas que apresentam inovações e produtos diferenciados que trazem praticidade, economia e facilidade para sua vida. O espaço perfeito para quem gosta de novidades e valoriza oportunidades e ofertas especiais.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="Polishop">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="RAI INTERNATIONAL">
-    <title lang="pt">Geo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="RAI INTERNATIONAL">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260911185000 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">Cidade Alerta</title>
@@ -50446,13 +50639,11 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Cidade Alerta RS</title>
     <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911185000 -0300" channel="RECORD HD">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="RECORD HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911184500 -0300" channel="RECORD NEWS">
-    <title lang="pt">Link News</title>
-    <desc lang="pt">Os principais assuntos do dia transformadas em notícia por meio da interatividade com o telespectador.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="RECORD NEWS">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260911194500 -0300" channel="RECORD RJ">
     <title lang="pt">Cidade Alerta Rio</title>
@@ -50475,20 +50666,17 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Tá na Área - Ao Vivo</title>
     <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli</desc>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911190000 -0300" channel="SPORTV 3">
-    <title lang="pt">Coritiba x Atlético-MG - Ao Vivo</title>
-    <desc lang="pt">Coritiba e Atlético-MG jogam pela 4ª rodada da 1ª fase da Liga Nacional de Futevôlei, no Espaço Cultural Piero Garzón Henrique, em Nova Lima (MG).</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="Sabor &amp; Arte">
-    <title lang="pt">Chefs Digitais - Confeitaria no Ponto - Dário Héberson</title>
-    <desc lang="pt">O canal Sabor &amp; Arte traz para a TV toda a diversidade, repertório e frescor dos chefs de cozinha que conquistam cada vez mais espaço a internet.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="Sabor &amp; Arte">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="SportyNet + 1">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911210000 -0300" channel="SportyNet + 2">
-    <title lang="pt">Programação Esportiva</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="SportyNet + 2">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="SportyNet + 3">
     <title lang="pt">Programação indisponível</title>
@@ -50540,13 +50728,11 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="TV5 MONDE">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911184500 -0300" channel="UNIVERSAL PREMIERE HD">
-    <title lang="pt">Invasão a Paris</title>
-    <desc lang="pt">Uma descoberta importante ajuda Zara e Vincent e eles devem decidir quem estão dispostos a prejudicar para capturar Pearce. Pearce também deve considerar quem ele está disposto a sacrificar para realizar seu plano.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="UNIVERSAL PREMIERE HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="WOOHOO HD">
-    <title lang="pt">Tio Clinas Joga!</title>
-    <desc lang="pt">Quem disse que ser gamer é coisa de jovem? Tio Clinas joga é o programa do Woohoo que mergulha no universo gamer através dos jogos vintages.</desc>
+  <programme start="20260911180000 -0300" stop="20260915000000 -0300" channel="WOOHOO HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180000 -0300" stop="20260911190000 -0300" channel="alesp">
     <title lang="pt">Programação Rede ALESP</title>
@@ -50560,6 +50746,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911180000 -0300" stop="20260911190000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911180000 -0300" stop="20260911190000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911180000 -0300" stop="20260911183000 -0300" channel="tvt">
     <title>CAMINHOS DA REPORTAGEM</title>
     <desc />
@@ -50568,9 +50757,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Programação Univesp TV</title>
   </programme>
   <programme start="20260911180020 -0300" stop="20260915000000 -0300" channel="DumDum">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911180200 -0300" stop="20260915000000 -0300" channel="CBI">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911180200 -0300" stop="20260915000000 -0300" channel="HGTV HD">
@@ -50618,9 +50804,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911181000 -0300" stop="20260915000000 -0300" channel="ESPN 3">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911181000 -0300" stop="20260915000000 -0300" channel="FRANCE 24 HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911181000 -0300" stop="20260915000000 -0300" channel="Globoplay Novelas">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -50640,9 +50823,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911181000 -0300" stop="20260915000000 -0300" channel="USA HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911181100 -0300" stop="20260915000000 -0300" channel="CARTOON HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911181100 -0300" stop="20260915000000 -0300" channel="HBO Xtreme">
@@ -50802,43 +50982,16 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="BAND SPORTS HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="BBC WORLD NEWS">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="CANAL RURAL">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="CANÇÃO NOVA HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="CGTN">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="CNN INTERNATIONAL">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="CULTURA HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="Canal GOV HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="FONTE TV">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="FUTURA HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="MARKKET HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="PLAY TV">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="REDE TV! HD">
@@ -50861,9 +51014,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <desc lang="pt">Apresentado por Willian Kury, o jornalístico da tarde traz uma análise completa das principais notícias do dia. Com destaque para as movimentações políticas em Brasília.</desc>
   </programme>
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="SBT NEWS HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="TELECINE PIPOCA">
@@ -50898,9 +51048,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911183000 -0300" stop="20260911185500 -0300" channel="TV5 - AC">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário destinado a propaganda partidária gratuita.</desc>
-  </programme>
-  <programme start="20260911183000 -0300" stop="20260915000000 -0300" channel="WOOHOO HD">
-    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911183000 -0300" stop="20260911190000 -0300" channel="canal-saude">
     <title lang="pt">Turma da RobÃ³tica : Do Rock ao Olimpo</title>
@@ -50958,9 +51105,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911184500 -0300" stop="20260915000000 -0300" channel="NSPORTS HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911184500 -0300" stop="20260915000000 -0300" channel="RECORD NEWS">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911184500 -0300" stop="20260915000000 -0300" channel="TELECINE FUN">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -50972,13 +51116,7 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">RedeTV! News</title>
     <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
   </programme>
-  <programme start="20260911184500 -0300" stop="20260915000000 -0300" channel="UNIVERSAL PREMIERE HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911184700 -0300" stop="20260915000000 -0300" channel="HBO Signature">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911185000 -0300" stop="20260915000000 -0300" channel="AXN">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911185000 -0300" stop="20260911192000 -0300" channel="BAND Maringá">
@@ -50996,9 +51134,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911185000 -0300" stop="20260911194500 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">Cidade Alerta</title>
     <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
-  </programme>
-  <programme start="20260911185000 -0300" stop="20260915000000 -0300" channel="RECORD HD">
-    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911185000 -0300" stop="20260911194500 -0300" channel="REDE TV! Recife">
     <title lang="pt">Brasil Do Povo</title>
@@ -51056,12 +51191,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911185900 -0300" stop="20260915000000 -0300" channel="LIFETIME">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260911190000 -0300" stop="20260915000000 -0300" channel="ARTE 1 HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911190000 -0300" stop="20260915000000 -0300" channel="BM&amp;C HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911190000 -0300" stop="20260915000000 -0300" channel="CANAL BRASIL HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -51108,9 +51237,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Rio Grande Record</title>
     <desc lang="pt">Jornalismo ágil de credibilidade.</desc>
   </programme>
-  <programme start="20260911190000 -0300" stop="20260915000000 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911190000 -0300" stop="20260915000000 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -51135,6 +51261,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911190000 -0300" stop="20260911200000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911190000 -0300" stop="20260911200000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911190000 -0300" stop="20260911200000 -0300" channel="tvt">
     <title>BDF ENTREVISTA</title>
@@ -51207,9 +51336,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911191000 -0300" stop="20260911191500 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Loteria dos Sonhos</title>
     <desc lang="pt">Loteria.</desc>
-  </programme>
-  <programme start="20260911191500 -0300" stop="20260915000000 -0300" channel="ESPN">
-    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911191500 -0300" stop="20260911194500 -0300" channel="REDE MASSA">
     <title lang="pt">SBT Cidades</title>
@@ -51289,9 +51415,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911193000 -0300" stop="20260911195500 -0300" channel="BAND Amazonas">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário destinado a propaganda partidária gratuita.</desc>
-  </programme>
-  <programme start="20260911193000 -0300" stop="20260915000000 -0300" channel="CURTA">
-    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911193000 -0300" stop="20260911200000 -0300" channel="INOVA TV">
     <title lang="pt">Horário Eleitoral Gratuito</title>
@@ -51501,9 +51624,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Igreja Internacional da Graça</title>
     <desc lang="pt">Programa religioso.</desc>
   </programme>
-  <programme start="20260911200000 -0300" stop="20260915000000 -0300" channel="Like + | Claro tv+ (CANAL DO CLIENTE HD)">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911200000 -0300" stop="20260911204500 -0300" channel="RECORD Manaus">
     <title lang="pt">Força de Mulher</title>
     <desc lang="pt">Bahar trabalha incansavelmente para dar uma vida melhor para os seus filhos, Nisan e Doruk, apesar de todas as dificuldades que enfrenta sendo uma jovem viúva.</desc>
@@ -51526,6 +51646,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911200000 -0300" stop="20260911210000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911200000 -0300" stop="20260911210000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911200000 -0300" stop="20260911203000 -0300" channel="tvt">
     <title>FALANDO NISSO COM CHRISTIAN DUNKER</title>
@@ -51887,9 +52010,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Rapidinhas da Fama</title>
     <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
   </programme>
-  <programme start="20260911210000 -0300" stop="20260915000000 -0300" channel="Paramount+ 1">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911210000 -0300" stop="20260911220000 -0300" channel="REDE TV! Recife">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
     <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
@@ -51903,9 +52023,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
   </programme>
   <programme start="20260911210000 -0300" stop="20260915000000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260911210000 -0300" stop="20260915000000 -0300" channel="SportyNet + 2">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260911210000 -0300" stop="20260911211000 -0300" channel="TV Amazônia">
@@ -51939,6 +52056,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911210000 -0300" stop="20260911220000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911210000 -0300" stop="20260911220000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911210000 -0300" stop="20260911220000 -0300" channel="tvt">
     <title>CHICO PINHEIRO ENTREVISTA</title>
@@ -52175,9 +52295,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Sessão +SBT</title>
     <desc lang="pt">A atração comemora os 45 anos da emissora e resgata momentos históricos, quadros marcantes e grandes sucessos do arquivo do canal.</desc>
   </programme>
-  <programme start="20260911220000 -0300" stop="20260915000000 -0300" channel="LIKE">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260911220000 -0300" stop="20260911221000 -0300" channel="REDE TV! Recife">
     <title lang="pt">Rapidinhas da Fama</title>
     <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
@@ -52221,6 +52338,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260911220000 -0300" stop="20260911230000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260911220000 -0300" stop="20260911230000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260911220000 -0300" stop="20260911230000 -0300" channel="tvt">
     <title>SOBERANIA EM DEBATE</title>
@@ -52472,6 +52592,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260911230000 -0300" stop="20260912000000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260911230000 -0300" stop="20260912000000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260911230000 -0300" stop="20260912000000 -0300" channel="tvt">
     <title>BRASIL COM CIÊNCIA</title>
     <desc />
@@ -52623,9 +52746,6 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
     <title lang="pt">Fala que eu te Escuto</title>
     <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).</desc>
   </programme>
-  <programme start="20260912000000 -0300" stop="20260915000000 -0300" channel="Polishop">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260912000000 -0300" stop="20260912001500 -0300" channel="TV JORNAL">
     <title lang="pt">Aeroporto: Área Restrita</title>
     <desc lang="pt">Aeroporto - Área Restrita, que revela tudo o que acontece nos bastidores das operações policiais de grandes aeroportos. Cesar Fillho comandará, novamente, a apresentação do programa.</desc>
@@ -52654,6 +52774,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912000000 -0300" stop="20260912010000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912000000 -0300" stop="20260912010000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912000000 -0300" stop="20260912010000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -52956,6 +53079,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912010000 -0300" stop="20260912020000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912010000 -0300" stop="20260912020000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912010000 -0300" stop="20260912020000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -53306,6 +53432,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912020000 -0300" stop="20260912030000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912020000 -0300" stop="20260912030000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912020000 -0300" stop="20260912030000 -0300" channel="tvt">
     <title>ARQUITETURAS</title>
     <sub-title>Orla de Santos</sub-title>
@@ -53576,6 +53705,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912030000 -0300" stop="20260912040000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912030000 -0300" stop="20260912040000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912030000 -0300" stop="20260912040000 -0300" channel="tvt">
     <title>ESTUDIO A</title>
     <sub-title>Gabriel Grossi</sub-title>
@@ -53722,6 +53854,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912040000 -0300" stop="20260912050000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912040000 -0300" stop="20260912050000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912040000 -0300" stop="20260912050000 -0300" channel="tvt">
     <title>JUCA KFOURI ENTREVISTA</title>
     <desc>Um programa comandado pelo jornalista Juca Kfouri, que traz uma personalidade semanalmente, para discutir temas atuais, de interesse público.  Um espaço para aprofundar as ideias e análises sobre as grandes questões mundiais, nacionais e locais.
@@ -53862,6 +53997,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912050000 -0300" stop="20260912060000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912050000 -0300" stop="20260912060000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912050000 -0300" stop="20260912060000 -0300" channel="tvt">
     <title>FILOSOFIA POP</title>
@@ -54093,6 +54231,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912060000 -0300" stop="20260912070000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912060000 -0300" stop="20260912070000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912060000 -0300" stop="20260912100000 -0300" channel="tvt">
     <title>HORA DA ALEGRIA</title>
     <sub-title>Especial Fim de Semana</sub-title>
@@ -54304,6 +54445,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912070000 -0300" stop="20260912080000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912070000 -0300" stop="20260912080000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912070000 -0300" stop="20260912080000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -54554,6 +54698,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912080000 -0300" stop="20260912090000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912080000 -0300" stop="20260912090000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912080000 -0300" stop="20260912090000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -54771,6 +54918,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912090000 -0300" stop="20260912100000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912090000 -0300" stop="20260912100000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912090000 -0300" stop="20260912100000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -54997,6 +55147,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912100000 -0300" stop="20260912110000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912100000 -0300" stop="20260912110000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912100000 -0300" stop="20260912103000 -0300" channel="tvt">
     <title>PAPO NA LAJE</title>
     <sub-title>2º Temporada</sub-title>
@@ -55188,6 +55341,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912110000 -0300" stop="20260912120000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912110000 -0300" stop="20260912120000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912110000 -0300" stop="20260912120000 -0300" channel="tvt">
     <title>HABITAR HABITAT</title>
@@ -55408,6 +55564,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912120000 -0300" stop="20260912130000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912120000 -0300" stop="20260912130000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912120000 -0300" stop="20260912130000 -0300" channel="tvt">
     <title>JUCA KFOURI ENTREVISTA</title>
@@ -55703,6 +55862,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912130000 -0300" stop="20260912140000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912130000 -0300" stop="20260912140000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912130000 -0300" stop="20260912132500 -0300" channel="tvt">
     <title>PROPAGANDA ELEITORAL</title>
@@ -56091,6 +56253,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912140000 -0300" stop="20260912150000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912140000 -0300" stop="20260912150000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912140000 -0300" stop="20260912163000 -0300" channel="tvt">
     <title>VÁRZEA AO VIVO</title>
     <desc>A partir deste sábado, o futebol de várzea passa a ter espaço fixo na programação da TVT. Aos sábados e domingos,exibiremos partidas de diferentes campeonatos disputados em São Paulo, fruto de uma nova parceria com o canal Várzea ao Vivo.
@@ -56358,6 +56523,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912150000 -0300" stop="20260912160000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912150000 -0300" stop="20260912160000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912150000 -0300" stop="20260912160000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
@@ -56408,6 +56576,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912160000 -0300" stop="20260912170000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912160000 -0300" stop="20260912170000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912160000 -0300" stop="20260912170000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -56576,6 +56747,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912170000 -0300" stop="20260912180000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912170000 -0300" stop="20260912180000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912170000 -0300" stop="20260912180000 -0300" channel="tvt">
     <title>ELEIÇÕES RESENHA</title>
     <sub-title>Episódio 04</sub-title>
@@ -56684,6 +56858,9 @@ Neste debate, você vai acompanhar uma análise detalhada dos principais levanta
   </programme>
   <programme start="20260912180000 -0300" stop="20260912190000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912180000 -0300" stop="20260912190000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912180000 -0300" stop="20260912200000 -0300" channel="tvt">
     <title>OPERA MUNDI</title>
@@ -56897,6 +57074,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912190000 -0300" stop="20260912200000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912190000 -0300" stop="20260912200000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912190000 -0300" stop="20260912200000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -57218,6 +57398,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   </programme>
   <programme start="20260912200000 -0300" stop="20260912210000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912200000 -0300" stop="20260912210000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912200000 -0300" stop="20260912203000 -0300" channel="tvt">
     <title>KOMBINADO KOM BIGODE</title>
@@ -57601,6 +57784,9 @@ Nomeado por Lula para o Conselho de Desenvolvimento Econômico Social Sustentáv
   <programme start="20260912210000 -0300" stop="20260912220000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20260912210000 -0300" stop="20260912220000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
+  </programme>
   <programme start="20260912210000 -0300" stop="20260912213000 -0300" channel="tvt">
     <title>VIDA POR ESPORTE</title>
     <sub-title>As viagens de Lipe</sub-title>
@@ -57808,6 +57994,9 @@ dentro da floresta.</desc>
   </programme>
   <programme start="20260912220000 -0300" stop="20260912230000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912220000 -0300" stop="20260912230000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912220000 -0300" stop="20260912230000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
@@ -58028,6 +58217,9 @@ dentro da floresta.</desc>
   </programme>
   <programme start="20260912230000 -0300" stop="20260913000000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20260912230000 -0300" stop="20260913000000 -0300" channel="top-tv">
+    <title lang="pt">Programação TOP TV</title>
   </programme>
   <programme start="20260912230000 -0300" stop="20260913000000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
