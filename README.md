@@ -18,8 +18,9 @@ atualmente além de termos todo o lineup de canais pagos e canais abertos de Sã
 - Manaus-AM (Globo, SBT, Record, Band e RedeTV!)
 - Rio Branco-AC (Globo, SBT, Record, Band e RedeTV!
 
-*como nem todos os canais abertos regionais estão disponíveis no clarotv+ app, alguns não estão no nosso xml.
-*também estão disponíveis "por fora" a grade dos canais TVT e Canal Saúde, e grades genéricas para Univesp TV, Rede ALESP, Rede Câmara SP, Rádio Cultura e TOP TV.
+como nem todos os canais abertos regionais estão disponíveis no clarotv+ app, alguns não estão no nosso xml.
+
+também estão disponíveis "por fora" a grade dos canais TVT e Canal Saúde, e grades genéricas para Univesp TV, Rede ALESP, Rede Câmara SP, Rádio Cultura e TOP TV.
 
 
 qualquer dúvida ou solicitação para inclusão de canal regional entrar em contato por telegram: https://t.me/netosouza mas pelo amor de deus seja direto, se você só falar "oi" eu não vou adivinhar sobre o que é!
