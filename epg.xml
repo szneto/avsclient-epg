@@ -12131,8 +12131,8 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.</desc>
   </programme>
   <programme start="20260927083000 -0300" stop="20260927090000 -0300" channel="TV CIDADE">
-    <title lang="pt">Conexões com Ricardo Bezerra</title>
-    <desc lang="pt">Apresentado pelo empresário Ricardo Bezerra, o programa traz entrevistas exclusivas com as personalidades mais importantes do empresariado cearense e brasileiro.</desc>
+    <title lang="pt">Cidade Imobiliária</title>
+    <desc lang="pt">O "Cidade Imobiliária" traz uma análise completa do mercado de imóveis de Fortaleza e do Ceará.</desc>
   </programme>
   <programme start="20260927083000 -0300" stop="20260927090000 -0300" channel="TV Camara">
     <title lang="pt">Interesse Público</title>
@@ -16395,7 +16395,7 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Hellboy (2019)</title>
     <desc lang="pt">Invocado ainda criança para o mundo dos humanos, Hellboy os ajuda combatendo ameças sobrenaturais.</desc>
   </programme>
-  <programme start="20260927121500 -0300" stop="20260927134500 -0300" channel="TV CIDADE">
+  <programme start="20260927121500 -0300" stop="20260927140000 -0300" channel="TV CIDADE">
     <title lang="pt">Record Kids - Todo Mundo Odeia o Chris</title>
     <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
   </programme>
@@ -17800,10 +17800,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Experimente</title>
     <desc lang="pt">Cecilia Padilha é administradora com MBA pela Swiss Business School, e depois de 15 anos no mercado financeiro foi trabalhar em sua paixão, a gastronomia! Participou da primeira edição do reality show MasterChef Brasi.</desc>
   </programme>
-  <programme start="20260927134500 -0300" stop="20260927153000 -0300" channel="TV CIDADE">
-    <title lang="pt">Cine Maior</title>
-    <desc lang="pt">Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
-  </programme>
   <programme start="20260927134500 -0300" stop="20260927140000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">A Arca do Ziraldo - Curta Sua Crista!</title>
     <desc lang="pt">Tininim e Alice vão salvar animais ameaçados de extinção numa aventura divertida e com muita imaginação na Mata do Cafundó.</desc>
@@ -18119,6 +18115,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20260927140000 -0300" stop="20260927143000 -0300" channel="TV BRASIL">
     <title lang="pt">Brasil Visto de Cima - Sudoeste Gaúcho</title>
     <desc lang="pt">Sobrevoamos o Sudoeste Gaúcho. Plantações de arroz e soja circundam cidades vibrantes. Rios e velhas linhas de trem cortam o pampa, com sua planícies imensas e cerros que mais parecem esculturas.</desc>
+  </programme>
+  <programme start="20260927140000 -0300" stop="20260927160000 -0300" channel="TV CIDADE">
+    <title lang="pt">Cine Maior</title>
+    <desc lang="pt">Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
   </programme>
   <programme start="20260927140000 -0300" stop="20260927143000 -0300" channel="TV Camara">
     <title lang="pt">Câmara Debate</title>
@@ -19576,10 +19576,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Expedições - Cachoeira da Fumaça</title>
     <desc lang="pt">O Expedições encara uma aventura pela Chapada Diamantina, na Bahia. Acompanhados de guias, os expedicionários percorrem, por dois dias, os platôs da Chapada e o Vale do Capão, em direção a uma imensa cachoeira.</desc>
   </programme>
-  <programme start="20260927153000 -0300" stop="20260927180000 -0300" channel="TV CIDADE">
-    <title lang="pt">Acerte ou Caia</title>
-    <desc lang="pt">A cada semana, entre 8 e 11 famosos se encontrarão para uma competição, na qual o campeão pode ganhar um prêmio de até 300 mil reais.</desc>
-  </programme>
   <programme start="20260927153000 -0300" stop="20260927163000 -0300" channel="TV Camara">
     <title lang="pt">Ponto de Vista</title>
     <desc lang="pt">Programa que reúne os melhores pensadores sobre temas fundamentais para nossa sociedade.</desc>
@@ -20075,6 +20071,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20260927160000 -0300" stop="20260927173000 -0300" channel="TV BRASIL">
     <title lang="pt">Sessão de cinema: Teca e Tuti - Uma noite na bibliotecad</title>
     <desc lang="pt">A pequena traça Teca e seu amigo Tuti vivem uma aventura em uma biblioteca após descobrirem que os livros guardam histórias incríveis. Juntos, eles partem em busca de um grande mistério.</desc>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927183000 -0300" channel="TV CIDADE">
+    <title lang="pt">Acerte ou Caia</title>
+    <desc lang="pt">A cada semana, entre 8 e 11 famosos se encontrarão para uma competição, na qual o campeão pode ganhar um prêmio de até 300 mil reais.</desc>
   </programme>
   <programme start="20260927160000 -0300" stop="20260927181500 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Acerte ou Caia</title>
@@ -21880,10 +21880,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Brasil Visto de Cima - Cidades Históricas de Minas Gerais</title>
     <desc lang="pt">Ouro Preto, Mariana e São João del Rei são lugares que despertaram a fé e a genialidade dos artistas. Algumas das construções e formações urbanas mais bonitas do nosso país, vistas por um novo ângulo.</desc>
   </programme>
-  <programme start="20260927180000 -0300" stop="20260927182000 -0300" channel="TV CIDADE">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-  </programme>
   <programme start="20260927180000 -0300" stop="20260927190000 -0300" channel="TV Camara">
     <title lang="pt">Documentário TV Câmara - Memórias - Antonio Risério, Poético Político</title>
     <desc lang="pt">Neste episódio do Memórias, o antropólogo e poeta Antonio Risério revela suas memórias, seu pensamento arguto e sua língua afiada.</desc>
@@ -22174,10 +22170,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Domingão Com Huck</title>
     <desc lang="pt">'Domingão com Huck' leva aos brasileiros entretenimento, diversão, emoção e novas descobertas nos quadros 'Show dos famosos' e 'Quem quer ser um milionário?' e em matérias especiais pelo país.</desc>
   </programme>
-  <programme start="20260927182000 -0300" stop="20260927203000 -0300" channel="TV CIDADE">
-    <title lang="pt">Campeonato Brasileiro 2026</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-  </programme>
   <programme start="20260927182000 -0300" stop="20260927183000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">Os Óculos Mágicos de Charlotte - Meu Livro Favorito</title>
     <desc lang="pt">Eu tinha uma vida bem comum, igual a de todas as crianças da minha idade. Até que um dia perdi um dente e coloquei debaixo do travesseiro para que a fada do dente viesse buscar.</desc>
@@ -22393,6 +22385,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20260927183000 -0300" stop="20260927190000 -0300" channel="TV BRASIL">
     <title lang="pt">Homens do Caminho</title>
     <desc lang="pt">Um grupo de cavaleiros, nos dias atuais, decide reviver uma rota histórica criada pela coroa portuguesa em meados do século 17: a Estrada Real, de Ouro Preto e aos portos fluminenses.</desc>
+  </programme>
+  <programme start="20260927183000 -0300" stop="20260927210000 -0300" channel="TV CIDADE">
+    <title lang="pt">Domingo Espetacular</title>
+    <desc lang="pt">Uma revista eletrônica para a família brasileira que faz a diferença ao ir fundo nos temas que mais chamaram a atenção durante a semana.</desc>
   </programme>
   <programme start="20260927183000 -0300" stop="20260927223000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Domingo Espetacular</title>
@@ -24420,10 +24416,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Fantástico</title>
     <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.</desc>
   </programme>
-  <programme start="20260927203000 -0300" stop="20260927230000 -0300" channel="TV CIDADE">
-    <title lang="pt">Domingo Espetacular</title>
-    <desc lang="pt">Uma revista eletrônica para a família brasileira que faz a diferença ao ir fundo nos temas que mais chamaram a atenção durante a semana.</desc>
-  </programme>
   <programme start="20260927203000 -0300" stop="20260927210000 -0300" channel="TV Camara">
     <title lang="pt">Qual a Questão?</title>
     <desc lang="pt">Vai debater os grandes temas da pauta nacional a partir de quem mais importa: o cidadão. Em cada episódio, representantes da sociedade civil e especialistas no assunto falam sobre temas como mobilidade sustentável.</desc>
@@ -24902,6 +24894,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20260927210000 -0300" stop="20260927213000 -0300" channel="TRIP BRASIL CHANNEL">
     <title lang="pt">Roaming</title>
     <desc lang="pt">Aperte os cintos e explore o que há de melhor nos esportes de ação!</desc>
+  </programme>
+  <programme start="20260927210000 -0300" stop="20260927230000 -0300" channel="TV CIDADE">
+    <title lang="pt">Debate Eleições - Presidenciaveis</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20260927210000 -0300" stop="20260927220000 -0300" channel="TV Camara">
     <title lang="pt">Encontro com o Autor</title>
@@ -26726,9 +26722,9 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Destinos Radicais</title>
     <desc lang="pt">Mergulhe de cabeça nos destinos mais emocionantes do mundo esportivo e radical!</desc>
   </programme>
-  <programme start="20260927230000 -0300" stop="20260928001500 -0300" channel="TV CIDADE">
-    <title lang="pt">Esporte Record</title>
-    <desc lang="pt">Paixão e Emoção não importa a Modadlidade, a cada jogada o Esporte proporciona uma vibração inigualável. O Esporte Record  nasce com o propósito de ser um elo entre os atletas profissionais e os de final de ...</desc>
+  <programme start="20260927230000 -0300" stop="20260928000000 -0300" channel="TV CIDADE">
+    <title lang="pt">A Fazenda</title>
+    <desc lang="pt">Reality onde celebridades são testadas em tarefas do meio rural, numa fazenda isolada do mundo exterior.</desc>
   </programme>
   <programme start="20260927230000 -0300" stop="20260928000000 -0300" channel="TV Camara">
     <title lang="pt">Participação Popular</title>
@@ -27792,6 +27788,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Madrugada Animada</title>
     <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
   </programme>
+  <programme start="20260928000000 -0300" stop="20260928010000 -0300" channel="TV CIDADE">
+    <title lang="pt">Esporte Record</title>
+    <desc lang="pt">Paixão e Emoção não importa a Modadlidade, a cada jogada o Esporte proporciona uma vibração inigualável. O Esporte Record  nasce com o propósito de ser um elo entre os atletas profissionais e os de final de ...</desc>
+  </programme>
   <programme start="20260928000000 -0300" stop="20260928003000 -0300" channel="TV Camara">
     <title lang="pt">Documentário TV Câmara - 100 Anos de Cultura e Conflitos</title>
     <desc lang="pt">A série documental "100 Anos de Cultura e Conflitos" do SescTV, em 16 episódios, explora os eventos históricos e movimentos como a Semana de Arte Moderna e o Tenentismo.</desc>
@@ -28038,10 +28038,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260928001500 -0300" stop="20260928011800 -0300" channel="TNT NOVELAS">
     <title lang="pt">A Promessa</title>
     <desc lang="pt">Alonso quer descobrir quem recebeu parte da fortuna do barão. Enquanto isso, um dos criados assume ser o pai do bebê de Pía.</desc>
-  </programme>
-  <programme start="20260928001500 -0300" stop="20260928011500 -0300" channel="TV CIDADE">
-    <title lang="pt">Chicago Med</title>
-    <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
   </programme>
   <programme start="20260928001500 -0300" stop="20260928010000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Chicago Fire</title>
@@ -28911,6 +28907,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Mudanças do Clima</title>
     <desc lang="pt">Mudanças do Clima explora o clima em cada região do planeta. A série investiga como as alterações climáticas afetam paisagens e comunidades, revelando a urgência de entender as transformações que moldam...</desc>
   </programme>
+  <programme start="20260928010000 -0300" stop="20260928063000 -0300" channel="TV CIDADE">
+    <title lang="pt">IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
+  </programme>
   <programme start="20260928010000 -0300" stop="20260928060000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Programação IURD</title>
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
@@ -29177,10 +29177,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260928011500 -0300" stop="20260928030000 -0300" channel="TV BRASIL">
     <title lang="pt">Sessão de Cinema</title>
     <desc lang="pt">Uma sessão de cinema especialmente recomendada aos amantes da sétima arte, com os melhores filmes nacionais e estrangeiros.</desc>
-  </programme>
-  <programme start="20260928011500 -0300" stop="20260928063000 -0300" channel="TV CIDADE">
-    <title lang="pt">IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
   </programme>
   <programme start="20260928011500 -0300" stop="20260928014500 -0300" channel="TV Clube">
     <title lang="pt">Economia Pra Você</title>
@@ -40591,7 +40587,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Diálogos: Qual Caminho Seguir?</title>
     <desc lang="pt">Em sintonia com o magistério da Igreja, com a fé, com a Palavra de Deus, o programa pretender ajudar a formar consciências, formando pessoas comprometidas com a vida, a liberdade e a cidadania.</desc>
   </programme>
-  <programme start="20260928113000 -0300" stop="20260928134500 -0300" channel="TV CIDADE">
+  <programme start="20260928113000 -0300" stop="20260928130000 -0300" channel="TV CIDADE">
     <title lang="pt">Cidade 190</title>
     <desc lang="pt">Apresentado por Evaldo Costa e Vitor Valim, jornalismo policial que bate recordes de audiência e leva ao telespectador a realidade das ruas com a credibilidade de uma equipe de primeira.</desc>
   </programme>
@@ -42359,6 +42355,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
+  <programme start="20260928130000 -0300" stop="20260928132500 -0300" channel="TV CIDADE">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Político.</desc>
+  </programme>
   <programme start="20260928130000 -0300" stop="20260928133000 -0300" channel="TV Camara">
     <title lang="pt">Propaganda Eleitoral Obrigatória</title>
     <desc lang="pt">Propaganda Eleitoral Obrigatória.</desc>
@@ -42804,6 +42804,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260928132500 -0300" stop="20260928133500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">JPB - 1ª Edição</title>
     <desc lang="pt">Na hora do almoço, Danilo Alves te recebe com as principais notícias da Paraíba. O jornal que está atento aos problemas que incomodam você, no seu condomínio, na sua rua ou no seu bairro.</desc>
+  </programme>
+  <programme start="20260928132500 -0300" stop="20260928134500 -0300" channel="TV CIDADE">
+    <title lang="pt">Cidade 190</title>
+    <desc lang="pt">Apresentado por Evaldo Costa e Vitor Valim, jornalismo policial que bate recordes de audiência e leva ao telespectador a realidade das ruas com a credibilidade de uma equipe de primeira.</desc>
   </programme>
   <programme start="20260928132500 -0300" stop="20260928141000 -0300" channel="TV Clube">
     <title lang="pt">Programa Igor Oliveira</title>
@@ -45313,7 +45317,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   </programme>
   <programme start="20260928153000 -0300" stop="20260928163000 -0300" channel="TV CIDADE">
     <title lang="pt">Jesus</title>
-    <desc lang="pt">Caifás nota a aproximação de Judite e disfarça. Adela vende cestos nas ruas de Jerusalém e recebe a ajuda de Zaqueu. Jesus ora solitário.</desc>
+    <desc lang="pt">Jesus e os três apóstolos se deparam com um leão. Judas discute com Tomé. Os apóstolos dizem que as moedas acabaram.</desc>
   </programme>
   <programme start="20260928153000 -0300" stop="20260928163000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">A Escrava Isaura</title>
@@ -49293,7 +49297,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Comida de Viagem</title>
     <desc lang="pt">Nessa temporada, Raphuca desbrava o Brasil, indo do sul ao nordeste brasileiro. Ele dá de cara com um povo receptivo que além da comida tem milhões de histórias pra contar.</desc>
   </programme>
-  <programme start="20260928191500 -0300" stop="20260928195500 -0300" channel="TV CIDADE">
+  <programme start="20260928191500 -0300" stop="20260928194500 -0300" channel="TV CIDADE">
     <title lang="pt">Jornal da Cidade</title>
     <desc lang="pt">O Jornal da Cidade traz os fatos e informações exclusivas da região com o compromisso, agilidade e credibilidade já conhecidos pelos telespectadores.</desc>
   </programme>
@@ -49860,6 +49864,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Beto E Nika - Ciclo Viajando Pela Asia</title>
     <desc lang="pt">De Mae Sariang a Mae Hong Son, pedalamos entre templos, cavernas e noites sob o olhar dos monges. O encontro com o povo Karen, vindo da antiga Birmânia, revelou força ancestral e conexão profunda com fé, Terra e diversidade.</desc>
   </programme>
+  <programme start="20260928194500 -0300" stop="20260928203000 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
   <programme start="20260928194500 -0300" stop="20260928203000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Jornal da Record</title>
     <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
@@ -50011,10 +50019,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Crônicas de Fé e Afeto</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20260928195500 -0300" stop="20260928210000 -0300" channel="TV CIDADE">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-  </programme>
   <programme start="20260928195500 -0300" stop="20260928210000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Jornal da Record</title>
     <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
@@ -50052,8 +50056,9 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260928200000 -0300" stop="20261002000000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260928200000 -0300" stop="20261002000000 -0300" channel="CANAL RURAL">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20260928200000 -0300" stop="20260929000000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.</desc>
   </programme>
   <programme start="20260928200000 -0300" stop="20261002000000 -0300" channel="CANAL UOL">
     <title lang="pt">Programação indisponível</title>
@@ -50175,9 +50180,8 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260928200000 -0300" stop="20261002000000 -0300" channel="PREMIERE 4 HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260928200000 -0300" stop="20260928220000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+  <programme start="20260928200000 -0300" stop="20261002000000 -0300" channel="PREMIERE 5 HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260928200000 -0300" stop="20261002000000 -0300" channel="PREMIERE 6 HD">
     <title lang="pt">Programação indisponível</title>
@@ -50545,6 +50549,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
+  <programme start="20260928203000 -0300" stop="20260928205500 -0300" channel="TV CIDADE">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Político.</desc>
+  </programme>
   <programme start="20260928203000 -0300" stop="20260928205500 -0300" channel="TV Clube">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário destinado a propaganda partidária gratuita.</desc>
@@ -50753,6 +50761,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
   </programme>
+  <programme start="20260928205500 -0300" stop="20260928211500 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
   <programme start="20260928205500 -0300" stop="20260928215000 -0300" channel="TV Clube">
     <title lang="pt">Guerra das Rosas</title>
     <desc lang="pt">Sevket tenta convencer Mebrure a abrir mão dos bens deixados por Cahide. Mert propõe que Cihan abra um negócio com ele. Gulru passa mal após Omer pedir direito ao bebê e é levada ao hospital.</desc>
@@ -50863,10 +50875,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Rapidinhas da Fama</title>
     <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
   </programme>
-  <programme start="20260928210000 -0300" stop="20260928220000 -0300" channel="TV CIDADE">
-    <title lang="pt">Coração de Mãe</title>
-    <desc lang="pt">A trama acompanha Karsu, uma mulher marcada pelos conflitos da relação com a própria mãe e colocada à prova pelo amor ao filho.</desc>
-  </programme>
   <programme start="20260928210000 -0300" stop="20260928220000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">O Senhor e a Serva</title>
     <desc lang="pt">Trazida por Valéria, Elisa chega à sua nova casa. Depois de uma noite cheia de emoções, Caius se enfurece com um flagrante.</desc>
@@ -50958,6 +50966,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
   </programme>
   <programme start="20260928211500 -0300" stop="20260928221500 -0300" channel="RICtv RECORD">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
+  </programme>
+  <programme start="20260928211500 -0300" stop="20260928221500 -0300" channel="TV CIDADE">
     <title lang="pt">Iludida</title>
     <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
   </programme>
@@ -51117,9 +51129,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260928220000 -0300" stop="20261002000000 -0300" channel="LIKE">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260928220000 -0300" stop="20261002000000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20260928220000 -0300" stop="20260928230000 -0300" channel="REDE MASSA">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
@@ -51160,10 +51169,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   </programme>
   <programme start="20260928220000 -0300" stop="20261002000000 -0300" channel="TV APARECIDA HD">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260928220000 -0300" stop="20260928223000 -0300" channel="TV CIDADE">
-    <title lang="pt">Reis - A Divisão</title>
-    <desc lang="pt">Retrata com detalhes a deplorável situação do que se tornou o reino de Israel após a morte do rei Salomão.</desc>
   </programme>
   <programme start="20260928220000 -0300" stop="20260928223000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Reis - O Pecado</title>
@@ -51262,6 +51267,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Sensacional</title>
     <desc lang="pt">Com seu jeito carismático, Daniela Albuquerque te leva em uma jornada para conhecer curiosidades do mundo e ficar por dentro da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea.</desc>
   </programme>
+  <programme start="20260928221500 -0300" stop="20260928224500 -0300" channel="TV CIDADE">
+    <title lang="pt">Reis - A Divisão</title>
+    <desc lang="pt">Retrata com detalhes a deplorável situação do que se tornou o reino de Israel após a morte do rei Salomão.</desc>
+  </programme>
   <programme start="20260928221500 -0300" stop="20260928230000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Reis - A Emboscada</title>
     <desc lang="pt">Israel vive um novo ciclo com o Rei Abias, da ascensão ao trono de Judá ao seu trágico desfecho.</desc>
@@ -51273,10 +51282,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260928222000 -0300" stop="20260928234500 -0300" channel="TV Arapuan">
     <title lang="pt">Frente A Frente</title>
     <desc lang="pt">Tudo sobre a politica na Paraiba e no mundo com entrevistas e reportagens.</desc>
-  </programme>
-  <programme start="20260928223000 -0300" stop="20260928234500 -0300" channel="TV CIDADE">
-    <title lang="pt">Alerta Aeroporto</title>
-    <desc lang="pt">Aeroporto - Área Restrita, que revela tudo o que acontece nos bastidores das operações policiais de grandes aeroportos.</desc>
   </programme>
   <programme start="20260928223000 -0300" stop="20260928234500 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">A Fazenda</title>
@@ -51330,6 +51335,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <desc lang="pt">Com seu jeito carismático, Daniela Albuquerque te leva em uma jornada para conhecer curiosidades do mundo e ficar por dentro da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea.</desc>
   </programme>
   <programme start="20260928224500 -0300" stop="20260929001500 -0300" channel="RICtv RECORD">
+    <title lang="pt">A Fazenda</title>
+    <desc lang="pt">Reality onde celebridades são testadas em tarefas do meio rural, numa fazenda isolada do mundo exterior.</desc>
+  </programme>
+  <programme start="20260928224500 -0300" stop="20260929001500 -0300" channel="TV CIDADE">
     <title lang="pt">A Fazenda</title>
     <desc lang="pt">Reality onde celebridades são testadas em tarefas do meio rural, numa fazenda isolada do mundo exterior.</desc>
   </programme>
@@ -51528,10 +51537,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Apito Final</title>
     <desc lang="pt">Um giro jornalístico da semana para você ficar por dentro de tudo o que acontece no mundo da bola.</desc>
   </programme>
-  <programme start="20260928234500 -0300" stop="20260929003500 -0300" channel="TV CIDADE">
-    <title lang="pt">Chicago Med</title>
-    <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
-  </programme>
   <programme start="20260928234500 -0300" stop="20260929003000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Integrantes do corpo de bombeiros de Chicago se culpam pela morte de um companheiro e enfrentam problemas pessoais, mas, apesar das tensões, na hora de enfrentar os desafios, deixam as diferenças de lado e arriscam suas vidas.</desc>
@@ -51551,6 +51556,9 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260929000000 -0300" stop="20260929003000 -0300" channel="BAND RS">
     <title lang="pt">Jornal da Noite</title>
     <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20260929000000 -0300" stop="20261002000000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20260929000000 -0300" stop="20261002000000 -0300" channel="DOG TV HD">
     <title lang="pt">Programação indisponível</title>
@@ -51642,6 +51650,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Jornal da Record 24h</title>
     <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
   </programme>
+  <programme start="20260929001500 -0300" stop="20260929004500 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
   <programme start="20260929001500 -0300" stop="20260929004500 -0300" channel="TV Pajuçara">
     <title lang="pt">Jornal da Record 24h</title>
     <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
@@ -51725,10 +51737,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260929003000 -0300" stop="20260929010000 -0300" channel="TV10 - Maringá">
     <title lang="pt">Leitura Dinâmica</title>
     <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.</desc>
-  </programme>
-  <programme start="20260929003500 -0300" stop="20260929004500 -0300" channel="TV CIDADE">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
   </programme>
   <programme start="20260929004000 -0300" stop="20260929013000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Jornal da Globo</title>
@@ -53752,7 +53760,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Balanço Geral</title>
     <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
   </programme>
-  <programme start="20260929113000 -0300" stop="20260929134500 -0300" channel="TV CIDADE">
+  <programme start="20260929113000 -0300" stop="20260929130000 -0300" channel="TV CIDADE">
     <title lang="pt">Cidade 190</title>
     <desc lang="pt">Apresentado por Evaldo Costa e Vitor Valim, jornalismo policial que bate recordes de audiência e leva ao telespectador a realidade das ruas com a credibilidade de uma equipe de primeira.</desc>
   </programme>
@@ -54113,6 +54121,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
+  <programme start="20260929130000 -0300" stop="20260929132500 -0300" channel="TV CIDADE">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Político.</desc>
+  </programme>
   <programme start="20260929130000 -0300" stop="20260929132500 -0300" channel="TV Clube">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário destinado a propaganda partidária gratuita.</desc>
@@ -54287,6 +54299,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">JPB - 1ª Edição</title>
     <desc lang="pt">Na hora do almoço, Danilo Alves te recebe com as principais notícias da Paraíba. O jornal que está atento aos problemas que incomodam você, no seu condomínio, na sua rua ou no seu bairro.</desc>
   </programme>
+  <programme start="20260929132500 -0300" stop="20260929134500 -0300" channel="TV CIDADE">
+    <title lang="pt">Cidade 190</title>
+    <desc lang="pt">Apresentado por Evaldo Costa e Vitor Valim, jornalismo policial que bate recordes de audiência e leva ao telespectador a realidade das ruas com a credibilidade de uma equipe de primeira.</desc>
+  </programme>
   <programme start="20260929132500 -0300" stop="20260929141000 -0300" channel="TV Clube">
     <title lang="pt">Programa Igor Oliveira</title>
     <desc lang="pt">Programa Igor Oliveira apresentador de Rádio e TV.</desc>
@@ -54411,7 +54427,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20260929134500 -0300" stop="20260929153000 -0300" channel="TV CIDADE">
-    <title lang="pt">Balanço Geral Manhã</title>
+    <title lang="pt">Balanço Geral - CE</title>
     <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
   </programme>
   <programme start="20260929134500 -0300" stop="20260929140000 -0300" channel="TV JORNAL">
@@ -54799,7 +54815,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   </programme>
   <programme start="20260929153000 -0300" stop="20260929163000 -0300" channel="TV CIDADE">
     <title lang="pt">Jesus</title>
-    <desc lang="pt">Petronius se preocupa com Maria Madalena. Susana diz que só Jesus pode salvá-la. André e João são levados para a cela.</desc>
+    <desc lang="pt">Nemestrino desconfia de Dimas e Gestas. Shabaka estranha ao ver Barrabás com moedas. Os filhos de Adela se divertem com prostituas.</desc>
   </programme>
   <programme start="20260929153000 -0300" stop="20260929163000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">A Escrava Isaura</title>
@@ -55714,7 +55730,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">SBT Cidades</title>
     <desc lang="pt">Rodrigo Bocardi e Erica Reis apresentam o SBT Cidades, com prestação de serviço e cobertura dos fatos que fazem diferença na vida da população.</desc>
   </programme>
-  <programme start="20260929191500 -0300" stop="20260929195500 -0300" channel="TV CIDADE">
+  <programme start="20260929191500 -0300" stop="20260929194500 -0300" channel="TV CIDADE">
     <title lang="pt">Jornal da Cidade</title>
     <desc lang="pt">O Jornal da Cidade traz os fatos e informações exclusivas da região com o compromisso, agilidade e credibilidade já conhecidos pelos telespectadores.</desc>
   </programme>
@@ -55897,6 +55913,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
   </programme>
+  <programme start="20260929194500 -0300" stop="20260929203000 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
   <programme start="20260929194500 -0300" stop="20260929203000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Jornal da Record</title>
     <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
@@ -55948,10 +55968,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260929195500 -0300" stop="20260929203000 -0300" channel="REDE AMAZONICA RIO BRANCO">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-  </programme>
-  <programme start="20260929195500 -0300" stop="20260929210000 -0300" channel="TV CIDADE">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
   </programme>
   <programme start="20260929195500 -0300" stop="20260929210000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Jornal da Record</title>
@@ -56110,6 +56126,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260929203000 -0300" stop="20260929205500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.</desc>
+  </programme>
+  <programme start="20260929203000 -0300" stop="20260929205500 -0300" channel="TV CIDADE">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Político.</desc>
   </programme>
   <programme start="20260929203000 -0300" stop="20260929205500 -0300" channel="TV Clube">
     <title lang="pt">Horário Político</title>
@@ -56286,6 +56306,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
   </programme>
+  <programme start="20260929205500 -0300" stop="20260929211500 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
   <programme start="20260929205500 -0300" stop="20260929215000 -0300" channel="TV Clube">
     <title lang="pt">Guerra das Rosas</title>
     <desc lang="pt">Gulru conta para Mesude que está sendo ameaçada por Omer. Omer se abre com Gulfem sobre o ultrassom do bebê. Gulru recebe uma proposta do Rei Leão. Cihan e sua equipe conversam sobre seu novo negócio.</desc>
@@ -56341,10 +56365,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260929210000 -0300" stop="20260929220500 -0300" channel="REDE TV! São Paulo">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
     <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
-  </programme>
-  <programme start="20260929210000 -0300" stop="20260929220000 -0300" channel="TV CIDADE">
-    <title lang="pt">Coração de Mãe</title>
-    <desc lang="pt">A trama acompanha Karsu, uma mulher marcada pelos conflitos da relação com a própria mãe e colocada à prova pelo amor ao filho.</desc>
   </programme>
   <programme start="20260929210000 -0300" stop="20260929220000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Mãe</title>
@@ -56449,6 +56469,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <desc lang="pt">A Globo transmite o debate entre os candidatos ao governo do estado.</desc>
   </programme>
   <programme start="20260929211500 -0300" stop="20260929221500 -0300" channel="RICtv RECORD">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
+  </programme>
+  <programme start="20260929211500 -0300" stop="20260929221500 -0300" channel="TV CIDADE">
     <title lang="pt">Iludida</title>
     <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
   </programme>
@@ -56599,10 +56623,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Sessão +SBT</title>
     <desc lang="pt">A atração comemora os 45 anos da emissora e resgata momentos históricos, quadros marcantes e grandes sucessos do arquivo do canal.</desc>
   </programme>
-  <programme start="20260929220000 -0300" stop="20260929223000 -0300" channel="TV CIDADE">
-    <title lang="pt">Reis - A Divisão</title>
-    <desc lang="pt">Retrata com detalhes a deplorável situação do que se tornou o reino de Israel após a morte do rei Salomão.</desc>
-  </programme>
   <programme start="20260929220000 -0300" stop="20260929223000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Reis - O Pecado</title>
     <desc lang="pt">A sétima temporada torna evidente o contraste entre um Davi que é dedicado à família, bom amigo e servo temente; e outro, que vive atormentado após ceder a sua inclinação e cometer um pecado que tem um impacto ne...</desc>
@@ -56717,6 +56737,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Debate Governador - Rede Paraíba</title>
     <desc lang="pt">A Globo transmite o debate entre os candidatos ao governo do estado.</desc>
   </programme>
+  <programme start="20260929221500 -0300" stop="20260929224500 -0300" channel="TV CIDADE">
+    <title lang="pt">Reis - A Emboscada</title>
+    <desc lang="pt">Israel vive um novo ciclo com o Rei Abias, da ascensão ao trono de Judá ao seu trágico desfecho.</desc>
+  </programme>
   <programme start="20260929221500 -0300" stop="20260929230000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Reis - A Emboscada</title>
     <desc lang="pt">Israel vive um novo ciclo com o Rei Abias, da ascensão ao trono de Judá ao seu trágico desfecho.</desc>
@@ -56760,10 +56784,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260929223000 -0300" stop="20260929233000 -0300" channel="TV Amazônia">
     <title lang="pt">O Grande Vencedor</title>
     <desc lang="pt">O Grande Vencedor: dois concorrentes disputam uma viagem em um game show repleto de adivinhação de imagens e provas divertidas. Cada time, formado pelo participante, duas pessoas e um artista sorteado, luta pela vitória no palco.</desc>
-  </programme>
-  <programme start="20260929223000 -0300" stop="20260929234500 -0300" channel="TV CIDADE">
-    <title lang="pt">Canta Comigo Teen</title>
-    <desc lang="pt">100 jurados avaliam as vozes dos mais novos no formato infantojuvenil "Canta Comigo".</desc>
   </programme>
   <programme start="20260929223000 -0300" stop="20260930001500 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">A Fazenda</title>
@@ -56871,6 +56891,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260929224500 -0300" stop="20260930010000 -0300" channel="TV Arapuan">
     <title lang="pt">Masterchef Amadores</title>
     <desc lang="pt">O maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.</desc>
+  </programme>
+  <programme start="20260929224500 -0300" stop="20260930001500 -0300" channel="TV CIDADE">
+    <title lang="pt">A Fazenda</title>
+    <desc lang="pt">Reality onde celebridades são testadas em tarefas do meio rural, numa fazenda isolada do mundo exterior.</desc>
   </programme>
   <programme start="20260929224500 -0300" stop="20260930010000 -0300" channel="TV Clube">
     <title lang="pt">Masterchef Amadores</title>
@@ -57011,10 +57035,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Chicago Med</title>
     <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
   </programme>
-  <programme start="20260929234500 -0300" stop="20260930003500 -0300" channel="TV CIDADE">
-    <title lang="pt">Chicago Med</title>
-    <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
-  </programme>
   <programme start="20260929234500 -0300" stop="20260930010000 -0300" channel="TV Gazeta Rio Branco">
     <title lang="pt">Fala que eu te Escuto</title>
     <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).</desc>
@@ -57123,6 +57143,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Cinema Especial: Vatapá ou Maniçoba?</title>
     <desc lang="pt">A jovem Marcely acabou de se mudar para a casa do pai Jurandir e sua avó Ana. Ela precisa se adaptar à nova rotina enquanto ensaia para vencer sua primeira e tão sonhada batalha de MCs.</desc>
   </programme>
+  <programme start="20260930001500 -0300" stop="20260930004500 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
   <programme start="20260930001500 -0300" stop="20260930004500 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Jornal da Record 24h</title>
     <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
@@ -57214,10 +57238,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260930003000 -0300" stop="20260930010000 -0300" channel="TV10 - Maringá">
     <title lang="pt">Leitura Dinâmica</title>
     <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.</desc>
-  </programme>
-  <programme start="20260930003500 -0300" stop="20260930004500 -0300" channel="TV CIDADE">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
   </programme>
   <programme start="20260930004500 -0300" stop="20260930020000 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">Fala que eu te Escuto</title>
@@ -58979,7 +58999,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Balanço Geral</title>
     <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
   </programme>
-  <programme start="20260930113000 -0300" stop="20260930134500 -0300" channel="TV CIDADE">
+  <programme start="20260930113000 -0300" stop="20260930130000 -0300" channel="TV CIDADE">
     <title lang="pt">Cidade 190</title>
     <desc lang="pt">Apresentado por Evaldo Costa e Vitor Valim, jornalismo policial que bate recordes de audiência e leva ao telespectador a realidade das ruas com a credibilidade de uma equipe de primeira.</desc>
   </programme>
@@ -59319,6 +59339,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.</desc>
   </programme>
+  <programme start="20260930130000 -0300" stop="20260930132500 -0300" channel="TV CIDADE">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Político.</desc>
+  </programme>
   <programme start="20260930130000 -0300" stop="20260930132500 -0300" channel="TV Clube">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário destinado a propaganda partidária gratuita.</desc>
@@ -59471,6 +59495,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">JPB - 1ª Edição</title>
     <desc lang="pt">Na hora do almoço, Danilo Alves te recebe com as principais notícias da Paraíba. O jornal que está atento aos problemas que incomodam você, no seu condomínio, na sua rua ou no seu bairro.</desc>
   </programme>
+  <programme start="20260930132500 -0300" stop="20260930134500 -0300" channel="TV CIDADE">
+    <title lang="pt">Cidade 190</title>
+    <desc lang="pt">Apresentado por Evaldo Costa e Vitor Valim, jornalismo policial que bate recordes de audiência e leva ao telespectador a realidade das ruas com a credibilidade de uma equipe de primeira.</desc>
+  </programme>
   <programme start="20260930132500 -0300" stop="20260930141000 -0300" channel="TV Clube">
     <title lang="pt">Programa Igor Oliveira</title>
     <desc lang="pt">Programa Igor Oliveira apresentador de Rádio e TV.</desc>
@@ -59596,7 +59624,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20260930134500 -0300" stop="20260930153000 -0300" channel="TV CIDADE">
-    <title lang="pt">Balanço Geral Manhã</title>
+    <title lang="pt">Balanço Geral - CE</title>
     <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
   </programme>
   <programme start="20260930134500 -0300" stop="20260930140000 -0300" channel="TV JORNAL">
@@ -59945,7 +59973,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   </programme>
   <programme start="20260930153000 -0300" stop="20260930163000 -0300" channel="TV CIDADE">
     <title lang="pt">Jesus</title>
-    <desc lang="pt">Heitor pede para João e André orarem para Salomé reaparecer. Judas Tadeu pede para Helena ajudá-lo a visitar Ami. Cassandra procura por Petronius.</desc>
+    <desc lang="pt">Jairo e Simão Fariseu tentam expulsar o Lunático da cidade. Jesus retorna à Cafarnaum. Gabriela reencontra João.</desc>
   </programme>
   <programme start="20260930153000 -0300" stop="20260930163000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">A Escrava Isaura</title>
@@ -60779,7 +60807,7 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">SBT Cidades</title>
     <desc lang="pt">Rodrigo Bocardi e Erica Reis apresentam o SBT Cidades, com prestação de serviço e cobertura dos fatos que fazem diferença na vida da população.</desc>
   </programme>
-  <programme start="20260930191500 -0300" stop="20260930195500 -0300" channel="TV CIDADE">
+  <programme start="20260930191500 -0300" stop="20260930194500 -0300" channel="TV CIDADE">
     <title lang="pt">Jornal da Cidade</title>
     <desc lang="pt">O Jornal da Cidade traz os fatos e informações exclusivas da região com o compromisso, agilidade e credibilidade já conhecidos pelos telespectadores.</desc>
   </programme>
@@ -60963,6 +60991,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
   </programme>
+  <programme start="20260930194500 -0300" stop="20260930203000 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
   <programme start="20260930194500 -0300" stop="20260930203000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Jornal da Record</title>
     <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
@@ -61014,10 +61046,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260930195500 -0300" stop="20260930204500 -0300" channel="REDE AMAZONICA RIO BRANCO">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-  </programme>
-  <programme start="20260930195500 -0300" stop="20260930210000 -0300" channel="TV CIDADE">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
   </programme>
   <programme start="20260930200000 -0300" stop="20260930210000 -0300" channel="INOVA TV">
     <title lang="pt">Igreja Internacional da Graça</title>
@@ -61150,6 +61178,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260930203000 -0300" stop="20260930205500 -0300" channel="TV CABO BRANCO">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.</desc>
+  </programme>
+  <programme start="20260930203000 -0300" stop="20260930205500 -0300" channel="TV CIDADE">
+    <title lang="pt">Horário Político</title>
+    <desc lang="pt">Horário Político.</desc>
   </programme>
   <programme start="20260930203000 -0300" stop="20260930205500 -0300" channel="TV Clube">
     <title lang="pt">Horário Político</title>
@@ -61323,6 +61355,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
   </programme>
+  <programme start="20260930205500 -0300" stop="20260930211500 -0300" channel="TV CIDADE">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+  </programme>
   <programme start="20260930205500 -0300" stop="20260930215000 -0300" channel="TV Clube">
     <title lang="pt">Guerra das Rosas</title>
     <desc lang="pt">Gulru conta para Cihan sobre seu bloqueio criativo. Gulfem é exposta novamente pela imprensa em grande escândalo.  Gulfem descobre que é irmã de sangue de Gulru. Munevver deixa uma carta para Gulru.</desc>
@@ -61390,10 +61426,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260930210000 -0300" stop="20260930211000 -0300" channel="TV Amazônia">
     <title lang="pt">Rapidinhas da Fama</title>
     <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
-  </programme>
-  <programme start="20260930210000 -0300" stop="20260930220000 -0300" channel="TV CIDADE">
-    <title lang="pt">Coração de Mãe</title>
-    <desc lang="pt">A trama acompanha Karsu, uma mulher marcada pelos conflitos da relação com a própria mãe e colocada à prova pelo amor ao filho.</desc>
   </programme>
   <programme start="20260930210000 -0300" stop="20260930220000 -0300" channel="TV NORTE PARAÍBA">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
@@ -61464,6 +61496,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
   </programme>
   <programme start="20260930211500 -0300" stop="20260930221500 -0300" channel="RICtv RECORD">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
+  </programme>
+  <programme start="20260930211500 -0300" stop="20260930221500 -0300" channel="TV CIDADE">
     <title lang="pt">Iludida</title>
     <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
   </programme>
@@ -61623,10 +61659,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Sessão +SBT</title>
     <desc lang="pt">A atração comemora os 45 anos da emissora e resgata momentos históricos, quadros marcantes e grandes sucessos do arquivo do canal.</desc>
   </programme>
-  <programme start="20260930220000 -0300" stop="20260930223000 -0300" channel="TV CIDADE">
-    <title lang="pt">Reis - A Divisão</title>
-    <desc lang="pt">Retrata com detalhes a deplorável situação do que se tornou o reino de Israel após a morte do rei Salomão.</desc>
-  </programme>
   <programme start="20260930220000 -0300" stop="20260930223000 -0300" channel="TV JANGADEIRO">
     <title lang="pt">Sessão +SBT</title>
     <desc lang="pt">A atração comemora os 45 anos da emissora e resgata momentos históricos, quadros marcantes e grandes sucessos do arquivo do canal.</desc>
@@ -61699,6 +61731,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">SuperPop</title>
     <desc lang="pt">Apresentado por Cariúcha, o SUPERPOP é a escolha perfeita para animar as suas noites. Com muito bom humor, polêmicas e curiosidades, o programa traz diariamente temas variados que prendem a atenção do início ao fim.</desc>
   </programme>
+  <programme start="20260930221500 -0300" stop="20260930224500 -0300" channel="TV CIDADE">
+    <title lang="pt">Reis - A Emboscada</title>
+    <desc lang="pt">Israel vive um novo ciclo com o Rei Abias, da ascensão ao trono de Judá ao seu trágico desfecho.</desc>
+  </programme>
   <programme start="20260930221500 -0300" stop="20260930230000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Reis - A Emboscada</title>
     <desc lang="pt">Israel vive um novo ciclo com o Rei Abias, da ascensão ao trono de Judá ao seu trágico desfecho.</desc>
@@ -61726,10 +61762,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260930223000 -0300" stop="20260930234500 -0300" channel="TH+ SBT Tambaú">
     <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
-  </programme>
-  <programme start="20260930223000 -0300" stop="20260930234500 -0300" channel="TV CIDADE">
-    <title lang="pt">Canta Comigo Teen</title>
-    <desc lang="pt">100 jurados avaliam as vozes dos mais novos no formato infantojuvenil "Canta Comigo".</desc>
   </programme>
   <programme start="20260930223000 -0300" stop="20261001000500 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">A Fazenda</title>
@@ -61810,6 +61842,10 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20260930224500 -0300" stop="20261001003000 -0300" channel="TV Arapuan">
     <title lang="pt">Cine Clube: Resident Evil - Retribuição</title>
     <desc lang="pt">Alice luta ao lado de um movimento de resistência para recuperar a sua liberdade de uma instalação de testes da Umbrella Corporation.</desc>
+  </programme>
+  <programme start="20260930224500 -0300" stop="20261001001500 -0300" channel="TV CIDADE">
+    <title lang="pt">A Fazenda</title>
+    <desc lang="pt">Reality onde celebridades são testadas em tarefas do meio rural, numa fazenda isolada do mundo exterior.</desc>
   </programme>
   <programme start="20260930224500 -0300" stop="20261001003000 -0300" channel="TV Clube">
     <title lang="pt">Cine Clube: Resident Evil - Retribuição</title>
@@ -61987,10 +62023,6 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
     <title lang="pt">Falas da Vida - Quantos Dias. Quantas Noites</title>
     <desc lang="pt">"Quantos dias. Quantas noites", novo documentário da Maria Farinha Filmes dirigido por Cacau Rhoden, realiza um profundo mergulho nos propósitos da nossa existência no planeta.</desc>
   </programme>
-  <programme start="20260930234500 -0300" stop="20261001003500 -0300" channel="TV CIDADE">
-    <title lang="pt">Chicago Med</title>
-    <desc lang="pt">A equipe de médicos, enfermeiros e funcionários do Gaffney Chicago Medical Center enfrenta desafios diários enquanto faz o que é necessário para tratar seus pacientes.</desc>
-  </programme>
   <programme start="20260930234500 -0300" stop="20261001010000 -0300" channel="TV Gazeta Rio Branco">
     <title lang="pt">Fala que eu te Escuto</title>
     <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).</desc>
@@ -62078,6 +62110,9 @@ Uma conversa em duas partes sobre eleições, poder, reformas e os rumos do Bras
   <programme start="20261001001500 -0300" stop="20261001004500 -0300" channel="RICtv RECORD">
     <title lang="pt">Jornal da Record 24h</title>
     <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
+  </programme>
+  <programme start="20261001001500 -0300" stop="20261001003500 -0300" channel="TV CIDADE">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261001001500 -0300" stop="20261001004500 -0300" channel="TV Pajuçara">
     <title lang="pt">Jornal da Record 24h</title>
