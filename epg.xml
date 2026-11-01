@@ -3020,10 +3020,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Sarau Dos Imigrantes - Sarau Dos Imigrantes - Senegal: Horoya</title>
     <desc lang="pt">A série celebra a recepção calorosa dos brasileiros a estrangeiros, unindo culturas e histórias de quem escolhe o Brasil para viver.</desc>
   </programme>
-  <programme start="20261031233000 -0300" stop="20261101014500 -0300" channel="NSPORTS HD">
-    <title lang="pt">DEC - Por Dentro da Preparação do Desimpain Para a Kings League Cup Brazil</title>
-    <desc lang="pt">O DesimpaiN está de volta! Venha ver como está sendo a preparação para a Kings Cup Brazil.</desc>
-  </programme>
   <programme start="20261031233000 -0300" stop="20261101011500 -0300" channel="RECORD RJ">
     <title lang="pt">Super Tela: Carta Selvagem</title>
     <desc lang="pt">Nick Wild é um guarda-costas de Las Vegas com habilidades letais e viciado em jogos. Quando um amigo dele é brutalmente agredido, Nick sai em sua defesa, sem saber que o agressor é filho de um dos mais poderosos líderes da m...</desc>
@@ -3404,6 +3400,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101000000 -0300" stop="20261101004500 -0300" channel="MARKKET HD">
     <title lang="pt">Ela Investe!</title>
     <desc lang="pt">Claudia Rosa entrevista empreendedores que compartilham sobre a trajetória profissional.</desc>
+  </programme>
+  <programme start="20261101000000 -0300" stop="20261101014500 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Ajax x PSV</title>
+    <desc lang="pt">O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
   </programme>
   <programme start="20261101000000 -0300" stop="20261101020000 -0300" channel="PLAY TV">
     <title lang="pt">1001 Noites</title>
@@ -5272,9 +5272,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Madrugada Animada</title>
     <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
   </programme>
-  <programme start="20261101014500 -0300" stop="20261101033000 -0300" channel="NSPORTS HD">
-    <title lang="pt">VT - Cruzeiro x Olimpia</title>
-    <desc lang="pt">A Libertadores Feminina você acompanha aqui na N Sports.</desc>
+  <programme start="20261101014500 -0300" stop="20261101034500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para... Sergio Sacani</title>
+    <desc lang="pt">"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
   </programme>
   <programme start="20261101014500 -0300" stop="20261101031200 -0300" channel="TCM BR">
     <title lang="pt">Um Homem Tem Três Metros de Altura</title>
@@ -7340,10 +7340,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">The Flash</title>
     <desc lang="pt">Barry Allen usa sua supervelocidade para mudar o passado, mas sua tentativa de salvar sua família cria um mundo sem super-heróis, forçando-o a correr por sua vida para salvar o futuro.</desc>
   </programme>
-  <programme start="20261101033000 -0300" stop="20261101040000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Joga com Elas Entrevista - Carol Gil</title>
-    <desc lang="pt">Entrevistas com os principais nomes do futebol feminino com exclusividade N Sports.</desc>
-  </programme>
   <programme start="20261101033000 -0300" stop="20261101040000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Corinthians x Mirassol</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
@@ -7602,6 +7598,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101034500 -0300" stop="20261101035500 -0300" channel="MARKKET HD">
     <title lang="pt">Box Brazil Play News</title>
     <desc lang="pt">No episódio, Renata Freire, produtora e roteirista, comenta sobre a websérie Chapa Pode Pá, seus personagens e a inspiração que trouxe de sua própria trajetória como mulher da periferia.</desc>
+  </programme>
+  <programme start="20261101034500 -0300" stop="20261101044500 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria - Natan Chueng - Um Dia da Minha Vida, Treinando Jiu-jitsu em NYC</title>
+    <desc lang="pt">Fala meus cria, acompanhem um dia de treino com o nosso cria do Morro do Cantagalo no Rio de Janeiro, Natan Chueng.</desc>
   </programme>
   <programme start="20261101034500 -0300" stop="20261101035500 -0300" channel="TRAVEL BOX">
     <title lang="pt">Acontece No Travel - Lençois</title>
@@ -7939,10 +7939,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101040000 -0300" stop="20261101051700 -0300" channel="MEZZO HD">
     <title lang="pt">Kokoroko - Jazz à Montréal 2026</title>
     <desc lang="pt">Kokoroko Setlist: Tojo; Baba Ayoola; Dide Oh; Age of Ascent; Oye Asem; No Condition; Carry me Home; War Dance, Something's going on; We give thanks.</desc>
-  </programme>
-  <programme start="20261101040000 -0300" stop="20261101044500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Joga com Elas Entrevista - Lucas Piccinato</title>
-    <desc lang="pt">Série especial de entrevistas com as jogadoras que vão participar das quartas de final da Copa do Brasil aqui na N Sports.</desc>
   </programme>
   <programme start="20261101040000 -0300" stop="20261101060000 -0300" channel="PREMIERE 2 HD">
     <title lang="pt">Hoje a partir das 16:00 - Palmeiras x Vasco</title>
@@ -8672,9 +8668,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">O Melhor Conselho</title>
     <desc lang="pt">De dicas práticas sobre gestão de negócios a conselhos sobre liderança e inovação, 'O Melhor Conselho' é seu guia confiável para o sucesso empresarial.</desc>
   </programme>
-  <programme start="20261101044500 -0300" stop="20261101050000 -0300" channel="NSPORTS HD">
-    <title lang="pt">MTB - Pedalamos Até Brunico</title>
-    <desc lang="pt">Neste episódio da série MTB, acompanhe uma incrível cicloviagem pelas impressionantes montanhas das Dolomitas, na Itália, pedalando até a charmosa cidade de Brunico.</desc>
+  <programme start="20261101044500 -0300" stop="20261101064500 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria - Meyram Maquine - Da Difícil Vida em Manaus Até Virar Campeão Mundial na Faixa Preta</title>
+    <desc lang="pt">Mais um super episódio do nosso BJJ CRIA CAST saindo do forno para vocês. Nessa semana, conversamos com um dos mais brabos e queridos na comunidade do jiu-jitsu.</desc>
   </programme>
   <programme start="20261101044500 -0300" stop="20261101053000 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Check Up</title>
@@ -8959,10 +8955,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101050000 -0300" stop="20261101051000 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
     <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-  </programme>
-  <programme start="20261101050000 -0300" stop="20261101064500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Um Assado Para... PVC</title>
-    <desc lang="pt">O cara dos números, das estatísticas e da informação! ele é um dos jornalistas esportivos mais respeitados do Brasil e tá de volta aqui no Assado! Hoje eu ofereço Um Assado Para… Paulo Vinicius Coelho, o PVC.</desc>
   </programme>
   <programme start="20261101050000 -0300" stop="20261101053000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Vitória x Athletico-PR</title>
@@ -11154,9 +11146,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc Inocentes 30 Anos - Ronaldo Passos</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
-  <programme start="20261101064500 -0300" stop="20261101081500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos - Fala Que Eu Discuto</title>
-    <desc lang="pt">O "Puro Suco" da semana chega com os maiores absurdos da semana.</desc>
+  <programme start="20261101064500 -0300" stop="20261101080000 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria - Soltinho no Morro do Cantagalo - Rio de Janeiro</title>
+    <desc lang="pt">Esse foi um treino de Jiu Jitsu / soltinho feito na laje do Bode, dentro da comunidade do Cantagalo com o: Jansen Gomes, Jonata Gomes, Natan Chueng, GB, Fábio Felipe, Fábio, GB e GuiGui.</desc>
   </programme>
   <programme start="20261101064500 -0300" stop="20261101084500 -0300" channel="TELECINE ACTION">
     <title lang="pt">O Ilusionista</title>
@@ -12799,6 +12791,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">O Dono Do Lar</title>
     <desc lang="pt">Américo precisa fazer as compras, mas é dia de promoção e o mercado está lotado. Ao chegar, ele não consegue entrar e volta para casa com as mãos abanando.</desc>
   </programme>
+  <programme start="20261101080000 -0300" stop="20261101101500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Ajax x Twente - Ao Vivo</title>
+    <desc lang="pt">O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
+  </programme>
   <programme start="20261101080000 -0300" stop="20261101083000 -0300" channel="PLAY TV">
     <title lang="pt">Ponto Pop</title>
     <desc lang="pt">Seleção de clipes musicais internacionais, lançados neste ano, informando no início e fim de cada clipe o intérprete e o nome da música.</desc>
@@ -13168,10 +13164,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Fique Ligado</title>
     <desc lang="pt">Programa de entretenimento religioso com prestação de serviços, notícias, músicas e eventos.</desc>
   </programme>
-  <programme start="20261101081500 -0300" stop="20261101083000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos - Gabarito / Brasileiros + Gols na Champions</title>
-    <desc lang="pt">Mais um episódio do "Gabarito" no ar e, dessa vez, Bolívia preparou alguns temas bem diferentes para o Chico responder.</desc>
-  </programme>
   <programme start="20261101081500 -0300" stop="20261101084500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">TG2 Giorno</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -13415,10 +13407,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101083000 -0300" stop="20261101090000 -0300" channel="MULTISHOW HD">
     <title lang="pt">O Dono Do Lar</title>
     <desc lang="pt">Américo reencontra, por acaso, um ex colega de trabalho das antigas e, com inveja da aparente boa situação financeira do homem, decide fingir que também está bem de vida.</desc>
-  </programme>
-  <programme start="20261101083000 -0300" stop="20261101084500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Acelerados - Dakota x Ranger x S10 SS</title>
-    <desc lang="pt">Acelerados é o canal para quem ama carros, tem gasolina e adrenalina nas veias. Rubens Barrichello e Gerson Campos aceleram superesportivos, clássicos do passado e as últimas novidades do mercado automotivo.</desc>
   </programme>
   <programme start="20261101083000 -0300" stop="20261101094500 -0300" channel="PLAY TV">
     <title lang="pt">Operação Zenkai com Yu-Gi-Oh! Duel Monsters</title>
@@ -13745,10 +13733,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101084500 -0300" stop="20261101094500 -0300" channel="INOVA TV">
     <title lang="pt">Notícias de Agora</title>
     <desc lang="pt">Programa voltado para as ultimas noticias na internet, novos métodos de cozinha e métodos de decoração.</desc>
-  </programme>
-  <programme start="20261101084500 -0300" stop="20261101091500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Acelerados - Aceleramos o Clio V6</title>
-    <desc lang="pt">Hoje é mais um daqueles dias especiais, já que temos nada menos do que uns projetos mais incríveis da engenharia automotiva mundial: Renault Clio V6!</desc>
   </programme>
   <programme start="20261101084500 -0300" stop="20261101091500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Protestantesimo</title>
@@ -14430,10 +14414,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Titio Noel</title>
     <desc lang="pt">Fred é irmão do Papai Noel e o oposto dele. Ele é mau humorado e não acredita em Natal. Até que um dia seu irmão está em apuros e precisa que Fred o ajude.</desc>
   </programme>
-  <programme start="20261101091500 -0300" stop="20261101094500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Acelerados - Porsche Mission S</title>
-    <desc lang="pt">Acelerados é o canal para quem ama carros, tem gasolina e adrenalina nas veias. Rubens Barrichello e Gerson Campos aceleram superesportivos, clássicos do passado e as últimas novidades do mercado automotivo.</desc>
-  </programme>
   <programme start="20261101091500 -0300" stop="20261101094500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Sulla via di Damasco</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -14904,10 +14884,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101094500 -0300" stop="20261101101500 -0300" channel="INOVA TV">
     <title lang="pt">Amazonicamente</title>
     <desc lang="pt">Confira novidades sobre o eixo urbano de Manaus e da Amazônia, revelações no cenário musical local e as demais notícias da região.</desc>
-  </programme>
-  <programme start="20261101094500 -0300" stop="20261101110000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Um Assado Para... Gabriel Wainer</title>
-    <desc lang="pt">Ele é jornalista, comentarista político, faz parte do time do programa Timeline, da Rádio Gaúcha, e carrega no sangue a herança de um nome histórico no Rio Grande do Sul.</desc>
   </programme>
   <programme start="20261101094500 -0300" stop="20261101110000 -0300" channel="PLAY TV">
     <title lang="pt">Operação Zenkai Yu-gi-oh! e Ryukendo</title>
@@ -15571,6 +15547,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101101500 -0300" stop="20261101111500 -0300" channel="INOVA TV">
     <title lang="pt">Igreja da Graça</title>
     <desc lang="pt">Programa Religioso.</desc>
+  </programme>
+  <programme start="20261101101500 -0300" stop="20261101114500 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Automobilismo: Fórmula E: Tóquio (race)</title>
+    <desc lang="pt">A Fórmula E é o maior campeonato mundial de carros 100% elétricos e você confere tudo aqui na N Sports!</desc>
   </programme>
   <programme start="20261101101500 -0300" stop="20261101111500 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Viver Sertanejo</title>
@@ -16401,10 +16381,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Grandes Nomes da Propaganda</title>
     <desc lang="pt">Grandes Nomes da Propaganda</desc>
   </programme>
-  <programme start="20261101110000 -0300" stop="20261101120000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
-    <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
-  </programme>
   <programme start="20261101110000 -0300" stop="20261101113000 -0300" channel="PLAY TV">
     <title lang="pt">Cavaleiros Do Zodíaco: The Lost Canvas</title>
     <desc lang="pt">História da Guerra Santa, que ocorreu no século XVIII, 250 anos antes da série original de Saint Seiya. Se concentra na luta entre Tenma, um dos 88 santos que seguem Athena, e Alone, a reencarnação do deus Hades.</desc>
@@ -17209,6 +17185,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Marketing Que Te Marca</title>
     <desc lang="pt">Em Marketing que te Marca, Murilo Moreno analisa publicidade, marcas e negócios com reflexões afiadas e bate-papo leve.</desc>
   </programme>
+  <programme start="20261101114500 -0300" stop="20261101124500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Automobilismo: Copa Truck: Chapecó - Ao Vivo</title>
+    <desc lang="pt">O melhor da Copa Truck você vê aqui na N Sports!</desc>
+  </programme>
   <programme start="20261101114500 -0300" stop="20261101115500 -0300" channel="REDE TV! HD">
     <title lang="pt">Educação Na TV - Apeoesp</title>
     <desc lang="pt">Um programa que aborda questões ligadas à educação. Apresentando matérias sobre cultura, saúde, segurança, direitos humanos, história e atualidades, com foco na relação entre professores e alunos.</desc>
@@ -17592,10 +17572,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101120000 -0300" stop="20261101121500 -0300" channel="MARKKET HD">
     <title lang="pt">Marketing Que Te Marca</title>
     <desc lang="pt">Em Marketing que te Marca, Murilo Moreno analisa publicidade, marcas e negócios com reflexões afiadas e bate-papo leve.</desc>
-  </programme>
-  <programme start="20261101120000 -0300" stop="20261101143000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Estádio 97</title>
-    <desc lang="pt">O estádio 97 é mais que um programa de futebol. É uma resenha que te faz sentir em uma mesa de bar.</desc>
   </programme>
   <programme start="20261101120000 -0300" stop="20261101123000 -0300" channel="PLAY TV">
     <title lang="pt">Lupin III</title>
@@ -18409,6 +18385,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101124500 -0300" stop="20261101143500 -0300" channel="HBO Pop">
     <title lang="pt">Serpentes a Bordo</title>
     <desc lang="pt">Para evitar que um adolescente testemunhe em um julgamento, um assassino profissional libera centenas de serpentes venenosas em um avião.</desc>
+  </programme>
+  <programme start="20261101124500 -0300" stop="20261101154000 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">A Libertadores Feminina você acompanha aqui na N Sports.</desc>
   </programme>
   <programme start="20261101124500 -0300" stop="20261101150000 -0300" channel="TV Gazeta Rio Branco">
     <title lang="pt">Cine Maior: O Assassino: O Primeiro Alvo</title>
@@ -20195,10 +20175,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Papo de Especialista</title>
     <desc lang="pt">Explore o mundo dos negócios e inovação com entrevistas a especialistas. Dicas práticas e insights sobre empreendedorismo, marketing e carreira para turbinar seu sucesso.</desc>
   </programme>
-  <programme start="20261101143000 -0300" stop="20261101150000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo - Reação da Torcida do Vasco na Eliminação Pro Boca</title>
-    <desc lang="pt">Fui no jogo Vasco 1 x 3 Boca Juniors pela semifinal da Copa Sul-Americana 2026 com festa da torcida do Boca e reação dos vascaínos na eliminação.</desc>
-  </programme>
   <programme start="20261101143000 -0300" stop="20261101153000 -0300" channel="PLAY TV">
     <title lang="pt">Crossplay</title>
     <desc lang="pt">Assista aos programas Ubi Talk Show com Totoro, Ubi Dub com Marcos Rossi e Piores Jogadas com Rato Borrachudo e Mary Nery - tudo isso no Crossplay, onde PlayTV e Ubisoft TV se encontram.</desc>
@@ -20686,10 +20662,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Medalhão Persa</title>
     <desc lang="pt">Móveis importados que unem luxo, conforto e sofisticação para sua casa.</desc>
   </programme>
-  <programme start="20261101150000 -0300" stop="20261101151500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo - A Torcida do Palmeiras Quase Derrubou o Estádio</title>
-    <desc lang="pt">Fui no jogo Palmeiras 0 (5) x (3) 1 Fluminense pela semifinal da Libertadores 2026 com classificação palmeirense e festa incrível no estádio.</desc>
-  </programme>
   <programme start="20261101150000 -0300" stop="20261101180000 -0300" channel="PREMIERE 5 HD">
     <title lang="pt">China x Brasil - Ao Vivo</title>
     <desc lang="pt">China e Brasil jogam a Quartas de Final da Copa do Mundo Feminina Sub-17 da FIFA 2026, no Complexo Mohammed VI, em Rabat, Marrocos.</desc>
@@ -20999,10 +20971,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">People Magazine: Além Da Notícia - O Bicho Papão</title>
     <desc lang="pt">A vida dos Lunsford muda quando Jessie, de 9 anos, é sequestrada. A polícia investiga e descobre que ela estava mais perto do que pensavam.</desc>
   </programme>
-  <programme start="20261101151500 -0300" stop="20261101153000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo - Reação da Torcida do Flamengo à Eliminação na Libertadores</title>
-    <desc lang="pt">Fui no jogo Flamengo 0 (2) x (3) 0 Estudiantes pela semifinal da Libertadores 2026 no Maracanã com eliminação rubro-negra nos pênaltis, festa dos argentinos e reação da torcida do Flamengo!</desc>
-  </programme>
   <programme start="20261101151500 -0300" stop="20261101154500 -0300" channel="OFF HD">
     <title lang="pt">Guató: Uma Remada No Tempo - Os antigos</title>
     <desc lang="pt">O casal chega ao aterro do Seu Vicente, guató mais antigo, que vive isolado da aldeia e único a dominar o idioma original Guató.</desc>
@@ -21199,10 +21167,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Ursinhos Carinhosos - Tchauzinho, Chuva</title>
     <desc lang="pt">A raiva de Zangadinho deixa seu distintivo fora de controle e causa uma tempestade. Ele promete se controlar, mas depois tem dificuldades de fazer chover a pedido dos Whiffles.</desc>
   </programme>
-  <programme start="20261101153000 -0300" stop="20261101154500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos - Gabarito / Brasileiros + Gols na Champions</title>
-    <desc lang="pt">Mais um episódio do "Gabarito" no ar e, dessa vez, Bolívia preparou alguns temas bem diferentes para o Chico responder.</desc>
-  </programme>
   <programme start="20261101153000 -0300" stop="20261101160000 -0300" channel="PLAY TV">
     <title lang="pt">Maratona Ryukendo</title>
     <desc lang="pt">Ryukendo é um guerreiro que luta para restaurar a paz em Akebono, uma pequena comunidade que vive sob a ameaça constante do exército demoniaco de Jamanga.</desc>
@@ -21359,6 +21323,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Grandes Nomes da Propaganda</title>
     <desc lang="pt">Grandes Nomes da Propaganda</desc>
   </programme>
+  <programme start="20261101154000 -0300" stop="20261101160000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos - Golaço Da Batata</title>
+    <desc lang="pt">Os grandes destaques do futebol com o humor e a irreverência do Desimpedidos no quadro Golaço da Batata.</desc>
+  </programme>
   <programme start="20261101154000 -0300" stop="20261101163000 -0300" channel="TNT NOVELAS">
     <title lang="pt">Será Isso Amor?</title>
     <desc lang="pt">Serkan tira Eda de sua casa para levá-la a um lugar. Por outro lado, Eda recebe um telefonema crucial e Leyla conta a ela algo importante sobre Serkan.</desc>
@@ -21422,10 +21390,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101154500 -0300" stop="20261101181000 -0300" channel="GLOBO SP">
     <title lang="pt">Palmeiras x Vasco - Ao Vivo</title>
     <desc lang="pt">Palmeiras e Vasco jogam a rodada de ida da Semifinal da Copa do Brasil, no Nubank Parque, em São Paulo (SP).</desc>
-  </programme>
-  <programme start="20261101154500 -0300" stop="20261101173000 -0300" channel="NSPORTS HD">
-    <title lang="pt">VT - Cruzeiro x Olimpia</title>
-    <desc lang="pt">A Libertadores Feminina você acompanha aqui na N Sports.</desc>
   </programme>
   <programme start="20261101154500 -0300" stop="20261101161200 -0300" channel="OFF HD">
     <title lang="pt">Guató: Uma Remada No Tempo - O Ribeirinho</title>
@@ -21706,6 +21670,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101160000 -0300" stop="20261101180000 -0300" channel="Like + | Claro tv+ (CANAL DO CLIENTE HD)">
     <title lang="pt">Aproveite o melhor da TV e do Streaming na sua Claro tv+</title>
     <desc lang="pt">Fique ligado nas melhores dicas de filmes, séries, documentários, shows, esportes e muito mais! Aproveite com toda a família o melhor da TV e do Streaming na sua Claro tv+</desc>
+  </programme>
+  <programme start="20261101160000 -0300" stop="20261101163000 -0300" channel="NSPORTS HD">
+    <title lang="pt">DEC - Quem Realmente Entende de Futebol?</title>
+    <desc lang="pt">Convidamos 7 influenciadores para enfrentar o especialista em futebol Leo Bertozzi em um desafio para testar quem realmente entende do assunto!</desc>
   </programme>
   <programme start="20261101160000 -0300" stop="20261101163000 -0300" channel="PLAY TV">
     <title lang="pt">Maratona Ryukendo</title>
@@ -22136,6 +22104,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Senninha Na Pista Maluca - Luz, Câmera E Emoção</title>
     <desc lang="pt">O Pistatrix cria a pista cinema! Senninha e os amigos encaram desafios de filmes e Braço Duro aprende com seu ídolo Jack Chinfrim que chorar também é ser valente!</desc>
   </programme>
+  <programme start="20261101163000 -0300" stop="20261101170000 -0300" channel="NSPORTS HD">
+    <title lang="pt">DEC - Por Dentro da Preparação do Desimpain Para a Kings League Cup Brazil</title>
+    <desc lang="pt">O DesimpaiN está de volta! Venha ver como está sendo a preparação para a Kings Cup Brazil.</desc>
+  </programme>
   <programme start="20261101163000 -0300" stop="20261101170000 -0300" channel="PLAY TV">
     <title lang="pt">Maratona Ryukendo</title>
     <desc lang="pt">Ryukendo é um guerreiro que luta para restaurar a paz em Akebono, uma pequena comunidade que vive sob a ameaça constante do exército demoniaco de Jamanga.</desc>
@@ -22526,6 +22498,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">A Família Perfeita</title>
     <desc lang="pt">Inspirado em fatos reais. Quando Lexi completa 18 anos e sai do sistema de adoção, ela mente para conseguir um emprego como babá. A família aparentemente perfeita para a qual ela trabalha se transforma em um pesadelo.</desc>
   </programme>
+  <programme start="20261101170000 -0300" stop="20261101171500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos - 1:1 / Ex-jogadores e a Arbitragem</title>
+    <desc lang="pt">Egídio e Madson resenham sobre o tempo em que estavam atuando profissionalmente.</desc>
+  </programme>
   <programme start="20261101170000 -0300" stop="20261101173000 -0300" channel="PLAY TV">
     <title lang="pt">Maratona Ryukendo</title>
     <desc lang="pt">Ryukendo é um guerreiro que luta para restaurar a paz em Akebono, uma pequena comunidade que vive sob a ameaça constante do exército demoniaco de Jamanga.</desc>
@@ -22779,6 +22755,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Eles Vão Te Matar</title>
     <desc lang="pt">Uma mulher responde a um anúncio enigmático para uma vaga de governanta em um luxuoso e sombrio arranha-céu em Nova York.</desc>
   </programme>
+  <programme start="20261101171500 -0300" stop="20261101191500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para... Rafael Oliveira</title>
+    <desc lang="pt">"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
+  </programme>
   <programme start="20261101171500 -0300" stop="20261101201500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Domenica in</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -22970,10 +22950,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101173000 -0300" stop="20261101180000 -0300" channel="FUTURA HD">
     <title lang="pt">Sabores Da Floresta - Vitória-Régia</title>
     <desc lang="pt">Na segunda temporada, Thiago Castanho vai em busca de mais 13 ingredientes cheios de personalidade e história na culinária da região Amazônica.</desc>
-  </programme>
-  <programme start="20261101173000 -0300" stop="20261101200000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Estádio 97 - Ao Vivo</title>
-    <desc lang="pt">O estádio 97 é mais que um programa de futebol. É uma resenha que te faz sentir em uma mesa de bar.</desc>
   </programme>
   <programme start="20261101173000 -0300" stop="20261101180000 -0300" channel="PLAY TV">
     <title lang="pt">Maratona Ryukendo</title>
@@ -24771,6 +24747,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Especial - Música Legionária</title>
     <desc lang="pt">Uma seleção de composições que traduzem o acolhimento para a Alma. O "Especial - Música Legionária" traz para o seu fim de semana composições do repertório Legionário da Boa Vontade para ...</desc>
   </programme>
+  <programme start="20261101191500 -0300" stop="20261101193000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Acelerados - Dakota x Ranger x S10 SS</title>
+    <desc lang="pt">Acelerados é o canal para quem ama carros, tem gasolina e adrenalina nas veias. Rubens Barrichello e Gerson Campos aceleram superesportivos, clássicos do passado e as últimas novidades do mercado automotivo.</desc>
+  </programme>
   <programme start="20261101191500 -0300" stop="20261101193000 -0300" channel="TRAVEL BOX">
     <title lang="pt">Check-in Em Dupla</title>
     <desc lang="pt">Rumo ao Ártico, exploram Tromsø, vivenciam a cultura Sami, se encantam com a aurora boreal e alimentam renas, mergulhando nas tradições locais.</desc>
@@ -24961,6 +24941,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101193000 -0300" stop="20261101200000 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Voz De Mulher</title>
     <desc lang="pt">Joyce Moreno relembra momentos de sua convivência com Elis Regina e explica porque ela ainda é considerada a maior cantora do Brasil.</desc>
+  </programme>
+  <programme start="20261101193000 -0300" stop="20261101194500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Acelerados - BYD Dolphin x Geely EX2</title>
+    <desc lang="pt">Hoje é mais um daqueles dias especiais, já que temos nada menos do que uns projetos mais incríveis da engenharia automotiva mundial: Renault Clio V6!</desc>
   </programme>
   <programme start="20261101193000 -0300" stop="20261101194500 -0300" channel="PLAY TV">
     <title lang="pt">História dos Games</title>
@@ -25184,6 +25168,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101194500 -0300" stop="20261101203000 -0300" channel="HISTORY">
     <title lang="pt">Trato Feito - Edição Limitada</title>
     <desc lang="pt">Todos os motores aceleram quando Corey avalia um Dodge Demon de edição limitada. Depois, uma antiga placa de registro da Califórnia é avaliada, o que pode resultar em uma corrida do ouro pela loja.</desc>
+  </programme>
+  <programme start="20261101194500 -0300" stop="20261101200000 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria - Tainan Dalpra, Cole Abate e Guilherme Mendes Falam Sobre o Steven Ortiz / 5x Campeão Pan Kids Ibjjf</title>
+    <desc lang="pt">Steven Ortiz é atleta da AOJ, academia liderada pelos irmãos Guilherme Mendes e Rafael Mendes.</desc>
   </programme>
   <programme start="20261101194500 -0300" stop="20261101200000 -0300" channel="PLAY TV">
     <title lang="pt">Play News</title>
@@ -25505,9 +25493,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Ventos Do Brasil</title>
     <desc lang="pt">A Rumpilezz mistura ritmos afro-brasileiros com sonoridades contemporâneas. O episódio faz uma homenagem a Letieres Leite, ícone da música de Salvador e líder da inovadora Big Band de sopros e percussões.</desc>
   </programme>
-  <programme start="20261101200000 -0300" stop="20261101210000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Deu Jogo</title>
-    <desc lang="pt">Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha.</desc>
+  <programme start="20261101200000 -0300" stop="20261101201500 -0300" channel="NSPORTS HD">
+    <title lang="pt">Desimpedidos - Gabarito</title>
+    <desc lang="pt">Cola com nois pra mais um episódio brabo do "Gabarito</desc>
   </programme>
   <programme start="20261101200000 -0300" stop="20261101203000 -0300" channel="PLAY TV">
     <title lang="pt">Clip - KDrama</title>
@@ -25754,6 +25742,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101201500 -0300" stop="20261101203800 -0300" channel="GLOOB HD">
     <title lang="pt">Escola De Gênios - Bomba-Relógio</title>
     <desc lang="pt">É véspera da apresentação para o Instituto e os alunos correm para terminar todos os projetos. No dia seguinte, algo misterioso surge no laboratório de robótica.</desc>
+  </programme>
+  <programme start="20261101201500 -0300" stop="20261101231500 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">A Libertadores Feminina você acompanha aqui na N Sports.</desc>
   </programme>
   <programme start="20261101201500 -0300" stop="20261101204500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">TG Rai News</title>
@@ -26521,10 +26513,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Lucerne Festival Orchestra, Riccardo Chailly, Mao Fujita - Rachmaninov</title>
     <desc lang="pt">Orquestra do Festival de Lucerna, Riccardo Chailly (Maestro)Mao Fujita (piano). Sergei Rachmaninov (1873-1943). Concerto para Piano e Orquestra nº 2 em Dó menor, Op. 18 - Sinfonia nº 2 em Mi menor, Op. 27.</desc>
   </programme>
-  <programme start="20261101210000 -0300" stop="20261101213000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos - Puro Suco</title>
-    <desc lang="pt">Bolívia Talk Show na N Sports!</desc>
-  </programme>
   <programme start="20261101210000 -0300" stop="20261101220000 -0300" channel="PLAY TV">
     <title lang="pt">Os Outros</title>
     <desc lang="pt">Nos anos 50, um casal adota uma garotinha em um orfanato. Logo, descobre que a criança possui poderes paranormais impressionantes, enquanto a mãe biológica da menina tenta recuperá-la.</desc>
@@ -26921,10 +26909,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101213000 -0300" stop="20261101223000 -0300" channel="MULTISHOW HD">
     <title lang="pt">Blogueirinha Entrevista</title>
     <desc lang="pt">Clarice Falcão é atriz, cantora, compositora, roteirista e humorista. Mas nem uma carreira tão completa assim prepara alguém para uma entrevista com a blogueirinha.</desc>
-  </programme>
-  <programme start="20261101213000 -0300" stop="20261101223000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Podcast Sport Insider</title>
-    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
   </programme>
   <programme start="20261101213000 -0300" stop="20261101223000 -0300" channel="RECORD NEWS">
     <title lang="pt">Agro Record News</title>
@@ -27884,10 +27868,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Cine Hahaha: Mallandro - O Errado Que Deu Certo</title>
     <desc lang="pt">Vivendo de glórias passadas, Sérgio Mallandro aceita participar de um piloto de um novo programa de TV após ser eliminado de um reality show.</desc>
   </programme>
-  <programme start="20261101223000 -0300" stop="20261102000000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Um Assado Para... Paulo Brito</title>
-    <desc lang="pt">"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
-  </programme>
   <programme start="20261101223000 -0300" stop="20261101231500 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">A Fazenda</title>
     <desc lang="pt">Reality onde celebridades são testadas em tarefas do meio rural, numa fazenda isolada do mundo exterior.</desc>
@@ -28595,6 +28575,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261101231500 -0300" stop="20261102000000 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Jukebox (videoclipes) - Jukebox (videoclipes)</title>
     <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+  </programme>
+  <programme start="20261101231500 -0300" stop="20261102000000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Joga com Elas Entrevista - Lucas Piccinato</title>
+    <desc lang="pt">Série especial de entrevistas com as jogadoras que vão participar das quartas de final da Copa do Brasil aqui na N Sports.</desc>
   </programme>
   <programme start="20261101231500 -0300" stop="20261102011500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Volley Superlega Maschile</title>
@@ -29372,9 +29356,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Music Drops - Music Drops - Trends Brasil Conference 2023 - Geovane Bento</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
-  <programme start="20261102000000 -0300" stop="20261102001500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos - Gabarito / Os Times com Mais Gols na História da Libertadores</title>
-    <desc lang="pt">O time com mais gols na história da Libertadores é o Palmeiras? É o São Paulo? Ou nem é um time brasileiro? E o com mais gols na história da Champions League? Será que realmente é o Real Madrid?</desc>
+  <programme start="20261102000000 -0300" stop="20261102020000 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">A Libertadores Feminina você acompanha aqui na N Sports.</desc>
   </programme>
   <programme start="20261102000000 -0300" stop="20261102020000 -0300" channel="PLAY TV">
     <title lang="pt">1001 Noites</title>
@@ -29718,10 +29702,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102001500 -0300" stop="20261102010000 -0300" channel="INOVA TV">
     <title lang="pt">Vê Se Pode</title>
     <desc lang="pt">VÊ SE PODE irá mostrar vídeos engraçados que viralizou nas redes sociais.</desc>
-  </programme>
-  <programme start="20261102001500 -0300" stop="20261102004500 -0300" channel="NSPORTS HD">
-    <title lang="pt">VT - Ajax x PSV</title>
-    <desc lang="pt">O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
   </programme>
   <programme start="20261102001500 -0300" stop="20261102010000 -0300" channel="REDE TV! HD">
     <title lang="pt">Vê Se Pode</title>
@@ -30234,10 +30214,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102004500 -0300" stop="20261102024500 -0300" channel="MEGAPIX HD">
     <title lang="pt">Fúria de Titãs</title>
     <desc lang="pt">Perseu, filho de um deus e criado como homem, lidera uma missão mortal contra Hades para salvar o mundo e forjar seu próprio destino.</desc>
-  </programme>
-  <programme start="20261102004500 -0300" stop="20261102014500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Podcast Sport Insider</title>
-    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
   </programme>
   <programme start="20261102004500 -0300" stop="20261102053000 -0300" channel="REDE MASSA">
     <title lang="pt">Show da Fé</title>
@@ -31401,10 +31377,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Negros Em Foco - Empreendedorismo Social</title>
     <desc lang="pt">Empresas de impacto social ganham espaço ao unir lucro e soluções para problemas da sociedade.</desc>
   </programme>
-  <programme start="20261102014500 -0300" stop="20261102033000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Desimpedidos - Puro Suco / Grenal na Série B?</title>
-    <desc lang="pt">Bolívia e Chico debatem o momento do futebol com muito humor, resenha e irreverência no Puro Suco do Desimpedidos.</desc>
-  </programme>
   <programme start="20261102014500 -0300" stop="20261102033000 -0300" channel="Xsports HD">
     <title lang="pt">VT - Troyes x Le Mans</title>
     <desc lang="pt">Troyes e Le Mans jogam no Campeonato Francês.</desc>
@@ -31648,6 +31620,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102020000 -0300" stop="20261102021500 -0300" channel="MARKKET HD">
     <title lang="pt">Papo de Especialista</title>
     <desc lang="pt">Explore o mundo dos negócios e inovação com entrevistas a especialistas. Dicas práticas e insights sobre empreendedorismo, marketing e carreira para turbinar seu sucesso.</desc>
+  </programme>
+  <programme start="20261102020000 -0300" stop="20261102040000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para... Rafael Oliveira</title>
+    <desc lang="pt">"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
   </programme>
   <programme start="20261102020000 -0300" stop="20261102080000 -0300" channel="PLAY TV">
     <title lang="pt">Igreja Mundial</title>
@@ -33326,10 +33302,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Cortes Do Music - Cortes Do Music - Meu Tio E O Joelho De Porco</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
-  <programme start="20261102033000 -0300" stop="20261102051500 -0300" channel="NSPORTS HD">
-    <title lang="pt">VT - Belgrano x Palmeiras</title>
-    <desc lang="pt">Belgrano e Palmeiras jogam pela 2ª rodada da fase de grupos da Libertadores Feminina, no Banco Guayaquil, em Quito, Equador.</desc>
-  </programme>
   <programme start="20261102033000 -0300" stop="20261102040000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Remo x Botafogo</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
@@ -33853,6 +33825,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102040000 -0300" stop="20261102044500 -0300" channel="MARKKET HD">
     <title lang="pt">Guia Kast - Eduardo leonel - TPC logística</title>
     <desc lang="pt">Entrevistas com executivos C-level, onde líderes e especialistas trazem insights e histórias das melhores práticas sobre Governança, Negócios, Tecnologia e Supply Chain.</desc>
+  </programme>
+  <programme start="20261102040000 -0300" stop="20261102050000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Podcast Sport Insider - Caio Rezende</title>
+    <desc lang="pt">Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria com a N Sports.</desc>
   </programme>
   <programme start="20261102040000 -0300" stop="20261102060000 -0300" channel="PREMIERE 2 HD">
     <title lang="pt">Dia 03/11 - Chapecoense x Mirassol</title>
@@ -34879,6 +34855,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Momento Ecumênico de Oração</title>
     <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
   </programme>
+  <programme start="20261102050000 -0300" stop="20261102064500 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Ajax x PSV</title>
+    <desc lang="pt">O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
+  </programme>
   <programme start="20261102050000 -0300" stop="20261102053000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Corinthians x Mirassol</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
@@ -35188,10 +35168,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102051500 -0300" stop="20261102052000 -0300" channel="FASHION TV">
     <title lang="pt">BB Play News</title>
     <desc lang="pt">O que há de mais relevante no universo da moda brasileira.</desc>
-  </programme>
-  <programme start="20261102051500 -0300" stop="20261102070000 -0300" channel="NSPORTS HD">
-    <title lang="pt">VT - Palmeiras x Independiente Del Valle</title>
-    <desc lang="pt">A Libertadores Feminina você acompanha aqui na N Sports.</desc>
   </programme>
   <programme start="20261102051500 -0300" stop="20261102052000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">TREXCI - Jogos de Computador</title>
@@ -36936,6 +36912,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Mundo Visto De Cima - Ao Longo dos Pirineus</title>
     <desc lang="pt">As montanhas dos Pirineus se estendem por quase 500 quilômetros, do Mar Mediterrâneo ao Oceano Atlântico, formando uma fronteira natural entre França e Espanha.</desc>
   </programme>
+  <programme start="20261102064500 -0300" stop="20261102070000 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria - Conheça a Academia de Jiu-Jitsu MVBJJ na Flórida</title>
+    <desc lang="pt">Neste primeiro episódio da nossa série especial, visitamos a MV BJJ Academy, em Winter Garden, na Flórida, para conhecer de perto a história do professor Marcos Vinicius, manauara, faixa-preta e fundador da academia.</desc>
+  </programme>
   <programme start="20261102064500 -0300" stop="20261102071500 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">Hollywood On Set - O Retorno de Mary Poppins / Suprema / Se a Rua Beale Falasse</title>
     <desc lang="pt">Todo episódio, Hollywood on Set leva os espectadores para os bastidores de três grandes filmes.</desc>
@@ -37224,9 +37204,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Music Drops - Music Drops - George Israel E Roberta Campos - 4mãos 2</title>
     <desc lang="pt">No intervalo da programação do Music Drops trás pequenas, porém intensas, entrevistas nacionais.</desc>
   </programme>
-  <programme start="20261102070000 -0300" stop="20261102084500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Autorama: Copa Truck, Londrina</title>
-    <desc lang="pt">Acompanhe a copa truck aqui na N Sports!</desc>
+  <programme start="20261102070000 -0300" stop="20261102071500 -0300" channel="NSPORTS HD">
+    <title lang="pt">BJJ Cria - Tainan Dalpra, Cole Abate e Guilherme Mendes Falam Sobre o Steven Ortiz / 5x Campeão Pan Kids Ibjjf</title>
+    <desc lang="pt">Steven Ortiz é atleta da AOJ, academia liderada pelos irmãos Guilherme Mendes e Rafael Mendes.</desc>
   </programme>
   <programme start="20261102070000 -0300" stop="20261102072200 -0300" channel="OFF HD">
     <title lang="pt">Skate Tales - Takahiro Morita</title>
@@ -37585,6 +37565,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102071500 -0300" stop="20261102072000 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Little Angel - Atchim, Isso é um Espirro, Joãozinho</title>
     <desc lang="pt">O bebê Joãozinho aprende a ser educado e espirrar com o braço na frente.</desc>
+  </programme>
+  <programme start="20261102071500 -0300" stop="20261102074500 -0300" channel="NSPORTS HD">
+    <title lang="pt">MTB - Dolomitas: Pedalamos da Itália Até a Áustria de Bicicleta!</title>
+    <desc lang="pt">Neste episódio da série MTB, acompanhe uma incrível cicloviagem pelas impressionantes montanhas das Dolomitas, na Itália, pedalando da Itália até a Áustria de bicicleta.</desc>
   </programme>
   <programme start="20261102071500 -0300" stop="20261102074500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Quante Storie</title>
@@ -38037,6 +38021,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102074500 -0300" stop="20261102090000 -0300" channel="FUEL TV HD">
     <title lang="pt">Psychic Migrations</title>
     <desc lang="pt">Uma viagem de surf pelas Índias, Austrália, Polinésia e Américas.</desc>
+  </programme>
+  <programme start="20261102074500 -0300" stop="20261102093000 -0300" channel="NSPORTS HD">
+    <title lang="pt">Um Assado Para... PVC</title>
+    <desc lang="pt">O cara dos números, das estatísticas e da informação! ele é um dos jornalistas esportivos mais respeitados do Brasil e tá de volta aqui no Assado! Hoje eu ofereço Um Assado Para… Paulo Vinicius Coelho, o PVC.</desc>
   </programme>
   <programme start="20261102074500 -0300" stop="20261102081500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Tgr Buongiorno Italia</title>
@@ -39217,10 +39205,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Corrida Maluca - Velozes e Divertidos</title>
     <desc lang="pt">Zhi é um jovem que sonha em se tornar um grande piloto. Quando faz uma aposta com Vainglorious, o grande campeão, ele tem a chance de mostrar suas habilidades para salvar a vila em que mora.</desc>
   </programme>
-  <programme start="20261102084500 -0300" stop="20261102093000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Acelerados - Aceleramos o Clio V6</title>
-    <desc lang="pt">Hoje é mais um daqueles dias especiais, já que temos nada menos do que uns projetos mais incríveis da engenharia automotiva mundial: Renault Clio V6!</desc>
-  </programme>
   <programme start="20261102084500 -0300" stop="20261102090000 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">TG Sport</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -40064,9 +40048,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Fica Com a Gente</title>
     <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.</desc>
   </programme>
-  <programme start="20261102093000 -0300" stop="20261102094500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Acelerados - Porsche Mission S</title>
-    <desc lang="pt">Acelerados é o canal para quem ama carros, tem gasolina e adrenalina nas veias. Rubens Barrichello e Gerson Campos aceleram superesportivos, clássicos do passado e as últimas novidades do mercado automotivo.</desc>
+  <programme start="20261102093000 -0300" stop="20261102100000 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Corinthians x São Paulo</title>
+    <desc lang="pt">O melhor do Brasileirão Feminino você vê aqui na N Sports!</desc>
   </programme>
   <programme start="20261102093000 -0300" stop="20261102100000 -0300" channel="PLAY TV">
     <title lang="pt">Lupin III</title>
@@ -40347,10 +40331,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102094500 -0300" stop="20261102100800 -0300" channel="GLOOB HD">
     <title lang="pt">Árvore Familiar Dos Croods, A - Grudando a Família</title>
     <desc lang="pt">Sem encontrar seu lugar na fazenda dos Betterman, os Croods veem a chance de provar seu valor ao enfrentar a perigosa colheita das pegajosas bounceberries de Phil.</desc>
-  </programme>
-  <programme start="20261102094500 -0300" stop="20261102100000 -0300" channel="NSPORTS HD">
-    <title lang="pt">BJJ Cria - Conheça a Academia de Jiu-Jitsu MVBJJ na Flórida</title>
-    <desc lang="pt">Neste primeiro episódio da nossa série especial, visitamos a MV BJJ Academy, em Winter Garden, na Flórida, para conhecer de perto a história do professor Marcos Vinicius, manauara, faixa-preta e fundador da academia.</desc>
   </programme>
   <programme start="20261102094500 -0300" stop="20261102100700 -0300" channel="TLC HD">
     <title lang="pt">Casas Exuberantes -  Vivendo como Realeza</title>
@@ -40656,9 +40636,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">A Vila</title>
     <desc lang="pt">UMA ANTIGA NAMORADA HIPONGA DE SEU LUPÉRCIO CHEGA NA VILA PARA TRANSFORMÁ-LA EM UMA COMUNIDADE HIPPIE.</desc>
   </programme>
-  <programme start="20261102100000 -0300" stop="20261102101500 -0300" channel="NSPORTS HD">
-    <title lang="pt">BJJ Cria - Tainan Dalpra, Cole Abate e Guilherme Mendes Falam Sobre o Steven Ortiz / 5x Campeão Pan Kids Ibjjf</title>
-    <desc lang="pt">Steven Ortiz é atleta da AOJ, academia liderada pelos irmãos Guilherme Mendes e Rafael Mendes.</desc>
+  <programme start="20261102100000 -0300" stop="20261102110000 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Automobilismo: Copa Truck: Chapecó</title>
+    <desc lang="pt">O melhor da Copa Truck você vê aqui na N Sports!</desc>
   </programme>
   <programme start="20261102100000 -0300" stop="20261102111500 -0300" channel="PLAY TV">
     <title lang="pt">Operação Zenkai Yu-gi-oh! e Ryukendo</title>
@@ -40930,10 +40910,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Revista de Prensa</title>
     <desc lang="pt">O que dizem e como as principais mídias digitais do mundo cobrem o tema do dia? Nossos colunistas revisam as principais capas da imprensa internacional, bem como os debates que a alimentam.</desc>
   </programme>
-  <programme start="20261102101500 -0300" stop="20261102103000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo - Vitória do Palmeiras em Pleno Maracanã Lotado de Tricolores</title>
-    <desc lang="pt">Fui no jogo Fluminense 1 x 2 Palmeiras pela semifinal da Libertadores 2026 no estádio do Maracanã no Rio de Janeiro com vitória palmeirense, festa da torcida do Fluminense e festa da torcida do Palmeiras.</desc>
-  </programme>
   <programme start="20261102101500 -0300" stop="20261102103000 -0300" channel="TRAVEL BOX">
     <title lang="pt">3em3</title>
     <desc lang="pt">Um guia dos parques da Universal em Orlando e uma aventura pelas lindas águas de Ocala</desc>
@@ -41149,10 +41125,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102103000 -0300" stop="20261102121500 -0300" channel="MEGAPIX HD">
     <title lang="pt">Minions</title>
     <desc lang="pt">Os minions têm a missão de servir aos grandes vilões. Na convenção nos EUA, eles se encantam com Scarlet Overkill, que deseja ser a primeira mulher a dominar o mundo.</desc>
-  </programme>
-  <programme start="20261102103000 -0300" stop="20261102110000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo - Reação da Torcida do Vasco na Eliminação Pro Boca</title>
-    <desc lang="pt">Fui no jogo Vasco 1 x 3 Boca Juniors pela semifinal da Copa Sul-Americana 2026 com festa da torcida do Boca e reação dos vascaínos na eliminação.</desc>
   </programme>
   <programme start="20261102103000 -0300" stop="20261102110000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Vasco x Corinthians</title>
@@ -41814,9 +41786,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Momento Ecumênico de Oração</title>
     <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
   </programme>
-  <programme start="20261102110000 -0300" stop="20261102111500 -0300" channel="NSPORTS HD">
-    <title lang="pt">Futebol Pelo Mundo - A Torcida do Palmeiras Quase Derrubou o Estádio</title>
-    <desc lang="pt">Fui no jogo Palmeiras 0 (5) x (3) 1 Fluminense pela semifinal da Libertadores 2026 com classificação palmeirense e festa incrível no estádio.</desc>
+  <programme start="20261102110000 -0300" stop="20261102120000 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Automobilismo: Nascar: Chapecó</title>
+    <desc lang="pt">Cofira o melhor da Nascar Brasil aqui na N Sports!</desc>
   </programme>
   <programme start="20261102110000 -0300" stop="20261102113000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Santos x Bahia</title>
@@ -42048,10 +42020,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102111500 -0300" stop="20261102112000 -0300" channel="MARKKET HD">
     <title lang="pt">Box Brazil Play News</title>
     <desc lang="pt">As protagonistas de Um Caso de Liberdade compartilham detalhes e bastidores das cenas que marcaram a série.</desc>
-  </programme>
-  <programme start="20261102111500 -0300" stop="20261102120000 -0300" channel="NSPORTS HD">
-    <title lang="pt">VT - Corinthians x Caracas</title>
-    <desc lang="pt">Corinthians e Caracas jogam pela 2ª rodada da fase de grupos da Libertadores Feminina, no Casa Blanca, em Quito, Equador.</desc>
   </programme>
   <programme start="20261102111500 -0300" stop="20261102130000 -0300" channel="PLAY TV">
     <title lang="pt">Debate Placar (SP)</title>
@@ -45752,9 +45720,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Grandes Nomes da Propaganda</title>
     <desc lang="pt">Grandes Nomes da Propaganda</desc>
   </programme>
-  <programme start="20261102143000 -0300" stop="20261102160000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Um Assado Para... Gabriel Wainer</title>
-    <desc lang="pt">Ele é jornalista, comentarista político, faz parte do time do programa Timeline, da Rádio Gaúcha, e carrega no sangue a herança de um nome histórico no Rio Grande do Sul.</desc>
+  <programme start="20261102143000 -0300" stop="20261102144500 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Palmeiras x Independiente Del Valle</title>
+    <desc lang="pt">A Libertadores Feminina você acompanha aqui na N Sports.</desc>
   </programme>
   <programme start="20261102143000 -0300" stop="20261102143500 -0300" channel="PLAY TV">
     <title lang="pt">Interferência 80s Drops</title>
@@ -46011,6 +45979,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102144500 -0300" stop="20261102162000 -0300" channel="LIFETIME">
     <title lang="pt">Um Gesto Simples de Natal</title>
     <desc lang="pt">Um jornalista em busca de notícias para publicar se inspira quando descobre que várias pessoas realizaram boas ações de forma aleatória por conta do Natal.</desc>
+  </programme>
+  <programme start="20261102144500 -0300" stop="20261102150000 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Santa Fe x Corinthians</title>
+    <desc lang="pt">Santa Fe e Corinthians jogam pela 3ª rodada da fase de grupos da Libertadores Feminina, no Banco Guayaquil, em Quito, Equador.</desc>
   </programme>
   <programme start="20261102144500 -0300" stop="20261102145000 -0300" channel="PLAY TV">
     <title lang="pt">Interferência 80s Drops</title>
@@ -46371,6 +46343,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102150000 -0300" stop="20261102190000 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Medalhão Persa</title>
     <desc lang="pt">Móveis importados que unem luxo, conforto e sofisticação para sua casa.</desc>
+  </programme>
+  <programme start="20261102150000 -0300" stop="20261102154500 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Corinthians x Caracas</title>
+    <desc lang="pt">Corinthians e Caracas jogam pela 2ª rodada da fase de grupos da Libertadores Feminina, no Casa Blanca, em Quito, Equador.</desc>
   </programme>
   <programme start="20261102150000 -0300" stop="20261102150500 -0300" channel="PLAY TV">
     <title lang="pt">Interferência 90s Drops</title>
@@ -47195,6 +47171,10 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Carrusel</title>
     <desc lang="pt">Programa de reportagem cultural da Radio France International e da TV France 24. A cada duas semanas apresenta uma seleção dos destaques da cena artística e cultural de Paris.</desc>
   </programme>
+  <programme start="20261102154500 -0300" stop="20261102173000 -0300" channel="NSPORTS HD">
+    <title lang="pt">VT - Ajax x PSV</title>
+    <desc lang="pt">O melhor da Liga Holandesa Feminina é aqui na N Sports!</desc>
+  </programme>
   <programme start="20261102154500 -0300" stop="20261102161500 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Gli Italians</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -47462,10 +47442,6 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102160000 -0300" stop="20261102163000 -0300" channel="MARKKET HD">
     <title lang="pt">Papo de Especialista</title>
     <desc lang="pt">Explore o mundo dos negócios e inovação com entrevistas a especialistas. Dicas práticas e insights sobre empreendedorismo, marketing e carreira para turbinar seu sucesso.</desc>
-  </programme>
-  <programme start="20261102160000 -0300" stop="20261102173000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Um Assado Para... Paulo Brito</title>
-    <desc lang="pt">"Um Assado Para…" com Duda Garbi, é um bate-papo descontraído com personalidades do futebol. O clima é de resenha entre amigos, com conversas sinceras, curiosidades e histórias dos bastidores do esporte.</desc>
   </programme>
   <programme start="20261102160000 -0300" stop="20261102180000 -0300" channel="PREMIERE 2 HD">
     <title lang="pt">Dia 03/11 - Chapecoense x Mirassol</title>
@@ -51557,30 +51533,36 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Que Seja Doce - Altura Mínima</title>
     <desc lang="pt">Equilíbrio, textura e camadas são os elementos que se querem tanto em verrines quanto em mil-folhas - e que nossos confeiteiros trabalharão para agradar os jurados.</desc>
   </programme>
-  <programme start="20261102194800 -0300" stop="20261106000000 -0300" channel="DISCOVERY HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261102194800 -0300" stop="20261102203600 -0300" channel="DISCOVERY HD">
+    <title lang="pt">Largados e Pelados - Prova de Fogo</title>
+    <desc lang="pt">A cada semana um homem e uma mulher são levados a um dos ambientes de clima mais extremo do mundo. Os dois ficarão literalmente expostos, já que serão deixados sem comida, sem água... e sem roupas.</desc>
   </programme>
   <programme start="20261102194800 -0300" stop="20261102203700 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I - Cross-Jurisdictions</title>
     <desc lang="pt">Quando um importante funcionário da justiça é encontrado morto de uma maneira violenta, e sua mulher e filha são sequestradas, toda a equipe da criminalística de Las Vegas é destacada para encontrar o assassino.</desc>
   </programme>
-  <programme start="20261102194839 -0300" stop="20261106000000 -0300" channel="DumDum">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261102194839 -0300" stop="20261102195141 -0300" channel="DumDum">
+    <title lang="pt">Rancho Colorido - Videoclipe Do Porquinho Fofo</title>
+    <desc lang="pt">Divirta-se com o videoclipe musical do Cavalo Cabeleira, este animal do Rancho que tem o cabelo bem grandão.</desc>
   </programme>
-  <programme start="20261102194900 -0300" stop="20261106000000 -0300" channel="GLOOBINHO HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261102194900 -0300" stop="20261102195500 -0300" channel="GLOOBINHO HD">
+    <title lang="pt">As Aventuras De Sunny Bunnies - A máquina de brinquedos</title>
+    <desc lang="pt">Hopper deseja desesperadamente conquistar um objeto premiado em uma máquina. E o que seria ainda melhor: conseguir muitos brinquedos só para ele.</desc>
   </programme>
-  <programme start="20261102195000 -0300" stop="20261106000000 -0300" channel="AMC HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261102195000 -0300" stop="20261102220000 -0300" channel="AMC HD">
+    <title lang="pt">Tomb Raider: A Origem</title>
+    <desc lang="pt">Lara Croft, a filha ferozmente independente de um aventureiro desaparecido, deve se esforçar além de seus limites quando descobre a ilha onde seu pai, Lord Richard Croft, desapareceu.</desc>
   </programme>
-  <programme start="20261102195000 -0300" stop="20261106000000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261102195000 -0300" stop="20261102212600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Pesadelo na Cozinha - Jerky's</title>
+    <desc lang="pt">O Jerky's foi criado para difundir a cultura caribenha no Brasil, mas as coisas não estão saindo como James imaginava.</desc>
   </programme>
   <programme start="20261102195000 -0300" stop="20261106000000 -0300" channel="GLOOB HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261102195000 -0300" stop="20261106000000 -0300" channel="MEZZO HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261102195000 -0300" stop="20261102211200 -0300" channel="MEZZO HD">
+    <title lang="pt">Théotime Langlois de Swarte, Orchestre de l'Opéra Royal - Bach</title>
+    <desc lang="pt">Orchestre de l'Opéra Royal, Marie Van Rhijn (órgão e direção musical), Filippo Mineccia, Samuel Marino (contratenores).</desc>
   </programme>
   <programme start="20261102195000 -0300" stop="20261102203000 -0300" channel="TV Pajuçara">
     <title lang="pt">Jornal da Record</title>
@@ -51596,6 +51578,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261102195100 -0300" stop="20261106000000 -0300" channel="CARTOONITO">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
+  <programme start="20261102195141 -0300" stop="20261106000000 -0300" channel="DumDum">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261102195200 -0300" stop="20261106000000 -0300" channel="DISCOVERY KIDS HD">
@@ -51617,6 +51602,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261102195500 -0300" stop="20261106000000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
+  <programme start="20261102195500 -0300" stop="20261106000000 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261102195500 -0300" stop="20261102210000 -0300" channel="RECORD - Sao Paulo">
@@ -52154,6 +52142,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102203500 -0300" stop="20261106000000 -0300" channel="HISTORY">
     <title lang="pt">Programação indisponível</title>
   </programme>
+  <programme start="20261102203600 -0300" stop="20261106000000 -0300" channel="DISCOVERY HD">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
   <programme start="20261102203700 -0300" stop="20261106000000 -0300" channel="SPACE HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -52323,6 +52314,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102210000 -0300" stop="20261102220000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
+  <programme start="20261102211200 -0300" stop="20261106000000 -0300" channel="MEZZO HD">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
   <programme start="20261102212000 -0300" stop="20261102230000 -0300" channel="BAND Amazonas">
     <title lang="pt">Apito Final</title>
     <desc lang="pt">Um giro jornalístico da semana para você ficar por dentro de tudo o que acontece no mundo da bola.</desc>
@@ -52353,6 +52347,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102212500 -0300" stop="20261102222000 -0300" channel="TV Clube">
     <title lang="pt">Show da Fé</title>
     <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
+  </programme>
+  <programme start="20261102212600 -0300" stop="20261106000000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261102212800 -0300" stop="20261102213000 -0300" channel="REDE TV! Paraná">
     <title lang="pt">Redetv! Paraná</title>
@@ -52492,6 +52489,9 @@ Entre relatos emocionantes, histórias de transformação e reflexões sobre mat
   <programme start="20261102214500 -0300" stop="20261102230000 -0300" channel="TV Amazônia">
     <title lang="pt">Sensacional</title>
     <desc lang="pt">Com seu jeito carismático, Daniela Albuquerque te leva em uma jornada para conhecer curiosidades do mundo e ficar por dentro da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea.</desc>
+  </programme>
+  <programme start="20261102220000 -0300" stop="20261106000000 -0300" channel="AMC HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261102220000 -0300" stop="20261106000000 -0300" channel="HBO">
     <title lang="pt">Programação indisponível</title>
