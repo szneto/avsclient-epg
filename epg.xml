@@ -2671,10 +2671,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">O Conde de Monte Cristo (2024)</title>
     <desc lang="pt">Edmond Dantès, um marinheiro, é preso injustamente no dia de seu casamento. Anos depois, ele foge e acha um valioso tesouro. Agora, rico e disfarçado de Conde de Monte Cristo, ele busca por vingança.</desc>
   </programme>
-  <programme start="20261114220000 -0300" stop="20261115001100 -0300" channel="TNT HD">
-    <title lang="pt">Esposa de Mentirinha</title>
-    <desc lang="pt">Em uma viagem ao Havaí, um cirurgião plástico convence sua fiel assistente a se fazer passar por sua ex-mulher a fim de cobrir uma mentira que contou para sua namorada muito mais jovem.</desc>
-  </programme>
   <programme start="20261114221500 -0300" stop="20261115010000 -0300" channel="RECORD Manaus">
     <title lang="pt">Super Tela: O Grande Roubo</title>
     <desc lang="pt">Querendo recuperar informações sigilosas que foram armazenadas em uma prisão de segurança máxima do México, a CIA conta com os serviços de Jack, um ladrão profissional.</desc>
@@ -2971,7 +2967,7 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Supercine: Pense Como Eles Também</title>
     <desc lang="pt">Todos os casais estão de volta para um casamento em Las Vegas, mas os planos para um fim de semana romântico dão errado quando suas várias desventuras os coloca em algumas situações comprometedoras.</desc>
   </programme>
-  <programme start="20261114233000 -0300" stop="20261115004500 -0300" channel="REDE TV! HD">
+  <programme start="20261114233000 -0300" stop="20261115004000 -0300" channel="REDE TV! HD">
     <title lang="pt">Mega Sonho</title>
     <desc lang="pt">O programa MEGA SONHO será um game show em três fases. Seis participantes, divididos em dois grupos, disputam para chegar a eliminatória.</desc>
   </programme>
@@ -3191,6 +3187,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261114235700 -0300" stop="20261115000900 -0300" channel="GLOOB HD">
     <title lang="pt">Alvinnn!!! E Os Esquilos - O Presente</title>
     <desc lang="pt">Theodore dá a Dave um presente de aniversário feio e insiste que ele o use em uma reunião de negócios.</desc>
+  </programme>
+  <programme start="20261114235800 -0300" stop="20261115015600 -0300" channel="TNT HD">
+    <title lang="pt">Encontro De Casais</title>
+    <desc lang="pt">Quatro casais de amigos viajam para um resort focado em terapia conjugal. Enquanto um casal tenta salvar o casamento, os outros, que foram para se divertir, são forçados a refletir sobre suas vidas.</desc>
   </programme>
   <programme start="20261114235816 -0300" stop="20261115001008 -0300" channel="LMC+HD">
     <title lang="pt">Planeta Turismo</title>
@@ -3648,10 +3648,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115001100 -0300" stop="20261115001200 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Performances Do Music - Performances Do Music - Duda Calvin - Festival Recomeço - Velhas Fotos</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
-  </programme>
-  <programme start="20261115001100 -0300" stop="20261115021200 -0300" channel="TNT HD">
-    <title lang="pt">Encontro De Casais</title>
-    <desc lang="pt">Quatro casais de amigos viajam para um resort focado em terapia conjugal. Enquanto um casal tenta salvar o casamento, os outros, que foram para se divertir, são forçados a refletir sobre suas vidas.</desc>
   </programme>
   <programme start="20261115001200 -0300" stop="20261115010400 -0300" channel="MULTISHOW HD">
     <title lang="pt">Vai Que Cola</title>
@@ -4144,6 +4140,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">VT - Palmeiras x Vasco</title>
     <desc lang="pt">Palmeiras e Vasco jogam a rodada de ida da Semifinal da Copa do Brasil, no Nubank Parque, em São Paulo (SP).</desc>
   </programme>
+  <programme start="20261115004000 -0300" stop="20261115030000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
+  </programme>
   <programme start="20261115004000 -0300" stop="20261115030000 -0300" channel="REDE TV! Recife">
     <title lang="pt">Madrugada Animada</title>
     <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
@@ -4211,10 +4211,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115004500 -0300" stop="20261115011500 -0300" channel="MARKKET HD">
     <title lang="pt">Me Marca Na Quarta - Murilo Moreno - Nestlé E Construção De Marca</title>
     <desc lang="pt">Construir #marca não é uma coisa simples</desc>
-  </programme>
-  <programme start="20261115004500 -0300" stop="20261115030000 -0300" channel="REDE TV! HD">
-    <title lang="pt">Madrugada Animada</title>
-    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.</desc>
   </programme>
   <programme start="20261115004500 -0300" stop="20261115030000 -0300" channel="REDE TV! Rio de Janeiro">
     <title lang="pt">Madrugada Animada</title>
@@ -5448,6 +5444,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Cortes Do Music - Cortes Do Music - De Falla</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
+  <programme start="20261115015600 -0300" stop="20261115035600 -0300" channel="TNT HD">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Doug MacRay é a mente por trás de assaltos a bancos em Boston. Durante um deles, seu parceiro decide pegar uma refém e a deixa traumatizada. Doug, então, se aproxima da mulher e acaba se apaixonando.</desc>
+  </programme>
   <programme start="20261115015644 -0300" stop="20261115020343 -0300" channel="DumDum">
     <title lang="pt">Flash, O Aventureiro - Jacaré</title>
     <desc lang="pt">Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
@@ -5947,10 +5947,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115021200 -0300" stop="20261115025400 -0300" channel="SPACE HD">
     <title lang="pt">C.S.I - Neverland</title>
     <desc lang="pt">Quando um garoto é encontrado assassinado, a equipe CSI descobre uma evidência que pode ligar a sua morte a um antigo caso antigo que ressurgiu recentemente.</desc>
-  </programme>
-  <programme start="20261115021200 -0300" stop="20261115041800 -0300" channel="TNT HD">
-    <title lang="pt">Atração Perigosa</title>
-    <desc lang="pt">Doug MacRay é a mente por trás de assaltos a bancos em Boston. Durante um deles, seu parceiro decide pegar uma refém e a deixa traumatizada. Doug, então, se aproxima da mulher e acaba se apaixonando.</desc>
   </programme>
   <programme start="20261115021300 -0300" stop="20261115021500 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc Lenha Brasa E Bronca - Neurozito Barbosa</title>
@@ -7889,6 +7885,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Batwheels - Um Conto De Duas Bibis</title>
     <desc lang="pt">O Badcomputer captura a Bibi e disfarça a Jestah para que assuma o lugar de Bibi entre os Batwheels e consiga roubar a placa-mãe do Batcomputador. Será que a Bibi conseguirá se libertar a tempo de desmascarar a impostora?</desc>
   </programme>
+  <programme start="20261115035600 -0300" stop="20261115051500 -0300" channel="TNT HD">
+    <title lang="pt">Deu Ruim</title>
+    <desc lang="pt">Marlon e Leo, dois homens com problemas financeiros e sem nenhuma experiência no mundo do crime, decidem assaltar uma casa em um condomínio fechado.</desc>
+  </programme>
   <programme start="20261115035700 -0300" stop="20261115042100 -0300" channel="DISCOVERY HD">
     <title lang="pt">Aeroporto - Área Restrita - Em Nome da Lei</title>
     <desc lang="pt">Um passageiro voltando do exterior tem mais de um motivo para sua viagem.</desc>
@@ -8408,10 +8408,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115041800 -0300" stop="20261115043200 -0300" channel="CARTOONITO">
     <title lang="pt">Batwheels - Arkham</title>
     <desc lang="pt">Bam, Redbird, Bibi, Batwing e Buff aprendem lições importantes sobre trabalho em equipe e amizade, enquanto ajudam Batman, Robin e Batgirl a defenderem Gotham.</desc>
-  </programme>
-  <programme start="20261115041800 -0300" stop="20261115060000 -0300" channel="TNT HD">
-    <title lang="pt">Deu Ruim</title>
-    <desc lang="pt">Marlon e Leo, dois homens com problemas financeiros e sem nenhuma experiência no mundo do crime, decidem assaltar uma casa em um condomínio fechado.</desc>
   </programme>
   <programme start="20261115041800 -0300" stop="20261115051200 -0300" channel="rede-brasil">
     <title lang="pt">PERDIDOS NO ESPAÇO PB</title>
@@ -9450,6 +9446,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115051500 -0300" stop="20261115060000 -0300" channel="HISTORY">
     <title lang="pt">Arquivos Desclassificados Com David Duchovny - Alianças Profanas</title>
     <desc lang="pt">Quando governos fazem acordos obscuros com criminosos e inimigos jurados, os resultados podem ser aterradores. DA batalha em que americanos e alemães lutaram juntos na Segunda Guerra Mundial.</desc>
+  </programme>
+  <programme start="20261115051500 -0300" stop="20261115062200 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
   </programme>
   <programme start="20261115051500 -0300" stop="20261115060000 -0300" channel="TNT NOVELAS">
     <title lang="pt">Iludida</title>
@@ -10545,10 +10545,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Eu Não Sabia que Estava Grávida - Bebê no Banheiro</title>
     <desc lang="pt">Alicia sobreviveu por pouco a um acidente de carro e, 18 meses depois, uma gravidez surpreendente ameaça a vida do bebê.</desc>
   </programme>
-  <programme start="20261115060000 -0300" stop="20261115073200 -0300" channel="TNT HD">
-    <title lang="pt">Fuga De Pretoria</title>
-    <desc lang="pt">A extraordinária história real de dois homens brancos sul-africanos chamados de terroristas e presos em 1978, em razão do seu envolvimento em operações secretas contra o Apartheid.</desc>
-  </programme>
   <programme start="20261115060000 -0300" stop="20261115064900 -0300" channel="TNT NOVELAS">
     <title lang="pt">Reis</title>
     <desc lang="pt">Os filisteus se assustam com a presença da Arca da aliança. Os dois exércitos se colidem na batalha. Samuel se preocupa com os israelitas.</desc>
@@ -10951,6 +10947,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115062200 -0300" stop="20261115062500 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc Head Banger Voice - Silvio Golfetti</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
+  </programme>
+  <programme start="20261115062200 -0300" stop="20261115080800 -0300" channel="TNT HD">
+    <title lang="pt">Fuga De Pretoria</title>
+    <desc lang="pt">A extraordinária história real de dois homens brancos sul-africanos chamados de terroristas e presos em 1978, em razão do seu envolvimento em operações secretas contra o Apartheid.</desc>
   </programme>
   <programme start="20261115062200 -0300" stop="20261115073200 -0300" channel="TV5 MONDE">
     <title lang="pt">Ça Va L'faire!</title>
@@ -12518,10 +12518,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Brasil Visto De Cima - Cidade Do Sol - Natal - RN</title>
     <desc lang="pt">O Brasil Visto de Cima sobrevoa o trecho sul do litoral do Rio Grande do Norte. A faixa que vai da divisa com a Paraíba até Natal, a capital do estado, também conhecida como "Cidade do Sol".</desc>
   </programme>
-  <programme start="20261115073200 -0300" stop="20261115093600 -0300" channel="TNT HD">
-    <title lang="pt">Kung Fu Panda 2</title>
-    <desc lang="pt">Po, o panda que se tornou o Guerreiro Dragão, e os Cinco Furiosos lutam contra Lord Shen, que quer destruir a tradição do Kung Fu e conquistar a China. Enquanto luta com seus amigos, Po descobrirá sua verdadeira origem.</desc>
-  </programme>
   <programme start="20261115073200 -0300" stop="20261115081800 -0300" channel="TNT SERIES HD">
     <title lang="pt">The Mentalist - Bleeding Heart</title>
     <desc lang="pt">Um repórter é contratado para fazer um documentário sobre a CBI.</desc>
@@ -13297,6 +13293,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115080729 -0300" stop="20261115080856 -0300" channel="LMC+HD">
     <title lang="pt">Recreio - As Melhores Piadas</title>
     <desc lang="pt">As melhores piadas para se divertir muito</desc>
+  </programme>
+  <programme start="20261115080800 -0300" stop="20261115094400 -0300" channel="TNT HD">
+    <title lang="pt">Kung Fu Panda 2</title>
+    <desc lang="pt">Po, o panda que se tornou o Guerreiro Dragão, e os Cinco Furiosos lutam contra Lord Shen, que quer destruir a tradição do Kung Fu e conquistar a China. Enquanto luta com seus amigos, Po descobrirá sua verdadeira origem.</desc>
   </programme>
   <programme start="20261115080856 -0300" stop="20261115081225 -0300" channel="LMC+HD">
     <title lang="pt">+Séries</title>
@@ -14310,8 +14310,8 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <desc lang="pt">Exibido aos sábados em rede estadual, o Negócios da Terra é o programa que retrata o universo do campo, com notícias que interessam ao agricultor e agropecuarista.</desc>
   </programme>
   <programme start="20261115090000 -0300" stop="20261115100000 -0300" channel="REDE TV! HD">
-    <title lang="pt">A Hora Do Zap</title>
-    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
   </programme>
   <programme start="20261115090000 -0300" stop="20261115095800 -0300" channel="REDE TV! Paraná">
     <title lang="pt">Brasil de Bombachas</title>
@@ -15070,10 +15070,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Sabores da América: Bacon - Festival do Bacon</title>
     <desc lang="pt">Todd vai até Chicago, que sedia um dos maiores festivais de bacon dos Estados Unidos. Ele para em um restaurante de 50 anos para comer uma pizza que transborda de tanta carne e bacon.</desc>
   </programme>
-  <programme start="20261115093600 -0300" stop="20261115100000 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Um Mentiroso</title>
-    <desc lang="pt">Depois que Chris sem querer leva a vizinhança a pensar que ele e Tasha estão namorando, Rochelle leva uma bronca da avó de Tasha, Louise.</desc>
-  </programme>
   <programme start="20261115093828 -0300" stop="20261115094630 -0300" channel="LMC+HD">
     <title lang="pt">Foco</title>
     <desc lang="pt">Começa agora a Expedição Brasil Biomas com Richard Rasmussen!</desc>
@@ -15105,6 +15101,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115094300 -0300" stop="20261115095000 -0300" channel="GLOOBINHO HD">
     <title lang="pt">D.P.A. Mini - Sorvete</title>
     <desc lang="pt">Em um dia de muito calor, os detetives decidem tomar um sorvete, mas ele está todo congelado. E agora? O que podem fazer para derreter o gelo mais rápido? Hora de investigar!</desc>
+  </programme>
+  <programme start="20261115094400 -0300" stop="20261115100800 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Um Mentiroso</title>
+    <desc lang="pt">Depois que Chris sem querer leva a vizinhança a pensar que ele e Tasha estão namorando, Rochelle leva uma bronca da avó de Tasha, Louise.</desc>
   </programme>
   <programme start="20261115094500 -0300" stop="20261115101000 -0300" channel="A&amp;E">
     <title lang="pt">Guerra No Trânsito - Fuga Complicada</title>
@@ -15529,10 +15529,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">De Volta Para O Futuro Parte II</title>
     <desc lang="pt">Marty viaja para 2015 para impedir a prisão de seu filho. Em uma reviravolta, ele é obrigado a voltar para 1955, para impedir mudanças drásticas na linha temporal.</desc>
   </programme>
-  <programme start="20261115100000 -0300" stop="20261115102400 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Malvo</title>
-    <desc lang="pt">Chris sente-se honrado quando Doc finalmente confia nele para ver a caixa registradora, mas a situação vai de boa a muito ruim quando Malvo, o famoso delinquente reincidente do bairro, rouba Chris.</desc>
-  </programme>
   <programme start="20261115100000 -0300" stop="20261115110000 -0300" channel="TRACE BRASIL HD">
     <title lang="pt">Brasil Vibes</title>
     <desc lang="pt">Brasil Vibes, São Os Hits Brasileiros Para Animar O Seu Dia.</desc>
@@ -15696,6 +15692,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115100800 -0300" stop="20261115101300 -0300" channel="DISCOVERY KIDS HD">
     <title lang="pt">Peppa Pig - A Treinadora Peppa</title>
     <desc lang="pt">Depois de descobrirem que o Papai Pig conseguiu uma vaga na Maratona de Londres, Peppa e George ajudam o Papai Pig a ficar mais forte com vários exercícios diferentes, embora nada convencionais.</desc>
+  </programme>
+  <programme start="20261115100800 -0300" stop="20261115103200 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Malvo</title>
+    <desc lang="pt">Chris sente-se honrado quando Doc finalmente confia nele para ver a caixa registradora, mas a situação vai de boa a muito ruim quando Malvo, o famoso delinquente reincidente do bairro, rouba Chris.</desc>
   </programme>
   <programme start="20261115100900 -0300" stop="20261115102200 -0300" channel="TV5 MONDE">
     <title lang="pt">My Class</title>
@@ -15916,10 +15916,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115102400 -0300" stop="20261115104800 -0300" channel="DISCOVERY WORLD HD">
     <title lang="pt">Vende-se Pântano - Praia ou Rio?</title>
     <desc lang="pt">CJ e Marty querem passar um fim de semana na água, mas não conseguem decidir se será à beira de um rio ou na praia.</desc>
-  </programme>
-  <programme start="20261115102400 -0300" stop="20261115104800 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Sistema de Parceiragem</title>
-    <desc lang="pt">O novo diretor de Chris, o diretor Edwards, decide que a melhor maneira de melhorar a tensão entre Chris e Caruso é aproximá-los na viagem de campo.</desc>
   </programme>
   <programme start="20261115102447 -0300" stop="20261115102653 -0300" channel="DumDum">
     <title lang="pt">Amizade Sem Diferença - Brincando de Imitar</title>
@@ -16202,6 +16198,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">A Pequena Grande Família - O que é Lamping?</title>
     <desc lang="pt">Quando Amy realiza o sonho de abrir uma pousada na fazenda, a situação logo foge ao controle. A cirurgia leva Matt a tentar realizar o sonho de escrever um livro infantil inspirador.</desc>
   </programme>
+  <programme start="20261115103200 -0300" stop="20261115105600 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Sistema de Parceiragem</title>
+    <desc lang="pt">O novo diretor de Chris, o diretor Edwards, decide que a melhor maneira de melhorar a tensão entre Chris e Caruso é aproximá-los na viagem de campo.</desc>
+  </programme>
   <programme start="20261115103300 -0300" stop="20261115122600 -0300" channel="HBO Signature">
     <title lang="pt">Love to Love You, Donna Summer</title>
     <desc lang="pt">Donna Summer cria música que a leva da cena de vanguarda na Alemanha para o brilho e as luzes brilhantes das boates de Nova York.</desc>
@@ -16357,10 +16357,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">O Poder dos Alimentos - A Arte de Fotografar Comida</title>
     <desc lang="pt">Neste episódio aborda os artistas especializados na fotografia de alimentos. A premiada fotógrafa Melanie Dunea retrata Bill Telepan.</desc>
   </programme>
-  <programme start="20261115104800 -0300" stop="20261115110800 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Promessas</title>
-    <desc lang="pt">Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
-  </programme>
   <programme start="20261115104900 -0300" stop="20261115111300 -0300" channel="Adult Swim HD">
     <title lang="pt">Frieren e a Jornada para o Além - It Would Be Embarrassing When We Met Again</title>
     <desc lang="pt">Uma elfa e seus amigos derrotam um rei demônio em uma grande guerra. Mas a guerra acabou e o elfo deve procurar um novo estilo de vida.</desc>
@@ -16448,6 +16444,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115105511 -0300" stop="20261115110220 -0300" channel="DumDum">
     <title lang="pt">Flash, O Aventureiro - Tigre Branco</title>
     <desc lang="pt">Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
+  </programme>
+  <programme start="20261115105600 -0300" stop="20261115111900 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Promessas</title>
+    <desc lang="pt">Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
   </programme>
   <programme start="20261115105700 -0300" stop="20261115113900 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
@@ -16875,10 +16875,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Lucas A Aranha - Fazendo Teias</title>
     <desc lang="pt">Lucas é uma pequena aranha saltitante muito fofa e bondosa que vive numa casa humana. Essa criatura alegre e musical de quatro anos quer que a acompanhemos enquanto ela explora e aprende mais sobre este mundo gigantesco.</desc>
   </programme>
-  <programme start="20261115110800 -0300" stop="20261115113100 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia A Prisão</title>
-    <desc lang="pt">Chris precisa arrecadar dinheiro para uma viagem escolar vendendo biscoitos. Enquanto isso, Julius lamenta que Rochelle vá ver Dreamgirls enquanto ele cuida de Tonya e Drew, que têm catapora.</desc>
-  </programme>
   <programme start="20261115110950 -0300" stop="20261115112015 -0300" channel="DumDum">
     <title lang="pt">Ph Explica - Ph Explica: Como Viviam os Dinossauros</title>
     <desc lang="pt">PH Explica como era o Planeta Terra em um período bem longínquo e diferente, a época dos Dinossauros.</desc>
@@ -17066,6 +17062,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115111900 -0300" stop="20261115114500 -0300" channel="Modo Viagem">
     <title lang="pt">Mundo Muyloco - Nova Iorque - Parte 4</title>
     <desc lang="pt">Entre Chinatown e as celebrações de Halloween, Fernando mergulha em tradições, histórias e personagens que compõem a identidade cultural nova-iorquina.</desc>
+  </programme>
+  <programme start="20261115111900 -0300" stop="20261115114100 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia A Prisão</title>
+    <desc lang="pt">Chris precisa arrecadar dinheiro para uma viagem escolar vendendo biscoitos. Enquanto isso, Julius lamenta que Rochelle vá ver Dreamgirls enquanto ele cuida de Tonya e Drew, que têm catapora.</desc>
   </programme>
   <programme start="20261115112000 -0300" stop="20261115114500 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">Receitas de Humor da Daphne - O Poder do Vapor</title>
@@ -17286,10 +17286,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Lucas A Aranha - Deixando O Ninho</title>
     <desc lang="pt">Segue as aventuras de uma pequena aranha saltitante, bondosa e muito fofinha que vive numa casa enorme. Essa criatura alegre e questionadora nos convida a acompanhá-la enquanto explora e conhece melhor esse mundo gigante.</desc>
   </programme>
-  <programme start="20261115113100 -0300" stop="20261115115500 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Corleone</title>
-    <desc lang="pt">Bullying diário fazem Chris querer mudar de escola, mas Julius e Rochelle não o permitem. Chris tenta de tudo para ser expulso. Julius consegue um emprego em um mercado de pesca.</desc>
-  </programme>
   <programme start="20261115113200 -0300" stop="20261115113439 -0300" channel="DumDum">
     <title lang="pt">Patati Patatá - Faz de Conta</title>
     <desc lang="pt">Patati estava tranquilamente comendo sua gostosa pipoca, quando de repente encontra uma galinha, na verdade uma bela galinha dançante. Mas patatá acaba não vendo e a galinha se diverte.</desc>
@@ -17385,6 +17381,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115114100 -0300" stop="20261115115000 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Pocoyo - Adeus, amigos!</title>
     <desc lang="pt">Pato vai embora! Todos se despedem. É tão triste! O avião faz um círculo muito rápido e Pato já está novamente em casa. Bravo! Está na hora de fazer uma festa de boas-vindas!</desc>
+  </programme>
+  <programme start="20261115114100 -0300" stop="20261115120400 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Corleone</title>
+    <desc lang="pt">Bullying diário fazem Chris querer mudar de escola, mas Julius e Rochelle não o permitem. Chris tenta de tudo para ser expulso. Julius consegue um emprego em um mercado de pesca.</desc>
   </programme>
   <programme start="20261115114400 -0300" stop="20261115122700 -0300" channel="GNT HD">
     <title lang="pt">Que Marravilha! - Tudo pelas Filhas</title>
@@ -17585,10 +17585,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115115500 -0300" stop="20261115135000 -0300" channel="TELECINE FUN">
     <title lang="pt">Como Treinar o Seu Dragão 3</title>
     <desc lang="pt">Soluço quer libertar os dragões presos e encontrar um lar para eles, mas precisa enfrentar Grimmel, que planeja capturar o Fúria da Noite e acabar com seus planos.</desc>
-  </programme>
-  <programme start="20261115115500 -0300" stop="20261115122000 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Rejeição</title>
-    <desc lang="pt">Depois que o caminhão de Julius é roubado, Rochelle decide se envolver com um grupo de vigilância no bairro, mas acaba entrando em uma disputa com a nova vizinha, Louise.</desc>
   </programme>
   <programme start="20261115115500 -0300" stop="20261115120000 -0300" channel="TV NORTE PARAÍBA">
     <title lang="pt">A Hora Do Zap</title>
@@ -18033,6 +18029,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">VT - Colônia x Bayer Leverkusen</title>
     <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
   </programme>
+  <programme start="20261115120400 -0300" stop="20261115122800 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Rejeição</title>
+    <desc lang="pt">Depois que o caminhão de Julius é roubado, Rochelle decide se envolver com um grupo de vigilância no bairro, mas acaba entrando em uma disputa com a nova vizinha, Louise.</desc>
+  </programme>
   <programme start="20261115120500 -0300" stop="20261115125000 -0300" channel="UNIVERSAL PREMIERE HD">
     <title lang="pt">Irreverent - Problemas Resolvidos</title>
     <desc lang="pt">Lester recebe a aprovação para montar um satélite na torre do sino da igreja. Daisy tem que lidar com alguns problemas de saúde. Mack resolve a saga com os motociclistas de uma vez por todas.</desc>
@@ -18141,10 +18141,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">S.O.S. Fada Manu - Alice No País Do Sofrimento</title>
     <desc lang="pt">Sofrimento é sugado pelo espelho de Alice e se multiplica descontroladamente. Manu e João precisam ajudá-la a lidar com o cachorro.</desc>
   </programme>
-  <programme start="20261115122000 -0300" stop="20261115124300 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Eleições</title>
-    <desc lang="pt">Depois de causar uma má impressão, Chris deve dar o melhor discurso de campanha de todos os tempos para ganhar a eleição para Presidente da Classe. Mas Chris deve adotar medidas extremas quando seu oponente rouba seu discurso.</desc>
-  </programme>
   <programme start="20261115122000 -0300" stop="20261115132000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Baserri Gourmet</title>
     <desc lang="pt">Uma viagem gastronômica e cultural pelo País Basco, na qual encontramos casas rurais transformadas em restaurantes.</desc>
@@ -18220,6 +18216,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115122700 -0300" stop="20261115131100 -0300" channel="GNT HD">
     <title lang="pt">Cozinha Prática Com Rita Lobo - Não Gosto De Cozinhar</title>
     <desc lang="pt">Pra ajudar quem não gosta de cozinhar a botar a mão na massa, Rita prepara uma receita-desafio tentadora: um bolo de chocolate sem farinha, bem úmido por dentro.</desc>
+  </programme>
+  <programme start="20261115122800 -0300" stop="20261115125100 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Eleições</title>
+    <desc lang="pt">Depois de causar uma má impressão, Chris deve dar o melhor discurso de campanha de todos os tempos para ganhar a eleição para Presidente da Classe. Mas Chris deve adotar medidas extremas quando seu oponente rouba seu discurso.</desc>
   </programme>
   <programme start="20261115122900 -0300" stop="20261115123600 -0300" channel="CARTOONITO">
     <title lang="pt">Pocoyo - Que Comece O Jogo</title>
@@ -18556,10 +18556,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Filhinho da Mamãe - Minhas Melhores Namoradas</title>
     <desc lang="pt">Mulheres têm seus namoros ameaçados pelas mães dos namorados. Uma mãe ajuda o filho a comprar lingerie para apimentar sua vida sexual, enquanto outra mãe chega de surpresa em um encontro do Dia dos Namorados.</desc>
   </programme>
-  <programme start="20261115124300 -0300" stop="20261115130600 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Um Mentiroso</title>
-    <desc lang="pt">Depois que Chris sem querer leva a vizinhança a pensar que ele e Tasha estão namorando, Rochelle leva uma bronca da avó de Tasha, Louise.</desc>
-  </programme>
   <programme start="20261115124400 -0300" stop="20261115133100 -0300" channel="Globoplay Novelas">
     <title lang="pt">Rock Story - Rock Story</title>
     <desc lang="pt">Gui descobre as mentiras inventadas por Diana. Edith é sensível ao conversar com Vanessa sobrea a orientação sexual da filha. Zac escuta confissão de crime cometido por Néia.</desc>
@@ -18655,6 +18651,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115125000 -0300" stop="20261115134000 -0300" channel="UNIVERSAL PREMIERE HD">
     <title lang="pt">Irreverent - O último café da manhã</title>
     <desc lang="pt">A vida de Mack vai por água abaixo quando Mackenzie aparece para devolver o dinheiro; Piper acelera sua investigação; e Chicago finalmente chega a Clump.</desc>
+  </programme>
+  <programme start="20261115125100 -0300" stop="20261115131600 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Um Mentiroso</title>
+    <desc lang="pt">Depois que Chris sem querer leva a vizinhança a pensar que ele e Tasha estão namorando, Rochelle leva uma bronca da avó de Tasha, Louise.</desc>
   </programme>
   <programme start="20261115125200 -0300" stop="20261115125600 -0300" channel="WOOHOO HD">
     <title lang="pt">Surf Files</title>
@@ -18881,8 +18881,8 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <desc lang="pt">Os Especiais de Louvor do Estado de Fé combinam a rica história da fé cristã ao longo de dois milênios com incríveis histórias contemporâneas da misericórdia de Deus em ação hoje através ...</desc>
   </programme>
   <programme start="20261115130000 -0300" stop="20261115160000 -0300" channel="REDE TV! HD">
-    <title lang="pt">O Retorno do Bruxo - Ao Vivo</title>
-    <desc lang="pt">O RETORNO DO BRUXO celebra a volta de um dos maiores ícones do esporte e convida todos a vivenciarem, mais uma vez, a emoção, a irreverência e a genialidade de Ronaldinho em campo.</desc>
+    <title lang="pt">Ravenna FC x Forli - Ao Vivo</title>
+    <desc lang="pt">Uma lenda está de volta ao campo. Ronaldinho Gaúcho, o eterno Bruxo, retorna para reviver momentos inesquecíveis e reconectar o público à magia que só ele sabe criar. Dribles improváveis, sorrisos, passes geniais...</desc>
   </programme>
   <programme start="20261115130000 -0300" stop="20261115160000 -0300" channel="REDE TV! Recife">
     <title lang="pt">Ravenna FC x Forli - Ao Vivo</title>
@@ -19050,10 +19050,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Dá Samba - A Fantástica História De Bira Presidente</title>
     <desc lang="pt">Documentário em cinco episódios sobre a história do bloco carnavalesco Cacique de Ramos, tendo como fio condutor o presidente Bira.</desc>
   </programme>
-  <programme start="20261115130600 -0300" stop="20261115133100 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Malvo</title>
-    <desc lang="pt">Chris sente-se honrado quando Doc finalmente confia nele para ver a caixa registradora, mas a situação vai de boa a muito ruim quando Malvo, o famoso delinquente reincidente do bairro, rouba Chris.</desc>
-  </programme>
   <programme start="20261115130700 -0300" stop="20261115132900 -0300" channel="DISCOVERY KIDS HD">
     <title lang="pt">Mermaid Magic</title>
     <desc lang="pt">A Princesa Merlinda, Sasha e Nerissa emergem do mar e embarcam em uma aventura para impedir o plano nefasto do Pirata Barbarossa de drenar a magia do oceano</desc>
@@ -19133,6 +19129,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115131500 -0300" stop="20261115153000 -0300" channel="Xsports HD">
     <title lang="pt">Arsenal x London City - Ao Vivo</title>
     <desc lang="pt">FA Women's Super League: Duelo de estrelas do futebol feminino em partidas intensas e cheias de talento.</desc>
+  </programme>
+  <programme start="20261115131600 -0300" stop="20261115133900 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Malvo</title>
+    <desc lang="pt">Chris sente-se honrado quando Doc finalmente confia nele para ver a caixa registradora, mas a situação vai de boa a muito ruim quando Malvo, o famoso delinquente reincidente do bairro, rouba Chris.</desc>
   </programme>
   <programme start="20261115131600 -0300" stop="20261115140500 -0300" channel="TNT NOVELAS">
     <title lang="pt">Iludida</title>
@@ -19432,10 +19432,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">A Batalha dos Decoradores - Suítes dos Sonhos</title>
     <desc lang="pt">Durante o último desafio antes da grande final, os designers transformam yurts em suítes dos sonhos.</desc>
   </programme>
-  <programme start="20261115133100 -0300" stop="20261115135600 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Sistema de Parceiragem</title>
-    <desc lang="pt">O novo diretor de Chris, o diretor Edwards, decide que a melhor maneira de melhorar a tensão entre Chris e Caruso é aproximá-los na viagem de campo.</desc>
-  </programme>
   <programme start="20261115133113 -0300" stop="20261115135053 -0300" channel="LMC+HD">
     <title lang="pt">Segue O Fio</title>
     <desc lang="pt">Uma série especial sobre maternidade. O que você quer saber sobre vida de uma mãe real? A Nai Darlen recebe mães e especialistas para um bate papo descontraído e sem filtro sobre a vida real.</desc>
@@ -19495,6 +19491,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115133900 -0300" stop="20261115135000 -0300" channel="CARTOONITO">
     <title lang="pt">Hey Fuzzy Yellow - Contando As Minhocas</title>
     <desc lang="pt">Fuzzy Yellow e Bao Bao brincam de ligar os pontos no papel e depois ligar os pontos nas estrelas. Uma enorme pilha de minhocas complica as coisas.</desc>
+  </programme>
+  <programme start="20261115133900 -0300" stop="20261115140300 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Sistema de Parceiragem</title>
+    <desc lang="pt">O novo diretor de Chris, o diretor Edwards, decide que a melhor maneira de melhorar a tensão entre Chris e Caruso é aproximá-los na viagem de campo.</desc>
   </programme>
   <programme start="20261115133934 -0300" stop="20261115134220 -0300" channel="DumDum">
     <title lang="pt">Puppys</title>
@@ -19667,10 +19667,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115135500 -0300" stop="20261115160000 -0300" channel="SPORTV">
     <title lang="pt">Finlândia x San Marino - Ao Vivo</title>
     <desc lang="pt">Finlândia e San Marino jogam pela 6ª rodada da fase de grupos da Liga das Nações da UEFA, na Bolt Arena, em Helsinque, Finlândia.</desc>
-  </programme>
-  <programme start="20261115135600 -0300" stop="20261115142000 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Promessas</title>
-    <desc lang="pt">Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
   </programme>
   <programme start="20261115135700 -0300" stop="20261115155200 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Villarreal x Getafe</title>
@@ -20014,6 +20010,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">The Mentalist - Red Menace</title>
     <desc lang="pt">A CBI investiga o assassinato de um poderoso advogado criminal cujos únicos clientes eram uma gangue de motociclistas famosos.</desc>
   </programme>
+  <programme start="20261115140300 -0300" stop="20261115142600 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Promessas</title>
+    <desc lang="pt">Depois que Julius empresta a Chris um par de meias da sorte, Chris começa a perceber que ele não pode fazer nada de errado. Drew e Tonya decidem jogar seus pais, Rochelle e Julius, um contra o outro.</desc>
+  </programme>
   <programme start="20261115140303 -0300" stop="20261115140510 -0300" channel="DumDum">
     <title lang="pt">Tina Curiosa - Porque A Água Do Mar É Salgada?</title>
     <desc lang="pt">Professor Caco Vai Explicar Para Tina Porque Piscamos.</desc>
@@ -20181,10 +20181,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Um Sonho Possível</title>
     <desc lang="pt">A história de Michael Oher, um garoto de rua que se tornou jogador profissional de futebol Americano com a ajuda de Leigh Anne Tuohy. Além de um lar, ela também deu a ele um tutor para ajudá-lo a melhorar suas notas.</desc>
   </programme>
-  <programme start="20261115142000 -0300" stop="20261115160700 -0300" channel="TNT HD">
-    <title lang="pt">Kung Fu Panda 3</title>
-    <desc lang="pt">Ao visitar uma vila secreta de pandas com seu pai, Po precisa reunir um exército improvável para deter um espírito maligno que ameaça a China.</desc>
-  </programme>
   <programme start="20261115142000 -0300" stop="20261115161000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">D Corazón</title>
     <desc lang="pt">D Corazón é a versão ampliada e renovada do programa clássico "Corazón" da Televisión Española. Anne Igartiburu e Jordi González analisarão as últimas notícias sociais de forma diver...</desc>
@@ -20256,6 +20252,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115142600 -0300" stop="20261115143000 -0300" channel="CANAL BRASIL HD">
     <title lang="pt">Pílulas Espelho - O Livro - Raiz de um Negro Brasileiro (Oswaldo de Camargo)</title>
     <desc lang="pt">Pílulas Espelho.</desc>
+  </programme>
+  <programme start="20261115142600 -0300" stop="20261115161700 -0300" channel="TNT HD">
+    <title lang="pt">Jumanji</title>
+    <desc lang="pt">Crianças acham jogo que é capaz de liberar animais de outro mundo e com isso trazem também de volta um garoto, agora já adulto, aprisionado há 30 anos.</desc>
   </programme>
   <programme start="20261115142603 -0300" stop="20261115145415 -0300" channel="LMC+HD">
     <title lang="pt">Viajando Pelo Brasil</title>
@@ -21959,10 +21959,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Multishow Ao Vivo - Dois Amigos, Um Século De Música - Caetano …</title>
     <desc lang="pt">Gravação do show da turnê comemorativa de 50 anos de carreira dos cantores Caetano Veloso e Gilberto Gil diretamente de São Paulo.</desc>
   </programme>
-  <programme start="20261115160700 -0300" stop="20261115175900 -0300" channel="TNT HD">
-    <title lang="pt">Encontro De Casais</title>
-    <desc lang="pt">Quatro casais de amigos viajam para um resort focado em terapia conjugal. Enquanto um casal tenta salvar o casamento, os outros, que foram para se divertir, são forçados a refletir sobre suas vidas.</desc>
-  </programme>
   <programme start="20261115160759 -0300" stop="20261115161953 -0300" channel="DumDum">
     <title lang="pt">Ciranda de Histórias</title>
     <desc lang="pt">Em ciranda de histórias, cada episódio é uma nova aventura literária! Contos mágicos e personagens encantados despertam a curiosidade, a imaginação e o amor pelos livros. Aqui, ler é brincar e sonhar!</desc>
@@ -22050,6 +22046,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115161700 -0300" stop="20261115181700 -0300" channel="HBO">
     <title lang="pt">Mortal Kombat 2</title>
     <desc lang="pt">Os lutadores favoritos, incluindo Johnny Cage, enfrentam-se na batalha final contra o regime sombrio de Shao Kahn que ameaça destruir o Reino da Terra e seus guardiões.</desc>
+  </programme>
+  <programme start="20261115161700 -0300" stop="20261115181900 -0300" channel="TNT HD">
+    <title lang="pt">Encontro De Casais</title>
+    <desc lang="pt">Quatro casais de amigos viajam para um resort focado em terapia conjugal. Enquanto um casal tenta salvar o casamento, os outros, que foram para se divertir, são forçados a refletir sobre suas vidas.</desc>
   </programme>
   <programme start="20261115161700 -0300" stop="20261115191000 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Elvis</title>
@@ -22255,9 +22255,9 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Ressoar</title>
     <desc lang="pt">O Ressoar é uma revista eletrônica do terceiro setor que questiona e mostra iniciativas ligadas à inclusão e responsabilidade social.</desc>
   </programme>
-  <programme start="20261115163000 -0300" stop="20261115180000 -0300" channel="REDE TV! HD">
-    <title lang="pt">A Hora Do Zap</title>
-    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+  <programme start="20261115163000 -0300" stop="20261115173000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
   </programme>
   <programme start="20261115163000 -0300" stop="20261115173000 -0300" channel="REDE TV! Recife">
     <title lang="pt">Show da Saúde</title>
@@ -23147,6 +23147,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Record News Investigação</title>
     <desc lang="pt">O programa tem como missão revelar temas de interesse público por meio de reportagens investigativas.</desc>
   </programme>
+  <programme start="20261115173000 -0300" stop="20261115180000 -0300" channel="REDE TV! HD">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
+  </programme>
   <programme start="20261115173000 -0300" stop="20261115180000 -0300" channel="REDE TV! Recife">
     <title lang="pt">A Hora Do Zap</title>
     <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
@@ -23465,10 +23469,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115175900 -0300" stop="20261115180000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
     <desc lang="pt">Acompanhe a previsão do tempo pelo mundo.</desc>
-  </programme>
-  <programme start="20261115175900 -0300" stop="20261115194800 -0300" channel="TNT HD">
-    <title lang="pt">A Volta do Todo Poderoso</title>
-    <desc lang="pt">Deus procura um âncora de telejornal que foi recentemente eleito como congressista, passando-lhe a missão de construir uma arca.</desc>
   </programme>
   <programme start="20261115175926 -0300" stop="20261115185449 -0300" channel="LMC+HD">
     <title lang="pt">Embarque Nessa - Embarque Nessa - Porto Alegre</title>
@@ -24002,6 +24002,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115181900 -0300" stop="20261115195700 -0300" channel="HBO Family">
     <title lang="pt">Meu Malvado Favorito</title>
     <desc lang="pt">Considerado o maior vilão, Gru tem seu posto abalado pelo novato Vetor. Para assegurar o topo, ele planeja roubar a Lua. Mas três meninas órfãs veem nele a figura de pai e Gru fica dividido entre roubar a Lua ou ficar com elas.</desc>
+  </programme>
+  <programme start="20261115181900 -0300" stop="20261115200000 -0300" channel="TNT HD">
+    <title lang="pt">A Volta do Todo Poderoso</title>
+    <desc lang="pt">Deus procura um âncora de telejornal que foi recentemente eleito como congressista, passando-lhe a missão de construir uma arca.</desc>
   </programme>
   <programme start="20261115182000 -0300" stop="20261115191500 -0300" channel="AXN">
     <title lang="pt">Criminal Minds - Believer</title>
@@ -25401,10 +25405,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Que História É Essa, Porchat? - Samuel Rosa + Luiz Fernando Guimarães + Xanddy Harmonia</title>
     <desc lang="pt">Porchat leva pra roda Luiz Fernando Guimarães, Samuel Rosa e Xanddy. Na plateia, a vingança de Mariana que rendeu uma grana extra.</desc>
   </programme>
-  <programme start="20261115194800 -0300" stop="20261115220000 -0300" channel="TNT HD">
-    <title lang="pt">Esposa de Mentirinha</title>
-    <desc lang="pt">Em uma viagem ao Havaí, um cirurgião plástico convence sua fiel assistente a se fazer passar por sua ex-mulher a fim de cobrir uma mentira que contou para sua namorada muito mais jovem.</desc>
-  </programme>
   <programme start="20261115194830 -0300" stop="20261115195106 -0300" channel="DumDum">
     <title lang="pt">Rancho Colorido - Videoclipe da Galinha Mudinha</title>
     <desc lang="pt">Divirta-se com o videoclipe musical do Cavalo Cabeleira, este animal do Rancho que tem o cabelo bem grandão.</desc>
@@ -25748,6 +25748,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261115200000 -0300" stop="20261115203000 -0300" channel="TIMES | Exclusivo CNBC">
     <title lang="pt">Tech Check</title>
     <desc lang="pt">Christiane Pelajo explora como a inteligência artificial e as novas tecnologias estão transformando o ambiente corporativo. Comentaristas e convidados trazem análises, tendências e aplicações práticas, mostrando ...</desc>
+  </programme>
+  <programme start="20261115200000 -0300" stop="20261115220000 -0300" channel="TNT HD">
+    <title lang="pt">Esposa de Mentirinha</title>
+    <desc lang="pt">Em uma viagem ao Havaí, um cirurgião plástico convence sua fiel assistente a se fazer passar por sua ex-mulher a fim de cobrir uma mentira que contou para sua namorada muito mais jovem.</desc>
   </programme>
   <programme start="20261115200000 -0300" stop="20261115203000 -0300" channel="TRAVEL BOX">
     <title lang="pt">Destino Portugal</title>
@@ -27661,7 +27665,7 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Podres de Ricos</title>
     <desc lang="pt">Rachel viaja com seu namorado, Nick, para um casamento em Singapura. Lá, descobre que ele é um herdeiro cobiçado e tem que enfrentar rivais e a desaprovação da sogra.</desc>
   </programme>
-  <programme start="20261115220000 -0300" stop="20261116002300 -0300" channel="TNT HD">
+  <programme start="20261115220000 -0300" stop="20261116001000 -0300" channel="TNT HD">
     <title lang="pt">Atração Perigosa</title>
     <desc lang="pt">Doug MacRay é a mente por trás de assaltos a bancos em Boston. Durante um deles, seu parceiro decide pegar uma refém e a deixa traumatizada. Doug, então, se aproxima da mulher e acaba se apaixonando.</desc>
   </programme>
@@ -29882,6 +29886,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Jorge Da Capadócia</title>
     <desc lang="pt">Jorge se tornou capitão romano após uma grande vitória. Agora ele enfrenta um dilema entre sua fé cristã e as ordens do imperador Diocleciano, que inicia uma perseguição brutal aos cristãos.</desc>
   </programme>
+  <programme start="20261116001000 -0300" stop="20261116020500 -0300" channel="TNT HD">
+    <title lang="pt">S.w.a.t.: Comando Especial</title>
+    <desc lang="pt">O sargento Hondo lidera um novo time para o pelotão da SWAT. As coisas se complicam quando precisam transferir um traficante que ofereceu publicamente 100 milhões de dólares para quem tirá-lo da prisão.</desc>
+  </programme>
   <programme start="20261116001100 -0300" stop="20261116002400 -0300" channel="CARTOON HD">
     <title lang="pt">Ursos Sem Curso - Vizinhos</title>
     <desc lang="pt">Novos vizinhos resolvem acampar perto da caverna dos ursos. Panda e Polar adoram a ideia, mas Pardo acha que eles têm algum plano sinistro.</desc>
@@ -30041,10 +30049,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116002300 -0300" stop="20261116012600 -0300" channel="Globoplay Novelas">
     <title lang="pt">Amor À Vida - Amor À Vida</title>
     <desc lang="pt">Thales toma decisão com relação a herança de Nicole e deixa Leila furiosa. Félix desconfia cada vez mais de Aline. Eron pede mais uma chance para Niko. Linda faz pedido a Rafael.</desc>
-  </programme>
-  <programme start="20261116002300 -0300" stop="20261116022500 -0300" channel="TNT HD">
-    <title lang="pt">S.w.a.t.: Comando Especial</title>
-    <desc lang="pt">O sargento Hondo lidera um novo time para o pelotão da SWAT. As coisas se complicam quando precisam transferir um traficante que ofereceu publicamente 100 milhões de dólares para quem tirá-lo da prisão.</desc>
   </programme>
   <programme start="20261116002400 -0300" stop="20261116003500 -0300" channel="CARTOON HD">
     <title lang="pt">Ursos Sem Curso - Briga de Manos</title>
@@ -31995,6 +31999,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Vamos Falar Com Deus</title>
     <desc lang="pt">Conforta e eleva o Ser Humano por meio do ecumenismo. Educa sobre a importância da oração e a necessidade de buscar uma constante ligação com Deus, a fim de que se possa vencer os desafios cotidianos.</desc>
   </programme>
+  <programme start="20261116020500 -0300" stop="20261116035100 -0300" channel="TNT HD">
+    <title lang="pt">Operação Secreta</title>
+    <desc lang="pt">Policiais que trabalham infiltrados estão com suas vidas em perigo. Eles descobrem que dentro da polícia há um espião que trabalha para os criminosos e que todas as suas identidades secretas foram retiradas do banco de dados.</desc>
+  </programme>
   <programme start="20261116020600 -0300" stop="20261116034600 -0300" channel="HBO2">
     <title lang="pt">A Morte do Demônio: A Ascensão</title>
     <desc lang="pt">Beth visita sua irmã mais velha, ella, que está criando 3 filhos em um apartamento apertado em Los Angeles. Sua reunião é curta quando eles encontram um livro demoníaco, The Necronomicon Ex-Mortis.</desc>
@@ -32182,10 +32190,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116022500 -0300" stop="20261116030500 -0300" channel="FILM &amp; ARTS">
     <title lang="pt">Louco Por Molière</title>
     <desc lang="pt">Em 1997, numa Barcelona pós-olímpica, sem multidões de turistas, com invernos em que ainda faz frio e as ruas estão molhadas pela chuva, numa altura em que ter telemóvel é uma excentricidade ridícula.</desc>
-  </programme>
-  <programme start="20261116022500 -0300" stop="20261116041500 -0300" channel="TNT HD">
-    <title lang="pt">Operação Secreta</title>
-    <desc lang="pt">Policiais que trabalham infiltrados estão com suas vidas em perigo. Eles descobrem que dentro da polícia há um espião que trabalha para os criminosos e que todas as suas identidades secretas foram retiradas do banco de dados.</desc>
   </programme>
   <programme start="20261116022500 -0300" stop="20261116024800 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men - Tinkle Like a Princess</title>
@@ -33721,6 +33725,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Desafio Dos Corretores - Missão Impossível</title>
     <desc lang="pt">O tempo está se esgotando e os dois casais devem decidir se concluem o desafio ou voltam para casa. EJ e Jason tentam modernizar o imóvel para vendê-lo por mais de um milhão de dólares.</desc>
   </programme>
+  <programme start="20261116035100 -0300" stop="20261116053400 -0300" channel="TNT HD">
+    <title lang="pt">Fuga De Pretoria</title>
+    <desc lang="pt">A extraordinária história real de dois homens brancos sul-africanos chamados de terroristas e presos em 1978, em razão do seu envolvimento em operações secretas contra o Apartheid.</desc>
+  </programme>
   <programme start="20261116035100 -0300" stop="20261116060000 -0300" channel="TV5 MONDE">
     <title lang="pt">La Peur Au Ventre</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -34271,10 +34279,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116041500 -0300" stop="20261116082500 -0300" channel="SPORTV 3">
     <title lang="pt">Jungle Fight 156 - Finais</title>
     <desc lang="pt">Fique por dentro do melhor do MMA da América Latina no Jungle Fight.</desc>
-  </programme>
-  <programme start="20261116041500 -0300" stop="20261116065000 -0300" channel="TNT HD">
-    <title lang="pt">Fuga De Pretoria</title>
-    <desc lang="pt">A extraordinária história real de dois homens brancos sul-africanos chamados de terroristas e presos em 1978, em razão do seu envolvimento em operações secretas contra o Apartheid.</desc>
   </programme>
   <programme start="20261116041500 -0300" stop="20261116043000 -0300" channel="TV Pai Eterno HD">
     <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
@@ -35537,6 +35541,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116053400 -0300" stop="20261116060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
     <title lang="pt">Reforma À Venda - Mistério em Laguna Hills</title>
     <desc lang="pt">Tarek e Christina visitam uma casa pré-fabricada em Laguna Hills, Califórnia. Eles ficam intrigados quando encontram uma parede de drywall destruída e acabamentos laterais faltando na parte externa.</desc>
+  </programme>
+  <programme start="20261116053400 -0300" stop="20261116070100 -0300" channel="TNT HD">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
   </programme>
   <programme start="20261116053500 -0300" stop="20261116060000 -0300" channel="E!">
     <title lang="pt">Dating No Filter - Esfriando</title>
@@ -37017,10 +37025,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Terço Bizantino</title>
     <desc lang="pt">Abençoando o dia do telespectador, Padre Marcelo Rossi reza com o público pela saúde, pelo trabalho, pela fé e pela família brasileira quatro vezes por dia.</desc>
   </programme>
-  <programme start="20261116065000 -0300" stop="20261116084700 -0300" channel="TNT HD">
-    <title lang="pt">S.w.a.t.: Comando Especial</title>
-    <desc lang="pt">O sargento Hondo lidera um novo time para o pelotão da SWAT. As coisas se complicam quando precisam transferir um traficante que ofereceu publicamente 100 milhões de dólares para quem tirá-lo da prisão.</desc>
-  </programme>
   <programme start="20261116065039 -0300" stop="20261116070010 -0300" channel="DumDum">
     <title lang="pt">Flash, O Aventureiro - Canguru Vermelho</title>
     <desc lang="pt">Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
@@ -37401,6 +37405,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116070100 -0300" stop="20261116070400 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc. Comunidade Nin Jitsu</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
+  </programme>
+  <programme start="20261116070100 -0300" stop="20261116090000 -0300" channel="TNT HD">
+    <title lang="pt">S.w.a.t.: Comando Especial</title>
+    <desc lang="pt">O sargento Hondo lidera um novo time para o pelotão da SWAT. As coisas se complicam quando precisam transferir um traficante que ofereceu publicamente 100 milhões de dólares para quem tirá-lo da prisão.</desc>
   </programme>
   <programme start="20261116070300 -0300" stop="20261116070600 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Little Angel - La Vaca Lola</title>
@@ -39282,10 +39290,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Batwheels - Bat-amigas Para Sempre</title>
     <desc lang="pt">Bibi e Batwing devem unir forças para escapar da Legião do Zoom e levar uma Mega-Tela até a Batcaverna.</desc>
   </programme>
-  <programme start="20261116084700 -0300" stop="20261116102200 -0300" channel="TNT HD">
-    <title lang="pt">R.I.P.D. - Agentes do Além</title>
-    <desc lang="pt">O policial assassinado Nick Cruz (Ryan Ryenolds) hoje é uma alma penada. Ele entra para um departamento da polícia para tentar descobrir quem é a pessoa que o matou.</desc>
-  </programme>
   <programme start="20261116084800 -0300" stop="20261116093600 -0300" channel="DISCOVERY SCIENCE HD">
     <title lang="pt">Megaconstruções - Torre de Alto Risco</title>
     <desc lang="pt">Danny Forester visita a construção da Trump Tower em Chicago, inteiramente construída em concreto armado.</desc>
@@ -39633,6 +39637,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116090000 -0300" stop="20261116105500 -0300" channel="TELECINE CULT">
     <title lang="pt">Um Alguém Apaixonado</title>
     <desc lang="pt">Akio é uma jovem que ganha a vida como prostituta, mas esconde esse lado da sua vida. Até que em uma noite ela acaba desenvolvendo uma conexão inesperada com um viúvo.</desc>
+  </programme>
+  <programme start="20261116090000 -0300" stop="20261116103200 -0300" channel="TNT HD">
+    <title lang="pt">R.I.P.D. - Agentes do Além</title>
+    <desc lang="pt">O policial assassinado Nick Cruz (Ryan Ryenolds) hoje é uma alma penada. Ele entra para um departamento da polícia para tentar descobrir quem é a pessoa que o matou.</desc>
   </programme>
   <programme start="20261116090000 -0300" stop="20261116110000 -0300" channel="TRACE BRASIL HD">
     <title lang="pt">Sertasom</title>
@@ -41060,10 +41068,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Pocoyo - Bambolê</title>
     <desc lang="pt">Pocoyo é uma série para crianças e seus pais que conta a história de um menino que descobre o mundo à sua volta. Tudo é novo para ele e há muitas surpresas e oportunidades para brincar e aprender.</desc>
   </programme>
-  <programme start="20261116102200 -0300" stop="20261116104700 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço - Festa de Natal</title>
-    <desc lang="pt">O Will descobre que a sua mãe está com um novo homem em uma viagem de esqui em Utah. Quando os adultos saem da cabana para a festa de natal, uma visita põe os garotos em encrencas.</desc>
-  </programme>
   <programme start="20261116102300 -0300" stop="20261116103500 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação - Sanduiche Lendário</title>
     <desc lang="pt">Ravena envia os outros Titãs em uma missão perigosa para buscar os ingredientes do melhor sanduíche do mundo.</desc>
@@ -41319,6 +41323,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Guató: Uma Remada No Tempo - 5 mil anos de remada em pé</title>
     <desc lang="pt">Américo e Lena descobrem que coração do Pantanal há um grupo indígena conhecido por remar em pé em suas canoas e partem para uma aventura na maior planície alagável do planeta.</desc>
   </programme>
+  <programme start="20261116103200 -0300" stop="20261116105700 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço - Festa de Natal</title>
+    <desc lang="pt">O Will descobre que a sua mãe está com um novo homem em uma viagem de esqui em Utah. Quando os adultos saem da cabana para a festa de natal, uma visita põe os garotos em encrencas.</desc>
+  </programme>
   <programme start="20261116103200 -0300" stop="20261116113200 -0300" channel="TV5 - AC">
     <title lang="pt">Jogo Aberto</title>
     <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
@@ -41547,10 +41555,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Palaloos</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261116104700 -0300" stop="20261116111000 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço - Festa de Natal</title>
-    <desc lang="pt">O Will descobre que a sua mãe está com um novo homem em uma viagem de esqui em Utah. Quando os adultos saem da cabana para a festa de natal, uma visita põe os garotos em encrencas.</desc>
-  </programme>
   <programme start="20261116104800 -0300" stop="20261116111200 -0300" channel="DISCOVERY WORLD HD">
     <title lang="pt">O Poder dos Alimentos - Fazenda Nas Alturas</title>
     <desc lang="pt">Acompanhe o trabalho de Cote, um apicultor que cuida de mais de cem colmeias na cidade de Nova York. A fazendeira urbana Annie Novak é a cofundadora de uma enorme fazenda orgânica, instalada no telhado de um armazém.</desc>
@@ -41650,6 +41654,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116105700 -0300" stop="20261116115400 -0300" channel="HISTORY 2">
     <title lang="pt">Invenções Lendárias - Segredos do Egito</title>
     <desc lang="pt">Você acha que já sabe tudo sobre o antigo Egito? Os segredos que ainda cercam esta incrível civilização têm perdurado há milênios. Mas que segredos tiveram maior impacto em nossa visão do antigo Egito?</desc>
+  </programme>
+  <programme start="20261116105700 -0300" stop="20261116112200 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço - Hilary Arruma um Emprego</title>
+    <desc lang="pt">O Philip e a Vivian forçam a Hilary a conseguir um emprego após receber a conta do cartão de crédito da família.</desc>
   </programme>
   <programme start="20261116105800 -0300" stop="20261116110300 -0300" channel="DISCOVERY KIDS HD">
     <title lang="pt">Peppa Pig - Festa do Pijama para Todos</title>
@@ -41973,10 +41981,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Fórmula 1 - GP do EUA</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
   </programme>
-  <programme start="20261116111000 -0300" stop="20261116113600 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço - Nem Tudo Que Parece É</title>
-    <desc lang="pt">O Will terá um jogo contra o time de Malibu, e um caça talentos estará no público. O caça talentos fala com um jogador do outro time.</desc>
-  </programme>
   <programme start="20261116111000 -0300" stop="20261116112000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">Recreio do Jacarelvis</title>
     <desc lang="pt">"Béim béim! Está todo mundo convidado para cantar e dançar com a turma do jacaré mais animado da TV.Garanta boas risadas com as divertidas historinhas no teatro de bonecos. É o Recreio do Jacarelvis!"</desc>
@@ -42108,6 +42112,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116112200 -0300" stop="20261116120200 -0300" channel="HGTV HD">
     <title lang="pt">Por Que Diacho Comprei Essa Casa? - Casa Lotada</title>
     <desc lang="pt">Uma família mordeu a isca e comprou uma casa que parecia ter saído de um programa de TV dos anos 1950, mas sua distribuição é disfuncional. Kim faz um projeto para aliviar o estresse e manter o ar nostálgico.</desc>
+  </programme>
+  <programme start="20261116112200 -0300" stop="20261116114600 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço - Nem Tudo Que Parece É</title>
+    <desc lang="pt">O Will terá um jogo contra o time de Malibu, e um caça talentos estará no público. O caça talentos fala com um jogador do outro time.</desc>
   </programme>
   <programme start="20261116112300 -0300" stop="20261116113000 -0300" channel="CARTOON HD">
     <title lang="pt">Ilha dos Desafios - A Ilha da Caveira</title>
@@ -42432,10 +42440,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">1000 Lugares para Conhecer Antes de Morrer - França</title>
     <desc lang="pt">Os Ulles visitam a França, um dos destinos mais românticos do mundo.</desc>
   </programme>
-  <programme start="20261116113600 -0300" stop="20261116120200 -0300" channel="TNT HD">
-    <title lang="pt">Um Maluco no Pedaço - Empregada de Luxo</title>
-    <desc lang="pt">O Geoffrey se apaixona pela vizinha, pensando que ela é a governanta. Quando ele descobre que ela é só uma visita e tem 25 milhões de dólares, ele precisa decidir se quer continuar com ela ou não.</desc>
-  </programme>
   <programme start="20261116113640 -0300" stop="20261116113815 -0300" channel="DumDum">
     <title lang="pt">Patati Patatá - Alecrim</title>
     <desc lang="pt">Patati estava tranquilamente comendo sua gostosa pipoca, quando de repente encontra uma galinha, na verdade uma bela galinha dançante. Mas patatá acaba não vendo e a galinha se diverte.</desc>
@@ -42631,6 +42635,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116114600 -0300" stop="20261116120800 -0300" channel="TLC HD">
     <title lang="pt">Segredos do Meu Corpo - Cheryl</title>
     <desc lang="pt">Neste episódio, vamos conhecer Chris, de 45 anos, que sofre com hérnia e excesso de pele.</desc>
+  </programme>
+  <programme start="20261116114600 -0300" stop="20261116121100 -0300" channel="TNT HD">
+    <title lang="pt">Um Maluco no Pedaço - Empregada de Luxo</title>
+    <desc lang="pt">O Geoffrey se apaixona pela vizinha, pensando que ela é a governanta. Quando ele descobre que ela é só uma visita e tem 25 milhões de dólares, ele precisa decidir se quer continuar com ela ou não.</desc>
   </programme>
   <programme start="20261116114600 -0300" stop="20261116115000 -0300" channel="TVE INTERNATIONAL">
     <title lang="pt">Aqui La Tierra</title>
@@ -43169,10 +43177,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Tendas Modernas - Yurt De Alumínio</title>
     <desc lang="pt">Jenny e Nathan experimentam usar alumínio galvanizado na construção de um yurt em um rancho espaçoso.</desc>
   </programme>
-  <programme start="20261116120200 -0300" stop="20261116122500 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Superstição</title>
-    <desc lang="pt">Depois que Julius empresta suas meias da sorte para Chris, ele começa a perceber que nada pode dar errado.</desc>
-  </programme>
   <programme start="20261116120300 -0300" stop="20261116120800 -0300" channel="CARTOONITO">
     <title lang="pt">Numberblocks - Cambalhotas de Subtração</title>
     <desc lang="pt">Catorze ensina a subtrair com saltos mortais. Treze pratica e vê quantos blocos restam.</desc>
@@ -43248,6 +43252,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116121100 -0300" stop="20261116122300 -0300" channel="CARTOON HD">
     <title lang="pt">Os Jovens Titãs em Ação - 50% da Equipe</title>
     <desc lang="pt">Uma falha no teletransporte faz com que a tripulação da nave perca suas partes superiores.</desc>
+  </programme>
+  <programme start="20261116121100 -0300" stop="20261116123400 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Superstição</title>
+    <desc lang="pt">Depois que Julius empresta suas meias da sorte para Chris, ele começa a perceber que nada pode dar errado.</desc>
   </programme>
   <programme start="20261116121155 -0300" stop="20261116123035 -0300" channel="DumDum">
     <title lang="pt">Turma do Gato Galáctico</title>
@@ -43388,10 +43396,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116122500 -0300" stop="20261116142500 -0300" channel="SONY CHANNEL">
     <title lang="pt">O Vingador do Futuro</title>
     <desc lang="pt">Douglas Quaid é um trabalhador que busca um pouco de emoção em sua vida monótona. Ele procura ajuda na empresa Rekall e acaba descobrindo que existe uma tênue linha ente suas fantasias e a realidade.</desc>
-  </programme>
-  <programme start="20261116122500 -0300" stop="20261116124800 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia O Dia De Ação De Graças</title>
-    <desc lang="pt">Quando o bem-sucedido irmão de Julius junta-se à família para o Dia de Ação de Graças, Julius entra em espírito competitivo, determinado a preparar a refeição perfeita.</desc>
   </programme>
   <programme start="20261116122500 -0300" stop="20261116131000 -0300" channel="UNIVERSAL PREMIERE HD">
     <title lang="pt">The Assassin - Episódio 3</title>
@@ -43584,6 +43588,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Brasil Visto De Cima - Vale Do Paraíba E Sul De Minas</title>
     <desc lang="pt">A fronteira de Minas Gerais com o Rio de Janeiro é um dos pontos de visitação mais concorridos do país. E é para lá que Brasil Visto de Cima viaja com você.</desc>
   </programme>
+  <programme start="20261116123400 -0300" stop="20261116125700 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia O Dia De Ação De Graças</title>
+    <desc lang="pt">Quando o bem-sucedido irmão de Julius junta-se à família para o Dia de Ação de Graças, Julius entra em espírito competitivo, determinado a preparar a refeição perfeita.</desc>
+  </programme>
   <programme start="20261116123500 -0300" stop="20261116132500 -0300" channel="FOOD NETWORK HD">
     <title lang="pt">A Guerra dos Cupcakes - Monster Cupcakes</title>
     <desc lang="pt">Quatro confeiteiros talentosos batalham para que seus cupcakes tenham um lugar na festa VIP que antecede a corrida de monster trucks.</desc>
@@ -43700,10 +43708,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Reforma Relâmpago: Banheiros - Moderno e Rústico</title>
     <desc lang="pt">A equipe do programa transforma um banheiro com pé-direito alto em uma maravilha moderna, mas com um toque de rusticidade.</desc>
   </programme>
-  <programme start="20261116124800 -0300" stop="20261116130900 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Papai Noel</title>
-    <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.</desc>
-  </programme>
   <programme start="20261116124900 -0300" stop="20261116125600 -0300" channel="CARTOONITO">
     <title lang="pt">Booba - A Ama Robô</title>
     <desc lang="pt">O robô do futuro não só limpa, ele é obcecado por limpeza!</desc>
@@ -43787,6 +43791,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116125600 -0300" stop="20261116130300 -0300" channel="CARTOONITO">
     <title lang="pt">Booba - Mundos Redondos</title>
     <desc lang="pt">Booba e Twinkle se encontram em globos mágicos, mas suas aventuras saem do controle quando Noodle e Spike viram seu mundo de cabeça para baixo!</desc>
+  </programme>
+  <programme start="20261116125700 -0300" stop="20261116132000 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Papai Noel</title>
+    <desc lang="pt">Julius começa a trabalhar como Papai Noel numa loja. Chris é seu duende assistente. Chris fica muito doente e é internado. No hospital, conhece um misterioso homem chamado Kris.</desc>
   </programme>
   <programme start="20261116125900 -0300" stop="20261116130000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
@@ -44182,10 +44190,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Ponta Verde Esportes</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261116130900 -0300" stop="20261116133200 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Ovos</title>
-    <desc lang="pt">Para uma aula sobre as responsabilidades que os pais devem ter, Chris e Greg recebem um ovo cada um para cuidarem como se fossem seus próprios filhos, mas a tarefa se mostra bastante difícil.</desc>
-  </programme>
   <programme start="20261116130916 -0300" stop="20261116131246 -0300" channel="DumDum">
     <title lang="pt">O Incrível Mundo da Imaginação - O Jardim de Corações Flutuantes</title>
     <desc lang="pt">A pequena mila viaja até o mundo da imaginação para visitar uma casa na montanha.</desc>
@@ -44344,6 +44348,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116132000 -0300" stop="20261116134500 -0300" channel="SBT RS">
     <title lang="pt">SBT Sports RS</title>
     <desc lang="pt">O SBT Sports mostra tudo sobre os principais campeonatos do país e do mundo, traz análises dos jogos e comentários do elenco esportivo da emissora, além de informações exclusivas.</desc>
+  </programme>
+  <programme start="20261116132000 -0300" stop="20261116134400 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia Ovos</title>
+    <desc lang="pt">Para uma aula sobre as responsabilidades que os pais devem ter, Chris e Greg recebem um ovo cada um para cuidarem como se fossem seus próprios filhos, mas a tarefa se mostra bastante difícil.</desc>
   </programme>
   <programme start="20261116132000 -0300" stop="20261116133000 -0300" channel="TV DIARIO">
     <title lang="pt">Diário TV - 1ª Edição</title>
@@ -44664,10 +44672,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Brasil Visto De Cima - Serra Do Cipó - Parte 2</title>
     <desc lang="pt">Neste segundo programa da Serra do Cipó, vamos conhecer o Caminho dos Diamantes, que escoava a produção de pedras preciosas no século 18, e um sítio arqueológico.</desc>
   </programme>
-  <programme start="20261116133200 -0300" stop="20261116135600 -0300" channel="TNT HD">
-    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia O Substituto</title>
-    <desc lang="pt">O professor substituto inferniza a vida de Chris ao exigir mais dele do que dos seus colegas de turma. Tonya percebe que sempre pode conseguir o que quer acusando Drew de bater nela.</desc>
-  </programme>
   <programme start="20261116133300 -0300" stop="20261116134500 -0300" channel="CARTOONITO">
     <title lang="pt">Perninha em Obras - O Castelo</title>
     <desc lang="pt">O Príncipe Lionel da Inglaterra contrata os Looney Builders para construir um salão de festas para o seu aniversário, mas começa a dar ordens a torto e a direito.</desc>
@@ -44807,6 +44811,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116134400 -0300" stop="20261116134700 -0300" channel="BIS HD">
     <title lang="pt">Setlist</title>
     <desc lang="pt">ALLANA MACEDO - NÃO SOU EX DE NINGUÉM (ADA)</desc>
+  </programme>
+  <programme start="20261116134400 -0300" stop="20261116140800 -0300" channel="TNT HD">
+    <title lang="pt">Todo Mundo Odeia O Chris - Todo Mundo Odeia O Substituto</title>
+    <desc lang="pt">O professor substituto inferniza a vida de Chris ao exigir mais dele do que dos seus colegas de turma. Tonya percebe que sempre pode conseguir o que quer acusando Drew de bater nela.</desc>
   </programme>
   <programme start="20261116134500 -0300" stop="20261116144000 -0300" channel="AXN">
     <title lang="pt">Criminal Minds - Devil's Night</title>
@@ -45043,10 +45051,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116135600 -0300" stop="20261116141800 -0300" channel="DISCOVERY KIDS HD">
     <title lang="pt">LEGO DREAMZzz: As Provas dos Caçadores de Sonhos - O Sonhador Merecedor</title>
     <desc lang="pt">Os Caçadores de Sonhos vão ao Castelo Nocturnia esperando achar a chave e derrotar o Rei do Pesadelo, mas isso não será uma tarefa fácil.</desc>
-  </programme>
-  <programme start="20261116135600 -0300" stop="20261116153500 -0300" channel="TNT HD">
-    <title lang="pt">A Volta do Todo Poderoso</title>
-    <desc lang="pt">Deus procura um âncora de telejornal que foi recentemente eleito como congressista, passando-lhe a missão de construir uma arca.</desc>
   </programme>
   <programme start="20261116135600 -0300" stop="20261116135800 -0300" channel="WOOHOO HD">
     <title lang="pt">Surf Files</title>
@@ -45432,6 +45436,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116140800 -0300" stop="20261116162300 -0300" channel="HBO Xtreme">
     <title lang="pt">Covil de Ladrões 2</title>
     <desc lang="pt">O xerife Big Nick O'Brien continua sua perseguição implacável a Donnie Wilson, que consegue escapar para a Europa e está planejando mais um assalto.</desc>
+  </programme>
+  <programme start="20261116140800 -0300" stop="20261116155000 -0300" channel="TNT HD">
+    <title lang="pt">A Volta do Todo Poderoso</title>
+    <desc lang="pt">Deus procura um âncora de telejornal que foi recentemente eleito como congressista, passando-lhe a missão de construir uma arca.</desc>
   </programme>
   <programme start="20261116140800 -0300" stop="20261116151100 -0300" channel="TNT NOVELAS">
     <title lang="pt">A Promessa</title>
@@ -47069,10 +47077,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Sessão da Tarde: Paternidade</title>
     <desc lang="pt">Um pai cria sua filha como pai solteiro após a morte inesperada de sua esposa, que morreu um dia após o nascimento de sua filha. Agora, ele enfrenta dúvidas, medos e dores de cabeça para criá-la.</desc>
   </programme>
-  <programme start="20261116153500 -0300" stop="20261116172400 -0300" channel="TNT HD">
-    <title lang="pt">Tempestade: Planeta Em Fúria</title>
-    <desc lang="pt">A cada dia que passa, eventos climáticos capazes de ameaçar a existência da humanidade se tornam mais comuns. É criada então uma extensa rede de satélites ao redor do planeta, a fim de controlar o clima.</desc>
-  </programme>
   <programme start="20261116153500 -0300" stop="20261116171500 -0300" channel="TV ASA BRANCA">
     <title lang="pt">Sessão da Tarde: Paternidade</title>
     <desc lang="pt">Um pai cria sua filha como pai solteiro após a morte inesperada de sua esposa, que morreu um dia após o nascimento de sua filha. Agora, ele enfrenta dúvidas, medos e dores de cabeça para criá-la.</desc>
@@ -47212,6 +47216,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116155000 -0300" stop="20261116161500 -0300" channel="Modo Viagem">
     <title lang="pt">Hey Ho! - Em Busca Da Aurora Boreal - Parte 2</title>
     <desc lang="pt">Keulla continua em busca da aurora boreal. Ela está na cidade de Rovaniemi, conhecida por ser o escritório oficial do Papai Noel.</desc>
+  </programme>
+  <programme start="20261116155000 -0300" stop="20261116173800 -0300" channel="TNT HD">
+    <title lang="pt">Tempestade: Planeta Em Fúria</title>
+    <desc lang="pt">A cada dia que passa, eventos climáticos capazes de ameaçar a existência da humanidade se tornam mais comuns. É criada então uma extensa rede de satélites ao redor do planeta, a fim de controlar o clima.</desc>
   </programme>
   <programme start="20261116155200 -0300" stop="20261116170000 -0300" channel="TV5 MONDE">
     <title lang="pt">Opj</title>
@@ -48741,10 +48749,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Miraculous - As Aventuras De Ladybug - Rainha Repórter</title>
     <desc lang="pt">A repórter Nadia Chamack se transforma na Rainha Repórter e tenta fazer Ladybug e Cat Noir admitirem, ao vivo, que eles estão apaixonados.</desc>
   </programme>
-  <programme start="20261116172400 -0300" stop="20261116192700 -0300" channel="TNT HD">
-    <title lang="pt">Romeu tem que Morrer</title>
-    <desc lang="pt">Ex-policial chinês viaja para os EUA para vingar irmão morto em guerra de gangues. No meio da confusão, ele se apaixona pela filha do chefe da gangue rival e é jurado de morte.</desc>
-  </programme>
   <programme start="20261116172500 -0300" stop="20261116174500 -0300" channel="Canal GOV HD">
     <title lang="pt">Sem Dúvida Nenhuma</title>
     <desc lang="pt">O programa traz jornalismo, curiosidades e histórias da sala de aula e do mundo da educação. A cada edição, ideias criativas de professores, informações sobre o Enem e novidades do Ministério da Educaç...</desc>
@@ -49019,6 +49023,10 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116173744 -0300" stop="20261116174020 -0300" channel="DumDum">
     <title lang="pt">A Cozinha do Chef Luca - Macarrão</title>
     <desc lang="pt">Neste episódio, o chef luca e sua mãe vão ensinar a preparar brigadeiro light.</desc>
+  </programme>
+  <programme start="20261116173800 -0300" stop="20261116194000 -0300" channel="TNT HD">
+    <title lang="pt">Romeu tem que Morrer</title>
+    <desc lang="pt">Ex-policial chinês viaja para os EUA para vingar irmão morto em guerra de gangues. No meio da confusão, ele se apaixona pela filha do chefe da gangue rival e é jurado de morte.</desc>
   </programme>
   <programme start="20261116174000 -0300" stop="20261116195000 -0300" channel="AMC HD">
     <title lang="pt">Jumanji: Próxima Fase</title>
@@ -51094,10 +51102,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Show da Fé</title>
     <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
-  <programme start="20261116192700 -0300" stop="20261116214200 -0300" channel="TNT HD">
-    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
-    <desc lang="pt">Arthur é um jovem das ruas e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur.</desc>
-  </programme>
   <programme start="20261116192705 -0300" stop="20261116192944 -0300" channel="DumDum">
     <title lang="pt">Tina Curiosa - Por Que As Crianças Não Podem Ficar Muito Tempo No Telefone?</title>
     <desc lang="pt">Professor Caco Vai Explicar Para Tina Porque Piscamos.</desc>
@@ -51329,9 +51333,8 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Dragon Ball Z</title>
     <desc lang="pt">As façanhas de Goku, um poderoso guerreiro Super Sayan que, juntamente com os Guerreiros Z defendem a Terra de um bando de vilões que querem dominar o Universo.</desc>
   </programme>
-  <programme start="20261116193900 -0300" stop="20261116195000 -0300" channel="CARTOONITO">
-    <title lang="pt">Perninha em Obras - Hora do Surf</title>
-    <desc lang="pt">Os Looney Builders são contratados para construir um ponto de encontro na Austrália para uma competição de surfe.</desc>
+  <programme start="20261116193900 -0300" stop="20261120000000 -0300" channel="CARTOONITO">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261116193900 -0300" stop="20261116201500 -0300" channel="HBO Pop">
     <title lang="pt">Um Tanto Familiar com Pedro Andrade</title>
@@ -51389,6 +51392,9 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261116194000 -0300" stop="20261120000000 -0300" channel="SportyNet + 3">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
+  <programme start="20261116194000 -0300" stop="20261120000000 -0300" channel="TNT HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261116194000 -0300" stop="20261116203000 -0300" channel="TV ASA BRANCA">
@@ -51523,9 +51529,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261116195000 -0300" stop="20261120000000 -0300" channel="AMC HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20261116195000 -0300" stop="20261120000000 -0300" channel="CARTOONITO">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261116195000 -0300" stop="20261120000000 -0300" channel="MEZZO HD">
@@ -52411,9 +52414,6 @@ Aos poucos ela conquistou respeito, admiração dos colegas e sucesso, chegando 
   <programme start="20261116214000 -0300" stop="20261116224500 -0300" channel="TV10 - Maringá">
     <title lang="pt">TV Fama</title>
     <desc lang="pt">Seu acesso às festas mais badaladas, aos bastidores dos eventos exclusivos e às casas dos mais ricos e famosos. O que acontece no mundo da moda, beleza, estilo e comportamento de um jeito único.</desc>
-  </programme>
-  <programme start="20261116214200 -0300" stop="20261120000000 -0300" channel="TNT HD">
-    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261116214500 -0300" stop="20261116230000 -0300" channel="INOVA TV">
     <title lang="pt">Sensacional</title>
