@@ -2168,9 +2168,8 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Agromais</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261119000000 -0300" stop="20261119010000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.</desc>
+  <programme start="20261119000000 -0300" stop="20261119005500 -0300" channel="BAND Alagoas">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261119000000 -0300" stop="20261119010000 -0300" channel="BAND Maringá">
     <title lang="pt">Jornal da Noite</title>
@@ -2842,6 +2841,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc Inocentes 30 Anos - Ronaldo Passos</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
+  <programme start="20261119002000 -0300" stop="20261119003500 -0300" channel="SPORTV 3">
+    <title lang="pt">Heróis do Futuro: Ítalo Ferreira - Surfe</title>
+    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
+  </programme>
   <programme start="20261119002000 -0300" stop="20261119002500 -0300" channel="TRAVEL BOX">
     <title lang="pt">Dicas Do Travel</title>
     <desc lang="pt">Ao chegar na Ilha de Boipeba na Bahia, Luan e Alessandra descobrem o verdadeiro paraíso tropical e começam a explorar tudo que ela tem a oferecer.</desc>
@@ -3126,6 +3129,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119003500 -0300" stop="20261119010000 -0300" channel="SPORTV">
     <title lang="pt">VT - Flamengo x Athletico-PR</title>
     <desc lang="pt">Flamengo e Athletico-PR jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+  </programme>
+  <programme start="20261119003500 -0300" stop="20261119011000 -0300" channel="SPORTV 3">
+    <title lang="pt">Meu Nome É João Chianca</title>
+    <desc lang="pt">Um brasileiro que chegou como um meteoro à elite do surfe, experimentou altos e baixos, lutou e conseguiu se levantar. O nome dele é João Chianca.</desc>
   </programme>
   <programme start="20261119003500 -0300" stop="20261119022500 -0300" channel="TELECINE PIPOCA">
     <title lang="pt">Perseguição em Taipei</title>
@@ -3423,6 +3430,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Music Drops - Music Drops Conecta + - Especial Northon Vanalli</title>
     <desc lang="pt">Marques fez a cobertura do Conecta +, grande evento da música, e bateu um papo exclusivo com Northon Vanelli, que explicou como funciona a atuação da Sonotec no mercado. Confira os bastidores e novidades desse encontro!</desc>
   </programme>
+  <programme start="20261119005500 -0300" stop="20261119020000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
+  </programme>
   <programme start="20261119005500 -0300" stop="20261119020000 -0300" channel="BAND HD">
     <title lang="pt">Esporte Total</title>
     <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
@@ -3478,10 +3489,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119005500 -0300" stop="20261119013500 -0300" channel="RPC MARINGA">
     <title lang="pt">Lá na Minha Terra</title>
     <desc lang="pt">Elias pede dinheiro a Celestina. Jacinta sente ciúmes de Gofredo com Cosminha. Rosenda anuncia a Lina que decidiu ir para São Paulo atrás de Severino. Lina se emociona com a decisão de Rosenda.</desc>
-  </programme>
-  <programme start="20261119005500 -0300" stop="20261119022500 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
   </programme>
   <programme start="20261119005500 -0300" stop="20261119010000 -0300" channel="TRAVEL BOX">
     <title lang="pt">Dicas Do Travel</title>
@@ -3558,10 +3565,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119005900 -0300" stop="20261119010900 -0300" channel="rede-brasil">
     <title lang="pt">ORA PRO NOBIS</title>
     <category lang="pt">Infomercial</category>
-  </programme>
-  <programme start="20261119010000 -0300" stop="20261119020000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Esporte Total</title>
-    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.</desc>
   </programme>
   <programme start="20261119010000 -0300" stop="20261119030000 -0300" channel="BAND Amazonas">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
@@ -3880,6 +3883,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119011000 -0300" stop="20261119013000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Giro Da Rodada - Brasileirão - 33ª Rodada</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+  </programme>
+  <programme start="20261119011000 -0300" stop="20261119024000 -0300" channel="SPORTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
   </programme>
   <programme start="20261119011000 -0300" stop="20261119030500 -0300" channel="TELECINE FUN">
     <title lang="pt">Stand Up - Minha Vida É Uma Piada</title>
@@ -5397,10 +5404,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Enterrados</title>
     <desc lang="pt">Após um desabamento devastador deixá-los encurralados nas profundezas do subsolo, um grupo de mineiros luta pela sobrevivência enquanto procura uma forma de escapar antes que seja tarde.</desc>
   </programme>
-  <programme start="20261119022500 -0300" stop="20261119043000 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-  </programme>
   <programme start="20261119022500 -0300" stop="20261119042000 -0300" channel="TELECINE PIPOCA">
     <title lang="pt">A Teia</title>
     <desc lang="pt">Roy Freeman, um ex-detetive de homicídios com perda de memória, é forçado a revisitar um caso no qual ele condenou um homem inocente, porém não consegue se lembrar.</desc>
@@ -5707,6 +5710,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119024000 -0300" stop="20261119042300 -0300" channel="HBO Pop">
     <title lang="pt">Saudades, Te Amo</title>
     <desc lang="pt">Uma viúva, após a morte do marido, precisa organizar o funeral com um completo desconhecido: o dedicado assistente de seu filho, de quem está afastada.</desc>
+  </programme>
+  <programme start="20261119024000 -0300" stop="20261119044500 -0300" channel="SPORTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
   </programme>
   <programme start="20261119024000 -0300" stop="20261119025000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">Cocoricó na Cidade - Goiabinha da Vovó</title>
@@ -7886,10 +7893,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Igreja Internacional Da Graça De Deus, Show Da Fé Niterói</title>
     <desc lang="pt">Acompanhe testemunhos, orientações pastorais e eventos da Igreja Internacional da Graça de Deus.</desc>
   </programme>
-  <programme start="20261119043000 -0300" stop="20261119063000 -0300" channel="SPORTV 3">
-    <title lang="pt">Circuito Mundial de Surfe - Melhores Momentos - Especial Primeiro Semestre</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-  </programme>
   <programme start="20261119043000 -0300" stop="20261119050000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Experimente</title>
     <desc lang="pt">Cecilia Padilha é administradora com MBA pela Swiss Business School, e depois de 15 anos no mercado financeiro foi trabalhar em sua paixão, a gastronomia! Participou da primeira edição do reality show MasterChef Brasi.</desc>
@@ -8116,6 +8119,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119044500 -0300" stop="20261119060000 -0300" channel="RAI INTERNATIONAL">
     <title lang="pt">Unomattina</title>
     <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20261119044500 -0300" stop="20261119070000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Especial Brasileiros</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
   </programme>
   <programme start="20261119044500 -0300" stop="20261119051500 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">Hollywood On Set - Adeus Christopher Robin / A Morte Te Dá Parabéns / Somos Todos Iguais</title>
@@ -10330,10 +10337,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Boa Cama Boa Mesa</title>
     <desc lang="pt">Um programa que se apoia na seleção do guia para ir mais além e dar a conhecer uma região, nas suas mais diversas características, da gastronomia, à paisagem, das atividades e experiências ao alojamento.</desc>
   </programme>
-  <programme start="20261119063000 -0300" stop="20261119072000 -0300" channel="SPORTV 3">
-    <title lang="pt">Amazing Riders - O Salto Impossível</title>
-    <desc lang="pt">O superatleta Caio Afeto realiza pela 1a vez o salto de base jump do topo da Cachoeira do Eldorado na Amazônia, a maior queda d'água do Brasil, com mais de 350 metros.</desc>
-  </programme>
   <programme start="20261119063000 -0300" stop="20261119084000 -0300" channel="TELECINE PIPOCA">
     <title lang="pt">Bridget Jones: Louca pelo Garoto</title>
     <desc lang="pt">Viúva e mãe de dois filhos, Bridget Jones tenta recomeçar a vida e redescobrir o amor, enquanto lida com perdas, maternidade e novas paixões inesperadas.</desc>
@@ -10896,6 +10899,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119070000 -0300" stop="20261119080000 -0300" channel="SPORTV 2">
     <title lang="pt">SLS - Liga Mundial de Skate Street: Final Feminina - Tóquio, Japão</title>
     <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
+  </programme>
+  <programme start="20261119070000 -0300" stop="20261119072000 -0300" channel="SPORTV 3">
+    <title lang="pt">Heróis do Futuro: Ítalo Ferreira - Surfe</title>
+    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
   </programme>
   <programme start="20261119070000 -0300" stop="20261119083000 -0300" channel="TH+ SBT Tambaú">
     <title lang="pt">Se Liga Brasil</title>
@@ -12353,8 +12360,8 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <desc lang="pt">A Turma Do Gato Galáctico aprende sobre as profissões e mostra a importância delas para a a sociedade.</desc>
   </programme>
   <programme start="20261119082000 -0300" stop="20261119090000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Entrevista Coletiva</title>
-    <desc lang="pt">O programa conta com a participação de jornalistas convidados de diversos veículos de comunicação da capital. O Entrevista Coletiva é uma ótima opção para quem quer saber o que pensam as pessoas que dec...</desc>
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
   <programme start="20261119082000 -0300" stop="20261119090000 -0300" channel="BAND Paraná">
     <title lang="pt">Bora Paraná</title>
@@ -20334,7 +20341,7 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Interferência 00s Drops</title>
     <desc lang="pt">Clipes clássicos da década de 2000.</desc>
   </programme>
-  <programme start="20261119150500 -0300" stop="20261119154500 -0300" channel="SPORTV 3">
+  <programme start="20261119150500 -0300" stop="20261119155000 -0300" channel="SPORTV 3">
     <title lang="pt">Acesso Total - Ippon</title>
     <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
   </programme>
@@ -21039,10 +21046,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">Fala Mercado!</title>
     <desc lang="pt">Nesta temporada, os convidados conversam sobre o universo da comunicação no âmbito do mercado.</desc>
   </programme>
-  <programme start="20261119154500 -0300" stop="20261119171500 -0300" channel="SPORTV 3">
-    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
-    <desc lang="pt">"As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!"</desc>
-  </programme>
   <programme start="20261119154500 -0300" stop="20261119163000 -0300" channel="UNIVERSAL REALITY">
     <title lang="pt">The Real Housewives of Miami - Patricinhas</title>
     <desc lang="pt">Um plano é elaborado para tirar a mente de Alexia de Todd. Dra. Jackie faz uma visita domiciliar a Guerdy.</desc>
@@ -21078,6 +21081,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119155000 -0300" stop="20261119160000 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Alice &amp; Lewis - O Baile de Gelo</title>
     <desc lang="pt">O Rei do Lago Gelado convida a Rainha para um "baile gelado" em seu reino. Ansioso para ter êxito, o Rei nomeia Lewis para abrir a bola e ameaça removê-lo caso ele erre!</desc>
+  </programme>
+  <programme start="20261119155000 -0300" stop="20261119163500 -0300" channel="SPORTV 3">
+    <title lang="pt">Acesso Total - Ippon</title>
+    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
   </programme>
   <programme start="20261119155100 -0300" stop="20261119172800 -0300" channel="LIFETIME">
     <title lang="pt">Meu Presente de Natal</title>
@@ -21812,6 +21819,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">True Detective - Kiss Tomorrow Goodbye</title>
     <desc lang="pt">A terceira temporada de True Detective segue a história de um crime macabro envolvendo duas crianças desaparecidas no coração de Ozarks, Arkansas.</desc>
   </programme>
+  <programme start="20261119163500 -0300" stop="20261119173500 -0300" channel="SPORTV 3">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
+    <desc lang="pt">"As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!"</desc>
+  </programme>
   <programme start="20261119163600 -0300" stop="20261119164900 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball - A Chata</title>
     <desc lang="pt">Gumball e Darwin usam o tédio de Molly para parar o tempo e escapar de Tina.</desc>
@@ -22503,10 +22514,6 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
     <title lang="pt">È Sempre Mezzogiorno</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261119171500 -0300" stop="20261119184000 -0300" channel="SPORTV 3">
-    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
-    <desc lang="pt">"As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!"</desc>
-  </programme>
   <programme start="20261119171500 -0300" stop="20261119174000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Cidade Alerta</title>
     <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
@@ -22776,6 +22783,10 @@ Revelando é uma série de reportagens especiais sobre temas urgentes e decisivo
   <programme start="20261119173500 -0300" stop="20261119183200 -0300" channel="HBO Signature">
     <title lang="pt">True Detective - The Big Never</title>
     <desc lang="pt">A terceira temporada de True Detective segue a história de um crime macabro envolvendo duas crianças desaparecidas no coração de Ozarks, Arkansas.</desc>
+  </programme>
+  <programme start="20261119173500 -0300" stop="20261119184000 -0300" channel="SPORTV 3">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
+    <desc lang="pt">"As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!"</desc>
   </programme>
   <programme start="20261119173600 -0300" stop="20261119180000 -0300" channel="DISCOVERY KIDS HD">
     <title lang="pt">Peppa Pig - O Resgate</title>
@@ -26174,9 +26185,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">S.W.A.T. - Checkmate</title>
     <desc lang="pt">Quando um policial prestes a encerrar uma grande operação de tráfico de drogas é sequestrado, Hondo e a equipe correm para salvar um dos seus antes que seja tarde demais.</desc>
   </programme>
-  <programme start="20261119203000 -0300" stop="20261119205500 -0300" channel="BAND Alagoas">
+  <programme start="20261119203000 -0300" stop="20261119212500 -0300" channel="BAND Alagoas">
     <title lang="pt">A Traição</title>
-    <desc lang="pt">Kaan, um velho amigo de Ozan aparece de surpresa na cidade e juntos fazem uma jogada arriscada. Ozan fica enfurecido após descobrir que não virará gerente do projeto. Nazan conta para Oylum que Güzide vai para Holanda visit...</desc>
+    <desc lang="pt">Tolga e Oylum se beijam na hora de se despedir. Ozan descobre que foi enganado por Kaan. Oylum é levada para delegacia. Tarik vai até a casa de Ozan pegar o dinheiro de Oltan, mas é enganado pelo filho.</desc>
   </programme>
   <programme start="20261119203000 -0300" stop="20261119212500 -0300" channel="BAND HD">
     <title lang="pt">A Traição</title>
@@ -26688,10 +26699,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261119205400 -0300" stop="20261119210000 -0300" channel="CARTOON HD">
     <title lang="pt">Irmão do Jorel - Judoka Kid</title>
     <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Com a ajuda da família e desua melhor amiga, Irmão do Jorel enfrenta os primeiros obstáculos da vida num ritmo alu...</desc>
-  </programme>
-  <programme start="20261119205500 -0300" stop="20261119212500 -0300" channel="BAND Alagoas">
-    <title lang="pt">Guerra das Rosas</title>
-    <desc lang="pt">Gulru aciona seu advogado e Tibet fica surpreso com a notícia. Mesude descobre que Gulru armou para separar Çiçek e Taner. Gulfem se despede da mansão. Çiçek e as irmãs dizem que nunca irão perdoar Gulru.</desc>
   </programme>
   <programme start="20261119205500 -0300" stop="20261119212500 -0300" channel="BAND Maringá">
     <title lang="pt">Guerra das Rosas</title>
@@ -27261,7 +27268,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Flash, O Aventureiro - Macaco</title>
     <desc lang="pt">Uma dupla do barulho que gosta de visitar lugares diferentes. De um lado, uma mulher que entende da rotina animal e desvenda muitos segredos.</desc>
   </programme>
-  <programme start="20261119212500 -0300" stop="20261119223000 -0300" channel="BAND Alagoas">
+  <programme start="20261119212500 -0300" stop="20261119222000 -0300" channel="BAND Alagoas">
     <title lang="pt">Show da Fé</title>
     <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
@@ -28377,6 +28384,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261119221914 -0300" stop="20261119223415 -0300" channel="LMC+HD">
     <title lang="pt">For A Dream</title>
     <desc lang="pt">Reality musical sobre talentos musicais enfrentando desafios e apresentações em busca de uma oportunidade artística.</desc>
+  </programme>
+  <programme start="20261119222000 -0300" stop="20261119223000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Linha de Combate - A Prévia</title>
+    <desc lang="pt">Programa que repercute os destaques do Linha de Combate, com entrevistas e reportagens.</desc>
   </programme>
   <programme start="20261119222000 -0300" stop="20261119223000 -0300" channel="BAND HD">
     <title lang="pt">Linha de Combate - A Prévia</title>
@@ -29617,9 +29628,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Troca de Passes - Ao Vivo</title>
     <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
   </programme>
-  <programme start="20261119233000 -0300" stop="20261120000000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP do Brasil - Melhores Momentos</title>
-    <desc lang="pt">"Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!"</desc>
+  <programme start="20261119233000 -0300" stop="20261120003000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Brasil</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
   </programme>
   <programme start="20261119233000 -0300" stop="20261120000000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Do Pão Ao Caviar</title>
@@ -30260,10 +30271,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Jornal do SBT News - Reprise</title>
     <desc lang="pt">Marina Demori comanda o Jornal do SBT News, com a cobertura dos assuntos mais importantes do Brasil e do mundo.</desc>
   </programme>
-  <programme start="20261120000000 -0300" stop="20261120020500 -0300" channel="SPORTV 3">
-    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-  </programme>
   <programme start="20261120000000 -0300" stop="20261120003000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Experimente</title>
     <desc lang="pt">Cecilia Padilha é administradora com MBA pela Swiss Business School, e depois de 15 anos no mercado financeiro foi trabalhar em sua paixão, a gastronomia! Participou da primeira edição do reality show MasterChef Brasi.</desc>
@@ -30458,16 +30465,16 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Numberblocks - A Melhor Banda de Numerolândia</title>
     <desc lang="pt">Numberblock Três perdeu um dos seus botões. Numberblock Um se transforma em detetive para ajudar Três a encontrá-lo e ver as horas.</desc>
   </programme>
-  <programme start="20261120000800 -0300" stop="20261120011200 -0300" channel="TNT NOVELAS">
-    <title lang="pt">A Promessa</title>
-    <desc lang="pt">Enquanto Lorenzo tenta descobrir o que María Antonia e Alonso estão escondendo, o estilo de vida imprudente de Lope começa a afetá-lo.</desc>
-  </programme>
-  <programme start="20261120000800 -0300" stop="20261120013400 -0300" channel="rede-brasil">
+  <programme start="20261120000700 -0300" stop="20261120013300 -0300" channel="rede-brasil">
     <title lang="pt">A AUTOPSIA (A2)</title>
     <category lang="pt">Filmes</category>
     <rating system="ClassInd">
       <value>14</value>
     </rating>
+  </programme>
+  <programme start="20261120000800 -0300" stop="20261120011200 -0300" channel="TNT NOVELAS">
+    <title lang="pt">A Promessa</title>
+    <desc lang="pt">Enquanto Lorenzo tenta descobrir o que María Antonia e Alonso estão escondendo, o estilo de vida imprudente de Lope começa a afetá-lo.</desc>
   </programme>
   <programme start="20261120000900 -0300" stop="20261120003400 -0300" channel="WARNER CHANNEL">
     <title lang="pt">Two and a Half Men - Big Flappy Bastards</title>
@@ -30888,6 +30895,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120003000 -0300" stop="20261120012000 -0300" channel="RPC MARINGA">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+  </programme>
+  <programme start="20261120003000 -0300" stop="20261120020000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - 2º Treino Livre - GP de Las Vegas - Ao Vivo</title>
+    <desc lang="pt">"Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!"</desc>
   </programme>
   <programme start="20261120003000 -0300" stop="20261120010000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Dose Dupla</title>
@@ -32068,13 +32079,13 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Mentiras Criminosas - Sem Esconder a Verdade</title>
     <desc lang="pt">Jenny Webb, de 32 anos, não volta para casa, no Michigan. Seus parentes se preocupam, já que a futura mamãe está a poucas semanas de dar à luz. Mais tarde, Jenny é encontrada morta, deixando todos com medo do impens...</desc>
   </programme>
+  <programme start="20261120013300 -0300" stop="20261120014300 -0300" channel="rede-brasil">
+    <title lang="pt">ORA PRO NOBIS</title>
+    <category lang="pt">Infomercial</category>
+  </programme>
   <programme start="20261120013400 -0300" stop="20261120013500 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Performances Do Music - Performances Do Music - Porão Do Rock 2023 - Luisa E Os Alquimistas - Garota Ligeira</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
-  </programme>
-  <programme start="20261120013400 -0300" stop="20261120014400 -0300" channel="rede-brasil">
-    <title lang="pt">ORA PRO NOBIS</title>
-    <category lang="pt">Infomercial</category>
   </programme>
   <programme start="20261120013409 -0300" stop="20261120014256 -0300" channel="DumDum">
     <title lang="pt">Flash, O Aventureiro - Adax</title>
@@ -32196,16 +32207,16 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Two and a Half Men - Did You Check with the Captain of the Flying Monkeys?</title>
     <desc lang="pt">Charlie repensa sobre a forma como ele trata as mulheres quando ele, Alan e Jake são forçados a tentar alegrar a coitada da Evelyn depois de seu namorado dar um fim no relacionamento.</desc>
   </programme>
-  <programme start="20261120014400 -0300" stop="20261120014500 -0300" channel="MUSIC BOX BRAZIL">
-    <title lang="pt">Performances Do Music - Performances Do Music - Porão Do Rock 2023 - Dead Fish - Você</title>
-    <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
-  </programme>
-  <programme start="20261120014400 -0300" stop="20261120021300 -0300" channel="rede-brasil">
+  <programme start="20261120014300 -0300" stop="20261120021300 -0300" channel="rede-brasil">
     <title lang="pt">A Feiticeira</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
       <value>L</value>
     </rating>
+  </programme>
+  <programme start="20261120014400 -0300" stop="20261120014500 -0300" channel="MUSIC BOX BRAZIL">
+    <title lang="pt">Performances Do Music - Performances Do Music - Porão Do Rock 2023 - Dead Fish - Você</title>
+    <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
   <programme start="20261120014500 -0300" stop="20261120024000 -0300" channel="AXN">
     <title lang="pt">Hudson &amp; Rex - Tunnel Vision</title>
@@ -32675,6 +32686,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">VT - Vitória x Bragantino</title>
     <desc lang="pt">Vitória e Bragantino jogam pela 35ª rodada do Segundo Turno do Brasileirão, no Manoel Barradas, em Salvador (BA).</desc>
   </programme>
+  <programme start="20261120020000 -0300" stop="20261120023000 -0300" channel="SPORTV 3">
+    <title lang="pt">Lendas Ayrton Senna</title>
+    <desc lang="pt">A carreira do tricampeão mundial de Fórmula 1 e um dos maiores ídolos do esporte brasileiro é contada em dois episódios.</desc>
+  </programme>
   <programme start="20261120020000 -0300" stop="20261120023000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Jantar O Quê?</title>
     <desc lang="pt">Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
@@ -32854,10 +32869,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">C.S.I. Miami - Getting Axed</title>
     <desc lang="pt">Os CSIs investigam um local de trabalho onde ocorreu o assasinato misterioso de uma recepcionista que era odiada por todos.</desc>
   </programme>
-  <programme start="20261120020500 -0300" stop="20261120040500 -0300" channel="SPORTV 3">
-    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-  </programme>
   <programme start="20261120020500 -0300" stop="20261120035000 -0300" channel="TELECINE PIPOCA">
     <title lang="pt">Oddity - Objetos Obscuros</title>
     <desc lang="pt">Um ano após a morte de sua irmã gêmea, a vidente cega Darcy decide voltar ao local do assassinato. Disposta a descobrir a verdade, ela usará seus dons e os objetos mais obscuros de sua coleção.</desc>
@@ -32934,7 +32945,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Cortes Do Music - Cortes Do Music - Doc Lenha Brasa E Bronca - Neurozito Barbosa</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
-  <programme start="20261120021300 -0300" stop="20261120030100 -0300" channel="rede-brasil">
+  <programme start="20261120021300 -0300" stop="20261120030000 -0300" channel="rede-brasil">
     <title lang="pt">Buffy A Caça Vampiros</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -33308,6 +33319,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120023000 -0300" stop="20261120030000 -0300" channel="SPORTV">
     <title lang="pt">VT - Remo x Chapecoense</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+  </programme>
+  <programme start="20261120023000 -0300" stop="20261120043000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP do Brasil - São Paulo</title>
+    <desc lang="pt">"Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!"</desc>
   </programme>
   <programme start="20261120023000 -0300" stop="20261120030000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Jantar O Quê?</title>
@@ -34012,6 +34027,13 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120030000 -0300" stop="20261120040000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
+  <programme start="20261120030000 -0300" stop="20261120035900 -0300" channel="rede-brasil">
+    <title lang="pt">Os Invasores</title>
+    <category lang="pt">Series</category>
+    <rating system="ClassInd">
+      <value>10</value>
+    </rating>
+  </programme>
   <programme start="20261120030000 -0300" stop="20261120040000 -0300" channel="top-tv">
     <title lang="pt">Programação TOP TV</title>
   </programme>
@@ -34029,13 +34051,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120030100 -0300" stop="20261120035100 -0300" channel="TNT SERIES HD">
     <title lang="pt">Law &amp; Order SVU - Fraternidade</title>
     <desc lang="pt">Um jovem morto é encontrado em uma estação de tratamento de água. Examinadores descobrem que o arco de um violino muito caro foi inserido no corpo do rapaz.</desc>
-  </programme>
-  <programme start="20261120030100 -0300" stop="20261120035900 -0300" channel="rede-brasil">
-    <title lang="pt">Os Invasores</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>10</value>
-    </rating>
   </programme>
   <programme start="20261120030108 -0300" stop="20261120030807 -0300" channel="DumDum">
     <title lang="pt">Flash, O Aventureiro - Tigre Branco</title>
@@ -34941,7 +34956,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Performances Do Music - Performances Do Music - Duda Calvin - Festival Recomeço - Velhas Fotos</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
-  <programme start="20261120035900 -0300" stop="20261120041000 -0300" channel="rede-brasil">
+  <programme start="20261120035900 -0300" stop="20261120040900 -0300" channel="rede-brasil">
     <title lang="pt">ORA PRO NOBIS</title>
     <category lang="pt">Infomercial</category>
   </programme>
@@ -35344,10 +35359,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Vozes - Galvão Bueno - Ouros Olímpicos</title>
     <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico.</desc>
   </programme>
-  <programme start="20261120040500 -0300" stop="20261120061000 -0300" channel="SPORTV 3">
-    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-  </programme>
   <programme start="20261120040500 -0300" stop="20261120042700 -0300" channel="TLC HD">
     <title lang="pt">Cupom Mania - Callie e Kelly</title>
     <desc lang="pt">Explore o mundo dos reis da pechincha, que dominam a arte de economizar usando cupons de desconto. Conheça pessoas comuns que economizam centenas de dólares em uma única negociação.</desc>
@@ -35367,6 +35378,13 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120040700 -0300" stop="20261120043000 -0300" channel="GLOOB HD">
     <title lang="pt">As Aventuras Do Gato De Botas - Uma Tribo Selvagem</title>
     <desc lang="pt">Após conquistar a confiança das Zephilim, Gato de Botas invade o castelo do Rei Cego para salvar seus amigos, restaurar a ordem e fechar o portal de uma vez por todas.</desc>
+  </programme>
+  <programme start="20261120040900 -0300" stop="20261120043600 -0300" channel="rede-brasil">
+    <title lang="pt">Além da Imaginação</title>
+    <category lang="pt">Series</category>
+    <rating system="ClassInd">
+      <value>10</value>
+    </rating>
   </programme>
   <programme start="20261120040921 -0300" stop="20261120041149 -0300" channel="LMC+HD">
     <title lang="pt">Os Salmos</title>
@@ -35411,13 +35429,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120041000 -0300" stop="20261120042000 -0300" channel="WOOHOO HD">
     <title lang="pt">X1 Improváveis</title>
     <desc lang="pt">Quem leva a melhor num embate entre Dollynho e Mario? Num X1 entre Pikachu e um vira lata caramelo quem ganha? O X1 Improváveis vai te responder, com conhecimento de causa, essas e outras perguntas.</desc>
-  </programme>
-  <programme start="20261120041000 -0300" stop="20261120043600 -0300" channel="rede-brasil">
-    <title lang="pt">Além da Imaginação</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>10</value>
-    </rating>
   </programme>
   <programme start="20261120041100 -0300" stop="20261120042300 -0300" channel="CARTOON HD">
     <title lang="pt">O Mundo de Greg - Santa Indecisão</title>
@@ -35751,6 +35762,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">VT - Vasco x Internacional</title>
     <desc lang="pt">Vasco e Internacional jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no São Januário, no Rio de Janeiro (RJ).</desc>
   </programme>
+  <programme start="20261120043000 -0300" stop="20261120053000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - 1º Treino Livre - GP de Las Vegas</title>
+    <desc lang="pt">"Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!"</desc>
+  </programme>
   <programme start="20261120043000 -0300" stop="20261120050000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Bons Drinks</title>
     <desc lang="pt">A oportunidade de levar a experiência do bar para sua casa chegou! A atração ensina a preparar e apreciar coquetéis incríveis e famosos.</desc>
@@ -35858,7 +35873,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Cortes Do Music - Cortes Do Music - Road Sessions - Otavio Rocha E Beto Werther</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
-  <programme start="20261120043600 -0300" stop="20261120045000 -0300" channel="rede-brasil">
+  <programme start="20261120043600 -0300" stop="20261120044900 -0300" channel="rede-brasil">
     <title lang="pt">O Homem do Disco Voador</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -36009,6 +36024,13 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Eu Não Sabia que Estava Grávida - Problema em Dobro</title>
     <desc lang="pt">Uma adolescente descobre que está grávida após ser informada que jamais teria filhos devido a uma agressiva quimioterapia.</desc>
   </programme>
+  <programme start="20261120044900 -0300" stop="20261120051500 -0300" channel="rede-brasil">
+    <title lang="pt">A FAMILIA ADDAMS</title>
+    <category lang="pt">Series</category>
+    <rating system="ClassInd">
+      <value>L</value>
+    </rating>
+  </programme>
   <programme start="20261120045000 -0300" stop="20261120051500 -0300" channel="A&amp;E">
     <title lang="pt">Guerra No Trânsito - Bebê a Bordo</title>
     <desc lang="pt">Dois homens tentam roubar um carro em um lava-jato na Louisiana. Um adolescente utiliza um estacionamento do Alabama para realizar manobras perigosas.</desc>
@@ -36028,13 +36050,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120045000 -0300" stop="20261120050000 -0300" channel="WOOHOO HD">
     <title lang="pt">Projeto Califa</title>
     <desc lang="pt">Boletim sobre os melhores picos de surfe da Califórnia.</desc>
-  </programme>
-  <programme start="20261120045000 -0300" stop="20261120051600 -0300" channel="rede-brasil">
-    <title lang="pt">A FAMILIA ADDAMS</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20261120045200 -0300" stop="20261120045500 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Music Drops - Music Drops - Micareta Sp - Daniela Mercury</title>
@@ -36522,6 +36537,13 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">The Rookie - Código</title>
     <desc lang="pt">Nolan e equipe precisam negociar com um homem que está criando uma situação com reféns para garantir que sua esposa faça uma cirurgia de vida ou morte.</desc>
   </programme>
+  <programme start="20261120051500 -0300" stop="20261120054000 -0300" channel="rede-brasil">
+    <title lang="pt">Os Monstros</title>
+    <category lang="pt">Series</category>
+    <rating system="ClassInd">
+      <value>L</value>
+    </rating>
+  </programme>
   <programme start="20261120051510 -0300" stop="20261120051832 -0300" channel="LMC+HD">
     <title lang="pt">Os Salmos</title>
     <desc lang="pt">Em meio ao ritmo acelerado da vida, Os Salmos convida você a uma pausa profunda para reconectar corpo, mente e espírito. Através de imagens inspiradoras  paisagens serenas, momentos de contemplação e beleza natural  somos ...</desc>
@@ -36541,13 +36563,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120051600 -0300" stop="20261120053400 -0300" channel="PRIME BOX BRAZIL">
     <title lang="pt">Curta In Box: Margem</title>
     <desc lang="pt">Um homem busca por fé e esperança enquanto enfrenta lutos decorrentes de perdas trágicas que se somam à dor da partida de seu enteado da sua vida.</desc>
-  </programme>
-  <programme start="20261120051600 -0300" stop="20261120054100 -0300" channel="rede-brasil">
-    <title lang="pt">Os Monstros</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20261120051700 -0300" stop="20261120052800 -0300" channel="GLOOB HD">
     <title lang="pt">Alvinnn!!! E Os Esquilos - Canção Do Amor</title>
@@ -36761,6 +36776,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">VT - Vitória x Bragantino</title>
     <desc lang="pt">Vitória e Bragantino jogam pela 35ª rodada do Segundo Turno do Brasileirão, no Manoel Barradas, em Salvador (BA).</desc>
   </programme>
+  <programme start="20261120053000 -0300" stop="20261120063000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - 2º Treino Livre - GP de Las Vegas</title>
+    <desc lang="pt">"Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!"</desc>
+  </programme>
   <programme start="20261120053000 -0300" stop="20261120073000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Do Pão Ao Caviar</title>
     <desc lang="pt">Do Pão ao Caviar, esse é o leque de possibilidades que o casal Ana e José apresentam e cozinham para os seus milhares de seguidores na redes sociais.</desc>
@@ -36937,7 +36956,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Chrisley Knows Best - Amor E Casamento</title>
     <desc lang="pt">Quando Todd e Julie se preparam para fazer um vídeo de aniversário do dia do casamento, as rachaduras da relação começam a aparecer e eles lutam para se reinventar como o casal perfeito.</desc>
   </programme>
-  <programme start="20261120054100 -0300" stop="20261120060000 -0300" channel="rede-brasil">
+  <programme start="20261120054000 -0300" stop="20261120060000 -0300" channel="rede-brasil">
     <title lang="pt">Os Três Patetas (PB)</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -37763,10 +37782,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Performances Do Music - Performances Do Music - Porão Do Rock 2023 - Ypu - Somebody In Love With You</title>
     <desc lang="pt">Confira os melhores cortes da programação do Music Box Brazil.</desc>
   </programme>
-  <programme start="20261120061000 -0300" stop="20261120082000 -0300" channel="SPORTV 3">
-    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-  </programme>
   <programme start="20261120061000 -0300" stop="20261120062000 -0300" channel="TRAVEL BOX">
     <title lang="pt">Acontece No Travel - Bariloche 4</title>
     <desc lang="pt">O Travel leva você para descobrir o que acontece pelo mundo.</desc>
@@ -38073,6 +38088,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120063000 -0300" stop="20261120064500 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">The Next Big Ideia</title>
     <desc lang="pt">O Futuro dos Negócios e os Negócios com Futuro. Acompanhem as melhores histórias do mundo da inovação.</desc>
+  </programme>
+  <programme start="20261120063000 -0300" stop="20261120083000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP dos EUA</title>
+    <desc lang="pt">"Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!"</desc>
   </programme>
   <programme start="20261120063000 -0300" stop="20261120070000 -0300" channel="STUDIO UNIVERSAL HD">
     <title lang="pt">Hollywood On Set - Jurassic World: Reino Ameaçado / Sexy por Acidente / Traffik - Liberdade Roubada</title>
@@ -40085,8 +40104,8 @@ Quais são os mecanismos financeiros capazes de quebrar a hegemonia do dólar e 
     <desc lang="pt">Enquanto o Lanterna Verde está consertando sua nave espacial, os Batwheels querem brincar com seu adorável animal de estimação alienígena.</desc>
   </programme>
   <programme start="20261120082000 -0300" stop="20261120090000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Entrevista Coletiva</title>
-    <desc lang="pt">O programa conta com a participação de jornalistas convidados de diversos veículos de comunicação da capital. O Entrevista Coletiva é uma ótima opção para quem quer saber o que pensam as pessoas que dec...</desc>
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
   <programme start="20261120082000 -0300" stop="20261120090000 -0300" channel="BAND Paraná">
     <title lang="pt">Bora Paraná</title>
@@ -40103,10 +40122,6 @@ Quais são os mecanismos financeiros capazes de quebrar a hegemonia do dólar e 
   <programme start="20261120082000 -0300" stop="20261120091000 -0300" channel="HISTORY">
     <title lang="pt">O Melhor de Caçadores de Relíquias - Caçada Entre Irmãos</title>
     <desc lang="pt">A busca por objetos enferrujados que valem seu peso em ouro se torna uma festa entre irmãos quando Mike e Robbie examinam carros e caminhões antigos no interior do estado de Nova Iorque.</desc>
-  </programme>
-  <programme start="20261120082000 -0300" stop="20261120101000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP do Bahrein</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
   </programme>
   <programme start="20261120082000 -0300" stop="20261120082500 -0300" channel="TV BRASIL">
     <title lang="pt">Mundo Bita</title>
@@ -40411,6 +40426,10 @@ Quais são os mecanismos financeiros capazes de quebrar a hegemonia do dólar e 
   <programme start="20261120083000 -0300" stop="20261120100000 -0300" channel="SPORTV">
     <title lang="pt">sportv News - Ao Vivo</title>
     <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+  </programme>
+  <programme start="20261120083000 -0300" stop="20261120103500 -0300" channel="SPORTV 3">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
   </programme>
   <programme start="20261120083000 -0300" stop="20261120090000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Atelier Gourmand</title>
@@ -42484,10 +42503,6 @@ Quais são os mecanismos financeiros capazes de quebrar a hegemonia do dólar e 
     <title lang="pt">Jukebox (videoclipes) - Jukebox (videoclipes)</title>
     <desc lang="pt">O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
   </programme>
-  <programme start="20261120101000 -0300" stop="20261120121000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-  </programme>
   <programme start="20261120101000 -0300" stop="20261120103500 -0300" channel="UNIVERSAL PREMIERE HD">
     <title lang="pt">Parks And Recreation - Leslie vs. April</title>
     <desc lang="pt">April tenta fazer o lote 48 se transformar em um parque de cães, irritando Leslie; Tom recebe a ajuda de Ben com a sua nova ideia de negócio; Andy melhora suas técnicas de investigação de cena de crime.</desc>
@@ -42901,6 +42916,10 @@ Quais são os mecanismos financeiros capazes de quebrar a hegemonia do dólar e 
   <programme start="20261120103500 -0300" stop="20261120114500 -0300" channel="RPC MARINGA">
     <title lang="pt">Mais Você</title>
     <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+  </programme>
+  <programme start="20261120103500 -0300" stop="20261120125000 -0300" channel="SPORTV 3">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
   </programme>
   <programme start="20261120103500 -0300" stop="20261120114500 -0300" channel="TV ASA BRANCA">
     <title lang="pt">Mais Você</title>
@@ -43461,6 +43480,10 @@ Quais são os mecanismos financeiros capazes de quebrar a hegemonia do dólar e 
   </programme>
   <programme start="20261120110000 -0300" stop="20261120120000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
+  </programme>
+  <programme start="20261120110000 -0300" stop="20261120120300 -0300" channel="rede-brasil">
+    <title lang="pt">PARECE TERAPIA | RAFA OLIVEIRA |</title>
+    <category lang="pt">Outros</category>
   </programme>
   <programme start="20261120110000 -0300" stop="20261120120000 -0300" channel="top-tv">
     <title lang="pt">Programação TOP TV</title>
@@ -44855,10 +44878,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">MIB - Homens de Preto 2</title>
     <desc lang="pt">Jay, agente de organização secreta que vigia a presença de extraterrestres na Terra, procura velho parceiro para enfrentar vilã alienígena.</desc>
   </programme>
-  <programme start="20261120121000 -0300" stop="20261120125500 -0300" channel="SPORTV 3">
-    <title lang="pt">Acesso Total - Ippon</title>
-    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
-  </programme>
   <programme start="20261120121200 -0300" stop="20261120123900 -0300" channel="OFF HD">
     <title lang="pt">7 Cumes - 7 Cumes - Kilimanjaro 2</title>
     <desc lang="pt">O montanhista Gustavo Ziller está na Tanzânia. Dando início a expedição de alcançar o cume mais alto de Klimanjaro, ele conhece os habitantes da região e explora a cultura local.</desc>
@@ -45363,6 +45382,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Alice &amp; Lewis - Os Pintores Confeiteiros</title>
     <desc lang="pt">Alice está convencida de que é uma pintora muito talentosa! Mas quando precisa ajudar Lewis a pintar o bolo de aniversário da Rainha, descobre que estava enganada!</desc>
   </programme>
+  <programme start="20261120125000 -0300" stop="20261120133500 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: Especial Superação - Episódio Único</title>
+    <desc lang="pt">Eles venceram a batalha contra o câncer e brilharam no maior palco do esporte mundial: conheça as jornadas de William Flaherty e Santiago Lange</desc>
+  </programme>
   <programme start="20261120125000 -0300" stop="20261120130000 -0300" channel="TV RA TIM BUM">
     <title lang="pt">Esquadrão do Mar Azul - Parece, Mas Não É</title>
     <desc lang="pt">A série tem como objetivo revelar os mistérios do mundo subaquático, através de histórias divertidas sobre as sua biodiversidades e os desafios que seus habitantes precisam enfrentar para sobriver no Planeta Água.</desc>
@@ -45402,10 +45425,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120125500 -0300" stop="20261120132000 -0300" channel="BIS HD">
     <title lang="pt">Inesquecíveis Bossa Nova</title>
     <desc lang="pt">Olivia Hime e Francis Hime homenageiam grandes músicas que marcaram a Bossa Nova.No programa de hoje sucessos como "Insensatez", "Garota de Ipanema" e "Chega de Saudade"</desc>
-  </programme>
-  <programme start="20261120125500 -0300" stop="20261120153000 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20261120125900 -0300" stop="20261120130000 -0300" channel="FRANCE 24 HD">
     <title lang="pt">Tiempo Mundo</title>
@@ -46306,6 +46325,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Mya Go - Alimentando Patos</title>
     <desc lang="pt">Mamãe Go leva Mya e Emily Divide para alimentar os patos, para a tristeza de Sammy. Quando chegam ao parque, porém, o caçula faz amizades com patinhos!</desc>
   </programme>
+  <programme start="20261120133500 -0300" stop="20261120141500 -0300" channel="SPORTV 3">
+    <title lang="pt">Acesso Total - Ippon</title>
+    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
+  </programme>
   <programme start="20261120133500 -0300" stop="20261120134500 -0300" channel="TV RA TIM BUM">
     <title lang="pt">Quintal no Zoológico - Jardineiros</title>
     <desc lang="pt">A série Quintal no Zoo, ambientada inteiramente no zoológico de São Paulo.</desc>
@@ -46883,8 +46906,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120140000 -0300" stop="20261120143000 -0300" channel="canal-saude">
     <title lang="pt">Bate Papo na SaÃºde : Cientistas IndÃ­genas</title>
   </programme>
-  <programme start="20261120140000 -0300" stop="20261120160000 -0300" channel="jovem-pan-tv">
-    <title lang="pt">TEMPO REAL</title>
+  <programme start="20261120140000 -0300" stop="20261120163000 -0300" channel="jovem-pan-tv">
+    <title lang="pt">BUNDESLIGA 2 · DARMSTADT 98 x HEIDENHEIM</title>
   </programme>
   <programme start="20261120140000 -0300" stop="20261120150000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
@@ -47018,6 +47041,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120141500 -0300" stop="20261120143800 -0300" channel="GLOOB HD">
     <title lang="pt">Miraculous - As Aventuras De L - Oni-Chan</title>
     <desc lang="pt">Kioko é akumatizada, virando Oni-Chan. Armada com uma máscara mágica, ela quer manter Lila longe de Adrien... para sempre. Será que Ladybug e Cat Noir conseguirão lidar com ela?</desc>
+  </programme>
+  <programme start="20261120141500 -0300" stop="20261120143000 -0300" channel="SPORTV 3">
+    <title lang="pt">Especial Consciência Negra</title>
+    <desc lang="pt">Aretha Duarte entrou para a história como a primeira mulher negra brasileira a alcançar o topo do Everest. Mas sua maior conquista talvez esteja longe da montanha mais alta do mundo.</desc>
   </programme>
   <programme start="20261120141500 -0300" stop="20261120163000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Genoa x Milan</title>
@@ -47354,6 +47381,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120143000 -0300" stop="20261120153000 -0300" channel="SBT São Paulo">
     <title lang="pt">Marimar</title>
     <desc lang="pt">Sérgio conversa com Marimar e a convence a aceitar sua ajuda. Ele promete voltar e ela pede um beijo de despedida.</desc>
+  </programme>
+  <programme start="20261120143000 -0300" stop="20261120153000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Bahrein</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
   </programme>
   <programme start="20261120143000 -0300" stop="20261120150000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Do Pão Ao Caviar</title>
@@ -48582,9 +48613,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
   </programme>
-  <programme start="20261120153000 -0300" stop="20261120163000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP de Singapura - Melhores Momentos</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+  <programme start="20261120153000 -0300" stop="20261120160000 -0300" channel="SPORTV 3">
+    <title lang="pt">Baú do Esporte: Lendas - Garrincha</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
   </programme>
   <programme start="20261120153000 -0300" stop="20261120160000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Dose Dupla</title>
@@ -49117,6 +49148,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Casados À Primeira Vista</title>
     <desc lang="pt">Quatorze candidatos são reunidos em pares e conhecem o companheiro apenas no dia do próprio casamento. O casal terá uma lua de mel e, após oito semanas de convivência, decide se quer ou não manter a relação.</desc>
   </programme>
+  <programme start="20261120160000 -0300" stop="20261120170000 -0300" channel="SPORTV 3">
+    <title lang="pt">Futevôlei - Botafogo x Cruzeiro - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as emoções da Liga Nacional de Futevôlei, um torneio que conta com os maiores clubes esportivos brasileiro.</desc>
+  </programme>
   <programme start="20261120160000 -0300" stop="20261120163000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Jantar O Quê?</title>
     <desc lang="pt">Quando chega a noite, bate aquela vontade de desfrutar um momento gostoso, nesta hora, uma mesma dúvida nasce em muitos corações e estômagos diferentes: jantar o quê?</desc>
@@ -49169,9 +49204,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   </programme>
   <programme start="20261120160000 -0300" stop="20261120163000 -0300" channel="canal-saude">
     <title lang="pt">Comunidade em Cena : Ko Si Ewe Si Orisa - Sem Folha nÃ£o Tem OrixÃ¡</title>
-  </programme>
-  <programme start="20261120160000 -0300" stop="20261120180000 -0300" channel="jovem-pan-tv">
-    <title lang="pt">3 EM 1</title>
   </programme>
   <programme start="20261120160000 -0300" stop="20261120170000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
@@ -49594,10 +49626,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Cidade Alerta</title>
     <desc lang="pt">O Cidade Alerta traz a cobertura policial e as denúncias do público, além de prestar serviço a quem busca ajuda para solucionar casos de mortes e desaparecimentos.</desc>
   </programme>
-  <programme start="20261120163000 -0300" stop="20261120165000 -0300" channel="SPORTV 3">
-    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
-    <desc lang="pt">A maior primeira volta de um piloto de F1 teve Ayrton Senna como protagonista e abriu uma vitória incontestável em Donington Park, na Inglaterra. Era o GP da Europa de 1993, terceira prova da temporada.</desc>
-  </programme>
   <programme start="20261120163000 -0300" stop="20261120170000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Do Simples ao Espetacular</title>
     <desc lang="pt">Aprenda receitas diferentes, seja com ingredientes mais comuns ou aqueles mais requintados.</desc>
@@ -49640,6 +49668,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   </programme>
   <programme start="20261120163000 -0300" stop="20261120164500 -0300" channel="canal-saude">
     <title lang="pt">Em Pauta na SaÃºde : 20.11.2026</title>
+  </programme>
+  <programme start="20261120163000 -0300" stop="20261120180000 -0300" channel="jovem-pan-tv">
+    <title lang="pt">3 EM 1</title>
   </programme>
   <programme start="20261120163000 -0300" stop="20261120170000 -0300" channel="tvt">
     <title lang="pt">BEM VIVER</title>
@@ -49810,10 +49841,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120165000 -0300" stop="20261120191000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Mais Pecuária</title>
     <desc lang="pt">Reportagens especiais sobre agronegócio, análises gráficas, entrevistas com especialistas do setor, agenda de leilões, notícias do mercado financeiro, físico e futuro.</desc>
-  </programme>
-  <programme start="20261120165000 -0300" stop="20261120190000 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20261120165000 -0300" stop="20261120184400 -0300" channel="TCM BR">
     <title lang="pt">A Sedutora Madame Bovary</title>
@@ -50074,6 +50101,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120170000 -0300" stop="20261120184500 -0300" channel="SIC INTERNACIONAL">
     <title lang="pt">Jornal da Noite</title>
     <desc lang="pt">É apresentado de segunda a sexta-feira pelos jornalistas Rodrigo Guedes de Carvalho e Clara de Sousa. Aos fins de semana, é apresentado por João Moleira.</desc>
+  </programme>
+  <programme start="20261120170000 -0300" stop="20261120180000 -0300" channel="SPORTV 3">
+    <title lang="pt">Futevôlei - São Paulo x Coritiba - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as emoções da Liga Nacional de Futevôlei, um torneio que conta com os maiores clubes esportivos brasileiro.</desc>
   </programme>
   <programme start="20261120170000 -0300" stop="20261120173000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Que Seja Eterno Enquanto Cure</title>
@@ -50939,9 +50970,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="ARTE 1 HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120180000 -0300" stop="20261120185000 -0300" channel="AXN">
-    <title lang="pt">Hawaii Five-0 - Ka Hana Malu (Inside Job)</title>
-    <desc lang="pt">Enquanto a equipe investiga o assassinato de um casal no qual os seus filhos são os principais suspeitos, McGarrett fica chocado quando a tia Deb retorna para a ilha com seu novo noivo.</desc>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="AXN">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120180000 -0300" stop="20261120185000 -0300" channel="BAND Maringá">
     <title lang="pt">Brasil Urgente Local</title>
@@ -50971,9 +51001,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="CANAL UOL">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120180000 -0300" stop="20261120181100 -0300" channel="CARTOON HD">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball - O Aplicativo</title>
-    <desc lang="pt">Gumball e Darwin tentam impedir que um aplicativo transforme crianças em zumbis de internet.</desc>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="CARTOON HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120180000 -0300" stop="20261120180200 -0300" channel="CBI">
     <title lang="pt">Oração - Deputado - Rui Alves</title>
@@ -51026,9 +51055,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="ESPN 3">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120180000 -0300" stop="20261120200000 -0300" channel="ESPN 5">
-    <title lang="pt">Basquete Universitário</title>
-    <desc lang="pt">As futuras estrelas e astros da NBA desfilam pelas quadras do basquete universitário americano.</desc>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="ESPN 5">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="FONTE TV">
     <title lang="pt">Programação indisponível</title>
@@ -51042,9 +51070,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="FUEL TV HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120180000 -0300" stop="20261120183000 -0300" channel="FUTURA HD">
-    <title lang="pt">Deu Bola - Racismo</title>
-    <desc lang="pt">O programa faz um importante mapeamento sobre o racismo no futebol brasileiro, jogadores que sofreram e lutaram contra o preconceito e as conquistas nos últimos tempos.</desc>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="FUTURA HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120180000 -0300" stop="20261120190000 -0300" channel="GAZETA">
     <title lang="pt">Gazeta Esportiva</title>
@@ -51088,16 +51115,14 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="MULTISHOW HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120180000 -0300" stop="20261120181500 -0300" channel="PLAY TV">
-    <title lang="pt">Play News</title>
-    <desc lang="pt">Leonardo Zalcman traz as principais novidades do universo dos filmes, séries, cinema e cultura pop, com informação, entretenimento e tudo o que está em alta no mundo.</desc>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="PLAY TV">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="PREMIERE 2 HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120180000 -0300" stop="20261120200000 -0300" channel="PREMIERE 3 HD">
-    <title lang="pt">Dia 23/11 - Santos x Grêmio</title>
-    <desc lang="pt">Santos e Grêmio jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Morumbis, em São Paulo (SP).</desc>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="PREMIERE 3 HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="PREMIERE 4 HD">
     <title lang="pt">Programação indisponível</title>
@@ -51177,6 +51202,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Cidade Alerta Curitiba</title>
     <desc lang="pt">O Cidade Alerta alia informação com emoção ao noticiar as informações mais importantes do Estado para os moradores de Curitiba.</desc>
   </programme>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="Sabor &amp; Arte">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -51198,9 +51226,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="TV APARECIDA HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120180000 -0300" stop="20261120183000 -0300" channel="TV BRASIL">
-    <title lang="pt">Brasil Sobre Duas Rodas - Costa Verde Fluminense</title>
-    <desc lang="pt">Viajaremos por uma das rodovias mais importantes do país, a BR-101, no trecho conhecido por Rio-Santos. O paraíso de Angra dos Reis será nosso ponto de partida e destino será a encantadora cidade de Paraty.</desc>
+  <programme start="20261120180000 -0300" stop="20261124000000 -0300" channel="TV BRASIL">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120180000 -0300" stop="20261120185000 -0300" channel="TV CIDADE">
     <title lang="pt">Cidade Alerta</title>
@@ -51339,17 +51366,11 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120181000 -0300" stop="20261124000000 -0300" channel="USA HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120181100 -0300" stop="20261124000000 -0300" channel="CARTOON HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20261120181200 -0300" stop="20261120183000 -0300" channel="rede-brasil">
     <title lang="pt">FOGO FELINO | 2026</title>
     <category lang="pt">Infomercial</category>
   </programme>
   <programme start="20261120181500 -0300" stop="20261124000000 -0300" channel="HBO">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20261120181500 -0300" stop="20261124000000 -0300" channel="PLAY TV">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120181500 -0300" stop="20261120185500 -0300" channel="REDE MASSA">
@@ -51495,9 +51516,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120183000 -0300" stop="20261124000000 -0300" channel="ESPN 2">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120183000 -0300" stop="20261124000000 -0300" channel="FUTURA HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20261120183000 -0300" stop="20261120193000 -0300" channel="INOVA TV">
     <title lang="pt">RedeTV! News</title>
     <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
@@ -51524,9 +51542,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">RedeTV! News</title>
     <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
   </programme>
-  <programme start="20261120183000 -0300" stop="20261124000000 -0300" channel="TV BRASIL">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20261120183000 -0300" stop="20261124000000 -0300" channel="TV Justica">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -51540,7 +51555,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120183000 -0300" stop="20261120190000 -0300" channel="canal-saude">
     <title lang="pt">Turma da RobÃ³tica : Ctrl C + Ctrl V</title>
   </programme>
-  <programme start="20261120183000 -0300" stop="20261120192900 -0300" channel="rede-brasil">
+  <programme start="20261120183000 -0300" stop="20261120193000 -0300" channel="rede-brasil">
     <title lang="pt">BRASIL NEWS</title>
     <category lang="pt">Jornalismo</category>
   </programme>
@@ -51612,9 +51627,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120184800 -0300" stop="20261124000000 -0300" channel="HBO Xtreme">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20261120185000 -0300" stop="20261124000000 -0300" channel="AXN">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120185000 -0300" stop="20261120192000 -0300" channel="BAND Maringá">
@@ -51696,9 +51708,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120190000 -0300" stop="20261120195500 -0300" channel="RECORD Guaíba">
     <title lang="pt">Rio Grande Record</title>
     <desc lang="pt">Jornalismo ágil de credibilidade.</desc>
-  </programme>
-  <programme start="20261120190000 -0300" stop="20261124000000 -0300" channel="SPORTV 3">
-    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120190000 -0300" stop="20261124000000 -0300" channel="TELECINE CULT">
     <title lang="pt">Programação indisponível</title>
@@ -51902,10 +51911,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Show da Fé</title>
     <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
-  <programme start="20261120192900 -0300" stop="20261120195400 -0300" channel="rede-brasil">
-    <title lang="pt">IC NEWS</title>
-    <category lang="pt">Outros</category>
-  </programme>
   <programme start="20261120193000 -0300" stop="20261120202500 -0300" channel="BAND Amazonas">
     <title lang="pt">A Traição</title>
     <desc lang="pt">Após julgamento, Oylum é condenada à prisão. Oylum chega na cela onde ficará presa. Tolga não desiste e continua a busca pelas filmagens do acidente. Tarik conta para Oltan sobre o dinheiro que Ozan pegou.</desc>
@@ -51958,6 +51963,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   </programme>
   <programme start="20261120193000 -0300" stop="20261120195000 -0300" channel="canal-saude">
     <title lang="pt">Boletim CiÃªncia : ConheÃ§a a Primeira Brasileira a Assumir a Vice-Diretoria de CiÃªncias da Unesco</title>
+  </programme>
+  <programme start="20261120193000 -0300" stop="20261120195400 -0300" channel="rede-brasil">
+    <title lang="pt">IC NEWS</title>
+    <category lang="pt">Outros</category>
   </programme>
   <programme start="20261120194000 -0300" stop="20261120203000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Por Você</title>
@@ -52101,16 +52110,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261120200000 -0300" stop="20261124000000 -0300" channel="Claro TV+ Transmissão Acessível">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261120200000 -0300" stop="20261124000000 -0300" channel="ESPN 5">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20261120200000 -0300" stop="20261124000000 -0300" channel="HBO+">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120200000 -0300" stop="20261124000000 -0300" channel="NSPORTS HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20261120200000 -0300" stop="20261124000000 -0300" channel="PREMIERE 3 HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261120200000 -0300" stop="20261124000000 -0300" channel="PREMIERE 5 HD">
@@ -52169,9 +52172,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Show da Fé</title>
     <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
-  <programme start="20261120203000 -0300" stop="20261120205000 -0300" channel="BAND Alagoas">
+  <programme start="20261120203000 -0300" stop="20261120212500 -0300" channel="BAND Alagoas">
     <title lang="pt">A Traição</title>
-    <desc lang="pt">Kaan liga para Ozan e dá uma notícia que o deixará devastado. Ozan discute com Lara após descobrir sobre a perda do dinheiro de Oltan. Güzide começa a organizar as coisas para a celebração de 30 anos de casa...</desc>
+    <desc lang="pt">Após julgamento, Oylum é condenada à prisão. Oylum chega na cela onde ficará presa. Tolga não desiste e continua a busca pelas filmagens do acidente. Tarik conta para Oltan sobre o dinheiro que Ozan pegou.</desc>
   </programme>
   <programme start="20261120203000 -0300" stop="20261120205000 -0300" channel="BAND Maringá">
     <title lang="pt">A Traição</title>
@@ -52352,10 +52355,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Amor Valente</title>
     <desc lang="pt">Todos ficam apreensivos com o desaparecimento de Camila. Daniel se dispõe a entregar sua propriedade a Afonso em troca da libertação da jovem, mas o advogado Bezerra o aconselha a não ceder à chantagem.</desc>
   </programme>
-  <programme start="20261120205000 -0300" stop="20261120212500 -0300" channel="BAND Alagoas">
-    <title lang="pt">Guerra das Rosas</title>
-    <desc lang="pt">Gulfem se despede de Gulru. Todos vão embora da mansão e Gulru se torna a dona de tudo como sempre sonhou.</desc>
-  </programme>
   <programme start="20261120205000 -0300" stop="20261120212500 -0300" channel="BAND Maringá">
     <title lang="pt">Guerra das Rosas</title>
     <desc lang="pt">Gulfem se despede de Gulru. Todos vão embora da mansão e Gulru se torna a dona de tudo como sempre sonhou.</desc>
@@ -52431,7 +52430,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">De Férias Com o Ex Brasil - A Prévia</title>
     <desc lang="pt">Programa de variedades que repercute os acontecimentos do De Férias com o Ex Brasil.</desc>
   </programme>
-  <programme start="20261120212500 -0300" stop="20261120223000 -0300" channel="BAND Alagoas">
+  <programme start="20261120212500 -0300" stop="20261120222000 -0300" channel="BAND Alagoas">
     <title lang="pt">Show da Fé</title>
     <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
@@ -52746,6 +52745,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Quilos Mortais</title>
     <desc lang="pt">O programa que documenta a incrível jornada de pessoas que lutam para vencer a obesidade e retomar o controle de suas vidas.</desc>
   </programme>
+  <programme start="20261120222000 -0300" stop="20261120223000 -0300" channel="BAND Alagoas">
+    <title lang="pt">De Férias Com o Ex Brasil - A Prévia</title>
+    <desc lang="pt">Programa de variedades que repercute os acontecimentos do De Férias com o Ex Brasil.</desc>
+  </programme>
   <programme start="20261120222000 -0300" stop="20261120223000 -0300" channel="BAND Maringá">
     <title lang="pt">De Férias Com o Ex Brasil - A Prévia</title>
     <desc lang="pt">Programa de variedades que repercute os acontecimentos do De Férias com o Ex Brasil.</desc>
@@ -52904,7 +52907,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Globo Repórter</title>
     <desc lang="pt">Com apresentação de William Bonner e Sandra Annenberg, o 'Globo Repórter' é o jornalístico documental que vai ao ar nas noites de sexta-feira.</desc>
   </programme>
-  <programme start="20261120224200 -0300" stop="20261120232800 -0300" channel="rede-brasil">
+  <programme start="20261120224200 -0300" stop="20261120232700 -0300" channel="rede-brasil">
     <title lang="pt">Arquivo X</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -53050,7 +53053,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Grid da Globo</title>
     <desc lang="pt">Caio Castro e Antonella Bassani integrarão a equipe do novo programa "Grid da Globo", dedicado à cobertura da Fórmula 1 na TV Globo durante a temporada 2026.</desc>
   </programme>
-  <programme start="20261120232800 -0300" stop="20261121000800 -0300" channel="rede-brasil">
+  <programme start="20261120232700 -0300" stop="20261121000700 -0300" channel="rede-brasil">
     <title lang="pt">FindiQuiz</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -53492,7 +53495,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Fala que eu te Escuto</title>
     <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).</desc>
   </programme>
-  <programme start="20261121005800 -0300" stop="20261121022800 -0300" channel="rede-brasil">
+  <programme start="20261121005500 -0300" stop="20261121023200 -0300" channel="rede-brasil">
     <title lang="pt">REPRISE EM REVISTA |</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -53890,13 +53893,13 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Corujão: Marte Um</title>
     <desc lang="pt">Em 2018, a família Martins passa por mudanças. Enquanto Deivinho, o filho mais novo, sonha em ser astrofísico, seu pai quer que ele seja jogador de futebol.</desc>
   </programme>
-  <programme start="20261121022800 -0300" stop="20261121032200 -0300" channel="rede-brasil">
-    <title lang="pt">SUPER MÁQUINA |</title>
-    <category lang="pt">Series</category>
-  </programme>
   <programme start="20261121023000 -0300" stop="20261121030000 -0300" channel="TV PAMPA - PORTO ALEGRE">
     <title lang="pt">Programa Religioso</title>
     <desc lang="pt">Programação religiosa diária.</desc>
+  </programme>
+  <programme start="20261121023200 -0300" stop="20261121032500 -0300" channel="rede-brasil">
+    <title lang="pt">SUPER MÁQUINA |</title>
+    <category lang="pt">Series</category>
   </programme>
   <programme start="20261121024500 -0300" stop="20261121032000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
@@ -54134,7 +54137,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Corujão: Marte Um</title>
     <desc lang="pt">Em 2018, a família Martins passa por mudanças. Enquanto Deivinho, o filho mais novo, sonha em ser astrofísico, seu pai quer que ele seja jogador de futebol.</desc>
   </programme>
-  <programme start="20261121032200 -0300" stop="20261121041900 -0300" channel="rede-brasil">
+  <programme start="20261121032500 -0300" stop="20261121042100 -0300" channel="rede-brasil">
     <title lang="pt">O Incrivel Hulk</title>
     <category lang="pt">Series</category>
   </programme>
@@ -54151,8 +54154,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
   </programme>
   <programme start="20261121040000 -0300" stop="20261121053000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Estação Cinema: Senhor Seis</title>
-    <desc lang="pt">Um homem respeitado, residente no que restou da antiga Pequim, tenta inocentar seu filho de seus delitos usando seus próprios métodos e crenças.</desc>
+    <title lang="pt">Estação Cinema: A Espiã</title>
+    <desc lang="pt">Rachel Rosenthal é uma cantora judia que, durante uma tentativa de fuga, perde toda sua família em um ataque alemão.</desc>
   </programme>
   <programme start="20261121040000 -0300" stop="20261121053000 -0300" channel="BAND Maringá">
     <title lang="pt">Estação Cinema: Senhor Seis</title>
@@ -54277,16 +54280,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121040000 -0300" stop="20261121050000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
-  <programme start="20261121041900 -0300" stop="20261121042900 -0300" channel="rede-brasil">
+  <programme start="20261121042100 -0300" stop="20261121043100 -0300" channel="rede-brasil">
     <title lang="pt">ORA PRO NOBIS</title>
     <category lang="pt">Infomercial</category>
-  </programme>
-  <programme start="20261121042900 -0300" stop="20261121050000 -0300" channel="rede-brasil">
-    <title lang="pt">Dennis, O Pimentinha</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20261121043000 -0300" stop="20261121050000 -0300" channel="BAND Amazonas">
     <title lang="pt">Família Nakamura</title>
@@ -54299,6 +54295,13 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121043000 -0300" stop="20261121050000 -0300" channel="TV5 - AC">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+  </programme>
+  <programme start="20261121043100 -0300" stop="20261121050100 -0300" channel="rede-brasil">
+    <title lang="pt">Dennis, O Pimentinha</title>
+    <category lang="pt">Series</category>
+    <rating system="ClassInd">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261121044000 -0300" stop="20261121050000 -0300" channel="REDE TV! Rio de Janeiro">
     <title lang="pt">Igreja Internacional Da Graça De Deus, Palavra Urgente</title>
@@ -54376,10 +54379,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121050000 -0300" stop="20261121060000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
-  <programme start="20261121050000 -0300" stop="20261121051000 -0300" channel="rede-brasil">
-    <title lang="pt">ORA PRO NOBIS</title>
-    <category lang="pt">Infomercial</category>
-  </programme>
   <programme start="20261121050000 -0300" stop="20261121060000 -0300" channel="top-tv">
     <title lang="pt">Programação TOP TV</title>
   </programme>
@@ -54391,11 +54390,15 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121050000 -0300" stop="20261121060000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
+  <programme start="20261121050100 -0300" stop="20261121051100 -0300" channel="rede-brasil">
+    <title lang="pt">ORA PRO NOBIS</title>
+    <category lang="pt">Infomercial</category>
+  </programme>
   <programme start="20261121051000 -0300" stop="20261121054000 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">Prosperidade com Deus</title>
     <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
   </programme>
-  <programme start="20261121051000 -0300" stop="20261121053400 -0300" channel="rede-brasil">
+  <programme start="20261121051100 -0300" stop="20261121053400 -0300" channel="rede-brasil">
     <title lang="pt">FLASHMAN</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -54403,8 +54406,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     </rating>
   </programme>
   <programme start="20261121053000 -0300" stop="20261121060000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Pura Pesca</title>
-    <desc lang="pt">Programa Local.</desc>
+    <title lang="pt">Família Nakamura</title>
+    <desc lang="pt">Série que traz viagens por todo o Brasil, com muitas dicas e técnicas de pescaria.</desc>
   </programme>
   <programme start="20261121053000 -0300" stop="20261121060000 -0300" channel="BAND Maringá">
     <title lang="pt">Pura Pesca</title>
@@ -54441,7 +54444,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121053000 -0300" stop="20261121060000 -0300" channel="jovem-pan-tv">
     <title lang="pt">JP PONTO FINAL (SÁBADO)</title>
   </programme>
-  <programme start="20261121053400 -0300" stop="20261121060000 -0300" channel="rede-brasil">
+  <programme start="20261121053400 -0300" stop="20261121060100 -0300" channel="rede-brasil">
     <title lang="pt">Shurato</title>
     <category lang="pt">Desenho</category>
     <rating system="ClassInd">
@@ -54460,9 +54463,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Bom Dia Sábado</title>
     <desc lang="pt">Leve, descontraído e dinâmico, o telejornal tem como foco as cidades e temas que se aproximam do cotidiano das pessoas, com notícias de todo o Brasil, além de muita prestação de serviço e previsão do tempo.</desc>
   </programme>
-  <programme start="20261121060000 -0300" stop="20261121063000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Band Kids - Os Chocolix</title>
-    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+  <programme start="20261121060000 -0300" stop="20261121070000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
   <programme start="20261121060000 -0300" stop="20261121071500 -0300" channel="BAND Maringá">
     <title lang="pt">Band Kids - Os Chocolix</title>
@@ -54692,10 +54695,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <rating system="ClassInd">
       <value>L</value>
     </rating>
-  </programme>
-  <programme start="20261121063000 -0300" stop="20261121070000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Band Kids - Os Chocolix</title>
-    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
   </programme>
   <programme start="20261121063000 -0300" stop="20261121073000 -0300" channel="BAND Amazonas">
     <title lang="pt">Band Kids - Os Chocolix</title>
@@ -55135,7 +55134,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261121080000 -0300" stop="20261121084500 -0300" channel="BAND Alagoas">
+  <programme start="20261121080000 -0300" stop="20261121090000 -0300" channel="BAND Alagoas">
     <title lang="pt">Programa Geraldo Câmara</title>
     <desc lang="pt">Programa de entrevistas e um bate-papo descontraído com convidados especias.</desc>
   </programme>
@@ -55358,10 +55357,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121083500 -0300" stop="20261121110000 -0300" channel="TV Gazeta Rio Branco">
     <title lang="pt">Fala Brasil - Edição de Sábado</title>
     <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção d...</desc>
-  </programme>
-  <programme start="20261121084500 -0300" stop="20261121090000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Cooperativismo Em Pauta</title>
-    <desc lang="pt">Acompanhe as últimas notícias e as ações relacionadas às cooperativas brasileiras.</desc>
   </programme>
   <programme start="20261121084500 -0300" stop="20261121085500 -0300" channel="rede-brasil">
     <title lang="pt">ORA PRO NOBIS</title>
@@ -55785,8 +55780,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Ultrafarma</title>
     <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
   </programme>
-  <programme start="20261121103000 -0300" stop="20261121120000 -0300" channel="TV5 - AC">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121103000 -0300" stop="20261121111500 -0300" channel="TV5 - AC">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
   <programme start="20261121103000 -0300" stop="20261121110000 -0300" channel="canal-saude">
@@ -55964,8 +55959,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121110000 -0300" stop="20261121120000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
-  <programme start="20261121110000 -0300" stop="20261121115900 -0300" channel="rede-brasil">
-    <title lang="pt">RB DOCUMENTA | A LINHA DE MEMORIA | PARTE II</title>
+  <programme start="20261121110000 -0300" stop="20261121115800 -0300" channel="rede-brasil">
+    <title lang="pt">RB DOCUMENTA</title>
     <category lang="pt">Jornalismo</category>
   </programme>
   <programme start="20261121110000 -0300" stop="20261121120000 -0300" channel="top-tv">
@@ -55977,6 +55972,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121110000 -0300" stop="20261121120000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
+  <programme start="20261121111500 -0300" stop="20261121140000 -0300" channel="TV5 - AC">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+  </programme>
   <programme start="20261121112800 -0300" stop="20261121120000 -0300" channel="REDE TV! Paraná">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -55985,8 +55984,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Fórmula Band</title>
     <desc lang="pt">O programa Fórmula Band traz toda a emoção do automobilismo, com análises, debates e bastidores exclusivos dos principais campeonatos, como F1, Stock Car e mais.</desc>
   </programme>
-  <programme start="20261121113000 -0300" stop="20261121130000 -0300" channel="BAND Amazonas">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121113000 -0300" stop="20261121121500 -0300" channel="BAND Amazonas">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
   <programme start="20261121113000 -0300" stop="20261121114500 -0300" channel="BAND Maringá">
@@ -56049,7 +56048,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">CETV - 1ª Edição</title>
     <desc lang="pt">Leal Mota Filho e Taís Lopes mostram o que está acontecendo durante o dia na Região Metropolitana de Fortaleza e informações relevantes do Ceará.</desc>
   </programme>
-  <programme start="20261121115900 -0300" stop="20261121122600 -0300" channel="rede-brasil">
+  <programme start="20261121115800 -0300" stop="20261121122600 -0300" channel="rede-brasil">
     <title lang="pt">Zorro</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -56208,10 +56207,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Horário Local RedeTv Maringá</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261121120000 -0300" stop="20261121140000 -0300" channel="TV5 - AC">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
-  </programme>
   <programme start="20261121120000 -0300" stop="20261121130000 -0300" channel="alesp">
     <title lang="pt">Programação Rede ALESP</title>
   </programme>
@@ -56222,7 +56217,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Bate Papo na SaÃºde : Cientistas IndÃ­genas</title>
   </programme>
   <programme start="20261121120000 -0300" stop="20261121140000 -0300" channel="jovem-pan-tv">
-    <title lang="pt">FAST NEWS - 1ª EDIÇÃO - (SÁBADO)</title>
+    <title lang="pt">BUNDESLIGA 2 · WOLFSBURG x HOLSTEIN KIEL</title>
   </programme>
   <programme start="20261121120000 -0300" stop="20261121130000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
@@ -56242,6 +56237,10 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Alto Astral</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
+  <programme start="20261121121500 -0300" stop="20261121150000 -0300" channel="BAND Amazonas">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+  </programme>
   <programme start="20261121122000 -0300" stop="20261121124000 -0300" channel="REDE AMAZONICA MANAUS">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
@@ -56258,23 +56257,23 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     </rating>
   </programme>
   <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="BAND Alagoas">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
+    <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
   <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="BAND Maringá">
     <title lang="pt">Programação do Canal</title>
     <desc lang="pt">Sinopse não Disponível.</desc>
   </programme>
-  <programme start="20261121123000 -0300" stop="20261121140000 -0300" channel="BAND Paraná">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="BAND Paraná">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
-  <programme start="20261121123000 -0300" stop="20261121140000 -0300" channel="BAND RS">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="BAND RS">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
-  <programme start="20261121123000 -0300" stop="20261121140000 -0300" channel="BAND Rio">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="BAND Rio">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
   <programme start="20261121123000 -0300" stop="20261121130000 -0300" channel="REDE MASSA">
@@ -56289,20 +56288,20 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Meu Caderno de Receitas</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261121123000 -0300" stop="20261121140000 -0300" channel="TV Arapuan">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="TV Arapuan">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
-  <programme start="20261121123000 -0300" stop="20261121140000 -0300" channel="TV Clube">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="TV Clube">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
   <programme start="20261121123000 -0300" stop="20261121130000 -0300" channel="TV JORNAL">
     <title lang="pt">Show de Bola</title>
     <desc lang="pt">O Show de Bola é um bate bola completo, trazendo os principais lances do mundo do futebol e uma ampla cobertura dos times paranaenses.</desc>
   </programme>
-  <programme start="20261121123000 -0300" stop="20261121140000 -0300" channel="TV Tribuna - PE">
-    <title lang="pt">Porsche Cup: Etapa Interlagos - SP - Ao Vivo</title>
+  <programme start="20261121123000 -0300" stop="20261121131500 -0300" channel="TV Tribuna - PE">
+    <title lang="pt">Porsche Cup - Corrida Sprint: Etapa Interlagos - SP - Ao Vivo</title>
     <desc lang="pt">Corrida disputada por Porsches aos cuidados de uma única equipe, garantindo igualdade na preparação e na competividade das provas.</desc>
   </programme>
   <programme start="20261121123000 -0300" stop="20261121130000 -0300" channel="canal-saude">
@@ -56328,13 +56327,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Clube do Chaves</title>
     <desc lang="pt">A atração é um programa que reúne enquetes com personagens criados por Roberto Bolaños, como Chaves, Chapolin e Dr. Chapatin além de toda a turma do Chaves!</desc>
   </programme>
-  <programme start="20261121125100 -0300" stop="20261121131200 -0300" channel="rede-brasil">
+  <programme start="20261121125100 -0300" stop="20261121131100 -0300" channel="rede-brasil">
     <title lang="pt">CURTA: OS 3 PATETAS |</title>
     <category lang="pt">Entretenimento</category>
-  </programme>
-  <programme start="20261121130000 -0300" stop="20261121150000 -0300" channel="BAND Amazonas">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
   </programme>
   <programme start="20261121130000 -0300" stop="20261121132000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Programação Globo</title>
@@ -56493,7 +56488,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Todo Mundo Ama</title>
     <desc lang="pt">Todo mundo ama sorrir e ouvir uma boa música. Todo mundo ama se cuidar e ficar bonita TODO MUNDO AMA é o novo jeito de espalhar diversão por todo o Ceará.</desc>
   </programme>
-  <programme start="20261121131200 -0300" stop="20261121140600 -0300" channel="rede-brasil">
+  <programme start="20261121131100 -0300" stop="20261121140500 -0300" channel="rede-brasil">
     <title lang="pt">MISSÃO IMPOSSÍVEL</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -56508,9 +56503,33 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Band Esporte Clube</title>
     <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
   </programme>
+  <programme start="20261121131500 -0300" stop="20261121160000 -0300" channel="BAND Paraná">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+  </programme>
+  <programme start="20261121131500 -0300" stop="20261121160000 -0300" channel="BAND RS">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+  </programme>
+  <programme start="20261121131500 -0300" stop="20261121160000 -0300" channel="BAND Rio">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+  </programme>
+  <programme start="20261121131500 -0300" stop="20261121160000 -0300" channel="TV Arapuan">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+  </programme>
+  <programme start="20261121131500 -0300" stop="20261121160000 -0300" channel="TV Clube">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
+  </programme>
   <programme start="20261121131500 -0300" stop="20261121133000 -0300" channel="TV GUARARAPES">
     <title lang="pt">Descobrindo com Cabral</title>
     <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20261121131500 -0300" stop="20261121160000 -0300" channel="TV Tribuna - PE">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
   </programme>
   <programme start="20261121132000 -0300" stop="20261121134000 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Globo Esporte</title>
@@ -56671,18 +56690,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Loteria dos Sonhos</title>
     <desc lang="pt">Loteria.</desc>
   </programme>
-  <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="BAND Paraná">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
-  </programme>
-  <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="BAND RS">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
-  </programme>
-  <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="BAND Rio">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
-  </programme>
   <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="RECORD Manaus">
     <title lang="pt">Cine Aventura: Até o Limite</title>
     <desc lang="pt">Num dia normal de trabalho, o locutor de rádio Elvis Cooney recebe a ligação de um homem que promete matar sua família. Para salvá-los, Elvis inicia uma busca frenética para impedir o criminoso.</desc>
@@ -56727,10 +56734,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Eita Lucas!</title>
     <desc lang="pt">No Lucas Por Aí, ele vai rodar o Brasil atrás de pessoas que fazem a diferença na comunidade.</desc>
   </programme>
-  <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="TV Arapuan">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
-  </programme>
   <programme start="20261121140000 -0300" stop="20261121143000 -0300" channel="TV CIDADE">
     <title lang="pt">Cine Aventura</title>
     <desc lang="pt">Aproveite esse espaço para se divertir com os maiores sucessos do cinema. Não deixe de acompanhar grandes produções premiadas e atores consagrados vivendo histórias fantásticas que fazem rir, chorar e se emocionar.</desc>
@@ -56738,10 +56741,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121140000 -0300" stop="20261121150000 -0300" channel="TV CORREIO - Joao Pessoa">
     <title lang="pt">Balanço Geral - Edição de Sábado</title>
     <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-  </programme>
-  <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="TV Clube">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
   </programme>
   <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="TV Gazeta Rio Branco">
     <title lang="pt">Cine Aventura</title>
@@ -56774,10 +56773,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121140000 -0300" stop="20261121150000 -0300" channel="TV Ponta Verde">
     <title lang="pt">Eita Lucas!</title>
     <desc lang="pt">No Lucas Por Aí, ele vai rodar o Brasil atrás de pessoas que fazem a diferença na comunidade.</desc>
-  </programme>
-  <programme start="20261121140000 -0300" stop="20261121160000 -0300" channel="TV Tribuna - PE">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
   </programme>
   <programme start="20261121140000 -0300" stop="20261121153000 -0300" channel="TV10 - Maringá">
     <title lang="pt">Horário Local RedeTv Maringá</title>
@@ -56812,7 +56807,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121140000 -0300" stop="20261121150000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
-  <programme start="20261121140600 -0300" stop="20261121145600 -0300" channel="rede-brasil">
+  <programme start="20261121140500 -0300" stop="20261121145600 -0300" channel="rede-brasil">
     <title lang="pt">Voyagers</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -56989,7 +56984,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Caldeirão com Mion</title>
     <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
   </programme>
-  <programme start="20261121145600 -0300" stop="20261121164300 -0300" channel="rede-brasil">
+  <programme start="20261121145600 -0300" stop="20261121164200 -0300" channel="rede-brasil">
     <title lang="pt">ASTERIX  E OBELIX CONTRA CESAR</title>
     <category lang="pt">Filmes</category>
   </programme>
@@ -57086,8 +57081,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121150000 -0300" stop="20261121160000 -0300" channel="canal-saude">
     <title lang="pt">Segue o Curso : Engenharia Espacial</title>
   </programme>
-  <programme start="20261121150000 -0300" stop="20261121180000 -0300" channel="jovem-pan-tv">
-    <title lang="pt">FAST NEWS - 2ª EDIÇÃO (SÁBADO)</title>
+  <programme start="20261121150000 -0300" stop="20261121170000 -0300" channel="jovem-pan-tv">
+    <title lang="pt">BUDESLIGA 1 · MONCHENGLADBACH x B. DORTMUND</title>
   </programme>
   <programme start="20261121150000 -0300" stop="20261121160000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
@@ -57248,7 +57243,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Brasil Urgente - SP</title>
     <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
   </programme>
-  <programme start="20261121164300 -0300" stop="20261121173600 -0300" channel="rede-brasil">
+  <programme start="20261121164200 -0300" stop="20261121173500 -0300" channel="rede-brasil">
     <title lang="pt">VIAGEM AO FUNDO DO MAR</title>
     <category lang="pt">Series</category>
   </programme>
@@ -57297,6 +57292,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121170000 -0300" stop="20261121173000 -0300" channel="canal-saude">
     <title lang="pt">Canal SaÃºde na Estrada : Anicuns - GO</title>
   </programme>
+  <programme start="20261121170000 -0300" stop="20261121180000 -0300" channel="jovem-pan-tv">
+    <title lang="pt">FAST NEWS - 2ª EDIÇÃO (SÁBADO)</title>
+  </programme>
   <programme start="20261121170000 -0300" stop="20261121180000 -0300" channel="radio-cultura">
     <title lang="pt">Programação Rádio Cultura</title>
   </programme>
@@ -57337,7 +57335,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Lá na Minha Terra</title>
     <desc lang="pt">Lina enfrenta Raimundo Gerardo no sertão. Rosenda pede a Almerindo mais prazo para quitar o aluguel de sua casa. Almerindo admira Rosenda, que sente falta de Severino.</desc>
   </programme>
-  <programme start="20261121173600 -0300" stop="20261121182900 -0300" channel="rede-brasil">
+  <programme start="20261121173500 -0300" stop="20261121182800 -0300" channel="rede-brasil">
     <title lang="pt">TERRA DE GIGANTES</title>
     <category lang="pt">Series</category>
   </programme>
@@ -57434,7 +57432,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">SBT Brasil</title>
     <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
   </programme>
-  <programme start="20261121182900 -0300" stop="20261121192200 -0300" channel="rede-brasil">
+  <programme start="20261121182800 -0300" stop="20261121192200 -0300" channel="rede-brasil">
     <title lang="pt">TUNEL DO TEMPO</title>
     <category lang="pt">Series</category>
   </programme>
@@ -57717,7 +57715,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">CETV - 2ª Edição</title>
     <desc lang="pt">Telejornal apresentado por Nádia Barros, que traz o resumo do dia no estado do Ceará.</desc>
   </programme>
-  <programme start="20261121192200 -0300" stop="20261121201400 -0300" channel="rede-brasil">
+  <programme start="20261121192200 -0300" stop="20261121201300 -0300" channel="rede-brasil">
     <title lang="pt">PERDIDOS NO ESPAÇO COLORIDO T2EP29</title>
     <category lang="pt">Series</category>
   </programme>
@@ -57929,7 +57927,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
   <programme start="20261121200000 -0300" stop="20261121210000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
-  <programme start="20261121201400 -0300" stop="20261121203900 -0300" channel="rede-brasil">
+  <programme start="20261121201300 -0300" stop="20261121203900 -0300" channel="rede-brasil">
     <title lang="pt">SABRINA, A APRENDIZ DE FEITICEIRA</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -58067,7 +58065,7 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
 
 No entanto a realidade de Ahmed no Brasil é diferente daquelas dos pódios: já trabalhou como garçom, jardineiro, atendente de lanchonete e eventualmente dá aulas de judô para alcançar seus objetivos dentro e fora dos tatames. Seu amor pelo esporte desperta esperança, em especial nas aulas que dá para crianças. Desde a infância, quando viu pela primeira vez um tatame, Ahmed almeja a profissionalização no judô e dá duro para alcançar esse sonho.</desc>
   </programme>
-  <programme start="20261121203900 -0300" stop="20261121210900 -0300" channel="rede-brasil">
+  <programme start="20261121203900 -0300" stop="20261121210800 -0300" channel="rede-brasil">
     <title lang="pt">Zorro</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -58191,7 +58189,7 @@ No entanto a realidade de Ahmed no Brasil é diferente daquelas dos pódios: já
   <programme start="20261121210000 -0300" stop="20261121220000 -0300" channel="univesp">
     <title lang="pt">Programação Univesp TV</title>
   </programme>
-  <programme start="20261121210900 -0300" stop="20261121215400 -0300" channel="rede-brasil">
+  <programme start="20261121210800 -0300" stop="20261121215400 -0300" channel="rede-brasil">
     <title lang="pt">STARGATE</title>
     <category lang="pt">Series</category>
   </programme>
@@ -58352,7 +58350,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Altas Horas</title>
     <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
   </programme>
-  <programme start="20261121215400 -0300" stop="20261121231600 -0300" channel="rede-brasil">
+  <programme start="20261121215400 -0300" stop="20261121231500 -0300" channel="rede-brasil">
     <title lang="pt">DINHEIRO FÁCIL</title>
     <category lang="pt">Filmes</category>
   </programme>
@@ -58655,7 +58653,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Super Tela</title>
     <desc lang="pt">Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
   </programme>
-  <programme start="20261121231600 -0300" stop="20261121233100 -0300" channel="rede-brasil">
+  <programme start="20261121231500 -0300" stop="20261121233000 -0300" channel="rede-brasil">
     <title lang="pt">FINDQUIZ</title>
     <category lang="pt">Entretenimento</category>
   </programme>
@@ -58822,6 +58820,13 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Programa do João</title>
     <desc lang="pt">O Programa do João mistura passado e presente, trazendo boas conversas e histórias inesquecíveis com o carisma de João Silva. O programa aposta em entrevistas reveladoras.</desc>
   </programme>
+  <programme start="20261122003400 -0300" stop="20261122012300 -0300" channel="rede-brasil">
+    <title lang="pt">MACGYVER</title>
+    <category lang="pt">Series</category>
+    <rating system="ClassInd">
+      <value>L</value>
+    </rating>
+  </programme>
   <programme start="20261122003500 -0300" stop="20261122022500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Supercine: Nós</title>
     <desc lang="pt">Adelaide e Gabe decidem levar a família para passar um fim de semana em uma casa de veraneio.</desc>
@@ -58869,13 +58874,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261122003500 -0300" stop="20261122022500 -0300" channel="TV VERDES MARES FORTALEZA">
     <title lang="pt">Supercine: Nós</title>
     <desc lang="pt">Adelaide e Gabe decidem levar a família para passar um fim de semana em uma casa de veraneio.</desc>
-  </programme>
-  <programme start="20261122004400 -0300" stop="20261122013100 -0300" channel="rede-brasil">
-    <title lang="pt">MACGYVER</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20261122004500 -0300" stop="20261122030000 -0300" channel="REDE TV! Paraná">
     <title lang="pt">Madrugada Animada</title>
@@ -59029,6 +59027,13 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
   </programme>
+  <programme start="20261122012300 -0300" stop="20261122021300 -0300" channel="rede-brasil">
+    <title lang="pt">THUNDERBIRDS</title>
+    <category lang="pt">Series</category>
+    <rating system="ClassInd">
+      <value>L</value>
+    </rating>
+  </programme>
   <programme start="20261122012500 -0300" stop="20261122020500 -0300" channel="REDE AMAZONICA MANAUS">
     <title lang="pt">Lá na Minha Terra</title>
     <desc lang="pt">Lina enfrenta Raimundo Gerardo no sertão. Rosenda pede a Almerindo mais prazo para quitar o aluguel de sua casa. Almerindo admira Rosenda, que sente falta de Severino.</desc>
@@ -59037,16 +59042,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Lá na Minha Terra</title>
     <desc lang="pt">Lina enfrenta Raimundo Gerardo no sertão. Rosenda pede a Almerindo mais prazo para quitar o aluguel de sua casa. Almerindo admira Rosenda, que sente falta de Severino.</desc>
   </programme>
-  <programme start="20261122013100 -0300" stop="20261122022000 -0300" channel="rede-brasil">
-    <title lang="pt">THUNDERBIRDS</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20261122020000 -0300" stop="20261122031500 -0300" channel="BAND Alagoas">
-    <title lang="pt">Cine Privé: Andromina: O Planeta Do Prazer</title>
-    <desc lang="pt">Decepcionado com o fato de Andromina, o planeta do prazer, ter passado por momentos difíceis, três homens viajam para um planeta só de mulheres, para recrutar mulheres para trazer de volta ao planeta.</desc>
+    <title lang="pt">Cine Privé: Consultas Íntimas 3</title>
+    <desc lang="pt">O consultas íntimas 3 conta a história de três belas mulheres, começando por Lucy, Uma mulher casada frustrada recebe algumas lições eróticas de uma amiga sobre como seduzir o marido.</desc>
   </programme>
   <programme start="20261122020000 -0300" stop="20261122031500 -0300" channel="BAND Maringá">
     <title lang="pt">Cine Privé: Andromina: O Planeta Do Prazer</title>
@@ -59141,6 +59139,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Por Você</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
+  <programme start="20261122021300 -0300" stop="20261122022300 -0300" channel="rede-brasil">
+    <title lang="pt">ORA PRO NOBIS</title>
+    <category lang="pt">Infomercial</category>
+  </programme>
   <programme start="20261122021500 -0300" stop="20261122030000 -0300" channel="BAND Amazonas">
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
@@ -59149,9 +59151,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">IURD</title>
     <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.</desc>
   </programme>
-  <programme start="20261122022000 -0300" stop="20261122023000 -0300" channel="rede-brasil">
-    <title lang="pt">ORA PRO NOBIS</title>
-    <category lang="pt">Infomercial</category>
+  <programme start="20261122022300 -0300" stop="20261122024900 -0300" channel="rede-brasil">
+    <title lang="pt">LANCELOT LINK</title>
+    <category lang="pt">Series</category>
   </programme>
   <programme start="20261122022500 -0300" stop="20261122030500 -0300" channel="EPTV RIBEIRAO">
     <title lang="pt">Lá na Minha Terra</title>
@@ -59241,8 +59243,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">SBT Notícias</title>
     <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
   </programme>
-  <programme start="20261122023000 -0300" stop="20261122025400 -0300" channel="rede-brasil">
-    <title lang="pt">LANCELOT LINK</title>
+  <programme start="20261122024900 -0300" stop="20261122031300 -0300" channel="rede-brasil">
+    <title lang="pt">A Flauta Mágica</title>
     <category lang="pt">Series</category>
   </programme>
   <programme start="20261122025000 -0300" stop="20261122044500 -0300" channel="REDE AMAZONICA MANAUS">
@@ -59252,10 +59254,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261122025000 -0300" stop="20261122044500 -0300" channel="REDE AMAZONICA RIO BRANCO">
     <title lang="pt">Corujão: Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo</title>
     <desc lang="pt">Quando o porteiro Severino encontra um medalhão que o transforma em um ser maligno, os detetives partem para uma cidade remota em busca da cura para seu amigo.</desc>
-  </programme>
-  <programme start="20261122025400 -0300" stop="20261122031600 -0300" channel="rede-brasil">
-    <title lang="pt">A Flauta Mágica</title>
-    <category lang="pt">Series</category>
   </programme>
   <programme start="20261122030000 -0300" stop="20261122043000 -0300" channel="BAND Amazonas">
     <title lang="pt">Cinema na Madrugada: Street Fighter: Punho Assassino</title>
@@ -59369,6 +59367,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Por Você</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
+  <programme start="20261122031300 -0300" stop="20261122032400 -0300" channel="rede-brasil">
+    <title lang="pt">ORA PRO NOBIS</title>
+    <category lang="pt">Infomercial</category>
+  </programme>
   <programme start="20261122031500 -0300" stop="20261122040000 -0300" channel="BAND Alagoas">
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
@@ -59405,11 +59407,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Chama no Privé</title>
     <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.</desc>
   </programme>
-  <programme start="20261122031600 -0300" stop="20261122032600 -0300" channel="rede-brasil">
-    <title lang="pt">ORA PRO NOBIS</title>
-    <category lang="pt">Infomercial</category>
-  </programme>
-  <programme start="20261122032600 -0300" stop="20261122035400 -0300" channel="rede-brasil">
+  <programme start="20261122032400 -0300" stop="20261122035100 -0300" channel="rede-brasil">
     <title lang="pt">Dennis, O Pimentinha</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -59472,7 +59470,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Corujão: Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo</title>
     <desc lang="pt">Quando o porteiro Severino encontra um medalhão que o transforma em um ser maligno, os detetives partem para uma cidade remota em busca da cura para seu amigo.</desc>
   </programme>
-  <programme start="20261122035400 -0300" stop="20261122044600 -0300" channel="rede-brasil">
+  <programme start="20261122035100 -0300" stop="20261122044300 -0300" channel="rede-brasil">
     <title lang="pt">PERDIDOS NO ESPAÇO PB</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -59480,8 +59478,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     </rating>
   </programme>
   <programme start="20261122040000 -0300" stop="20261122053000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Cinema na Madrigada: URI - Forças Especiais</title>
-    <desc lang="pt">As forças especiais do exército indiano realizam uma operação secreta, vingando o assassinato de colegas soldados em sua base por um grupo terrorista.</desc>
+    <title lang="pt">Cinema na Madrugada: Street Fighter: Punho Assassino</title>
+    <desc lang="pt">Street Fighter: Assassin's Fist nos leva de volta aos anos de formação dos personagens icônicos, Ryu e Ken, enquanto eles vivem a vida de um guerreiro tradicional na isolada região montanhosa do Japão.</desc>
   </programme>
   <programme start="20261122040000 -0300" stop="20261122053000 -0300" channel="BAND Maringá">
     <title lang="pt">Cinema na Madrigada: URI - Forças Especiais</title>
@@ -59544,6 +59542,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Band Kids - Os Chocolix</title>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
   </programme>
+  <programme start="20261122044300 -0300" stop="20261122045300 -0300" channel="rede-brasil">
+    <title lang="pt">ORA PRO NOBIS</title>
+    <category lang="pt">Infomercial</category>
+  </programme>
   <programme start="20261122044500 -0300" stop="20261122053500 -0300" channel="REDE AMAZONICA MANAUS">
     <title lang="pt">Santa Missa</title>
     <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.</desc>
@@ -59552,11 +59554,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Santa Missa</title>
     <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.</desc>
   </programme>
-  <programme start="20261122044600 -0300" stop="20261122045600 -0300" channel="rede-brasil">
-    <title lang="pt">ORA PRO NOBIS</title>
-    <category lang="pt">Infomercial</category>
-  </programme>
-  <programme start="20261122045600 -0300" stop="20261122052200 -0300" channel="rede-brasil">
+  <programme start="20261122045300 -0300" stop="20261122052100 -0300" channel="rede-brasil">
     <title lang="pt">Ultraman</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -59620,7 +59618,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <sub-title lang="pt">Alfredo Del-Penho e Teresa Cristina cantam Paulinho da Viola</sub-title>
     <desc lang="pt">Neste #SambaNaGamboa, Teresa Cristina homenageia uma de suas grandes inspirações, Paulinho da Viola, recebendo um cantor e compositor que fez parte da Geração Lapa: Alfredo Del-Penho.</desc>
   </programme>
-  <programme start="20261122052200 -0300" stop="20261122054700 -0300" channel="rede-brasil">
+  <programme start="20261122052100 -0300" stop="20261122054800 -0300" channel="rede-brasil">
     <title lang="pt">Shurato</title>
     <category lang="pt">Anime</category>
     <rating system="ClassInd">
@@ -59719,16 +59717,16 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Santa Missa</title>
     <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.</desc>
   </programme>
-  <programme start="20261122054700 -0300" stop="20261122060000 -0300" channel="rede-brasil">
+  <programme start="20261122054800 -0300" stop="20261122060100 -0300" channel="rede-brasil">
     <title lang="pt">SUPER DINAMO</title>
     <category lang="pt">Anime</category>
     <rating system="ClassInd">
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261122060000 -0300" stop="20261122063000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Band Kids - Os Chocolix</title>
-    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
+  <programme start="20261122060000 -0300" stop="20261122070000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
   </programme>
   <programme start="20261122060000 -0300" stop="20261122070000 -0300" channel="BAND Paraná">
     <title lang="pt">Band Kids - Os Chocolix</title>
@@ -59882,10 +59880,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261122061500 -0300" stop="20261122064500 -0300" channel="BAND Maringá">
     <title lang="pt">Campo Vivo</title>
     <desc lang="pt">Programa local.</desc>
-  </programme>
-  <programme start="20261122063000 -0300" stop="20261122070000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Band Kids - Os Chocolix</title>
-    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.</desc>
   </programme>
   <programme start="20261122063000 -0300" stop="20261122073000 -0300" channel="BAND Amazonas">
     <title lang="pt">Santa Missa no seu Lar</title>
@@ -60601,9 +60595,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Natal Cap</title>
-    <desc lang="pt">Programa Local.</desc>
+  <programme start="20261122090000 -0300" stop="20261122093000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Kids - O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.</desc>
   </programme>
   <programme start="20261122090000 -0300" stop="20261122093000 -0300" channel="BAND Amazonas">
     <title lang="pt">Amazonas Acontece</title>
@@ -60736,6 +60730,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="TV5 - AC">
     <title lang="pt">Viva Sorte</title>
     <desc lang="pt">Programa de sorteios que transforma vidas em todo o Brasil. São vários prêmios e lindas histórias pelo caminho.</desc>
+  </programme>
+  <programme start="20261122093000 -0300" stop="20261122100000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Band Kids - O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.</desc>
   </programme>
   <programme start="20261122093000 -0300" stop="20261122100000 -0300" channel="BAND Amazonas">
     <title lang="pt">A Virada de Chave</title>
@@ -61261,13 +61259,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Temperatura Máxima: Os Cavaleiros do Zodíaco - Saint Seiya: O …</title>
     <desc lang="pt">Seiya, um obstinado adolescente de rua, passa seu tempo lutando por dinheiro enquanto procura por sua irmã sequestrada.</desc>
   </programme>
-  <programme start="20261122113600 -0300" stop="20261122120200 -0300" channel="rede-brasil">
-    <title lang="pt">A Feiticeira</title>
-    <category lang="pt">Series</category>
-    <rating system="ClassInd">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20261122114500 -0300" stop="20261122115500 -0300" channel="REDE TV! Recife">
     <title lang="pt">Educação Na TV - Apeoesp</title>
     <desc lang="pt">Um programa que aborda questões ligadas à educação. Apresentando matérias sobre cultura, saúde, segurança, direitos humanos, história e atualidades, com foco na relação entre professores e alunos.</desc>
@@ -61308,9 +61299,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">A Hora Do Zap</title>
     <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
   </programme>
-  <programme start="20261122120000 -0300" stop="20261122133000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+  <programme start="20261122120000 -0300" stop="20261122160000 -0300" channel="BAND Alagoas">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O tradicional programa de esporte da Band está de volta para trazer todo pré e pós jogo dos campeonatos de futebol nacionais e internacionais.</desc>
   </programme>
   <programme start="20261122120000 -0300" stop="20261122133000 -0300" channel="BAND Maringá">
     <title lang="pt">Programação do Canal</title>
@@ -61377,7 +61368,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <sub-title lang="pt">recebe Marcelle Motta e Nina Rosa para homenagem a Beth Carvalho</sub-title>
     <desc lang="pt">Em 5 de maio de 2025, Beth Carvalho teria completado 79 anos. Neste #SambaNaGamboa, Teresa Cristina faz uma homenagem à Madrinha do Samba, cantando seu repertório ao lado de duas cantoras da nova geração: Marcelle Motta e Nina Rosa.</desc>
   </programme>
-  <programme start="20261122120200 -0300" stop="20261122130200 -0300" channel="rede-brasil">
+  <programme start="20261122120600 -0300" stop="20261122130600 -0300" channel="rede-brasil">
     <title lang="pt">O MELHOR DA SEMANA</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -61494,11 +61485,11 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <sub-title lang="pt">Instituto Inhotim</sub-title>
     <desc lang="pt">Sinopse Completa</desc>
   </programme>
-  <programme start="20261122130200 -0300" stop="20261122132100 -0300" channel="rede-brasil">
+  <programme start="20261122130600 -0300" stop="20261122132400 -0300" channel="rede-brasil">
     <title lang="pt">CURTA: OS 3 PATETAS |</title>
     <category lang="pt">Entretenimento</category>
   </programme>
-  <programme start="20261122132100 -0300" stop="20261122141100 -0300" channel="rede-brasil">
+  <programme start="20261122132400 -0300" stop="20261122141400 -0300" channel="rede-brasil">
     <title lang="pt">CASAL 20</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -61512,10 +61503,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261122132500 -0300" stop="20261122142500 -0300" channel="REDE AMAZONICA RIO BRANCO">
     <title lang="pt">Em Família com Eliana</title>
     <desc lang="pt">Eliana visita e entrevista famílias musicais famosas, levando o público para dentro das casas desses ídolos. O programa também traz ao palco uma competição musical que contará com a torcida da plateia presente.</desc>
-  </programme>
-  <programme start="20261122133000 -0300" stop="20261122160000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Show do Esporte</title>
-    <desc lang="pt">O tradicional programa de esporte da Band está de volta para trazer todo pré e pós jogo dos campeonatos de futebol nacionais e internacionais.</desc>
   </programme>
   <programme start="20261122133000 -0300" stop="20261122160000 -0300" channel="BAND Maringá">
     <title lang="pt">Show do Esporte</title>
@@ -61801,7 +61788,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Planeta Selvagem</title>
     <desc lang="pt">Uma experiência nas mais perigosas e selvagens paisagens do nosso planeta.</desc>
   </programme>
-  <programme start="20261122154600 -0300" stop="20261122164200 -0300" channel="rede-brasil">
+  <programme start="20261122154500 -0300" stop="20261122163800 -0300" channel="rede-brasil">
     <title lang="pt">JUSTIÇA EM DOBRO</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
@@ -61809,8 +61796,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     </rating>
   </programme>
   <programme start="20261122160000 -0300" stop="20261122173000 -0300" channel="BAND Alagoas">
-    <title lang="pt">Domingo no Cinema: Nunca é Tarde para Amar</title>
-    <desc lang="pt">Uma mãe se apaixona por um homem mais jovem, enquanto sua filha se apaixona pela primeira vez. A Mãe Natureza mexe com seus destinos.</desc>
+    <title lang="pt">Domingo no Cinema: Mesmo se Nada der Certo</title>
+    <desc lang="pt">Um encontro ao acaso entre um produtor musical sem rumo e uma jovem cantora e compositora, nova em Manhattan, se transforma em uma colaboração promissora entre os dois talentos.</desc>
   </programme>
   <programme start="20261122160000 -0300" stop="20261122173000 -0300" channel="BAND Maringá">
     <title lang="pt">Domingo no Cinema: Nunca é Tarde para Amar</title>
@@ -61901,7 +61888,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">O Grande Retorno</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261122164200 -0300" stop="20261122181800 -0300" channel="rede-brasil">
+  <programme start="20261122163800 -0300" stop="20261122181400 -0300" channel="rede-brasil">
     <title lang="pt">HOMEM ARANHA 1977</title>
     <category lang="pt">Filmes</category>
   </programme>
@@ -62152,16 +62139,16 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Perrengue na Band</title>
     <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.</desc>
   </programme>
-  <programme start="20261122181500 -0300" stop="20261122221500 -0300" channel="TV CORREIO - Joao Pessoa">
-    <title lang="pt">Domingo Espetacular</title>
-    <desc lang="pt">Uma revista eletrônica para a família brasileira que faz a diferença ao ir fundo nos temas que mais chamaram a atenção durante a semana.</desc>
-  </programme>
-  <programme start="20261122181800 -0300" stop="20261122184400 -0300" channel="rede-brasil">
+  <programme start="20261122181400 -0300" stop="20261122184000 -0300" channel="rede-brasil">
     <title lang="pt">A Feiticeira</title>
     <category lang="pt">Series</category>
     <rating system="ClassInd">
       <value>L</value>
     </rating>
+  </programme>
+  <programme start="20261122181500 -0300" stop="20261122221500 -0300" channel="TV CORREIO - Joao Pessoa">
+    <title lang="pt">Domingo Espetacular</title>
+    <desc lang="pt">Uma revista eletrônica para a família brasileira que faz a diferença ao ir fundo nos temas que mais chamaram a atenção durante a semana.</desc>
   </programme>
   <programme start="20261122182000 -0300" stop="20261122203000 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">Fluminense x Mirassol - Ao Vivo</title>
@@ -62235,7 +62222,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">JUCA KFOURI ENTREVISTA</title>
     <desc lang="pt">Um programa comandado pelo jornalista Juca Kfouri, que traz uma personalidade semanalmente, para discutir temas atuais, de interesse público.  Um espaço para aprofundar as ideias e análises sobre as grandes questões mundiais, nacionais e locais.</desc>
   </programme>
-  <programme start="20261122184400 -0300" stop="20261122190700 -0300" channel="rede-brasil">
+  <programme start="20261122184000 -0300" stop="20261122190300 -0300" channel="rede-brasil">
     <title lang="pt">FAMILIA DINOSSAURO TEMP 02</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -62307,7 +62294,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">A Hora Do Zap</title>
     <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
   </programme>
-  <programme start="20261122190700 -0300" stop="20261122193300 -0300" channel="rede-brasil">
+  <programme start="20261122190300 -0300" stop="20261122193000 -0300" channel="rede-brasil">
     <title lang="pt">MR BEAN</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -62395,15 +62382,15 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Para Aqui!</title>
     <desc lang="pt">PARA AQUI! é um programa que trará entretenimento e humor, além do suspense caracteristico do apresentador João Kléber. Ele traz de volta um clássico da tv aberta, o "Segredo".</desc>
   </programme>
+  <programme start="20261122193000 -0300" stop="20261122195300 -0300" channel="rede-brasil">
+    <title lang="pt">BLOSSOM | TEMP 02</title>
+    <category lang="pt">Outros</category>
+  </programme>
   <programme start="20261122193000 -0300" stop="20261122210000 -0300" channel="tvt">
     <title lang="pt">OPERA MUNDI</title>
     <sub-title lang="pt">Voto distrital misto interessa ao Brasil?</sub-title>
   </programme>
-  <programme start="20261122193300 -0300" stop="20261122195700 -0300" channel="rede-brasil">
-    <title lang="pt">BLOSSOM | TEMP 02</title>
-    <category lang="pt">Outros</category>
-  </programme>
-  <programme start="20261122195700 -0300" stop="20261122201200 -0300" channel="rede-brasil">
+  <programme start="20261122195300 -0300" stop="20261122200800 -0300" channel="rede-brasil">
     <title lang="pt">FindQuiz</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -62443,7 +62430,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Som dos Oceanos</title>
     <desc lang="pt">Som dos Oceanos é um programa que leva o público aos maiores cruzeiros do Brasil, reunindo artistas, convidados especiais e histórias inspiradoras.</desc>
   </programme>
-  <programme start="20261122201200 -0300" stop="20261122215700 -0300" channel="rede-brasil">
+  <programme start="20261122200800 -0300" stop="20261122215200 -0300" channel="rede-brasil">
     <title lang="pt">O EXTERMINADOR DO FUTURO</title>
     <category lang="pt">Filmes</category>
     <rating system="ClassInd">
@@ -62585,7 +62572,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Vizinhos Em Guerra</title>
     <desc lang="pt">A nova atração VIZINHOS EM GUERRA mergulha no universo dos conflitos vizinhais para explorar o que acontece quando o espaço individual colide com a rotina coletiva.</desc>
   </programme>
-  <programme start="20261122215700 -0300" stop="20261122225100 -0300" channel="rede-brasil">
+  <programme start="20261122215200 -0300" stop="20261122224600 -0300" channel="rede-brasil">
     <title lang="pt">JORNADA NAS ESTRELAS</title>
     <category lang="pt">Outros</category>
   </programme>
@@ -62724,9 +62711,13 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Câmera Record</title>
     <desc lang="pt">Reportagens especiais que abordam assuntos de interesse dos brasileiros e movimentam o país.</desc>
   </programme>
-  <programme start="20261122225100 -0300" stop="20261122230100 -0300" channel="rede-brasil">
+  <programme start="20261122224600 -0300" stop="20261122225600 -0300" channel="rede-brasil">
     <title lang="pt">ORA PRO NOBIS</title>
     <category lang="pt">Infomercial</category>
+  </programme>
+  <programme start="20261122225600 -0300" stop="20261122234400 -0300" channel="rede-brasil">
+    <title lang="pt">A Ilha da Fantasia</title>
+    <category lang="pt">Series</category>
   </programme>
   <programme start="20261122230000 -0300" stop="20261123000000 -0300" channel="BAND Alagoas">
     <title lang="pt">Canal Livre</title>
@@ -62770,10 +62761,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   </programme>
   <programme start="20261122230000 -0300" stop="20261122235500 -0300" channel="tvt">
     <title lang="pt">FALANDO NISSO COM CHRISTIAN DUNKER</title>
-  </programme>
-  <programme start="20261122230100 -0300" stop="20261122234900 -0300" channel="rede-brasil">
-    <title lang="pt">A Ilha da Fantasia</title>
-    <category lang="pt">Series</category>
   </programme>
   <programme start="20261122231500 -0300" stop="20261123003000 -0300" channel="RECORD - Sao Paulo">
     <title lang="pt">Esporte Record</title>
@@ -62903,8 +62890,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Domingo Maior: Tempo</title>
     <desc lang="pt">Uma família em férias descobre que a praia isolada onde relaxa faz todos envelhecerem rapidamente, comprimindo uma vida inteira em apenas um dia.</desc>
   </programme>
-  <programme start="20261122234900 -0300" stop="20261123004400 -0300" channel="rede-brasil">
-    <title lang="pt">SPA TV FANTASIA | CORRE QU A MAMÃE VEM AÍ |</title>
+  <programme start="20261122234400 -0300" stop="20261123003400 -0300" channel="rede-brasil">
+    <title lang="pt">SPA TV FANTASIA</title>
     <category lang="pt">Outros</category>
   </programme>
   <programme start="20261123000000 -0300" stop="20261123003000 -0300" channel="BAND Alagoas">
