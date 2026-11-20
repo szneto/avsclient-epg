@@ -51780,8 +51780,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Integração 5.0</title>
     <desc lang="pt">Integração 5.0 reúne negócios, inovação e empreendedorismo, com conteúdos, entrevistas e análises sobre mercado, carreiras e tendências.</desc>
   </programme>
-  <programme start="20261121180000 -0300" stop="20261125000000 -0300" channel="MEZZO HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261121180000 -0300" stop="20261121193000 -0300" channel="MEZZO HD">
+    <title lang="pt">Villa-Lobos: Floresta do Amazonas - Casa da Música, Porto</title>
+    <desc lang="pt">Orquestra Sinfônica do Porto - Casa da Música, Michael Wendeberg (maestro), Camila Mandillo (soprano), Bianca Dacosta (design visual).</desc>
   </programme>
   <programme start="20261121180000 -0300" stop="20261121183000 -0300" channel="MULTISHOW HD">
     <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
@@ -51799,9 +51800,8 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Com o PREMIERE dá jogo!</title>
     <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
   </programme>
-  <programme start="20261121180000 -0300" stop="20261121200000 -0300" channel="PREMIERE 6 HD">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!</desc>
+  <programme start="20261121180000 -0300" stop="20261125000000 -0300" channel="PREMIERE 6 HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261121180000 -0300" stop="20261121200000 -0300" channel="PREMIERE 7 HD">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
@@ -52614,6 +52614,9 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
     <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
   </programme>
+  <programme start="20261121193000 -0300" stop="20261125000000 -0300" channel="MEZZO HD">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
   <programme start="20261121193000 -0300" stop="20261121195000 -0300" channel="REDE AMAZONICA MANAUS">
     <title lang="pt">Programação Globo</title>
     <desc lang="pt">Programação Rede Globo.</desc>
@@ -52831,9 +52834,6 @@ Baiana, Formiga é uma lenda do futebol feminino e a única atleta da história 
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261121200000 -0300" stop="20261125000000 -0300" channel="PREMIERE 5 HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20261121200000 -0300" stop="20261125000000 -0300" channel="PREMIERE 6 HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261121200000 -0300" stop="20261125000000 -0300" channel="PREMIERE 7 HD">
