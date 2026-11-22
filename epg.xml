@@ -32585,7 +32585,7 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Oi, Duggee! - Duggee e o Distintivo do Sono</title>
     <desc lang="pt">Os escoteiros tiveram uma manhã exaustiva brincando. É hora de tirarem uma soneca, mas Tag não consegue dormir! Que bom que Duggee possui o distintivo do Sono.</desc>
   </programme>
-  <programme start="20261123030000 -0300" stop="20261123040000 -0300" channel="JOVEM PAN NEWS">
+  <programme start="20261123030000 -0300" stop="20261123050000 -0300" channel="JOVEM PAN NEWS">
     <title lang="pt">Isso Não É Um Talk Show - Melhores Momentos</title>
     <desc lang="pt">Entrevistas, humor, informação e conversas descontraídas com personalidades e convidados em um formato irreverente</desc>
   </programme>
@@ -33712,10 +33712,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Exorcista - O Início</title>
     <desc lang="pt">O Padre Merrin se une a uma escavação arqueológica no Quênia. O sangue de inocentes é derramado impunemente na África Ocidental e o horror apenas começou. No local onde o Mal nasceu, Merrin finalmente verá s...</desc>
   </programme>
-  <programme start="20261123040000 -0300" stop="20261123080000 -0300" channel="JOVEM PAN NEWS">
-    <title lang="pt">Programação Jovem Pan News</title>
-    <desc lang="pt">Sinopse Não Disponível.</desc>
-  </programme>
   <programme start="20261123040000 -0300" stop="20261123040500 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
     <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
@@ -34746,6 +34742,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261123050000 -0300" stop="20261123073000 -0300" channel="INOVA TV">
     <title lang="pt">Igreja Internacional da Graça</title>
     <desc lang="pt">Programa religioso.</desc>
+  </programme>
+  <programme start="20261123050000 -0300" stop="20261123070000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Jornal da Manhã - 1ª Edição</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com informação, política, economia, esporte e análise dos fatos que movimentam o dia</desc>
   </programme>
   <programme start="20261123050000 -0300" stop="20261123051000 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
@@ -37060,6 +37060,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Little Angel - Minha Pequena Estrela Dourada</title>
     <desc lang="pt">O Bebê Joãozinho e Manny competem para ser o melhor ajudante e ganham estrelas douradas da Srta. Hannah.</desc>
   </programme>
+  <programme start="20261123070000 -0300" stop="20261123100000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Jornal da Manhã - 2ª Edição</title>
+    <desc lang="pt">As principais notícias do dia, com política, economia, internacional, esporte e os fatos que são destaque no Brasil e no mundo.</desc>
+  </programme>
   <programme start="20261123070000 -0300" stop="20261123071000 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
     <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
@@ -38155,10 +38159,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261123080000 -0300" stop="20261123080500 -0300" channel="GLOOBINHO HD">
     <title lang="pt">Conta Comigo - Biscoitos De Chuva</title>
     <desc lang="pt">A turma ajuda a mãe de Max a fazer biscoitos, e ela deixa eles fazerem os seus com as sobras da massa.</desc>
-  </programme>
-  <programme start="20261123080000 -0300" stop="20261123120000 -0300" channel="JOVEM PAN NEWS">
-    <title lang="pt">Programação Jovem Pan News</title>
-    <desc lang="pt">Sinopse Não Disponível.</desc>
   </programme>
   <programme start="20261123080000 -0300" stop="20261123081000 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
@@ -40334,6 +40334,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Maldição da Múmia</title>
     <desc lang="pt">A filha de um jornalista desaparece sem deixar rastros no deserto. Oito anos depois, a família fica em choque quando a filha é devolvida. Mas o que deveria ser um reencontro alegre se transforma em um verdadeiro pesadelo.</desc>
   </programme>
+  <programme start="20261123100000 -0300" stop="20261123120000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Morning Show</title>
+    <desc lang="pt">Informação, notícias, opinião, entretenimento e bom humor para começar o dia, com os principais assuntos do Brasil e do mundo.</desc>
+  </programme>
   <programme start="20261123100000 -0300" stop="20261123100500 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
     <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
@@ -42479,9 +42483,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Igreja Internacional da Graça</title>
     <desc lang="pt">Programa religioso.</desc>
   </programme>
-  <programme start="20261123120000 -0300" stop="20261123160000 -0300" channel="JOVEM PAN NEWS">
-    <title lang="pt">Programação Jovem Pan News</title>
-    <desc lang="pt">Sinopse Não Disponível.</desc>
+  <programme start="20261123120000 -0300" stop="20261123140000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Pânico</title>
+    <desc lang="pt">Humor, entrevistas, opinião e irreverência, com convidados, personagens e os assuntos mais comentados do momento.</desc>
   </programme>
   <programme start="20261123120000 -0300" stop="20261123121000 -0300" channel="LBV">
     <title lang="pt">Mensagem da Ave, Maria!</title>
@@ -44578,6 +44582,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261123140000 -0300" stop="20261123160000 -0300" channel="INOVA TV">
     <title lang="pt">A Tarde é Sua</title>
     <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.</desc>
+  </programme>
+  <programme start="20261123140000 -0300" stop="20261123160000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Tempo Real</title>
+    <desc lang="pt">As principais notícias do momento, com informação rápida, atualização e análise dos acontecimentos que movimentam o Brasil e o mundo</desc>
   </programme>
   <programme start="20261123140000 -0300" stop="20261123141000 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
@@ -46696,9 +46704,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
   </programme>
-  <programme start="20261123160000 -0300" stop="20261123200000 -0300" channel="JOVEM PAN NEWS">
-    <title lang="pt">Programação Jovem Pan News</title>
-    <desc lang="pt">Sinopse Não Disponível.</desc>
+  <programme start="20261123160000 -0300" stop="20261123180000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Três Em Um</title>
+    <desc lang="pt">Política, economia e atualidades em um debate com informação, análise e diferentes pontos de vista sobre os principais assuntos do país.</desc>
   </programme>
   <programme start="20261123160000 -0300" stop="20261123170000 -0300" channel="LBV">
     <title lang="pt">Programa Paiva Netto</title>
@@ -48638,6 +48646,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261123180000 -0300" stop="20261123185400 -0300" channel="HISTORY 2">
     <title lang="pt">A Moeda Que Vingou - A Reinvenção Do Varejo</title>
     <desc lang="pt">A hiperinflação desorganizou a economia brasileira a ponto de muitas empresas venderem productos abaixo do preço de custo o lucro vinha da ciranda inflacionária.</desc>
+  </programme>
+  <programme start="20261123180000 -0300" stop="20261123201500 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Os Pingos Nos Is</title>
+    <desc lang="pt">Informação, opinião e análise sobre política e atualidades, com os principais acontecimentos do Brasil e do mundo.</desc>
   </programme>
   <programme start="20261123180000 -0300" stop="20261123182500 -0300" channel="LIFETIME">
     <title lang="pt">Mapa Das Estrelas - Câncer: Alexia</title>
@@ -50955,10 +50967,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Maldição da Múmia</title>
     <desc lang="pt">A filha de um jornalista desaparece sem deixar rastros no deserto. Oito anos depois, a família fica em choque quando a filha é devolvida. Mas o que deveria ser um reencontro alegre se transforma em um verdadeiro pesadelo.</desc>
   </programme>
-  <programme start="20261123200000 -0300" stop="20261124000000 -0300" channel="JOVEM PAN NEWS">
-    <title lang="pt">Programação Jovem Pan News</title>
-    <desc lang="pt">Sinopse Não Disponível.</desc>
-  </programme>
   <programme start="20261123200000 -0300" stop="20261123201000 -0300" channel="LBV">
     <title lang="pt">Momento Ecumênico de Oração</title>
     <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
@@ -51217,6 +51225,10 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Miraculous - As Aventuras De Ladybug - Kung Food</title>
     <desc lang="pt">Marinette vai com seu tio Wang para uma competição de culinária. Tudo teria corrido bem se Chloé não tivesse sabotado o prato de Wang. Humilhado, ele se torna um vilão. E agora?</desc>
   </programme>
+  <programme start="20261123201500 -0300" stop="20261123214500 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Jornal Jovem Pan</title>
+    <desc lang="pt">Resumo do dia e antecipação das notícias da manhã seguinte, com análises e um panorama amplo dos fatos.</desc>
+  </programme>
   <programme start="20261123201500 -0300" stop="20261123203500 -0300" channel="MUSIC BOX BRAZIL">
     <title lang="pt">Babilônia - Babilônia (videoclipes)</title>
     <desc lang="pt">O Babilônia é um programa de videoclipes criado para ser invadido pelo talento.</desc>
@@ -51352,9 +51364,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Design Thinking</title>
     <desc lang="pt">O documentário mostra como essa abordagem vem transformando organizações ao colocar o ser humano no centro das decisões.</desc>
   </programme>
-  <programme start="20261123203000 -0300" stop="20261124003000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação Canal UOL</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+  <programme start="20261123203000 -0300" stop="20261127000000 -0300" channel="CANAL UOL">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123203000 -0300" stop="20261123204100 -0300" channel="CARTOON HD">
     <title lang="pt">Irmão do Jorel - Liberdade Não É Bagunça</title>
@@ -51378,9 +51389,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
   </programme>
-  <programme start="20261123203000 -0300" stop="20261123220000 -0300" channel="ESPN">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+  <programme start="20261123203000 -0300" stop="20261127000000 -0300" channel="ESPN">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123203000 -0300" stop="20261123210000 -0300" channel="ESPN 4">
     <title lang="pt">Especial Libertadores: O Caminho Para A Final</title>
@@ -51430,9 +51440,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Rapidinhas da Fama</title>
     <desc lang="pt">RAPIDINHAS DA FAMA é a sua dose diária de diversão. É conteúdo rápido, leve e informativo. Um giro pelo mundo das celebridades na velocidade da internet, pra você ficar por dentro do que está bombando no fee...</desc>
   </programme>
-  <programme start="20261123203000 -0300" stop="20261123211500 -0300" channel="MARKKET HD">
-    <title lang="pt">Conexão Viagem</title>
-    <desc lang="pt">Rodrigo Possatto e Sheila Magalhães transformam o universo das viagens em um ponto de partida para explorar temas fascinantes como esporte, entretenimento, gastronomia, cultura, música e muito mais!</desc>
+  <programme start="20261123203000 -0300" stop="20261127000000 -0300" channel="MARKKET HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123203000 -0300" stop="20261123204500 -0300" channel="PLAY TV">
     <title lang="pt">História dos Games</title>
@@ -51454,8 +51463,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Quem Ama Cuida</title>
     <desc lang="pt">Felipe descobre que Mau Mau é irmão de Adriana. Elisa repreende Otoniel. Tiago avisa a Pilar que as retiradas dos sócios estão suspensas na joalheria.</desc>
   </programme>
-  <programme start="20261123203000 -0300" stop="20261127000000 -0300" channel="REDE TV! HD">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261123203000 -0300" stop="20261123213000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
   </programme>
   <programme start="20261123203000 -0300" stop="20261123210000 -0300" channel="REDE TV! Paraná">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
@@ -51570,9 +51580,8 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Horário Local RedeTv Maringá</title>
     <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261123203000 -0300" stop="20261123210000 -0300" channel="WOOHOO HD">
-    <title lang="pt">Rock, Surf e Cangurus</title>
-    <desc lang="pt">Série que aborda a cultura do surfe no Brasil e a influência que a Austrália teve na construção desta identidade.</desc>
+  <programme start="20261123203000 -0300" stop="20261127000000 -0300" channel="WOOHOO HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123203000 -0300" stop="20261127000000 -0300" channel="Xsports HD">
     <title lang="pt">Programação indisponível</title>
@@ -51916,9 +51925,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261123210000 -0300" stop="20261127000000 -0300" channel="UNIVERSAL REALITY">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261123210000 -0300" stop="20261127000000 -0300" channel="WOOHOO HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20261123210000 -0300" stop="20261123220000 -0300" channel="alesp">
     <title lang="pt">Programação Rede ALESP</title>
   </programme>
@@ -51950,9 +51956,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123211400 -0300" stop="20261127000000 -0300" channel="TLC HD">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20261123211500 -0300" stop="20261127000000 -0300" channel="MARKKET HD">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123211500 -0300" stop="20261127000000 -0300" channel="RAI INTERNATIONAL">
@@ -52037,6 +52040,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261123213000 -0300" stop="20261123224000 -0300" channel="RBS TV PORTO ALEGRE">
     <title lang="pt">Quem Ama Cuida</title>
     <desc lang="pt">Felipe descobre que Mau Mau é irmão de Adriana. Elisa repreende Otoniel. Tiago avisa a Pilar que as retiradas dos sócios estão suspensas na joalheria.</desc>
+  </programme>
+  <programme start="20261123213000 -0300" stop="20261127000000 -0300" channel="REDE TV! HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123213000 -0300" stop="20261123214000 -0300" channel="REDE TV! Paraná">
     <title lang="pt">Rapidinhas da Fama</title>
@@ -52154,6 +52160,9 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Sensacional</title>
     <desc lang="pt">Com seu jeito carismático, Daniela Albuquerque te leva em uma jornada para conhecer curiosidades do mundo e ficar por dentro da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea.</desc>
   </programme>
+  <programme start="20261123214500 -0300" stop="20261127000000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Programação indisponível</title>
+  </programme>
   <programme start="20261123214500 -0300" stop="20261123224500 -0300" channel="RECORD Manaus">
     <title lang="pt">A Grande Conquista</title>
     <desc lang="pt">A Grande Conquista mistura famosos e anônimos em uma competição na busca por um grande prêmio. O diferencial é que, desde antes da estreia até o final, o público participará ativamente do programa, tomando d...</desc>
@@ -52182,9 +52191,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123220000 -0300" stop="20261127000000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20261123220000 -0300" stop="20261127000000 -0300" channel="ESPN">
     <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261123220000 -0300" stop="20261127000000 -0300" channel="ESPN 3">
@@ -52749,9 +52755,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
     <title lang="pt">Leitura Dinâmica</title>
     <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.</desc>
   </programme>
-  <programme start="20261124000000 -0300" stop="20261127000000 -0300" channel="JOVEM PAN NEWS">
-    <title lang="pt">Programação indisponível</title>
-  </programme>
   <programme start="20261124000000 -0300" stop="20261127000000 -0300" channel="Polishop">
     <title lang="pt">Programação indisponível</title>
   </programme>
@@ -52900,9 +52903,6 @@ Os 100 anos da Billings são motivos de comemoração?</desc>
   <programme start="20261124003000 -0300" stop="20261124010000 -0300" channel="BAND Alagoas">
     <title lang="pt">Economia Pra Você</title>
     <desc lang="pt">O programa visa explicar de forma simples assuntos econômicos que afetam o país e o bolso do brasileiro.</desc>
-  </programme>
-  <programme start="20261124003000 -0300" stop="20261127000000 -0300" channel="CANAL UOL">
-    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261124003000 -0300" stop="20261124020000 -0300" channel="INOVA TV">
     <title lang="pt">Madrugada Animada</title>
